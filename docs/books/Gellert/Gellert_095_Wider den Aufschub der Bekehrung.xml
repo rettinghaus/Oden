@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"?><?xml-stylesheet type="text/xsl" href="base.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title> Gellert: Wider den Aufschub der Bekehrung</title>
+				<!--Arbeitstitel-->
+			</titleStmt>
+			<publicationStmt>
+				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
+					<rs type="person" key="G0002">C. F. Gellert</rs>.<lb/>
+					Mit allergnädigsten Freyheiten.<lb/>
+					<hi rend="spaced_out"><placeName>Leipzig</placeName>,</hi><lb/>
+					in der Weidmannischen Handlung, <date when="1757">1757</date>.</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Bach-Repertorium, Kantatendatenbank</p>
+			</projectDesc>
+		</encodingDesc>
+		<profileDesc>
+			<particDesc>
+				<listPerson>
+					<!--alphabetische Liste der Personen-->
+					<!--Aaron - A0001-->
+					<!--Abraham - A0002-->
+					<!--Adam - A0003-->
+					<!--Bach, Carl Philipp Emanuel - B0001-->
+					<!--Cramer, Johann Andreas - C0001-->
+					<!--Gellert, Christian Fürchtegott - G0002-->
+					<!--Gott - G0001-->
+					<!--Jakob - J0002-->
+					<!--Jesus Christus - J0001-->
+					<!--Levi - L0001-->
+					<!--Melchisedek - M0001-->
+					<!--Moses - M0002-->
+					<!--Petrus, Simon - P0001-->
+					<!--Samuel - S0001-->
+					<!--Simeon - S0002-->
+					<!--Sturm, Christoph Christian - S0001-->
+					<person role="priest" sex="1">
+						<persName type="reg" key="A0002">Aaron</persName>
+						<occupation>erster Priester</occupation>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="A0001">Abraham</persName>
+						<persName type="alt">Abram</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="first man" sex="1">
+						<persName type="reg" key="A0003">Adam</persName>
+						<occupation>Erster Mensch</occupation>
+					</person>
+					<person role="composer scribe" sex="1" source="Bach">
+						<persName type="reg" key="B0001"><surname>Bach</surname>, <forename>Carl
+								Philipp Emanuel</forename></persName>
+						<persName type="full"><forename>Carl Philipp Emanuel</forename>
+							<surname>Bach</surname></persName>
+						<event type="birth" when="1714-03">
+							<desc><placeName><settlement>Weimar</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Komponist</occupation>
+						<note type="bioSummary"/>
+						<idno type="GND">118505505</idno>
+						<idno type="WeGA"/>
+						<persName type="sigla" subtype="Kast"/>
+						<persName type="sigla" subtype="Blechschmidt"/>
+						<persName type="sigla" subtype="Dürr"/>
+						<persName type="sigla" subtype="Kobayashi"/>
+						<persName type="sigla" subtype="misc"/>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="C0001"><surname>Cramer</surname>, <forename>Johann
+								Andreas</forename></persName>
+						<persName type="full"><forename>Johann
+								Andreas</forename><surname>Cramer</surname></persName>
+						<event type="birth" when="1723-01-27">
+							<desc><placeName><settlement>Jöhstadt</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788-06-12">
+							<desc><placeName><settlement>Kiel</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Schriftsteller</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118973258</idno>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="G0002"><surname>Gellert</surname>,
+								<forename>Christian Fürchtegott</forename></persName>
+						<persName type="full"><forename>Christian
+								Fürchtegott</forename><surname>Gellert</surname></persName>
+						<event type="birth" when="1715-07-04">
+							<desc><placeName><settlement>Hainichen</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1769-12-13">
+							<desc><placeName><settlement>Lepzig</settlement></placeName></desc>
+						</event>
+						<occupation>Philosoph</occupation>
+						<occupation>Moralphilosoph</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118538322</idno>
+					</person>
+					<person role="god">
+						<persName type="reg" key="G0001">Gott</persName>
+						<persName type="full">JHWH</persName>
+						<occupation>Gott</occupation>
+						<idno type="GND">118556703</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="J0002">Jakob</persName>
+						<persName type="alt">Israel</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="god" sex="1">
+						<persName type="reg" key="J0001">Jesus Christus</persName>
+						<persName type="full">Jesus von Nazareth</persName>
+						<occupation>Messias</occupation>
+						<occupation>Gott</occupation>
+						<occupation>Heiland</occupation>
+						<occupation>Sohn Gottes</occupation>
+						<idno type="GND">118557513</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="L0001">Levi</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="king" sex="1">
+						<persName type="reg" key="M0001">Melchisedek</persName>
+						<occupation>alttestamentlicher König</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="M0002">Moses</persName>
+						<persName type="alt">Mose</persName>
+						<occupation>Prophet des Alten Testaments</occupation>
+					</person>
+					<person role="apostle" sex="1">
+						<persName type="reg" key="P0001">Petrus</persName>
+						<persName type="full">Simon Petrus</persName>
+						<occupation>Jünger Jesu</occupation>
+						<occupation>Apostel</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0001">Samuel</persName>
+						<occupation>alttestamentlicher Prophet</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0002">Simeon</persName>
+						<occupation>Prophet des Neuen Testaments</occupation>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="S0001"><surname>Sturm</surname>,
+								<forename>Christoph Christian</forename></persName>
+						<persName type="full"><forename>Christoph
+								Christian</forename><surname>Sturm</surname></persName>
+						<event type="birth" when="1740-01-25">
+							<desc><placeName><settlement>Augsburg</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1786-08-26">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Komponist</occupation>
+						<idno type="GND">118158651</idno>
+					</person>
+				</listPerson>
+			</particDesc>
+		</profileDesc>
+	</teiHeader>
+	<text type="lied">
+		<body>
+			<pb n="95"/>
+			<pb n="54" ed="CPEB1758"/>
+			<div type="chorale">
+				<head type="title">Wider den Aufſchub der Bekehrung.</head>
+				<lg>
+					<l>Willſt du die Buße noch, die <rs type="person" key="G0001">Gott</rs> gebeut,
+						verſchieben:</l>
+					<l>So ſchändeſt du ſein Wort, und mußt dich ſelbſt nicht lieben. </l>
+					<l>Iſt deine Beſserung nicht deiner Seele Glück?</l>
+					<l>Und wer verſchiebt ſein Heil gern einen Augenblick?</l>
+				</lg>
+				<lg>
+					<l>Allein, wie ſchwer iſts nicht, ſein eigen Herz bekämpfen,</l>
+					<l>Begierden widerſtehn, und ſeine Lüſte dämpfen?</l>
+					<l>Ja, Sünder, es iſt ſchwer; allein zu deiner Ruh</l>
+					<l>Iſt dieß der einzge Weg. Und dem entſageſt du?</l>
+				</lg>
+				<lg>
+					<l>Iſt deine Pflicht von <rs type="person" key="G0001">Gott</rs>, wie kannſt du
+						ſie vergeſsen?</l>
+					<l>Nach deinen Kräften ſelbſt hat er ſie abgemeſsen.</l>
+					<l>Was weigerſt du dich noch? Iſt <rs type="person" key="G0001">Gott</rs> denn
+						ein Tyrann,</l>
+					<l>Der mehr von mir verlangt, als ich ihm leiſten kann?</l>
+				</lg>
+				<pb n="96"/>
+				<lg>
+					<l>Sprich ſelbſt, gewinnet <rs type="person" key="G0001">Gott</rs>, wenn ich ihm
+						kindlich diene,</l>
+					<l>Und, ſeiner werth zu ſeyn, im Glauben mich erkühne?</l>
+					<l>Wenn du die Tugend übſt, die <rs type="person" key="G0001">Gott, dein
+							Herr</rs>, gebeut,</l>
+					<l>Wem dienſt du? Ringſt du nicht nach deiner Seligkeit?</l>
+				</lg>
+				<lg>
+					<l>Was weigerſt du dich noch, das Laſter zu verlaſsen?</l>
+					<l>Weil es dein Unglück iſt, befiehlt es <rs type="person" key="G0001">Gott</rs>
+						zu haſsen.</l>
+					<l>Was weigerſt du dich noch, der Tugend Freund zu ſeyn?</l>
+					<l>Weil ſie dich glücklich macht, befiehlt ſie <rs type="person" key="G0001"
+							>Gott</rs> allein.</l>
+				</lg>
+				<lg>
+					<l><rs type="person" key="G0001">Gott</rs> beut die Kraft dir an, das Gute zu
+						vollbringen.</l>
+					<l>Soll er durch Allmacht dich, ihm zu gehorchen, zwingen?</l>
+					<l>Er gab dir die Vernunft; und du verleugneſt ſie?</l>
+					<l>Er ſendet dir ſein Wort; und du gehorchſt ihm nie?</l>
+				</lg>
+				<pb n="97"/>
+				<pb n="55" ed="CPEB1758"/>
+				<lg>
+					<l>Sprich nicht: <rs type="person" key="G0001">Gott</rs> kennt mein Herz; ich
+						hab es ihm verheißen,</l>
+					<l>Mich noch dereinſt, mich bald vom Laſter loſzureißen;</l>
+					<l>Itzt iſt dieß Werk zu ſchwer. Doch dieſe Schwierigkeit,</l>
+					<l>Die heute dich erſchreckt, wächſt ſie nicht durch die Zeit?</l>
+				</lg>
+				<lg>
+					<l>Je öfter du vollbringſt, was Fleiſch und Blut befohlen,</l>
+					<l>Je ſtärker wird der Hang, die That zu wiederholen.</l>
+					<l>Scheuſt du dich heute nicht, das <rs type="person" key="G0001">Höchſten</rs>
+						Feind zu ſeyn:</l>
+					<l>Um wie viel weniger wirſt du dich morgen ſcheun!</l>
+				</lg>
+				<lg>
+					<l><anchor subtype="death_start" type="death"/>Iſt denn die Buß ein Werk von
+						wenig Augenblicken?</l>
+					<l>Kann dich kein ſchneller Tod der Welt noch heut entrücken?<anchor
+							subtype="death_end" type="death"/></l>
+					<l>Iſt ein Geſchrey zu <rs type="person" key="G0001">Gott</rs>, ein Wunſch nach
+						Beſserung,</l>
+					<l>Und Angſt und Miſsethat, die wahre Heiligung?</l>
+				</lg>
+				<pb n="98"/>
+				<lg>
+					<l><anchor subtype="death_start" type="death"/>Iſts gnug zur Seligkeit, des
+						Glückes der Erlöſten,</l>
+					<l>Wenn uns der Tod ergreift, ſich ſicher zu getröſten;</l>
+					<l>Iſt das Bekenntniß gnug, daß uns die Sünde reut:</l>
+					<l>So iſt kein leichter Werk, als deine Seligkeit.<anchor subtype="death_end"
+							type="death"/></l>
+				</lg>
+				<lg>
+					<l>Doch fordert <rs type="person" key="G0001">Gott</rs> von uns die Reinigkeit
+						der Seelen;</l>
+					<l>Iſt keine Seele rein, der Glaub und Liebe fehlen;</l>
+					<l>Iſt dieſes dein Beruf, <rs type="person" key="G0001">Gott</rs> dienen, den du
+						liebſt:</l>
+					<l>So zittre vor dir ſelbſt, wenn du dieß Werk verſchiebſt.</l>
+				</lg>
+				<lg>
+					<l> Der Glaube heiligt dich. Iſt dieſer dein <choice>
+							<orig>Geſchäffte</orig>
+							<reg>Geſchäfte</reg>
+						</choice> ? </l>
+					<l>Nein, Menſch! Und du verſchmähſt des Geiſtes <rs type="person" key="G0001"
+							>Gottes</rs> Kräfte?</l>
+					<l>Erſchreckt dich nicht ſein Wort? Giebt in verkehrten Sinn</l>
+					<l>Den Sünder, der beharrt, nicht <rs type="person" key="G0001">Gott</rs>
+						zuletzt dahin?</l>
+				</lg>
+				<pb n="99"/>
+				<lg>
+					<l>Hat <rs type="person" key="J0001">Chriſtus</rs> uns erlöſt, damit wir Sünder
+						bleiben,</l>
+					<l>Und, ſicher durch ſein Blut, das Laſter höher treiben?</l>
+					<l>Gebeut uns <rs type="person" key="J0001">Chriſti</rs> Wort nicht Tugend,
+						Recht und Pflicht:</l>
+					<l>So iſt es nicht von <rs type="person" key="G0001">Gott</rs>. <rs
+							type="person" key="G0001">Gott</rs> widerſpricht ſich nicht.</l>
+				</lg>
+				<lg>
+					<l>Noch heute, weil du lebſt, und ſeine Stimme höreſt,</l>
+					<l>Noch heute ſchicke dich, daß du vom Böſen kehreſt.</l>
+					<l>Begegne deinem <rs type="person" key="G0001">Gott</rs>, willſt du zu deiner
+						Pein</l>
+					<l>Dein hier versäumtes Glück nicht ewig noch bereun.</l>
+				</lg>
+				<lg>
+					<l>Entſchließe dich beherzt, dich ſelber zu beſiegen;</l>
+					<l>Der Sieg, ſo ſchwer er iſt, bringt göttliches Vergnügen.</l>
+					<l>Was zagſt du? Geht er gleich im Anfang langſam fort;</l>
+					<l>Sey wacker! <rs type="person" key="G0001">Gott</rs> iſt nah, und ſtärkt dich
+						durch ſein Wort.</l>
+				</lg>
+				<pb n="100"/>
+				<lg>
+					<l>Ruf ihn in Demuth an; er tilget deine Sünden.</l>
+					<l>Und läßt dich ſein Geſetz erſt ihren Fluch empfinden:</l>
+					<l>So widerſtreb ihm nicht; denn <rs type="person" key="G0001">Gottes</rs>
+						Traurigkeit</l>
+					<l>Wirkt eine Reu in dir, die niemals dich gereut.</l>
+				</lg>
+				<lg>
+					<l>So süß ein Laſter iſt, ſo giebts doch keinen Frieden.</l>
+					<l>Der Tugend nur allein hat <rs type="person" key="G0001">Gott</rs> dieß Glück
+						beſchieden.</l>
+					<l>Ein Menſch, der <rs type="person" key="G0001">Gott</rs> gehorcht, erwählt das
+						beſte Theil;</l>
+					<l>Ein Menſch, der <rs type="person" key="G0001">Gott</rs> verläßt, verläßt ſein
+						eignes Heil.</l>
+				</lg>
+				<lg>
+					<l>Die Buße führt dich nicht in eine Welt voll Leiden;</l>
+					<l><rs type="person" key="G0001">Gott</rs> kennt und liebt dein Glück; ſie führt
+						zu deinen Freuden,</l>
+					<l>Macht deine Seele rein, füllt dich mit Zuverſicht,</l>
+					<l>Giebt Weiſheit und Verſtand, und Muth zu deiner Pflicht.</l>
+				</lg>
+				<pb n="101"/>
+				<lg>
+					<l>Sprich ſelbſt: Iſt dieß kein Glück, mit ruhigem Gewiſsen,</l>
+					<l>Die Güter dieſer Welt, des Lebens Glück genießen,</l>
+					<l>Und mäßig und gerecht in dem Genuſse ſeyn,</l>
+					<l>Und ſich der Seligkeit ſchon hier im Glauben freun?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

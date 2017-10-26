@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"?><?xml-stylesheet type="text/xsl" href="base.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>
+					Nachahmung der göttlichen Liebe
+				</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Sächsische Akademie der Wissenschaften zu Leipzig
+				</authority>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl style="text-align: center" type="book" xml:id="VD18:11043652-002">
+					<lb />
+					Zwölf geistliche Oden und Lieder
+					<lb />
+					als ein Anhang
+					<lb />
+					zu Gellerts geistlichen Oden und Liedern
+					<lb />
+					mit Melodien
+					<lb />
+					von
+					<lb />
+					Carl Philipp Emanuel Bach.
+					<lb />
+					Zweyte Auflage.
+					<lb />
+					Berlin, gedruckt und zu finden bey George Ludewig Winter
+					<date when="1771">1771</date>
+					.
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Bach-Repertorium, Kantatendatenbank</p>
+			</projectDesc>
+		</encodingDesc>
+		<revisionDesc>
+			<change when="2013-03-11" who="RL">encoding started</change>
+		</revisionDesc>
+	</teiHeader>
+
+	<text type="lied">
+		<body>
+			<pb n="2" ed="CPEB1771" />
+			<div type="chorale">
+				<head type="title">Nachahmung der göttlichen Liebe.</head>
+				<lg>
+					<l>Urquell der Liebe! Ew'ge Güte!</l>
+					<l>Zu dir erhebt ſich mein Gemüthe,</l>
+					<l>Das deiner Wahrheit ſtrahl gerührt,</l>
+					<l>ſey ewiglich von uns geprieſen!</l>
+					<l><anchor subtype="resurrection_start" type="resurrection"/>Daß du uns gnädig unterwieſen,</l>
+					<l>Den Weg, der uns zum Leben führt.<anchor subtype="resurrection_end" type="resurrection"/></l>
+					</lg>
+					<lg>
+					<l>Du biſt die Güte ſelbſt. Als Kinder</l>
+					<l>Von dir, wilſt du, daß wir nicht minder</l>
+					<l>In unſrer Art die Güte ſeyn.</l>
+					<l>Du ſchaffeſt um dich ſeeligkeiten,</l>
+					<l>Wir ſollen auch Glückſeeligkeiten</l>
+					<l>Um uns auf unſre Brüder ſtreun.</l>
+					</lg><lg>
+					<l>Auf dein allmächtig Wort: Es werde!</l>
+					<l>Entſtund der Himmel und die Erde.</l>
+					<l>Von deiner Güte ſind ſie voll.</l>
+					<l>Du gabſt der ſonne das Geſchäfte,</l>
+					<l>Daß ſie durch deines Feuers Kräfte</l>
+					<l>Uns leuchten und erwärmen ſoll.</l>
+					</lg>
+					<lg>
+					<l>Der Himmel muß der Erde dienen,</l>
+					<l>Die Erde für die Thiere grünen,</l>
+					<l>Die Thiere ſind zu unſerm Nutz.</l>
+					<l>Um deinen Endzweck zu erfüllen,</l>
+					<l>Iſt eines um des andern willen,</l>
+					<l>Das ſtärkre iſt des ſchwächern ſchutz.</l>
+					</lg><lg>
+					<l>Noch mehr bemüh't zu unſerm Glücke,</l>
+					<l>Haſt du ein würdiger Geſchicke</l>
+					<l>Dem Geiſterorden zugedacht.</l>
+					<l>Du gabſt uns höh're Fähigkeiten,</l>
+					<l>Uns zu dem höh'ren Glück zu leiten;</l>
+					<l>Das uns die Tugend möglich macht.</l>
+					</lg><lg>
+					<l>Dadurch ſoll unſre Wohlfahrt blühen,</l>
+					<l>Daß wir freywillig uns bemühen,</l>
+					<l>Der eine für des andern Wohl.</l>
+					<l>Du willſt, daß jeder nicht ſich leben,</l>
+					<l>Nein! Durch ein nützliches Beſtreben</l>
+					<l>Der Gott des andern werden ſoll.</l>
+					</lg>
+					<lg>
+					<l>Du ſenkteſt ſelbſt den Trieb zur Güte</l>
+					<l>Tief in das menſchliche Gemüthe,</l>
+					<l>Und machteſt Wohltun uns zur Pflicht.</l>
+					<l>Wer nur für ſich zu leben wählet,</l>
+					<l>Der hat das ächte Glück verfehlet,</l>
+					<l>und findt die wahre Ruhe nicht.</l>
+					</lg>
+					<lg>
+					<l>Dich ſelbſt beſeelen nur die Triebe</l>
+					<l>Der wahren Huld. Du ſelbſt biſt Liebe,</l>
+					<l>Dir ſelbſt iſt Wohlthun ſeligkeit.</l>
+					<l>Wer ſich wie du, dazu bemühet,</l>
+					<l>Daß durch ihn andrer Wohlfahrt blühet,</l>
+					<l>Der findet die Zufriedenheit.</l>
+					</lg>
+					<lg>
+					<l>Dein ſohn, als ihn die Menſchenliebe</l>
+					<l>Den Himmel zu verlaſsen triebe,</l>
+					<l>Als er zu uns auf Erden kam,</l>
+						<l><anchor subtype="death_start" type="death"/>Als er entſagte allen Freuden</l>
+					<l>Und Noth und Elend, ſchmach und Leiden,</l>
+						<l>Uns zu erlöſen, <choice><sic>übermahm.</sic><corr>übernahm.</corr></choice><anchor subtype="death_end" type="death"/></l>
+					</lg>
+					<lg>
+					<l>Wurd er ein Beyſpiel deiner Güte,</l>
+					<l>Von der ſein göttliches Gemüthe</l>
+					<l>In jeder Handlung Proben gab.</l>
+						<l><anchor subtype="death_start" type="death"/>ſein, nur der Huld geweyhtes Leben</l>
+					<l>Am Kreuze für uns hinzugeben,</l>
+						<l>Ließ ſich der Menſchenfreund herab.<anchor subtype="death_end" type="death"/></l>
+					</lg><lg>
+					<l>Er iſt das Haupt, wir ſind die Glieder!</l>
+					<l>O! ſollen wir für unſre Brüder</l>
+					<l>Nicht thun, was er für uns gethan?</l>
+					<l>Hinfort ſey's unſer ganz Beſtreben:</l>
+					<l>Dem nur, der für uns ſtarb, zu leben.</l>
+					<l>Wir nehmen ihn zum Führer an.</l>
+					</lg>
+					<lg>
+					<l>Wir ſind für andre nur gebohren.</l>
+					<l>Uns ſeye jeder Tag verlohren,</l>
+					<l>Wo wir für andre nichts gethan.</l>
+					<l>Das ſey allein, was wir begehren,</l>
+					<l>Was andrer Wohlergehn vermehren,</l>
+					<l>Was unſerm Nächſten nutzen kann.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

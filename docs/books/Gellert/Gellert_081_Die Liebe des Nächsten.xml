@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"?><?xml-stylesheet type="text/xsl" href="base.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title> Gellert: Die Liebe des Nächsten</title>
+				<!--Arbeitstitel-->
+			</titleStmt>
+			<publicationStmt>
+				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
+					<rs type="person" key="G0002">C. F. Gellert</rs>.<lb/>
+					Mit allergnädigsten Freyheiten.<lb/>
+					<hi rend="spaced_out"><placeName>Leipzig</placeName>,</hi><lb/>
+					in der Weidmannischen Handlung, <date when="1757">1757</date>.</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Bach-Repertorium, Kantatendatenbank</p>
+			</projectDesc>
+		</encodingDesc>
+		<profileDesc>
+			<particDesc>
+				<listPerson>
+					<!--alphabetische Liste der Personen-->
+					<!--Aaron - A0001-->
+					<!--Abraham - A0002-->
+					<!--Adam - A0003-->
+					<!--Bach, Carl Philipp Emanuel - B0001-->
+					<!--Cramer, Johann Andreas - C0001-->
+					<!--Gellert, Christian Fürchtegott - G0002-->
+					<!--Gott - G0001-->
+					<!--Jakob - J0002-->
+					<!--Jesus Christus - J0001-->
+					<!--Levi - L0001-->
+					<!--Melchisedek - M0001-->
+					<!--Moses - M0002-->
+					<!--Petrus, Simon - P0001-->
+					<!--Samuel - S0001-->
+					<!--Simeon - S0002-->
+					<!--Sturm, Christoph Christian - S0001-->
+					<person role="priest" sex="1">
+						<persName type="reg" key="A0002">Aaron</persName>
+						<occupation>erster Priester</occupation>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="A0001">Abraham</persName>
+						<persName type="alt">Abram</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="first man" sex="1">
+						<persName type="reg" key="A0003">Adam</persName>
+						<occupation>Erster Mensch</occupation>
+					</person>
+					<person role="composer scribe" sex="1" source="Bach">
+						<persName type="reg" key="B0001"><surname>Bach</surname>, <forename>Carl
+								Philipp Emanuel</forename></persName>
+						<persName type="full"><forename>Carl Philipp Emanuel</forename>
+							<surname>Bach</surname></persName>
+						<event type="birth" when="1714-03">
+							<desc><placeName><settlement>Weimar</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Komponist</occupation>
+						<note type="bioSummary"/>
+						<idno type="GND">118505505</idno>
+						<idno type="WeGA"/>
+						<persName type="sigla" subtype="Kast"/>
+						<persName type="sigla" subtype="Blechschmidt"/>
+						<persName type="sigla" subtype="Dürr"/>
+						<persName type="sigla" subtype="Kobayashi"/>
+						<persName type="sigla" subtype="misc"/>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="C0001"><surname>Cramer</surname>, <forename>Johann
+								Andreas</forename></persName>
+						<persName type="full"><forename>Johann
+								Andreas</forename><surname>Cramer</surname></persName>
+						<event type="birth" when="1723-01-27">
+							<desc><placeName><settlement>Jöhstadt</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788-06-12">
+							<desc><placeName><settlement>Kiel</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Schriftsteller</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118973258</idno>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="G0002"><surname>Gellert</surname>,
+								<forename>Christian Fürchtegott</forename></persName>
+						<persName type="full"><forename>Christian
+								Fürchtegott</forename><surname>Gellert</surname></persName>
+						<event type="birth" when="1715-07-04">
+							<desc><placeName><settlement>Hainichen</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1769-12-13">
+							<desc><placeName><settlement>Lepzig</settlement></placeName></desc>
+						</event>
+						<occupation>Philosoph</occupation>
+						<occupation>Moralphilosoph</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118538322</idno>
+					</person>
+					<person role="god">
+						<persName type="reg" key="G0001">Gott</persName>
+						<persName type="full">JHWH</persName>
+						<occupation>Gott</occupation>
+						<idno type="GND">118556703</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="J0002">Jakob</persName>
+						<persName type="alt">Israel</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="god" sex="1">
+						<persName type="reg" key="J0001">Jesus Christus</persName>
+						<persName type="full">Jesus von Nazareth</persName>
+						<occupation>Messias</occupation>
+						<occupation>Gott</occupation>
+						<occupation>Heiland</occupation>
+						<occupation>Sohn Gottes</occupation>
+						<idno type="GND">118557513</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="L0001">Levi</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="king" sex="1">
+						<persName type="reg" key="M0001">Melchisedek</persName>
+						<occupation>alttestamentlicher König</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="M0002">Moses</persName>
+						<persName type="alt">Mose</persName>
+						<occupation>Prophet des Alten Testaments</occupation>
+					</person>
+					<person role="apostle" sex="1">
+						<persName type="reg" key="P0001">Petrus</persName>
+						<persName type="full">Simon Petrus</persName>
+						<occupation>Jünger Jesu</occupation>
+						<occupation>Apostel</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0001">Samuel</persName>
+						<occupation>alttestamentlicher Prophet</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0002">Simeon</persName>
+						<occupation>Prophet des Neuen Testaments</occupation>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="S0001"><surname>Sturm</surname>,
+								<forename>Christoph Christian</forename></persName>
+						<persName type="full"><forename>Christoph
+								Christian</forename><surname>Sturm</surname></persName>
+						<event type="birth" when="1740-01-25">
+							<desc><placeName><settlement>Augsburg</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1786-08-26">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Komponist</occupation>
+						<idno type="GND">118158651</idno>
+					</person>
+				</listPerson>
+			</particDesc>
+		</profileDesc>
+	</teiHeader>
+	<text type="lied">
+		<body>
+			<pb n="81"/>
+			<pb n="20" ed="CPEB1758"/>
+			<div type="chorale">
+				<head type="title">Die Liebe des Nächſten.</head>
+				<lg>
+					<l>So jemand ſpricht: Ich liebe <rs type="person" key="G0001">Gott</rs>!</l>
+					<l>Und haßt doch ſeine Brüder,</l>
+					<l>Der treibt mit <rs type="person" key="G0001">Gottes</rs> Wahrheit Spott,</l>
+					<l>Und reißt ſie ganz danieder.</l>
+					<l><rs type="person" key="G0001">Gott</rs> iſt die Lieb und will, daß ich</l>
+					<l>Den Nächſten liebe, gleich als mich.</l>
+				</lg>
+				<lg>
+					<l>Wer dieſer Erden Güter hat,</l>
+					<l>Und ſieht die Brüder leiden,</l>
+					<l>Und macht den Hungrigen nicht ſatt,</l>
+					<l>Läßt Nackende nicht kleiden;</l>
+					<l>Der iſt ein Feind der erſten Pflicht,</l>
+					<l>Und hat die Liebe <rs type="person" key="G0001">Gottes</rs> nicht.</l>
+				</lg>
+				<lg>
+					<l>Wer ſeines Nächſten Ehre ſchmäht,</l>
+					<l>Und gern ſie ſchmähen höret,</l>
+					<l>Sich freut, wenn ſich ſein Feind vergeht,</l>
+					<l>Und nichts zum Beſten kehret;</l>
+					<l>Nicht dem Verläumder widerſpricht,</l>
+					<l>Der liebt auch ſeinen Bruder nicht.</l>
+				</lg>
+				<lg>
+					<l>Wer zwar mit Rath, mit Troſt und Schutz</l>
+					<l>Den Nächſten unterſtützet,</l>
+					<l>Doch nur aus Stolz, aus Eigennutz,</l>
+					<l>Aus Weichlichkeit ihm nützet;</l>
+					<l>Nicht aus Gehorſam, nicht aus Pflicht;</l>
+					<l>Der liebt auch ſeinen Nächſten nicht.</l>
+				</lg>
+				<pb n="82"/>
+				<lg>
+					<l>Wer harret, bis ihn anzuflehn,</l>
+					<l>Ein Dürftger erſt erſcheinet,</l>
+					<l>Nicht eilt, dem Frommen beizuſtehn,</l>
+					<l>Der im Verborgnen weinet;</l>
+					<l>Nicht gütig forſcht, obs ihm gebricht;</l>
+					<l>Der liebt auch ſeinen Nächſten nicht.</l>
+				</lg>
+				<lg>
+					<l>Wer andre, wenn er ſie beſchirmt,</l>
+					<l>Mit Härt und Vorwurf quälet,</l>
+					<l>Und ohne Nachſicht ſtraft und ſtürmt,</l>
+					<l>So bald ſein Nächſter fehlet;</l>
+					<l>Wie bleibt bey ſeinem Ungeſtüm</l>
+					<l>Die Liebe <rs type="person" key="G0001">Gottes</rs> wohl in ihm?</l>
+				</lg>
+				<lg>
+					<l>Wer für der Armen Heil und Zucht</l>
+					<l>Mit Rath und That nicht wachet,</l>
+					<l>Dem Uebel nicht zu wehren ſucht,</l>
+					<l>Das oft ſie dürftig machet;</l>
+					<l>Nur ſorglos ihnen Gaben giebt,</l>
+					<l>Der hat ſie wenig noch geliebt.</l>
+				</lg>
+				<lg>
+					<l>Wahr iſt es, du vermagſt es nicht,</l>
+					<l>Stets durch die That zu lieben.</l>
+					<l>Doch biſt du nur geneigt, die Pflicht</l>
+					<l>Getreulich auſzuüben,</l>
+					<l>Und wünſcheſt dir die Kraft dazu</l>
+					<l>Und ſorgſt dafür: ſo liebeſt du.</l>
+				</lg>
+				<pb n="83"/>
+				<lg>
+					<l>Ermattet dieſer Trieb in dir:</l>
+					<l>So ſuch ihn zu beleben.</l>
+					<l>Sprich oft: <rs type="person" key="G0001">Gott</rs> iſt die Lieb, und mir</l>
+					<l>Hat er ſein Bild gegeben.</l>
+					<l>Denk oft: <rs type="person" key="G0001">Gott</rs>, was ich bin, iſt dein;</l>
+					<l>Sollt ich, gleich dir, nicht gütig ſeyn?</l>
+				</lg>
+				<lg>
+					<l>Wir haben einen <rs type="person" key="G0001">Gott</rs> und <rs type="person"
+							key="G0001">Herrn</rs>,</l>
+					<l>ſind eines Leibes Glieder;</l>
+					<l>Drum diene deinem Nächſten gern;</l>
+					<l>Denn wir ſind alle Brüder.</l>
+					<l><rs type="person" key="G0001">Gott</rs> ſchuf die Welt nicht bloß für
+						mich;</l>
+					<l>Mein Nächſter iſt ſein Kind, wie ich.</l>
+				</lg>
+				<lg>
+					<l>Ein Heil iſt unſer aller Gut.</l>
+					<l>Ich ſollte Brüder haſsen,</l>
+					<l>Die Gott durch ſeines Sohnes Blut</l>
+					<l>So hoch erkaufen laſsen?</l>
+					<l>Daß <rs type="person" key="G0001">Gott</rs> mich ſchuf und mich versühnt,</l>
+					<l>Hab ich dieß mehr, als ſie, verdient?</l>
+				</lg>
+				<lg>
+					<l>Du ſchenkſt mir täglich ſo viel Schuld,</l>
+					<l>Du <rs type="person" key="G0001">Herr</rs> von meinen Tagen!</l>
+					<l>Ich aber ſollte nicht Geduld</l>
+					<l>Mit meinen Brüdern tragen?</l>
+					<l>Dem nicht verzeihn, dem du vergibſt,</l>
+					<l>Und den nicht lieben, den du liebſt?</l>
+				</lg>
+				<pb n="84"/>
+				<lg>
+					<l>Was ich den Frommen hier gethan,</l>
+					<l>Dem Kleinſten auch von dieſen,</l>
+					<l>Das ſieht Er, mein Erlöſer, an,</l>
+					<l>Als hätt ichs ihm erwieſen.</l>
+					<l>Und ich, ich ſollt ein Menſch noch ſeyn,</l>
+					<l>und <rs type="person" key="G0001">Gott</rs> in Brüdern nicht erfreun?</l>
+				</lg>
+				<lg>
+					<l>Ein unbarmherziges Gericht</l>
+					<l>Wird über den ergehen,</l>
+					<l>Der nicht barmherzig iſt, der nicht</l>
+					<l> Die rettet, die ihn <choice>
+							<orig>flehen.</orig>
+							<reg>flehen,</reg>
+						</choice>
+					</l>
+					<l>Drum gieb mir, <rs type="person" key="G0001">Gott</rs>, durch deinen
+						Geiſt</l>
+					<l>Ein Herz, das dich durch Liebe preiſt.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

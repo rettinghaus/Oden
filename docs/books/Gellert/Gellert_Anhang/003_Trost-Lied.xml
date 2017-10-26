@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"?><?xml-stylesheet type="text/xsl" href="base.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title> Trost-Lied </title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Sächsische Akademie der Wissenschaften zu Leipzig</authority>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl style="text-align: center" type="book" xml:id="VD18:11043652-002">
+					<lb/> Zwölf geistliche Oden und Lieder<lb/> als ein Anhang<lb/> zu Gellerts
+					geistlichen Oden und Liedern<lb/> mit Melodien<lb/> von<lb/> Carl Philipp
+					Emanuel Bach. <lb/> Zweyte Auflage.<lb/> Berlin, gedruckt und zu finden bey
+					George Ludewig Winter<date when="1771">1771</date>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Bach-Repertorium, Kantatendatenbank</p>
+			</projectDesc>
+		</encodingDesc>
+		<revisionDesc>
+			<change when="2013-03-11" who="RL">encoding started</change>
+		</revisionDesc>
+	</teiHeader>
+	<text type="lied">
+		<body>
+			<pb n="3" ed="CPEB1771"/>
+			<div type="chorale">
+
+				<head type="title">Troſt-Lied.</head>
+				<lg>
+					<l>Eile, Herr! mein Herz zu ſtärken,</l>
+					<l>Mache meine ſeele groß,</l>
+					<l>Und in allen meinen Werken,</l>
+					<l>Reiß mich von der Kleinmuth los.</l>
+					<l>Reiche, wenn mich ſorgen kränken,</l>
+					<l>Gott! mir deine Vaterhand,</l>
+					<l>Mache durch vernünftig Denken</l>
+					<l>Mich mit dir, und mir, bekannt.</l>
+				</lg>
+				<lg>
+					<l>Frey von ängſtlichen Gedanken,</l>
+					<l>Will ich deiner Güte traun,</l>
+					<l>Und, wenn alle Freunde wanken,</l>
+					<l>Gott! auf deine Vorſicht baun.</l>
+					<l>ſtandhaft will ich mich bequemen,</l>
+					<l>Alles Elend dieſer Welt,</l>
+					<l>Als ein Erbtheil anzunehmen,</l>
+					<l>Das auf meine Menſchheit fällt.</l>
+				</lg>
+				<lg>
+					<l>ſind mir ſchätze nicht beſchieden,</l>
+					<l>Mir, mein Gott! iſt alles gleich,</l>
+					<l>Mache du mich nur zufrieden,</l>
+					<l>Herr! ſo bin ich mehr als reich.</l>
+					<l>ſchluckt nicht ſeinen Leckerbiſſen</l>
+					<l>Mancher Groſſer zitternd ein?</l>
+					<l>Laß ein ruhiges Gewiſſen</l>
+					<l>Meiner ſpeiſe Würze ſein.</l>
+				</lg>
+				<lg>
+					<l>Weit vom Uebermuth und Neide</l>
+					<l>Halt, Herr, meinen ſinn entfernt,</l>
+					<l>Weil er dieſe Laſter beyde</l>
+					<l>Leicht zu ſeiner Marter lernt.</l>
+					<l>Leite mich zur wahren Ehre,</l>
+					<l>Die den ſchönſten Vortheil zollt,</l>
+					<l>Wenn ich durch die Taten lehre,</l>
+					<l>Klugheit habe ſie gewollt.</l>
+				</lg>
+				<lg>
+					<l><anchor subtype="death_start" type="death"/>Hilf, daß mirs auch da
+						gelinge,</l>
+					<l>Wenn, O! ſchweres Wort! der Tod,</l>
+					<l>Als das ſchrecklichſte der Dinge,</l>
+					<l>Mir mit der Verweſung droht!<anchor subtype="death_end" type="death"/></l>
+					<l><anchor subtype="resurrection_start" type="resurrection"/>Gott! bey dieſer
+						groſſen Handlung,</l>
+					<l>Falle ja der Troſt mir bey:</l>
+					<l>Daß mein Tod nur die Verwandlung,</l>
+					<l>Aber nicht mein Ende ſey.<anchor subtype="resurrection_end"
+							type="resurrection"/></l>
+
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

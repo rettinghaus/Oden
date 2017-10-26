@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"?><?xml-stylesheet type="text/xsl" href="base.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title> Sturm I: Gottes Allgegenwart</title>
+				<!--Arbeitstitel-->
+			</titleStmt>
+			<publicationStmt>
+				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					Herrn <rs type="person" key="S0001">Christoph Christian Sturms</rs>, <lb/>
+					Hauptpastors an der Hauptkirche St. Petri und Scholaren in <placeName
+						type="workplace">Hamburg</placeName>, <lb/> geistliche Gesänge<lb/>mit<lb/>
+					Melodien zum Singen bey dem Claviere<lb/>vom<lb/>
+					Herrn Kapellmeister<rs type="person" key="B0001">Carl Philipp Emanuel Bach</rs>,<lb/>
+					Musikdirektor in <placeName type="workplace">Hamburg</placeName><lb/>
+					<pubPlace>Hamburg</pubPlace>,
+					<lb/>bey <persName role="publisher">Johann Henrich Herold</persName>, <date when="1780">1780</date>.</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Bach-Repertorium, Kantatendatenbank</p>
+			</projectDesc>
+		</encodingDesc>
+		<profileDesc>
+			<particDesc>
+				<listPerson>
+					<!--alphabetische Liste der Personen-->
+					<!--Aaron - A0001-->
+					<!--Abraham - A0002-->
+					<!--Adam - A0003-->
+					<!--Bach, Carl Philipp Emanuel - B0001-->
+					<!--Cramer, Johann Andreas - C0001-->
+					<!--Gellert, Christian Fürchtegott - G0002-->
+					<!--Gott - G0001-->
+					<!--Jakob - J0002-->
+					<!--Jesus Christus - J0001-->
+					<!--Levi - L0001-->
+					<!--Melchisedek - M0001-->
+					<!--Moses - M0002-->
+					<!--Petrus, Simon - P0001-->
+					<!--Samuel - S0001-->
+					<!--Simeon - S0002-->
+					<!--Sturm, Christoph Christian - S0001-->
+					<person role="priest" sex="1">
+						<persName type="reg" key="A0002">Aaron</persName>
+						<occupation>erster Priester</occupation>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="A0001">Abraham</persName>
+						<persName type="alt">Abram</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="first man" sex="1">
+						<persName type="reg" key="A0003">Adam</persName>
+						<occupation>Erster Mensch</occupation>
+					</person>
+					<person role="composer scribe" sex="1" source="Bach">
+						<persName type="reg" key="B0001"><surname>Bach</surname>, <forename>Carl
+								Philipp Emanuel</forename></persName>
+						<persName type="full"><forename>Carl Philipp Emanuel</forename>
+							<surname>Bach</surname></persName>
+						<event type="birth" when="1714-03">
+							<desc><placeName><settlement>Weimar</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Komponist</occupation>
+						<note type="bioSummary"/>
+						<idno type="GND">118505505</idno>
+						<idno type="WeGA"/>
+						<persName type="sigla" subtype="Kast"/>
+						<persName type="sigla" subtype="Blechschmidt"/>
+						<persName type="sigla" subtype="Dürr"/>
+						<persName type="sigla" subtype="Kobayashi"/>
+						<persName type="sigla" subtype="misc"/>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="C0001"><surname>Cramer</surname>, <forename>Johann
+								Andreas</forename></persName>
+						<persName type="full"><forename>Johann
+								Andreas</forename><surname>Cramer</surname></persName>
+						<event type="birth" when="1723-01-27">
+							<desc><placeName><settlement>Jöhstadt</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788-06-12">
+							<desc><placeName><settlement>Kiel</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Schriftsteller</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118973258</idno>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="G0002"><surname>Gellert</surname>,
+								<forename>Christian Fürchtegott</forename></persName>
+						<persName type="full"><forename>Christian
+								Fürchtegott</forename><surname>Gellert</surname></persName>
+						<event type="birth" when="1715-07-04">
+							<desc><placeName><settlement>Hainichen</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1769-12-13">
+							<desc><placeName><settlement>Lepzig</settlement></placeName></desc>
+						</event>
+						<occupation>Philosoph</occupation>
+						<occupation>Moralphilosoph</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118538322</idno>
+					</person>
+					<person role="god">
+						<persName type="reg" key="G0001">Gott</persName>
+						<persName type="full">JHWH</persName>
+						<occupation>Gott</occupation>
+						<idno type="GND">118556703</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="J0002">Jakob</persName>
+						<persName type="alt">Israel</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="god" sex="1">
+						<persName type="reg" key="J0001">Jesus Christus</persName>
+						<persName type="full">Jesus von Nazareth</persName>
+						<occupation>Messias</occupation>
+						<occupation>Gott</occupation>
+						<occupation>Heiland</occupation>
+						<occupation>Sohn Gottes</occupation>
+						<idno type="GND">118557513</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="L0001">Levi</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="king" sex="1">
+						<persName type="reg" key="M0001">Melchisedek</persName>
+						<occupation>alttestamentlicher König</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="M0002">Moses</persName>
+						<persName type="alt">Mose</persName>
+						<occupation>Prophet des Alten Testaments</occupation>
+					</person>
+					<person role="apostle" sex="1">
+						<persName type="reg" key="P0001">Petrus</persName>
+						<persName type="full">Simon Petrus</persName>
+						<occupation>Jünger Jesu</occupation>
+						<occupation>Apostel</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0001">Samuel</persName>
+						<occupation>alttestamentlicher Prophet</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0002">Simeon</persName>
+						<occupation>Prophet des Neuen Testaments</occupation>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="S0001"><surname>Sturm</surname>,
+								<forename>Christoph Christian</forename></persName>
+						<persName type="full"><forename>Christoph
+								Christian</forename><surname>Sturm</surname></persName>
+						<event type="birth" when="1740-01-25">
+							<desc><placeName><settlement>Augsburg</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1786-08-26">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Komponist</occupation>
+						<idno type="GND">118158651</idno>
+					</person>
+				</listPerson>
+			</particDesc>
+		</profileDesc>
+		<revisionDesc>
+			<change when="2014-02-21" who="RL">encoding started</change>
+		</revisionDesc>
+	</teiHeader>
+	<text type="lied">
+		<body>
+			<pb n="27" ed="CPEB1780"/>
+			<div type="chorale">
+				<head type="title">Gottes Allgegenwart.</head>
+				<lg>
+					<l>Nie biſt du, <rs type="person" key="G0001">Höchſter</rs>, von uns fern:</l>
+					<l>Du wirkſt an allen Enden.</l>
+					<l>Wo ich nur bin, <rs type="person" key="G0001">Herr</rs> aller Herrn,</l>
+					<l>Bin ich in deinen Händen.</l>
+					<l>Durch dich nur leb und athme ich,</l>
+					<l>Denn deine Rechte ſchützet mich.</l>
+				</lg>
+				<lg>
+					<l>Du <choice>
+							<sic>weißſt,</sic>
+							<corr>weißt,</corr>
+						</choice>was ich gedenke: du,</l>
+					<l>Du prüfeſt meine Seele.</l>
+					<l>Du ſiehſt es, wenn ich Gutes thu:</l>
+					<l>Du ſiehſt es, wenn ich fehle.</l>
+					<l>Nichts, nichts kann deinem Aug entfliehn,</l>
+					<l>Nichts deinen Händen mich entziehn.</l>
+				</lg>
+				<lg>
+					<l>Wenn ich in ſtiller Einſamkeit</l>
+					<l>Mein Herz an dich ergebe,</l>
+					<l>Und fern von Welt und Eitelkeit</l>
+					<l>Den Geiſt zu dir erhebe,</l>
+					<l>So merkſt du gnädig auf mein Flehn</l>
+					<l>Und läßt mich Troſt und Freude ſehn.</l>
+				</lg>
+				<lg>
+					<l>Du merkſt es, wenn des Herzens Rath</l>
+					<l>Verkehrte Wege wählet:</l>
+					<l>Und bleibt auch eine böſe That</l>
+					<l>Vor Menſchen hier verheelet,</l>
+					<l>So <choice>
+							<sic>weißſt</sic>
+							<corr>weißt</corr>
+						</choice> du ſie, und züchtigſt mich</l>
+					<l>Zu meiner Beßrung väterlich.</l>
+				</lg>
+				<lg>
+					<l>Du höreſt meinen Seufzern zu,</l>
+					<l>Daß Hülfe mir erſcheine.</l>
+					<l>Voll Mitleid, <rs type="person" key="G0001">Vater</rs>, zähleſt du</l>
+					<l>Die Thränen, die ich weine.</l>
+					<l>Du ſiehſt und wägeſt meinen Schmerz</l>
+					<l>Und ſtärkſt mit deinem Troſt mein Herz.</l>
+				</lg>
+				<lg>
+					<l>O drück, <rs type="person" key="G0001">Allgegenwärtiger</rs>,</l>
+					<l>Dies tief in meine Seele.</l>
+					<l>Daß, wo ich bin, nur dich, o <rs type="person" key="G0001">Herr</rs>,</l>
+					<l>Mein Herz zur Zuflucht wähle:</l>
+					<l>Daß ich dein heilig Auge ſcheu,</l>
+					<l>Und dir zu dienen eifrig ſey.</l>
+				</lg>
+				<lg>
+					<l>Laß überall gewiſsenhaft</l>
+					<l>Nach deinem Wort mich handeln:</l>
+					<l>Und ſtärke mich dann auch mit Kraft,</l>
+					<l>Getroſt vor dir zu wandeln.</l>
+					<l>Daß du, o <rs type="person" key="G0001">Gott</rs>, ſtets um mich ſeyſt,</l>
+					<l>Dies tröſt und beßre meinen Geiſt!</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

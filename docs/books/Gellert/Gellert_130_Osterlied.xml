@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"?><?xml-stylesheet type="text/xsl" href="base.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title> Gellert: Osterlied</title>
+				<!--Arbeitstitel-->
+			</titleStmt>
+			<publicationStmt>
+				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
+					<rs type="person" key="G0002">C. F. Gellert</rs>.<lb/>
+					Mit allergnädigsten Freyheiten.<lb/>
+					<hi rend="spaced_out"><placeName>Leipzig</placeName>,</hi><lb/>
+					in der Weidmannischen Handlung, <date when="1757">1757</date>.</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Bach-Repertorium, Kantatendatenbank</p>
+			</projectDesc>
+		</encodingDesc>
+		<profileDesc>
+			<particDesc>
+				<listPerson>
+					<!--alphabetische Liste der Personen-->
+					<!--Aaron - A0001-->
+					<!--Abraham - A0002-->
+					<!--Adam - A0003-->
+					<!--Bach, Carl Philipp Emanuel - B0001-->
+					<!--Cramer, Johann Andreas - C0001-->
+					<!--Gellert, Christian Fürchtegott - G0002-->
+					<!--Gott - G0001-->
+					<!--Jakob - J0002-->
+					<!--Jesus Christus - J0001-->
+					<!--Levi - L0001-->
+					<!--Melchisedek - M0001-->
+					<!--Moses - M0002-->
+					<!--Petrus, Simon - P0001-->
+					<!--Samuel - S0001-->
+					<!--Simeon - S0002-->
+					<!--Sturm, Christoph Christian - S0001-->
+					<person role="priest" sex="1">
+						<persName type="reg" key="A0002">Aaron</persName>
+						<occupation>erster Priester</occupation>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="A0001">Abraham</persName>
+						<persName type="alt">Abram</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="first man" sex="1">
+						<persName type="reg" key="A0003">Adam</persName>
+						<occupation>Erster Mensch</occupation>
+					</person>
+					<person role="composer scribe" sex="1" source="Bach">
+						<persName type="reg" key="B0001"><surname>Bach</surname>, <forename>Carl
+								Philipp Emanuel</forename></persName>
+						<persName type="full"><forename>Carl Philipp Emanuel</forename>
+							<surname>Bach</surname></persName>
+						<event type="birth" when="1714-03">
+							<desc><placeName><settlement>Weimar</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Komponist</occupation>
+						<note type="bioSummary"/>
+						<idno type="GND">118505505</idno>
+						<idno type="WeGA"/>
+						<persName type="sigla" subtype="Kast"/>
+						<persName type="sigla" subtype="Blechschmidt"/>
+						<persName type="sigla" subtype="Dürr"/>
+						<persName type="sigla" subtype="Kobayashi"/>
+						<persName type="sigla" subtype="misc"/>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="C0001"><surname>Cramer</surname>, <forename>Johann
+								Andreas</forename></persName>
+						<persName type="full"><forename>Johann
+								Andreas</forename><surname>Cramer</surname></persName>
+						<event type="birth" when="1723-01-27">
+							<desc><placeName><settlement>Jöhstadt</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788-06-12">
+							<desc><placeName><settlement>Kiel</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Schriftsteller</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118973258</idno>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="G0002"><surname>Gellert</surname>,
+								<forename>Christian Fürchtegott</forename></persName>
+						<persName type="full"><forename>Christian
+								Fürchtegott</forename><surname>Gellert</surname></persName>
+						<event type="birth" when="1715-07-04">
+							<desc><placeName><settlement>Hainichen</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1769-12-13">
+							<desc><placeName><settlement>Lepzig</settlement></placeName></desc>
+						</event>
+						<occupation>Philosoph</occupation>
+						<occupation>Moralphilosoph</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118538322</idno>
+					</person>
+					<person role="god">
+						<persName type="reg" key="G0001">Gott</persName>
+						<persName type="full">JHWH</persName>
+						<occupation>Gott</occupation>
+						<idno type="GND">118556703</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="J0002">Jakob</persName>
+						<persName type="alt">Israel</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="god" sex="1">
+						<persName type="reg" key="J0001">Jesus Christus</persName>
+						<persName type="full">Jesus von Nazareth</persName>
+						<occupation>Messias</occupation>
+						<occupation>Gott</occupation>
+						<occupation>Heiland</occupation>
+						<occupation>Sohn Gottes</occupation>
+						<idno type="GND">118557513</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="L0001">Levi</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="king" sex="1">
+						<persName type="reg" key="M0001">Melchisedek</persName>
+						<occupation>alttestamentlicher König</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="M0002">Moses</persName>
+						<persName type="alt">Mose</persName>
+						<occupation>Prophet des Alten Testaments</occupation>
+					</person>
+					<person role="apostle" sex="1">
+						<persName type="reg" key="P0001">Petrus</persName>
+						<persName type="full">Simon Petrus</persName>
+						<occupation>Jünger Jesu</occupation>
+						<occupation>Apostel</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0001">Samuel</persName>
+						<occupation>alttestamentlicher Prophet</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0002">Simeon</persName>
+						<occupation>Prophet des Neuen Testaments</occupation>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="S0001"><surname>Sturm</surname>,
+								<forename>Christoph Christian</forename></persName>
+						<persName type="full"><forename>Christoph
+								Christian</forename><surname>Sturm</surname></persName>
+						<event type="birth" when="1740-01-25">
+							<desc><placeName><settlement>Augsburg</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1786-08-26">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Komponist</occupation>
+						<idno type="GND">118158651</idno>
+					</person>
+				</listPerson>
+			</particDesc>
+		</profileDesc>
+	</teiHeader>
+	<text type="lied">
+		<body>
+			<pb n="130"/>
+			<pb n="24" ed="CPEB1758"/>
+			<div type="chorale">
+				<head type="title">Oſterlied.</head>
+				<lg>
+					<l><anchor subtype="resurrection_start" type="resurrection"/>Freywillig hab ichs
+						dargebracht,</l>
+					<l>"Und niemand nimmt mein Leben.</l>
+					<l> "Es ſelbſt zu <choice>
+							<orig>laſsen,</orig>
+							<reg>laßen,</reg>
+						</choice> hab ich Macht, </l>
+					<l>"Macht, wieder mirs zu geben.</l>
+					<l>"Und darum liebt mein <rs type="person" key="G0001">Vater</rs> mich,</l>
+					<l>"Daß ich mein Leben laß, und ich</l>
+					<l> "Für meine Feind es <choice>
+							<orig>laſse.</orig>
+							<reg>laße.</reg>
+						</choice>
+						<anchor subtype="resurrection_end" type="resurrection"/></l>
+				</lg>
+				<lg>
+					<l><anchor subtype="death_start" type="death"/>"Ich bin in meiner
+						Niedrigkeit</l>
+					<l>"Ein Aergernis der Erden;</l>
+					<l> "Verſchmäht, <choice>
+							<orig>gegeißelt</orig>
+							<reg>gegeiſselt</reg>
+						</choice> und verſpeyt, </l>
+					<l>"Gekreuzigt werd ich werden.</l>
+					<l>"Wenn alles dieß vollendet iſt:</l>
+					<l>"So wird des <rs type="person" key="J0001">Menſchen Sohn</rs>, der <rs
+							type="person" key="J0001">Chriſt</rs>,</l>
+					<l>"Nicht die Verweſung ſehen.<anchor subtype="death_end" type="death"/></l>
+				</lg>
+				<lg>
+					<l>"Weil er ſich ſelbſt erniedrigt hat:</l>
+					<l>"So wird ihn <rs type="person" key="G0001">Gott</rs> erhöhen.</l>
+					<l><anchor subtype="resurrection_start" type="resurrection"/>"Ich leid und ſterb
+						an eurer ſtatt,</l>
+					<l>"Dann werd ich auferſtehen.</l>
+					<l>"Am dritten Tag geh ich heraus,</l>
+					<l>"Löſch alle Schmach des Kreuzes aus,</l>
+					<l>"Als <rs type="person" key="J0001">Gottes Sohn</rs> bewieſen.<anchor
+							subtype="resurrection_end" type="resurrection"/></l>
+				</lg>
+				<pb n="131"/>
+				<lg>
+					<l><anchor subtype="resurrection_start" type="resurrection"/>"Ich will euch
+						ſehn, erfreuet euch,</l>
+					<l>"Euch ſiegreich wiederſehen;</l>
+					<l>"Euch lehren, meines Vaters Reich</l>
+					<l>"Und hohen Rath verſtehen;</l>
+					<l>"Euch den verheißnen Geiſt verleihn;</l>
+					<l>"Und ihr ſollt meine Zeugen ſeyn,</l>
+					<l>"Daß ich vom Tod erſtanden.<anchor subtype="resurrection_end"
+							type="resurrection"/></l>
+				</lg>
+				<lg>
+					<l>"Geht hin und lehret alle Welt;</l>
+					<l>"Ich bin des Weibes Saamen,</l>
+					<l>"Der Saamen Abrahams, der Held;</l>
+					<l>"Und tauft in meinem Namen.</l>
+					<l>"Wer an <rs type="person" key="G0001">Gott</rs> gläubt, gläubt auch an
+						mich.</l>
+					<l>"Thut Wunder, und beweiſt, daß ich</l>
+					<l>"Zur Rechten <rs type="person" key="G0001">Gottes</rs> ſitze.</l>
+				</lg>
+				<lg>
+					<l>"Kämpft für mein Evangelium,</l>
+					<l>"Und freuet euch der Leiden.</l>
+					<l>"Kein Engel und kein Fürſtenthum,</l>
+					<l>"Nichts ſoll euch von mir ſcheiden.</l>
+					<l>"Man wird euch haſsen, und euch ſchmähn,</l>
+					<l>"Euch tödten; dennoch ſolls geſchehn,</l>
+					<l>"Daß eure Lehre ſieget.</l>
+				</lg>
+				<pb n="132"/>
+				<lg>
+					<l><rs type="person" key="J0001">Herr</rs>, unſer Heil! ſie hat geſiegt,</l>
+					<l>Und ſiegt in allen Landen,</l>
+					<l>Und zeuget, daß dein Wort nicht trügt,</l>
+					<l>Und zeugt, du biſt erſtanden.</l>
+					<l><anchor subtype="resurrection_start" type="resurrection"/>Dein Kreuz, an das
+						man dich erhöht,</l>
+					<l>Verwandelt ſich in Majeſtät.</l>
+					<l>Du gehſt aus deinem Grabe.<anchor subtype="resurrection_end"
+							type="resurrection"/></l>
+				</lg>
+				<lg>
+					<l>Gehaßt in deiner Niedrigkeit,</l>
+					<l>Warſt du ein Ziel des Spottes,</l>
+					<l>Und zeigteſt doch zu gleicher Zeit</l>
+					<l>An dir die Hoheit <rs type="person" key="G0001">Gottes</rs>.</l>
+					<l><anchor subtype="death_start" type="death"/>Dein Kreuz ſchien zwar der Welt
+						ein Greul;</l>
+					<l>Doch ſterben für der Feinde Heil,</l>
+					<l>Dies iſt die höchſte Tugend.<anchor subtype="death_end" type="death"/></l>
+				</lg>
+				<lg>
+					<l>Dein Reich war nicht von dieſer Welt,</l>
+					<l>Dein Ruhm nicht Menſchenehre.</l>
+					<l>An Demuth groß, an Lieb ein Held,</l>
+					<l>Und göttlich in der Lehre;</l>
+					<l>Geduldig und von Sünden rein,</l>
+					<l><anchor subtype="death_start" type="death"/>Gehorſam, bis zum Kreuze,
+						ſeyn;</l>
+					<l>Dieß war des Heilands Größe<anchor subtype="death_end" type="death"/>.</l>
+				</lg>
+				<pb n="133"/>
+				<lg>
+					<l><anchor subtype="death_start" type="death"/>Du ſtarbſt am Kreuz. Doch war dir
+						nicht</l>
+					<l>Die Kraft des <rs type="person" key="G0001">Herrn</rs> gegeben?</l>
+					<l>Wer gab den Blinden das Geſicht?</l>
+					<l>Den Todten ſelbſt das Leben?</l>
+					<l>Und wem gehorchte Wind und Meer?</l>
+					<l>Und wem der böſen Geiſter Heer?</l>
+					<l>Du warſt von <rs type="person" key="G0001">Gott</rs> gekommen.<anchor
+							subtype="death_end" type="death"/></l>
+				</lg>
+				<lg>
+					<l>Nun irren mich nicht Schmach und Spott,</l>
+					<l>Noch deines Kreuzes Schanden.</l>
+					<l>Du biſt mein <rs type="person" key="J0001">Herr</rs>, du biſt mein <rs
+							type="person" key="J0001">Gott</rs>;</l>
+					<l>Denn du biſt auferſtanden.</l>
+					<l><anchor subtype="resurrection_start" type="resurrection"/>Du biſt mein Heil,
+						mein Fels, mein Hort,</l>
+					<l>Der <rs type="person" key="J0001">Herr</rs>, durch deſsen mächtig Wort</l>
+					<l>Auch ich einſt ewig lebe<anchor subtype="resurrection_end"
+							type="resurrection"/>.</l>
+				</lg>
+				<lg>
+					<l><anchor subtype="resurrection_start" type="resurrection"/>Wir ſind nun
+						göttlichen Geſchlechts,</l>
+					<l>Durch dich des Himmels Erben.</l>
+					<l> Dies iſt die <choice>
+							<orig>Hoffnung</orig>
+							<reg>Hofnung</reg>
+						</choice> deines Knechts, </l>
+					<l>In dieſer will ich ſterben.</l>
+					<l>Wie du vom Tod erſtanden biſt;</l>
+					<l>So werd auch ich, Herr <rs type="person" key="J0001">Jeſu Chriſt</rs>,</l>
+					<l>Am jüngſten Tag erſtehen.<anchor subtype="resurrection_end"
+							type="resurrection"/></l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

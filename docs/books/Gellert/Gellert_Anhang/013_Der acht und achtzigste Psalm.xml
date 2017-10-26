@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"?>
+<?xml-stylesheet type="text/xsl" href="base.xsl"?>
+<TEI xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>
+					Mein Heiland, meine Zuverſicht
+				</title>
+				<author type="text">
+					unknown
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Sächsische Akademie der Wissenschaften zu Leipzig
+				</authority>
+			</publicationStmt>
+			<sourceDesc>
+<bibl>
+Neüe Uberſetzung <lb/>der <lb/>Pſalmen <lb/>Davids, <lb/>auf die gewöhnlichen Singweiſen gerichtet, <lb/>und mit beſonderer Gutheiſſung <lb/>eines <lb/>Hochlöbl. Churpfälziſchen Reformirten <lb/>Kirchenrahts/ <lb/>wie auch <lb/>eines Hochwürdigen <lb/>Ministerii <lb/>von Zürch und Baſel <lb/>herausgegeben <lb/>von <lb/>M. Joh. Jakob Spreng/ <lb/>Hochfürſtl. Naſſau-Saarbrückiſchem <lb/>Pfarrer der franz. und deütſchen evangeliſch-<lb/>reformirten Gemeine zu Ludweiler. <lb/>Mit allergnädigſt-Keiſerlicher und Evangeliſch-Eidsgenöſſiſcher mildeſter Freyheit. <lb/>Basel, <lb/>Gedruckt und zu finden bey Johann Conrad von Mechel <lb/>ſel. Wittwe  1741. 
+
+Umfang:	12 Bl., 376 S., 4 Bl.
+Normnummer:	VD18 14727145-001
+BSB-ID:	1114934
+B3Kat-ID:	BV001686586
+OCLC-Nr.:	557658416
+</bibl>
+				<bibl type="book" xml:id="VD18:11043652-002" style="text-align: center">
+					<lb />
+					Zwölf geistliche Oden und Lieder
+					<lb />
+					als ein Anhang
+					<lb />
+					zu Gellerts geistlichen Oden und Liedern
+					<lb />
+					mit Melodien
+					<lb />
+					von
+					<lb />
+					Carl Philipp Emanuel Bach.
+					<lb />
+					Zweyte Auflage.
+					<lb />
+					Berlin, gedruckt und zu finden bey George Ludewig Winter
+					<date when="1771">1771</date>
+					.
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Bach-Repertorium, Kantatendatenbank</p>
+			</projectDesc>
+		</encodingDesc>
+		<revisionDesc>
+			<change when="2013-03-11" who="RL">encoding started</change>
+			<change when="2014-03-06" who="KR">added original text</change>
+			<change when="2014-04-23" who="KR">corrected long s</change>
+		</revisionDesc>
+	</teiHeader>
+
+	<text type="lied">
+		<body>
+			<pb n="221"/>
+			<pb n="XX" ed="CPEB1771" />
+			<div type="chorale">
+				<head type="title">LXXXVIII. Pſalm 88.</head>
+<lg n="1."> 
+<l>Mein Heiland, meine Zuverſicht!</l> 
+<l>Mein GOtt, vor dem ich ganze Tage</l> 
+<l>Und ganze Nächte kämpf und zage,</l> 
+<l>Verſchmäh doch meine Thränen nicht;</l> 
+<l>Und laß dir mein Geſchrey und Ringen</l> 
+<l>Nun einſt zu Ohr und Herzen dringen!</l> 
+</lg>
+
+<lg n="2."> 
+<l>Der ſchmerzen Wut erſchöpfet mich.</l> 
+<l>Wohin ich mich nur wind und wende,</l> 
+<l>Bedrohet mich ein nahes Ende.</l> 
+<l>Ich ſchleppe matt und jämmerlich</l> 
+<l>Von mir bald nur die dürre Leiche,</l> 
+<l>Bis meine ſeele gar entweiche.</l> 
+</lg>
+
+
+<pb n="222"/>
+<lg n="3."> 
+<l>Ich bin von aller Welt verbannt,</l> 
+<l>Und, wie ein Todter abgeſchieden,</l> 
+<l>Als wär ich auſer deinem Friden,</l> 
+<l>Und ſchon verdammt, durch deine Hand,</l> 
+<l>Gleich einer Graüellaſt der Erden,</l> 
+<l>Gerichtet und vertilgt zu werden.</l> 
+</lg>
+
+<lg n="4."> 
+<l>Ich bin in Höllenbange Nacht</l> 
+<l>Und in den Abgrund aller Plagen</l> 
+<l>Von dir, erzörnter GOtt! verſchlagen.</l> 
+<l>Es rafft und ſchüttet deine Macht</l> 
+<l>Des ſtrengſten Eifers Blitz- und Flammen</l> 
+<l>Und Fluten über mir zuſammen.</l> 
+</lg>
+
+<lg n="5."> 
+<l>Du ſetzeſt mich zum ſcheüſal aus,</l> 
+<l>Daß mich in meinen Aengſt- und Mühen</l> 
+<l>Die Freünde mit Entſetzen fliehen.</l> 
+<l>Ich bin ſchon in des Grabes Haus,</l> 
+<l>Und ohne Rückweg zu dem Leben,</l> 
+<l>Mit Todeſbanden rings umgeben.</l> 
+</lg>
+
+Pauſe.
+
+<lg n="6."> 
+<l>Mein Aug erſtirbt vor langer Pein.</l> 
+<l>Vergeblich ſuch ich dein Erbarmen</l> 
+<l>Mit immer auſgeſtreckten Armen.</l> 
+<l>ſoll ich erſt ſtaub und Aſche ſeyn,</l> 
+<l>Und aus dem Moder auferſtehen,</l> 
+<l>Um deine Tahten zu erhöhen?</l> 
+</lg>
+
+<lg n="7."> 
+<l>Wie ſollte wol mein Dankgeſang</l> 
+<l>Die Huld und ſtärke meines Helden</l> 
+<l>In Faülniß und Zerſtörung melden?</l>
+<l>Wie ſollte wol mein Untergang,</l>
+<pb n="223"/>
+<l>O Vater! deine Treü bewähren,</l> 
+<l>Und deiner Gnaden Ruhm erklären?</l> 
+</lg>
+
+<lg n="8."> 
+<l>Wer wird in jener Dunkelheit,</l> 
+<l>Darinn wir unſer ſelbſt vergeſſen,</l> 
+<l>Die Wunder deines Heils ermeſſen?</l> 
+<l>Ich ſchrey zu dir bey früher Zeit,</l> 
+<l>Daß mir dein Troſt noch Kraft erteile,</l> 
+<l>Eh das Verderben mich ereile!</l> 
+</lg>
+
+<lg n="9."> 
+<l>Wenn endlich blickeſt du mich an?</l> 
+<l>Wie lang verſaümſt du meine ſeele,</l> 
+<l>Da ich mich müd und einſam quäle?</l> 
+<l>Ich muß, ſo lang ich denken kan,</l> 
+<l>O Höchſter! deine Laſten tragen,</l> 
+<l>Und mich mit der Verzweiflung ſchlagen.</l> 
+</lg>
+
+<lg n="10."> 
+<l>Dein Grimm, der keine ſtunde ruht,</l> 
+<l>Erſchüttert mich mit ſchreck- und Qualen,</l> <l>Und reibt mich auf mit ſeinen ſtrahlen.</l> 
+<l>Ich bin von deiner Wetter Flut,</l> 
+<l>Die rings umher auf mich gedrungen,</l> 
+<l>Wie von der hohen ſee, verſchlungen.</l> 
+</lg>
+
+<lg n="11."> 
+<l>Da kennt mich kein Erbarmer nicht.</l> 
+<l>Du fleüchſt, und haſt auch meine Lieben</l> <l>Durch dein Gerichte weit vertrieben.</l> 
+<l>Auch die verlaügnen ihre Pflicht,</l> 
+<l>Und haben ſich von mir verloren,</l>  
+<l>Die mir doch ewge Treü geſchworen.</l> 
+</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"?><?xml-stylesheet type="text/xsl" href="base.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title> Gellert: Trost eines schwermütigen Christen</title>
+				<!--Arbeitstitel-->
+			</titleStmt>
+			<publicationStmt>
+				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
+					<rs type="person" key="G0002">C. F. Gellert</rs>.<lb/>
+					Mit allergnädigsten Freyheiten.<lb/>
+					<hi rend="spaced_out"><placeName>Leipzig</placeName>,</hi><lb/>
+					in der Weidmannischen Handlung, <date when="1757">1757</date>.</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Bach-Repertorium, Kantatendatenbank</p>
+			</projectDesc>
+		</encodingDesc>
+		<profileDesc>
+			<particDesc>
+				<listPerson>
+					<!--alphabetische Liste der Personen-->
+					<!--Aaron - A0001-->
+					<!--Abraham - A0002-->
+					<!--Adam - A0003-->
+					<!--Bach, Carl Philipp Emanuel - B0001-->
+					<!--Cramer, Johann Andreas - C0001-->
+					<!--Gellert, Christian Fürchtegott - G0002-->
+					<!--Gott - G0001-->
+					<!--Jakob - J0002-->
+					<!--Jesus Christus - J0001-->
+					<!--Levi - L0001-->
+					<!--Melchisedek - M0001-->
+					<!--Moses - M0002-->
+					<!--Petrus, Simon - P0001-->
+					<!--Samuel - S0001-->
+					<!--Simeon - S0002-->
+					<!--Sturm, Christoph Christian - S0001-->
+					<person role="priest" sex="1">
+						<persName type="reg" key="A0002">Aaron</persName>
+						<occupation>erster Priester</occupation>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="A0001">Abraham</persName>
+						<persName type="alt">Abram</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="first man" sex="1">
+						<persName type="reg" key="A0003">Adam</persName>
+						<occupation>Erster Mensch</occupation>
+					</person>
+					<person role="composer scribe" sex="1" source="Bach">
+						<persName type="reg" key="B0001"><surname>Bach</surname>, <forename>Carl
+								Philipp Emanuel</forename></persName>
+						<persName type="full"><forename>Carl Philipp Emanuel</forename>
+							<surname>Bach</surname></persName>
+						<event type="birth" when="1714-03">
+							<desc><placeName><settlement>Weimar</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Komponist</occupation>
+						<note type="bioSummary"/>
+						<idno type="GND">118505505</idno>
+						<idno type="WeGA"/>
+						<persName type="sigla" subtype="Kast"/>
+						<persName type="sigla" subtype="Blechschmidt"/>
+						<persName type="sigla" subtype="Dürr"/>
+						<persName type="sigla" subtype="Kobayashi"/>
+						<persName type="sigla" subtype="misc"/>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="C0001"><surname>Cramer</surname>, <forename>Johann
+								Andreas</forename></persName>
+						<persName type="full"><forename>Johann
+								Andreas</forename><surname>Cramer</surname></persName>
+						<event type="birth" when="1723-01-27">
+							<desc><placeName><settlement>Jöhstadt</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788-06-12">
+							<desc><placeName><settlement>Kiel</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Schriftsteller</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118973258</idno>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="G0002"><surname>Gellert</surname>,
+								<forename>Christian Fürchtegott</forename></persName>
+						<persName type="full"><forename>Christian
+								Fürchtegott</forename><surname>Gellert</surname></persName>
+						<event type="birth" when="1715-07-04">
+							<desc><placeName><settlement>Hainichen</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1769-12-13">
+							<desc><placeName><settlement>Lepzig</settlement></placeName></desc>
+						</event>
+						<occupation>Philosoph</occupation>
+						<occupation>Moralphilosoph</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118538322</idno>
+					</person>
+					<person role="god">
+						<persName type="reg" key="G0001">Gott</persName>
+						<persName type="full">JHWH</persName>
+						<occupation>Gott</occupation>
+						<idno type="GND">118556703</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="J0002">Jakob</persName>
+						<persName type="alt">Israel</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="god" sex="1">
+						<persName type="reg" key="J0001">Jesus Christus</persName>
+						<persName type="full">Jesus von Nazareth</persName>
+						<occupation>Messias</occupation>
+						<occupation>Gott</occupation>
+						<occupation>Heiland</occupation>
+						<occupation>Sohn Gottes</occupation>
+						<idno type="GND">118557513</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="L0001">Levi</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="king" sex="1">
+						<persName type="reg" key="M0001">Melchisedek</persName>
+						<occupation>alttestamentlicher König</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="M0002">Moses</persName>
+						<persName type="alt">Mose</persName>
+						<occupation>Prophet des Alten Testaments</occupation>
+					</person>
+					<person role="apostle" sex="1">
+						<persName type="reg" key="P0001">Petrus</persName>
+						<persName type="full">Simon Petrus</persName>
+						<occupation>Jünger Jesu</occupation>
+						<occupation>Apostel</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0001">Samuel</persName>
+						<occupation>alttestamentlicher Prophet</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0002">Simeon</persName>
+						<occupation>Prophet des Neuen Testaments</occupation>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="S0001"><surname>Sturm</surname>,
+								<forename>Christoph Christian</forename></persName>
+						<persName type="full"><forename>Christoph
+								Christian</forename><surname>Sturm</surname></persName>
+						<event type="birth" when="1740-01-25">
+							<desc><placeName><settlement>Augsburg</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1786-08-26">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Komponist</occupation>
+						<idno type="GND">118158651</idno>
+					</person>
+				</listPerson>
+			</particDesc>
+		</profileDesc>
+	</teiHeader>
+	<text type="lied">
+		<body>
+			<pb n="143"/>
+			<pb n="26" ed="CPEB1758"/>
+			<div type="chorale">
+				<head type="title">Troſt eines ſchwermüthigen Chriſten.</head>
+				<lg>
+					<l>Du klagſt, o Chriſt, in ſchweren Leiden,</l>
+					<l>Und ſeufzeſt, daß der Geiſt der Freuden</l>
+					<l>Von dir gewichen iſt.</l>
+					<l>Du klagſt und rufſt: <rs type="person" key="G0001">Herr</rs>, wie ſo
+						lange?</l>
+					<l>Und <rs type="person" key="G0001">Gott</rs> verzeucht, und dir wird
+						bange,</l>
+					<l>Daß du von <rs type="person" key="G0001">Gott</rs> verlaſsen biſt.</l>
+				</lg>
+				<lg>
+					<l>Sind meine Sünden mir vergeben;</l>
+					<l>Hat <rs type="person" key="G0001">Gott</rs> mir Sünder Heil und Leben</l>
+					<l>In ſeinem <rs type="person" key="J0001">Sohn</rs> verliehn:</l>
+					<l>Wo ſind denn ſeines Geiſtes Triebe?</l>
+					<l>Warum empfind ich nicht die Liebe,</l>
+					<l>Und hoffe nicht getroſt auf ihn?</l>
+				</lg>
+				<lg>
+					<l>Mühſelig, ſprichſt du, und beladen</l>
+					<l>Hör ich den Troſt vom Wort der Gnaden,</l>
+					<l>Und ich empfind ihn nicht;</l>
+					<l>Bin abgeneigt vor <rs type="person" key="G0001">Gott</rs> zu treten;</l>
+					<l>Ich bet, und kann nicht gläubig beten;</l>
+					<l>Ich denke <rs type="person" key="G0001">Gott</rs>, doch ohne Licht.</l>
+				</lg>
+				<pb n="144"/>
+				<lg>
+					<l>Sonſt war mirs Freude, ſeinen Willen</l>
+					<l>Von ganzem Herzen zu erfüllen;</l>
+					<l>Sein Wort war mir gewiß.</l>
+					<l>Itzt kann ichs nicht zu Herzen faſsen,</l>
+					<l>Und meine Kraft hat mich verlaſsen,</l>
+					<l>Und meinen Geiſt deckt Finſterniß.</l>
+				</lg>
+				<lg>
+					<l>Oft fühl ich Zweifel, die mich quälen,</l>
+					<l>Heul oft vor Unruh meiner Seelen,</l>
+					<l>Und meine Hülf iſt fern.</l>
+					<l>Ich ſuche Ruh, die ich nicht finde;</l>
+					<l>In meinem Herzen wohnt nur Sünde,</l>
+					<l>Nur Unmuth, keine Furcht des <rs type="person" key="G0001">Herrn</rs>.</l>
+				</lg>
+				<pb n="27" ed="CPEB1758"/>
+				<lg>
+					<l>Zag nicht, o Chriſt, denn deine Schmerzen</l>
+					<l>Sind ſichre Zeugen beßrer Herzen,</l>
+					<l>Als dir das deine ſcheint.</l>
+					<l>Wie könnteſt du dich ſo betrüben,</l>
+					<l>Daß dir die Kraft fehlt, <rs type="person" key="G0001">Gott</rs> zu
+						lieben,</l>
+					<l>Wär nicht dein Herz mit ihm vereint?</l>
+				</lg>
+				<lg>
+					<l>Kein Menſch vermag, <rs type="person" key="G0001">Gott</rs> zu erkennen,</l>
+					<l>Noch <rs type="person" key="J0001">Jeſum</rs> einen Herrn zu nennen,</l>
+					<l>Als durch den heilgen Geiſt.</l>
+					<l>Haſt du nicht dieſen Geiſt empfangen?</l>
+					<l>Er iſts, der dich nach <rs type="person" key="G0001">Gott</rs> verlangen,</l>
+					<l>Und ſein Erbarmen ſuchen heißt.</l>
+				</lg>
+				<pb n="145"/>
+				<lg>
+					<l>Vertrau auf <rs type="person" key="G0001">Gott</rs>. Er wohnt bey denen,</l>
+					<l>Die ſich nach ſeiner Hülfe ſehnen;</l>
+					<l>Er kennt und will dein Glück.</l>
+					<l>Er höret deines Weinens Stimme;</l>
+					<l>Verbirgt er gleich in ſeinem Grimme</l>
+					<l>Sich einen kleinen Augenblick.</l>
+				</lg>
+				<lg>
+					<l><rs type="person" key="G0001">Gott</rs> ließ ſo manchen ſeiner Frommen</l>
+					<l>In dieß Gefühl des Elends kommen,</l>
+					<l>Und ſtund ihm mächtig bey.</l>
+					<l>Du ſollſt dein Nichts erkennen lernen,</l>
+					<l>Sollſt das Vertraun auf dich entfernen</l>
+					<l>Und ſehn, was <rs type="person" key="G0001">Gottes</rs> Gnade ſey.</l>
+				</lg>
+				<lg>
+					<l>Vor Sicherheit dich zu bewahren,</l>
+					<l>Läßt er dich ſeine Streng erfahren</l>
+					<l>Und ſchickt dir dieſe Laſt.</l>
+					<l>Er reinigt dich wie Gold im Feuer,</l>
+					<l>Macht dir das Heil der Seele theuer,</l>
+					<l>Damit du halteſt, was du haſt.</l>
+				</lg>
+				<lg>
+					<l>So wie ein Vater über Kinder,</l>
+					<l>Erbarmet <rs type="person" key="G0001">Gott</rs> ſich über Sünder,</l>
+					<l>Die ſeinen Namen ſcheun.</l>
+					<l>Dein Seufzen iſt ihm nicht verborgen.</l>
+					<l>So fern der Abend iſt vom Morgen,</l>
+					<l>Läßt er von dir die Sünde ſeyn.</l>
+				</lg>
+				<pb n="146"/>
+				<lg>
+					<l>Zwar iſt um Troſt dir itzo bange;</l>
+					<l>Denn alle Züchtigung, ſo lange</l>
+					<l>Sie da iſt, ſcheint uns hart.</l>
+					<l>Doch nachmals wird ſie friedſam geben</l>
+					<l>Frucht der Gerechtigkeit und Leben</l>
+					<l>Dem, der durch ſie geübet ward.</l>
+				</lg>
+				<lg>
+					<l>Fahr fort zu beten und zu wachen.</l>
+					<l><rs type="person" key="G0001">Gott</rs> iſt noch mächtig in den
+						Schwachen,</l>
+					<l>Iſt Güte für und für.</l>
+					<l>Laß dir an ſeiner Gnade gnügen.</l>
+					<l>Sein Wort iſt wahr und kann nicht trügen:</l>
+					<l>Ich ſtärke dich, ich helfe dir!</l>
+				</lg>
+				<lg>
+					<l>Auf, faſse dich in deinen Nöthen!</l>
+					<l><anchor subtype="death_start" type="death"/>Sprich: Wollte mich der Herr auch
+						tödten:</l>
+					<l>So harr ich dennoch ſein.</l>
+					<l>Mir bleibt das Erbtheil der Erlöſten;</l>
+					<l>Und will mich <rs type="person" key="G0001">Gott</rs> nicht eher tröſten,</l>
+					<l>Wird er mich doch im Tod erfreun.<anchor subtype="death_end" type="death"
+						/></l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

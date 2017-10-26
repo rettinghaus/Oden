@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"?><?xml-stylesheet type="text/xsl" href="base.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title> Cramer: 139. Psalm</title>
+				<!--Arbeitstitel-->
+			</titleStmt>
+			<publicationStmt>
+				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<lb/> Herrn <rs type="person" key="C0001">Doctor Cramers</rs><lb/> übersetzte
+					<lb/> Psalmen mit Melodien <lb/> zum <lb/> Singen bey dem Claviere <lb/> von
+						<lb/><rs type="person" key="B0001">Carl Philipp Emanuel Bach</rs>.<lb/>
+					<pubPlace>Leipzig</pubPlace>,<lb/> Im Verlage des Autors. <date when="1774"
+						>1774</date>. </bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Bach-Repertorium, Kantatendatenbank</p>
+			</projectDesc>
+		</encodingDesc>
+		<profileDesc>
+			<particDesc>
+				<listPerson>
+					<!--alphabetische Liste der Personen-->
+					<!--Aaron - A0001-->
+					<!--Abraham - A0002-->
+					<!--Adam - A0003-->
+					<!--Bach, Carl Philipp Emanuel - B0001-->
+					<!--Cramer, Johann Andreas - C0001-->
+					<!--Gellert, Christian Fürchtegott - G0002-->
+					<!--Gott - G0001-->
+					<!--Jakob - J0002-->
+					<!--Jesus Christus - J0001-->
+					<!--Levi - L0001-->
+					<!--Melchisedek - M0001-->
+					<!--Moses - M0002-->
+					<!--Petrus, Simon - P0001-->
+					<!--Samuel - S0001-->
+					<!--Simeon - S0002-->
+					<!--Sturm, Christoph Christian - S0001-->
+					<person role="priest" sex="1">
+						<persName type="reg" key="A0002">Aaron</persName>
+						<occupation>erster Priester</occupation>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="A0001">Abraham</persName>
+						<persName type="alt">Abram</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="first man" sex="1">
+						<persName type="reg" key="A0003">Adam</persName>
+						<occupation>Erster Mensch</occupation>
+					</person>
+					<person role="composer scribe" sex="1" source="Bach">
+						<persName type="reg" key="B0001"><surname>Bach</surname>, <forename>Carl
+								Philipp Emanuel</forename></persName>
+						<persName type="full"><forename>Carl Philipp Emanuel</forename>
+							<surname>Bach</surname></persName>
+						<event type="birth" when="1714-03">
+							<desc><placeName><settlement>Weimar</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Komponist</occupation>
+						<note type="bioSummary"/>
+						<idno type="GND">118505505</idno>
+						<idno type="WeGA"/>
+						<persName type="sigla" subtype="Kast"/>
+						<persName type="sigla" subtype="Blechschmidt"/>
+						<persName type="sigla" subtype="Dürr"/>
+						<persName type="sigla" subtype="Kobayashi"/>
+						<persName type="sigla" subtype="misc"/>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="C0001"><surname>Cramer</surname>, <forename>Johann
+								Andreas</forename></persName>
+						<persName type="full"><forename>Johann
+								Andreas</forename><surname>Cramer</surname></persName>
+						<event type="birth" when="1723-01-27">
+							<desc><placeName><settlement>Jöhstadt</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788-06-12">
+							<desc><placeName><settlement>Kiel</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Schriftsteller</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118973258</idno>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="G0002"><surname>Gellert</surname>,
+								<forename>Christian Fürchtegott</forename></persName>
+						<persName type="full"><forename>Christian
+								Fürchtegott</forename><surname>Gellert</surname></persName>
+						<event type="birth" when="1715-07-04">
+							<desc><placeName><settlement>Hainichen</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1769-12-13">
+							<desc><placeName><settlement>Lepzig</settlement></placeName></desc>
+						</event>
+						<occupation>Philosoph</occupation>
+						<occupation>Moralphilosoph</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118538322</idno>
+					</person>
+					<person role="god">
+						<persName type="reg" key="G0001">Gott</persName>
+						<persName type="full">JHWH</persName>
+						<occupation>Gott</occupation>
+						<idno type="GND">118556703</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="J0002">Jakob</persName>
+						<persName type="alt">Israel</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="god" sex="1">
+						<persName type="reg" key="J0001">Jesus Christus</persName>
+						<persName type="full">Jesus von Nazareth</persName>
+						<occupation>Messias</occupation>
+						<occupation>Gott</occupation>
+						<occupation>Heiland</occupation>
+						<occupation>Sohn Gottes</occupation>
+						<idno type="GND">118557513</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="L0001">Levi</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="king" sex="1">
+						<persName type="reg" key="M0001">Melchisedek</persName>
+						<occupation>alttestamentlicher König</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="M0002">Moses</persName>
+						<persName type="alt">Mose</persName>
+						<occupation>Prophet des Alten Testaments</occupation>
+					</person>
+					<person role="apostle" sex="1">
+						<persName type="reg" key="P0001">Petrus</persName>
+						<persName type="full">Simon Petrus</persName>
+						<occupation>Jünger Jesu</occupation>
+						<occupation>Apostel</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0001">Samuel</persName>
+						<occupation>alttestamentlicher Prophet</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0002">Simeon</persName>
+						<occupation>Prophet des Neuen Testaments</occupation>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="S0001"><surname>Sturm</surname>,
+								<forename>Christoph Christian</forename></persName>
+						<persName type="full"><forename>Christoph
+								Christian</forename><surname>Sturm</surname></persName>
+						<event type="birth" when="1740-01-25">
+							<desc><placeName><settlement>Augsburg</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1786-08-26">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Komponist</occupation>
+						<idno type="GND">118158651</idno>
+					</person>
+				</listPerson>
+			</particDesc>
+		</profileDesc>
+		<revisionDesc>
+			<change when="2013-11-04" who="RL">encoding started</change>
+		</revisionDesc>
+	</teiHeader>
+	<text type="lied">
+		<body>
+			<pb n="47" ed="CPEB1774"/>
+			<div type="chorale">
+				<head type="title">Der hundert und neun und dreißigſte Pſalm.</head>
+				<lg>
+					<l><rs type="person" key="G0001">Herr</rs>, du erforſcheſt mich! Du kennſt mich!
+						Unverborgen</l>
+					<l>Bin ich, wo ich mich lege, dir,</l>
+					<l>Und nie ermüdet ſieht dein Auge, wenn am Morgen</l>
+					<l>Ich wieder aufſteh, <rs type="person" key="G0001">Gott</rs>, nach mir.</l>
+				</lg>
+				<lg>
+					<l>Du kannteſt, was ich denk, Erforſcher meiner Seele,</l>
+					<l>Eh ein Gedank in mir entſtand;</l>
+					<l>Ich geh, ich lege mich, ich überleg und wähle,</l>
+					<l>Und, was ich thu, iſt dir bekannt.</l>
+				</lg>
+				<lg>
+					<l><rs type="person" key="G0001">Herr</rs>, ohne Grenzen iſt dein Weſen; du
+						umſchließeſt</l>
+					<l>Mich ganz, <rs type="person" key="G0001">Unendlicher</rs>, mit dir.</l>
+					<l>Was kann ich reden, <rs type="person" key="G0001">Gott</rs>, das du nicht
+						alles wiſseſt,</l>
+					<l>Wer iſt ſo nah, als du, bei mir?</l>
+				</lg>
+				<lg>
+					<l>Wo find ich, <rs type="person" key="G0001">Gott</rs>, nicht dich? Du biſt an
+						allen Enden,</l>
+					<l>Ich ſeh zurück und vor mir hin;</l>
+					<l>Und überall ſeh ich, daß ich von deinen Händen,</l>
+					<l><rs type="person" key="G0001">Unendlicher</rs>, umſchloſsen bin.</l>
+				</lg>
+				<lg>
+					<l>Welch ein Verſtand, o <rs type="person" key="G0001">Gott</rs>? Wer darf ſich
+						dir vergleichen?</l>
+					<l><rs type="person" key="G0001">Herr</rs>, wie erſtaun ich über dich!</l>
+					<l>Ich ſchwinge mich empor und kann ihn nicht erreichen;</l>
+					<l>Er iſt zu wunderbar für mich!</l>
+				</lg>
+				<lg>
+					<l>Wohin, wohin kann ich vor deinem Geiſt entfliehen?</l>
+					<l>Wo iſt, wo findet er mich nicht?</l>
+					<l>Wo könnte, <rs type="person" key="G0001">Höchſter</rs>, ich mich deinem Aug
+						entziehen?</l>
+					<l>Wo ſtralet nicht dein Angeſicht?</l>
+				</lg>
+				<lg>
+					<l>Wenn ich zum Himmel auch mich aufgeſchwungen hätte,</l>
+					<l>In allen Himmeln biſt du, <rs type="person" key="G0001">Gott</rs>.</l>
+					<l>Spräch ich, dir zu entfliehn, zur Tiefe: Sey mein Bette!</l>
+					<l>Auch in der Tiefe biſt du, <rs type="person" key="G0001">Gott</rs>!</l>
+				</lg>
+				<lg>
+					<l>Und nähm ich, ſchnell zu fliehn, die Fittiche vom Morgen:</l>
+					<l>Am fernſten Meere fänd ich dich;</l>
+					<l>Ich wär in deiner Hand auch da; dir nicht verborgen,</l>
+					<l>Und deine Rechte hielte mich.</l>
+				</lg>
+				<lg>
+					<l>Und ſpräch ich, decket mich, verbergt mich, Finſterniſse!</l>
+					<l>Licht wäre dann um mich die Nacht.</l>
+					<l>Denn finſter ſind vor dir auch nicht die Finſterniſse;</l>
+					<l>Dir leuchtet, wie der Tag, die Nacht.</l>
+				</lg>
+				<lg>
+					<l>Das Dunkel iſt von dir; aus deinem Lichte floſsen</l>
+					<l>Der Glanz des Morgens und der Tag;</l>
+					<l>Du bildeteſt mein Herz; ich ward von dir umſchloſsen,</l>
+					<l>Als ich im Mutterleibe lag.</l>
+				</lg>
+				<lg>
+					<l>Dich preis ich, daß du mich, o <rs type="person" key="G0001">Herr</rs>, durch
+						deine Stärke</l>
+					<l>So wundervoll gebildet haſt.</l>
+					<l>Mein Geiſt erſtaunt und rühmt die Weiſheit deiner Werke,</l>
+					<l>Die keines Weſens Einſicht faßt.</l>
+				</lg>
+				<lg>
+					<l>Als aus den Tiefen ich heraufgerufen wurde,</l>
+					<l>Ein Wunder deiner Macht zu ſeyn;</l>
+					<l>Als im Verborgnen ich ein Menſch gebildet wurde,</l>
+					<l>Durchdrang dein Auge mein Gebein.</l>
+				</lg>
+				<lg>
+					<l>Du ſahſt mich, eh du noch den künſtlichen Geweben</l>
+					<l>Der Nerven Harmonie und Macht,</l>
+					<l>Und Blut den Adern gabſt, und meinem Herzen Leben;</l>
+					<l>Da haſt du meiner ſchon gedacht!</l>
+				</lg>
+				<lg>
+					<l><rs type="person" key="G0001">Herr</rs>, deine Macht, dein Rath erkennet
+						keine Schranken;</l>
+					<l>Wer faſset dich? Wer gleichet dir?</l>
+					<l>Was für Erkenntniſse, für köſtliche Gedanken!</l>
+					<l>Unnennbar iſt die Summe mir!</l>
+				</lg>
+				<lg>
+					<l>Erſtaunen kann ich nur. Sollt ich ſie alle zählen,</l>
+					<l>Eh zählt ich aller Meere Sand;</l>
+					<l>Doch will ich dich allein zu meinem Liede wählen,</l>
+					<l>Erhöhn die Wunder deiner Hand.</l>
+				</lg>
+				<lg>
+					<l>Leg ich zur Ruhe mich auf meinem Lager nieder,</l>
+					<l>So freu ich deiner Güte mich;</l>
+					<l>Im Traume denk ich dein; erwach ich frühe wieder,</l>
+					<l>So denk ich immer noch an dich.</l>
+				</lg>
+				<lg>
+					<l>Du biſt allwiſsend, <rs type="person" key="G0001">Herr</rs>, und heilig und
+						ein Rächer,</l>
+					<l>Die Frevler wirſt du töten, <rs type="person" key="G0001">Gott</rs>!</l>
+					<l>Entweicht, entweicht von mir, blutgierige Verbrecher;</l>
+					<l>Euch haßt <rs type="person" key="G0001">Jehova Zebaoth</rs>!</l>
+				</lg>
+				<lg>
+					<l>Sieh, wie ſie mit Betrug und Lügen dich entehren,</l>
+					<l>Nicht deinen hohen Namen ſcheun,</l>
+					<l>Verrätheriſch und falſch bei deinen Städten ſchwören,</l>
+					<l>Vermeſsen dein Geſetz entweihn!</l>
+				</lg>
+				<lg>
+					<l>Sollt ich nicht haſsen, <rs type="person" key="G0001">Gott</rs>, die deinen
+						Namen haſsen?</l>
+					<l>Und könnt ich ohne Zorn es ſehn,</l>
+					<l>Daß ſo vermeſsen, <rs type="person" key="G0001">Gott</rs>, ſie deinen Pfad
+						verlaſsen,</l>
+					<l>So frevelhaft dir widerſtehn?</l>
+				</lg>
+				<lg>
+					<l>Ja nimmer zähl ich die, <rs type="person" key="G0001">Gott</rs>, unter meine
+						Freunde,</l>
+					<l>Die dein Geſetz und Recht entweihn;</l>
+					<l>Von Herzen haß ich ſie; ſtets ſollen deine Feinde</l>
+					<l>Mein Abſcheu, meine Feinde ſein.</l>
+				</lg>
+				<lg>
+					<l>Erforſche mich, o <rs type="person" key="G0001">Gott</rs>, daß ich nichts
+						wählen möge,</l>
+					<l>Was Sünd iſt; prüfe meinen Sinn,</l>
+					<l>Sieh, ob ich irre, <rs type="person" key="G0001">Herr</rs>, und führe mich
+						auf Wege,</l>
+					<l>Die ewig dir gefallen, hin.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

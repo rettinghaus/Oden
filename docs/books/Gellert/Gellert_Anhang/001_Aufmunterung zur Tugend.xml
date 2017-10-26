@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"?>
+<?xml-stylesheet type="text/xsl" href="base.xsl"?>
+<TEI xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>
+					Aufmunterung zur Tugend
+				</title>
+				<author type="text">
+					unknown
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<authority>S?chsische Akademie der Wissenschaften zu Leipzig
+				</authority>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="book" xml:id="VD18:11043652-002" style="text-align: center">
+					<lb />
+					Zw?lf geistliche Oden und Lieder
+					<lb />
+					als ein Anhang
+					<lb />
+					zu Gellerts geistlichen Oden und Liedern
+					<lb />
+					mit Melodien
+					<lb />
+					von
+					<lb />
+					Carl Philipp Emanuel Bach.
+					<lb />
+					Zweyte Auflage.
+					<lb />
+					Berlin, gedruckt und zu finden bey George Ludewig Winter
+					<date when="1771">1771</date>
+					.
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Bach-Repertorium, Kantatendatenbank</p>
+			</projectDesc>
+		</encodingDesc>
+		<revisionDesc>
+			<change when="2013-03-11" who="RL">encoding started</change>
+		</revisionDesc>
+	</teiHeader>
+
+	<text type="lied">
+		<body>
+			<pb n="1" ed="CPEB1771" />
+			<div type="chorale">
+				<head type="title">Aufmunterung zur Tugend.</head>
+				<lg>
+					<l><anchor subtype="resurrection_start" type="resurrection"/>Ins Reich entfernter Ewigkeiten</l>
+					<l>Verliert ſich mein entzückter Blick.</l>
+					<l>Ich ſeh das Glücke jetz'ger Zeiten</l>
+					<l>Weit hinter meinem Wunſch zurück.<anchor subtype="resurrection_end" type="resurrection"/></l>
+					<l>Iſts möglich, konnt es ja mich blenden:</l>
+					<l>Was iſt es dann, als Dampf und ſchein?</l>
+					<l>Nur aus der Zukunft reichen Händen</l>
+					<l>Kann mich ein wahres Glück erfreun.</l>
+				</lg>
+				<lg>
+					<l><anchor subtype="resurrection_start" type="resurrection"/>Dort, wo der Urſprung aller Weſen</l>
+					<l>Im ſitz der ſeligkeiten wohnt,</l>
+					<l>Wo bei der ſchaar, die Er erleſen,</l>
+					<l>Der Menſchenfreund erhaben thront.</l>
+					<l>Wo Weiſheit, Allmacht, Huld und Güte</l>
+					<l>In einem Mittelpunct vereint,</l>
+					<l>Der ſonne gleich, durch das Gebiete</l>
+					<l>Der ganzen ſchöpfung liebreich ſcheint.<anchor subtype="resurrection_end" type="resurrection"/></l>
+				</lg>
+				<lg>
+					<l><anchor subtype="resurrection_start" type="resurrection"/>In dieſem Vaterland der Geiſter,</l>
+					<l>In dieſem Aufenthalt des Lichts,</l>
+					<l>Iſt nur die Tugend Herr und Meiſter,</l>
+					<l>Gilt Ehre, Luſt und Reichtum nichts.</l>
+					<l>Der erſte hier am Rang und Würden,</l>
+					<l>Iſt Gottes und des Menſchen ſohn.</l>
+					<l>Er trug der ſchwerſten Pflichten Bürden,</l>
+					<l>Dadurch trug er das Reich davon.<anchor subtype="resurrection_end" type="resurrection"/></l>
+				</lg>
+				<lg>
+					<l><anchor subtype="resurrection_start" type="resurrection"/>Weil Er der Tugend treu geblieben,</l>
+					<l>Wird Ihm der Zepter zuerkannt.</l>
+					<l>Kein Name wird hier eingeſchrieben,</l>
+					<l>Den nicht die Tugend erſt genannt.</l>
+					<l>Wer ſich der Wahrheit Freund bewieſen,</l>
+					<l>Hat hier zu Gl?ük und Freude Recht.</l>
+					<l>Und hier wird kein Verdienſt geprieſen,</l>
+					<l>Als daß man war der Tugend Knecht.<anchor subtype="resurrection_end" type="resurrection"/></l>
+				</lg>
+				<lg>
+					<l><anchor subtype="resurrection_start" type="resurrection"/>Ach! hier bewährt erfunden werden,</l>
+					<l>Was iſt es für ein ſeelig Glück?</l>
+					<l>Wie weit ſteht alles Glück der Erden,</l>
+					<l>Nicht hinter dieſen Ruhm zurück?</l>
+					<l>Wie wird ſich hier der Chriſt erfreuen,</l>
+					<l>Der elend hier, doch fromm geweint,</l>
+					<l>Nennt einſt ihn, vor der Engel Reyhen,</l>
+					<l>Des Himmels König ſeinen Freund.<anchor subtype="resurrection_end" type="resurrection"/></l>
+				</lg>
+				<lg>
+					<l>O! dieſes Glückes werth zu werden,</l>
+					<l>ſoll hier mein ganz Beſtreben ſeyn,</l>
+					<l>Dem Himmel will ich hier auf Erden</l>
+					<l>ſchon alle meine Wünſche weyhn.</l>
+					<l>Der Tugend will ich mich befleiſſen,</l>
+					<l>Die mir mein Heiland vorgethan,</l>
+					<l><anchor subtype="resurrection_start" type="resurrection"/>Der mich ſo gerne Freund will heiſſen,</l>
+					<l>Wenn Er es nur mit Grunde kann.<anchor subtype="resurrection_end" type="resurrection"/></l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

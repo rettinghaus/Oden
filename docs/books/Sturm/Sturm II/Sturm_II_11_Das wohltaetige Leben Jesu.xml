@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"?><?xml-stylesheet type="text/xsl" href="base.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Sturm II: Das wohltätige Leben Jesu</title>
+            <!--Arbeitstitel-->
+         </titleStmt>
+         <publicationStmt>
+            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               Herrn <rs type="person" key="S0001">Christoph Christian Sturms</rs>,<lb/>
+               Hauptpastors an der Hauptkirche St. Petri und Scholaren in <placeName type="workplace">Hamburg</placeName>,<lb/>
+               geistliche Gesänge<lb/>mit<lb/>
+               Melodien zum Singen bey dem Claviere<lb/>vom<lb/>
+               Herrn Kapellmeister <rs type="person" key="B0001">Carl Philipp Emanuel Bach</rs>,<lb/>
+               Musikdirektor in <placeName type="workplace">Hamburg</placeName>.<lb/>
+               Zweyte Sammlung.<lb/>
+               Dritte mit dem vollständigen Verzeichnisse der Schriften des Herrn
+               <rs type="person" key="S0001">C. C. Sturms</rs> vermehrten Auflage.<lb/>
+               <pubPlace>Hamburg</pubPlace>,<lb/>
+               bey <persName role="publisher">Johann Henrich Herold</persName>, <date when="1792">1792</date>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Bach-Repertorium, Kantatendatenbank</p>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <particDesc>
+            <listPerson>
+               <!--alphabetische Liste der Personen-->
+               <!--Aaron - A0001-->
+               <!--Abraham - A0002-->
+               <!--Adam - A0003-->
+               <!--Bach, Carl Philipp Emanuel - B0001-->
+               <!--Cramer, Johann Andreas - C0001-->
+               <!--Gellert, Christian Fürchtegott - G0002-->
+               <!--Gott - G0001-->
+               <!--Jakob - J0002-->
+               <!--Jesus Christus - J0001-->
+               <!--Levi - L0001-->
+               <!--Melchisedek - M0001-->
+               <!--Moses - M0002-->
+               <!--Petrus, Simon - P0001-->
+               <!--Samuel - S0001-->
+               <!--Simeon - S0002-->
+               <!--Sturm, Christoph Christian - S0001-->
+               <person role="priest" sex="1">
+                  <persName type="reg" key="A0002">Aaron</persName>
+                  <occupation>erster Priester</occupation>
+               </person>
+               <person role="patriarch" sex="1">
+                  <persName type="reg" key="A0001">Abraham</persName>
+                  <persName type="alt">Abram</persName>
+                  <occupation>Erzvater</occupation>
+               </person>
+               <person role="first man" sex="1">
+                  <persName type="reg" key="A0003">Adam</persName>
+                  <occupation>Erster Mensch</occupation>
+               </person>
+               <person role="composer scribe" sex="1" source="Bach">
+                  <persName type="reg" key="B0001"><surname>Bach</surname>, <forename>Carl Philipp
+                        Emanuel</forename></persName>
+                  <persName type="full"><forename>Carl Philipp Emanuel</forename>
+                     <surname>Bach</surname></persName>
+                  <event type="birth" when="1714-03">
+                     <desc><placeName><settlement>Weimar</settlement></placeName></desc>
+                  </event>
+                  <event type="death" when="1788">
+                     <desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+                  </event>
+                  <occupation>Komponist</occupation>
+                  <note type="bioSummary"/>
+                  <idno type="GND">118505505</idno>
+                  <idno type="WeGA"/>
+                  <persName type="sigla" subtype="Kast"/>
+                  <persName type="sigla" subtype="Blechschmidt"/>
+                  <persName type="sigla" subtype="Dürr"/>
+                  <persName type="sigla" subtype="Kobayashi"/>
+                  <persName type="sigla" subtype="misc"/>
+               </person>
+               <person role="poet" sex="1">
+                  <persName type="reg" key="C0001"><surname>Cramer</surname>, <forename>Johann
+                        Andreas</forename></persName>
+                  <persName type="full"><forename>Johann
+                     Andreas</forename><surname>Cramer</surname></persName>
+                  <event type="birth" when="1723-01-27">
+                     <desc><placeName><settlement>Jöhstadt</settlement></placeName></desc>
+                  </event>
+                  <event type="death" when="1788-06-12">
+                     <desc><placeName><settlement>Kiel</settlement></placeName></desc>
+                  </event>
+                  <occupation>Theologe</occupation>
+                  <occupation>Schriftsteller</occupation>
+                  <occupation>Dichter</occupation>
+                  <idno type="GND">118973258</idno>
+               </person>
+               <person role="poet" sex="1">
+                  <persName type="reg" key="G0002"><surname>Gellert</surname>, <forename>Christian
+                        Fürchtegott</forename></persName>
+                  <persName type="full"><forename>Christian
+                        Fürchtegott</forename><surname>Gellert</surname></persName>
+                  <event type="birth" when="1715-07-04">
+                     <desc><placeName><settlement>Hainichen</settlement></placeName></desc>
+                  </event>
+                  <event type="death" when="1769-12-13">
+                     <desc><placeName><settlement>Lepzig</settlement></placeName></desc>
+                  </event>
+                  <occupation>Philosoph</occupation>
+                  <occupation>Moralphilosoph</occupation>
+                  <occupation>Dichter</occupation>
+                  <idno type="GND">118538322</idno>
+               </person>
+               <person role="god">
+                  <persName type="reg" key="G0001">Gott</persName>
+                  <persName type="full">JHWH</persName>
+                  <occupation>Gott</occupation>
+                  <idno type="GND">118556703</idno>
+               </person>
+               <person role="patriarch" sex="1">
+                  <persName type="reg" key="J0002">Jakob</persName>
+                  <persName type="alt">Israel</persName>
+                  <occupation>Erzvater</occupation>
+               </person>
+               <person role="god" sex="1">
+                  <persName type="reg" key="J0001">Jesus Christus</persName>
+                  <persName type="full">Jesus von Nazareth</persName>
+                  <occupation>Messias</occupation>
+                  <occupation>Gott</occupation>
+                  <occupation>Heiland</occupation>
+                  <occupation>Sohn Gottes</occupation>
+                  <idno type="GND">118557513</idno>
+               </person>
+               <person role="patriarch" sex="1">
+                  <persName type="reg" key="L0001">Levi</persName>
+                  <occupation>Erzvater</occupation>
+               </person>
+               <person role="king" sex="1">
+                  <persName type="reg" key="M0001">Melchisedek</persName>
+                  <occupation>alttestamentlicher König</occupation>
+               </person>
+               <person role="prophet" sex="1">
+                  <persName type="reg" key="M0002">Moses</persName>
+                  <persName type="alt">Mose</persName>
+                  <occupation>Prophet des Alten Testaments</occupation>
+               </person>
+               <person role="apostle" sex="1">
+                  <persName type="reg" key="P0001">Petrus</persName>
+                  <persName type="full">Simon Petrus</persName>
+                  <occupation>Jünger Jesu</occupation>
+                  <occupation>Apostel</occupation>
+               </person>
+               <person role="prophet" sex="1">
+                  <persName type="reg" key="S0001">Samuel</persName>
+                  <occupation>alttestamentlicher Prophet</occupation>
+               </person>
+               <person role="prophet" sex="1">
+                  <persName type="reg" key="S0002">Simeon</persName>
+                  <occupation>Prophet des Neuen Testaments</occupation>
+               </person>
+               <person role="poet" sex="1">
+                  <persName type="reg" key="S0001"><surname>Sturm</surname>, <forename>Christoph
+                        Christian</forename></persName>
+                  <persName type="full"><forename>Christoph
+                        Christian</forename><surname>Sturm</surname></persName>
+                  <event type="birth" when="1740-01-25">
+                     <desc><placeName><settlement>Augsburg</settlement></placeName></desc>
+                  </event>
+                  <event type="death" when="1786-08-26">
+                     <desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+                  </event>
+                  <occupation>Theologe</occupation>
+                  <occupation>Komponist</occupation>
+                  <idno type="GND">118158651</idno>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2014-03-05" who="RL">encoding started</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="lied">
+      <body>
+         <pb n="11" ed="CPEB1792"/>
+         <!-- Seitenzahl Quelle eins-->
+         <div type="chorale">
+            <head type="title">Das wohltäthige Leben Jeſu.</head>
+            <lg>
+               <l>Zu dir erhebt ſich mein Gemüthe,</l>
+               <l>Du Freund der Menſchen, <rs type="person" key="J0001">Jeſu Chriſt</rs>!</l>
+               <l>Der du durch Wohlthun und durch Güte</l>
+               <l>Der Welt ein Beyſpiel worden biſt.</l>
+               <l>Du lebteſt Sündern nur zum Beſten;</l>
+               <l>Sie zu befreyen und zu tröſten,</l>
+               <l>Entſagteſt du der Herrlichkeit.</l>
+               <l>Nur wohlzuthun, war dein Beſtreben:</l>
+               <l>Der Zweck von deinem ganzen Leben</l>
+               <l>War deiner Menſchen Seligkeit.</l>
+            </lg>
+            <lg>
+               <l>Nicht ſchrecklich waren deine Werke</l>
+               <l>Und nicht den Sündern zum Gericht.</l>
+               <l>Du warſt der blöden Seelen Stärke</l>
+               <l>Und der Bedrängten Zuverſicht.</l>
+               <l>Dein Blick war, wie dein Herz, voll Güte:</l>
+               <l>Dein Mund verhieß den Sündern Friede</l>
+               <l>Und deine Hand gab Armen Brod.</l>
+               <l>Du ſahſt die Thränen der Betrübten,</l>
+               <l>Die Sehnſucht derer, die dich liebten:</l>
+               <l>Auf deinen Wink entfloh der Tod.</l>
+            </lg>
+            <lg>
+               <l>Du fühlteſt deiner Freunde Leiden</l>
+               <l>Mehr, als du deine Noth empfandſt.</l>
+               <l>Du ſchmeckteſt nichts von Ruh und Freuden,</l>
+               <l>So oft du Menſchen leidend fandſt.</l>
+               <l>Auch ſelbſt mit Schwächung deiner Kräfte,</l>
+               <l>War es dein tägliches Geſchäfte,</l>
+               <l>Als Menſchenfreund umher zu ziehn.</l>
+               <l>Eh noch ein Leidender es wagte,</l>
+               <l>Und dir ſein Elend thränend klagte,</l>
+               <l>Erquickte ſchon dein Beyſtand ihn.</l>
+            </lg>
+            <lg>
+               <l>Errettung, Nachſicht und Erbarmen</l>
+               <l>Fand jeder, der ſich dir genaht.</l>
+               <l>Mitleidig ſchenkteſt du den Armen</l>
+               <l>Die Hülfe, die er ſich erbath.</l>
+               <l>Dem Lahmen ſtärkteſt du die Glieder:</l>
+               <l>Dem Stummen kam die Sprache wieder,</l>
+               <l>Dir dankten Blinde das Geſicht.</l>
+               <l>Nie wurdeſt du des Wohlthuns müde:</l>
+               <l>Die Sünder fühlten Ruh und Friede</l>
+               <l>Und glaubten und verzagten nicht.</l>
+            </lg>
+            <lg>
+               <l>Herr, wo du giengſt, auf jedem Schritte</l>
+               <l>Da folgten Lieb und Mitleid nach.</l>
+               <l>Sie folgten in des Reichen Hütte</l>
+               <l>Und unter der Verlaßnen Dach.</l>
+               <l>Der Tempel, wie die öden Wälder,</l>
+               <l>Die Städte, wie die freyen Felder,</l>
+               <l>Empfand deine Gütigkeit.</l>
+               <l>Wo Kummer war, warſt du zugegen;</l>
+               <l>Dein holder Zuſpruch und dein Segen</l>
+               <l>Vertrieb des Leidens Bitterkeit.</l>
+            </lg>
+            <lg>
+               <l>So giengſt du ſtille auf deinem Pfade</l>
+               <l>Dem dir beſtimmten Tode zu.</l>
+               <l>Noch war in deinen Blicken Gnade,</l>
+               <l>In deiner Seele Himmelſruh.</l>
+               <l>Auch dann, als Schrecken und Gefahren</l>
+               <l>Von allen Seiten nahe waren,</l>
+               <l>Verließ dich nicht dein Edelmuth.</l>
+               <l>Du bliebſt ein Schutzgott deiner Freunde,</l>
+               <l>Bliebſt ein Erbarmer deiner Feinde</l>
+               <l>Und liebteſt ſie bey ihrer Wuth.</l>
+            </lg>
+            <lg>
+               <l>O <rs type="person" key="J0001">Jeſu</rs>! wäre doch mein Leben</l>
+               <l>Dem deinen gleich! Wär ich, wie du,</l>
+               <l>So ganz der Menſchenlieb ergeben,</l>
+               <l>So ſanft, ſo mitleidvoll, wie du!</l>
+               <l>O pflanz in mich die holden Triebe</l>
+               <l>Des Mitleids und der Menſchenliebe,</l>
+               <l>Und gieb mir deinen edlen Sinn.</l>
+               <l>So zier ich, <rs type="person" key="J0001">Jeſu</rs>, deine Lehre:</l>
+               <l>So krönet mich dereinſt die Ehre,</l>
+               <l>Daß ich dein Kind und Erbe bin.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

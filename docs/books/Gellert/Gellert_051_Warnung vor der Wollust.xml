@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"?><?xml-stylesheet type="text/xsl" href="base.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title> Gellert: Warnung vor der Wollust</title>
+				<!--Arbeitstitel-->
+			</titleStmt>
+			<publicationStmt>
+				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
+					<rs type="person" key="G0002">C. F. Gellert</rs>.<lb/>
+					Mit allergnädigsten Freyheiten.<lb/>
+					<hi rend="spaced_out"><placeName>Leipzig</placeName>,</hi><lb/>
+					in der Weidmannischen Handlung, <date when="1757">1757</date>.</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Bach-Repertorium, Kantatendatenbank</p>
+			</projectDesc>
+		</encodingDesc>
+		<profileDesc>
+			<particDesc>
+				<listPerson>
+					<!--alphabetische Liste der Personen-->
+					<!--Aaron - A0001-->
+					<!--Abraham - A0002-->
+					<!--Adam - A0003-->
+					<!--Bach, Carl Philipp Emanuel - B0001-->
+					<!--Cramer, Johann Andreas - C0001-->
+					<!--Gellert, Christian Fürchtegott - G0002-->
+					<!--Gott - G0001-->
+					<!--Jakob - J0002-->
+					<!--Jesus Christus - J0001-->
+					<!--Levi - L0001-->
+					<!--Melchisedek - M0001-->
+					<!--Moses - M0002-->
+					<!--Petrus, Simon - P0001-->
+					<!--Samuel - S0001-->
+					<!--Simeon - S0002-->
+					<!--Sturm, Christoph Christian - S0001-->
+					<person role="priest" sex="1">
+						<persName type="reg" key="A0002">Aaron</persName>
+						<occupation>erster Priester</occupation>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="A0001">Abraham</persName>
+						<persName type="alt">Abram</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="first man" sex="1">
+						<persName type="reg" key="A0003">Adam</persName>
+						<occupation>Erster Mensch</occupation>
+					</person>
+					<person role="composer scribe" sex="1" source="Bach">
+						<persName type="reg" key="B0001"><surname>Bach</surname>, <forename>Carl
+								Philipp Emanuel</forename></persName>
+						<persName type="full"><forename>Carl Philipp Emanuel</forename>
+							<surname>Bach</surname></persName>
+						<event type="birth" when="1714-03">
+							<desc><placeName><settlement>Weimar</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Komponist</occupation>
+						<note type="bioSummary"/>
+						<idno type="GND">118505505</idno>
+						<idno type="WeGA"/>
+						<persName type="sigla" subtype="Kast"/>
+						<persName type="sigla" subtype="Blechschmidt"/>
+						<persName type="sigla" subtype="Dürr"/>
+						<persName type="sigla" subtype="Kobayashi"/>
+						<persName type="sigla" subtype="misc"/>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="C0001"><surname>Cramer</surname>, <forename>Johann
+								Andreas</forename></persName>
+						<persName type="full"><forename>Johann
+								Andreas</forename><surname>Cramer</surname></persName>
+						<event type="birth" when="1723-01-27">
+							<desc><placeName><settlement>Jöhstadt</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788-06-12">
+							<desc><placeName><settlement>Kiel</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Schriftsteller</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118973258</idno>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="G0002"><surname>Gellert</surname>,
+								<forename>Christian Fürchtegott</forename></persName>
+						<persName type="full"><forename>Christian
+								Fürchtegott</forename><surname>Gellert</surname></persName>
+						<event type="birth" when="1715-07-04">
+							<desc><placeName><settlement>Hainichen</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1769-12-13">
+							<desc><placeName><settlement>Lepzig</settlement></placeName></desc>
+						</event>
+						<occupation>Philosoph</occupation>
+						<occupation>Moralphilosoph</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118538322</idno>
+					</person>
+					<person role="god">
+						<persName type="reg" key="G0001">Gott</persName>
+						<persName type="full">JHWH</persName>
+						<occupation>Gott</occupation>
+						<idno type="GND">118556703</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="J0002">Jakob</persName>
+						<persName type="alt">Israel</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="god" sex="1">
+						<persName type="reg" key="J0001">Jesus Christus</persName>
+						<persName type="full">Jesus von Nazareth</persName>
+						<occupation>Messias</occupation>
+						<occupation>Gott</occupation>
+						<occupation>Heiland</occupation>
+						<occupation>Sohn Gottes</occupation>
+						<idno type="GND">118557513</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="L0001">Levi</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="king" sex="1">
+						<persName type="reg" key="M0001">Melchisedek</persName>
+						<occupation>alttestamentlicher König</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="M0002">Moses</persName>
+						<persName type="alt">Mose</persName>
+						<occupation>Prophet des Alten Testaments</occupation>
+					</person>
+					<person role="apostle" sex="1">
+						<persName type="reg" key="P0001">Petrus</persName>
+						<persName type="full">Simon Petrus</persName>
+						<occupation>Jünger Jesu</occupation>
+						<occupation>Apostel</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0001">Samuel</persName>
+						<occupation>alttestamentlicher Prophet</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0002">Simeon</persName>
+						<occupation>Prophet des Neuen Testaments</occupation>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="S0001"><surname>Sturm</surname>,
+								<forename>Christoph Christian</forename></persName>
+						<persName type="full"><forename>Christoph
+								Christian</forename><surname>Sturm</surname></persName>
+						<event type="birth" when="1740-01-25">
+							<desc><placeName><settlement>Augsburg</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1786-08-26">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Komponist</occupation>
+						<idno type="GND">118158651</idno>
+					</person>
+				</listPerson>
+			</particDesc>
+		</profileDesc>
+	</teiHeader>
+	<text type="lied">
+		<body>
+			<pb n="51"/>
+			<pb n="34" ed="CPEB1758"/>
+			<div type="chorale">
+				<head type="title">Warnung vor der Wolluſt.</head>
+				<lg>
+					<l>Der Wolluſt Reiz zu widerſtreben,</l>
+					<l>Dieß, Jugend, liebſt du Glück und Leben,</l>
+					<l>Laß täglich deine Weiſheit ſeyn.</l>
+					<l>Entflieh der ſchmeichelnden Begierde;</l>
+					<l>Sie raubet dir des Herzens Zierde,</l>
+					<l>Und ihre Freuden werden Pein.</l>
+				</lg>
+				<lg>
+					<l>Laß, ihr die Nahrung zu verwehren,</l>
+					<l>Nie Speis und Trank dein Herz beſchweren,</l>
+					<l>Und ſey ein Freund der Nüchternheit.</l>
+					<l>Verſage dir, dich zu beſiegen,</l>
+					<l>Auch öfters ein erlaubt Vergnügen,</l>
+					<l>Und ſteure deiner Sinnlichkeit.</l>
+				</lg>
+				<lg>
+					<l>Laß nicht dein Auge dir gebieten;</l>
+					<l>Und ſey, die Wolluſt zu verhüten,</l>
+					<l>Stets ſchamhaft gegen deinen Leib.</l>
+					<l>Entflieh des Witzlings freyen Scherzen,</l>
+					<l> Und ſuch im Umgang edler <choice>
+							<orig>Herzen</orig>
+							<reg>Herzen,</reg>
+						</choice>
+					</l>
+					<l>Dir Beyſpiel, Witz und Zeitvertreib.</l>
+				</lg>
+				<pb n="35" ed="CPEB1758"/>
+				<lg>
+					<l>Der Menſch, zu Fleiß und Arbeit träge,</l>
+					<l>Fällt auf des Müßigganges Wege</l>
+					<l>Leicht in das Netz des Böſewichts.</l>
+					<l>Der Unſchuld Schutzwehr ſind Geſchäffte.</l>
+					<l>Entzieh der Wolluſt ihre Kräfte</l>
+					<l>Im Schweiße deines Angeſichts.</l>
+				</lg>
+				<pb n="52"/>
+				<lg>
+					<l>Erwacht ihr Trieb, dich zu bekämpfen:</l>
+					<l>So wach auch du, ihn früh zu dämpfen,</l>
+					<l>Eh er die Freyheit dir verwehrt.</l>
+					<l>Ihn bald in der Geburt erſticken,</l>
+					<l>Iſt leicht; ſchwer iſt's, ihn unterdrücken,</l>
+					<l>Wenn ihn dein Herz zuvor genährt.</l>
+				</lg>
+				<lg>
+					<l>Oft kleiden ſich des Laſters Triebe</l>
+					<l>In die Geſtalt erlaubter Liebe,</l>
+					<l>Und du erblickſt nicht die Gefahr.</l>
+					<l>Ein langer Umgang macht dich freyer;</l>
+					<l>Und oft wird ein verbotnes Feuer</l>
+					<l>Aus dem, was anfangs Freundſchaft war.</l>
+				</lg>
+				<lg>
+					<l>Dein fühlend Herz wird ſichs verzeihen,</l>
+					<l>Es wird des Laſters Auſbruch ſcheuen,</l>
+					<l>Indem es ſeinen Trieb ernährt.</l>
+					<l>Du wirſt dich ſtark und ſicher glauben,</l>
+					<l>Und kleine Fehler dir erlauben,</l>
+					<l>Bis deine Tugend ſich entehrt.</l>
+				</lg>
+				<lg>
+					<l>Doch nein, du ſollſt ſie nicht entehren,</l>
+					<l>Du ſollſt dir ſtets die That verwehren.</l>
+					<l>Iſt drum dein Herz ſchon tugendhaft?</l>
+					<l>Iſts Sünde nur, die That vollbringen?</l>
+					<l>Sollſt du nicht auch den Trieb bezwingen,</l>
+					<l>Nicht auch den Wunſch der Leidenſchaft?</l>
+				</lg>
+				<pb n="53"/>
+				<lg>
+					<l>Begierden ſind es, die uns ſchänden,</l>
+					<l>Und ohne daß wir ſie vollenden,</l>
+					<l>Verletzen wir ſchon unſre Pflicht.</l>
+					<l>Wenn du vor ihnen nicht errötheſt,</l>
+					<l>Nicht durch den Geiſt die Lüſte tödteſt:</l>
+					<l>So rühme dich der Keuſchheit nicht.</l>
+				</lg>
+				<lg>
+					<l>Erfülle dich, ſcheinſt du zu wanken,</l>
+					<l>Oft mit dem mächtigen Gedanken:</l>
+					<l>Die Unſchuld iſt der Seele Glück.</l>
+					<l>Einmal verſcherzt und aufgegeben,</l>
+					<l>Verläſst ſie mich im ganzen Leben,</l>
+					<l>Und keine Reu bringt ſie zurück.</l>
+				</lg>
+				<lg>
+					<l>Denk oft bey dir: Der Wolluſt Bande</l>
+					<l>Sind nicht nur dem Gewiſsen Schande,</l>
+					<l>Sie ſind auch vor der Welt ein Spott.</l>
+					<l>Und könnt ich auch in Finſterniſsen</l>
+					<l> Den Greul der Wolluſt ihr <choice>
+							<orig>verſchließen:</orig>
+							<reg>verſchlieſsen:</reg>
+						</choice>
+					</l>
+					<l>So ſieht und findet mich doch <rs type="person" key="G0001">Gott</rs>.</l>
+				</lg>
+				<lg>
+					<l>Die Wolluſt kürzt des Lebens Tage</l>
+					<l>Und Seuchen werden ihre Plage,</l>
+					<l>Da Keuſchheit Heil und Leben erbt.</l>
+					<l>Ich will mir dieß ihr Glück erwerben.</l>
+					<l>Den wird <rs type="person" key="G0001">Gott</rs> wiederum verderben,</l>
+					<l>Wer ſeinen Tempel hier verderbt.</l>
+				</lg>
+				<pb n="54"/>
+				<lg>
+					<l>Wie blühte nicht des Jünglings Jugend!</l>
+					<l>Doch er vergaß den Weg der Tugend;</l>
+					<l>Und ſeine Kräfte ſind verzehrt.</l>
+					<l>Verweſung ſchändet ſein Geſichte</l>
+					<l>Und predigt ſchrecklich die Geſchichte</l>
+					<l>Der Lüſte, die den Leib verheert.</l>
+				</lg>
+				<lg>
+					<l>So rächt die Wolluſt an den Frechen</l>
+					<l>Früh oder ſpäter die Verbrechen,</l>
+					<l>Und züchtigt dich mit harter Hand.</l>
+					<l>Ihr Gift wird dein Gewiſsen quälen,</l>
+					<l>Sie raubet dir das Licht der Seelen,</l>
+					<l>Und lohnet dir mit Unverſtand.</l>
+				</lg>
+				<lg>
+					<l>Sie raubt dem Herzen Muth und Stärke,</l>
+					<l>Raubt ihm den Eifer edler Werke,</l>
+					<l>Den Adel, welchen <rs type="person" key="G0001">Gott</rs> ihm gab;</l>
+					<l>Und unter deiner Lüſte Bürde</l>
+					<l>Sinkſt du von eines Menſchen Würde</l>
+					<l>Zur Niedrigkeit des Thiers herab.</l>
+				</lg>
+				<lg>
+					<l>Drum fliehe vor der Wolluſt Pfade,</l>
+					<l>Und wach, und rufe <rs type="person" key="G0001">Gott</rs> um Gnade,</l>
+					<l>Um Weiſheit in Verſuchung an.</l>
+					<l>Erzittre vor dem erſten Schritte;</l>
+					<l>Mit ihm ſind ſchon die andern Tritte</l>
+					<l>Zu einem nahen Fall gethan.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

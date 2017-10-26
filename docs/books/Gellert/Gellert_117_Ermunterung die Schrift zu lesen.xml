@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"?><?xml-stylesheet type="text/xsl" href="base.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title> Gellert: Ermunterung die Schrift zu lesen</title>
+				<!--Arbeitstitel-->
+			</titleStmt>
+			<publicationStmt>
+				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
+					<rs type="person" key="G0002">C. F. Gellert</rs>.<lb/>
+					Mit allergnädigsten Freyheiten.<lb/>
+					<hi rend="spaced_out"><placeName>Leipzig</placeName>,</hi><lb/>
+					in der Weidmannischen Handlung, <date when="1757">1757</date>.</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Bach-Repertorium, Kantatendatenbank</p>
+			</projectDesc>
+		</encodingDesc>
+		<profileDesc>
+			<particDesc>
+				<listPerson>
+					<!--alphabetische Liste der Personen-->
+					<!--Aaron - A0001-->
+					<!--Abraham - A0002-->
+					<!--Adam - A0003-->
+					<!--Bach, Carl Philipp Emanuel - B0001-->
+					<!--Cramer, Johann Andreas - C0001-->
+					<!--Gellert, Christian Fürchtegott - G0002-->
+					<!--Gott - G0001-->
+					<!--Jakob - J0002-->
+					<!--Jesus Christus - J0001-->
+					<!--Levi - L0001-->
+					<!--Melchisedek - M0001-->
+					<!--Moses - M0002-->
+					<!--Petrus, Simon - P0001-->
+					<!--Samuel - S0001-->
+					<!--Simeon - S0002-->
+					<!--Sturm, Christoph Christian - S0001-->
+					<person role="priest" sex="1">
+						<persName type="reg" key="A0002">Aaron</persName>
+						<occupation>erster Priester</occupation>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="A0001">Abraham</persName>
+						<persName type="alt">Abram</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="first man" sex="1">
+						<persName type="reg" key="A0003">Adam</persName>
+						<occupation>Erster Mensch</occupation>
+					</person>
+					<person role="composer scribe" sex="1" source="Bach">
+						<persName type="reg" key="B0001"><surname>Bach</surname>, <forename>Carl
+								Philipp Emanuel</forename></persName>
+						<persName type="full"><forename>Carl Philipp Emanuel</forename>
+							<surname>Bach</surname></persName>
+						<event type="birth" when="1714-03">
+							<desc><placeName><settlement>Weimar</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Komponist</occupation>
+						<note type="bioSummary"/>
+						<idno type="GND">118505505</idno>
+						<idno type="WeGA"/>
+						<persName type="sigla" subtype="Kast"/>
+						<persName type="sigla" subtype="Blechschmidt"/>
+						<persName type="sigla" subtype="Dürr"/>
+						<persName type="sigla" subtype="Kobayashi"/>
+						<persName type="sigla" subtype="misc"/>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="C0001"><surname>Cramer</surname>, <forename>Johann
+								Andreas</forename></persName>
+						<persName type="full"><forename>Johann
+								Andreas</forename><surname>Cramer</surname></persName>
+						<event type="birth" when="1723-01-27">
+							<desc><placeName><settlement>Jöhstadt</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788-06-12">
+							<desc><placeName><settlement>Kiel</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Schriftsteller</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118973258</idno>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="G0002"><surname>Gellert</surname>,
+								<forename>Christian Fürchtegott</forename></persName>
+						<persName type="full"><forename>Christian
+								Fürchtegott</forename><surname>Gellert</surname></persName>
+						<event type="birth" when="1715-07-04">
+							<desc><placeName><settlement>Hainichen</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1769-12-13">
+							<desc><placeName><settlement>Lepzig</settlement></placeName></desc>
+						</event>
+						<occupation>Philosoph</occupation>
+						<occupation>Moralphilosoph</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118538322</idno>
+					</person>
+					<person role="god">
+						<persName type="reg" key="G0001">Gott</persName>
+						<persName type="full">JHWH</persName>
+						<occupation>Gott</occupation>
+						<idno type="GND">118556703</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="J0002">Jakob</persName>
+						<persName type="alt">Israel</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="god" sex="1">
+						<persName type="reg" key="J0001">Jesus Christus</persName>
+						<persName type="full">Jesus von Nazareth</persName>
+						<occupation>Messias</occupation>
+						<occupation>Gott</occupation>
+						<occupation>Heiland</occupation>
+						<occupation>Sohn Gottes</occupation>
+						<idno type="GND">118557513</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="L0001">Levi</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="king" sex="1">
+						<persName type="reg" key="M0001">Melchisedek</persName>
+						<occupation>alttestamentlicher König</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="M0002">Moses</persName>
+						<persName type="alt">Mose</persName>
+						<occupation>Prophet des Alten Testaments</occupation>
+					</person>
+					<person role="apostle" sex="1">
+						<persName type="reg" key="P0001">Petrus</persName>
+						<persName type="full">Simon Petrus</persName>
+						<occupation>Jünger Jesu</occupation>
+						<occupation>Apostel</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0001">Samuel</persName>
+						<occupation>alttestamentlicher Prophet</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0002">Simeon</persName>
+						<occupation>Prophet des Neuen Testaments</occupation>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="S0001"><surname>Sturm</surname>,
+								<forename>Christoph Christian</forename></persName>
+						<persName type="full"><forename>Christoph
+								Christian</forename><surname>Sturm</surname></persName>
+						<event type="birth" when="1740-01-25">
+							<desc><placeName><settlement>Augsburg</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1786-08-26">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Komponist</occupation>
+						<idno type="GND">118158651</idno>
+					</person>
+				</listPerson>
+			</particDesc>
+		</profileDesc>
+	</teiHeader>
+	<text type="lied">
+		<body>
+			<pb n="117"/>
+			<pb n="32" ed="CPEB1758"/>
+			<div type="chorale">
+				<head type="title">Ermunterung die Schrift zu leſen.</head>
+				<lg>
+					<l>Soll dein verderbtes Herz zur Heiligung geneſen,</l>
+					<l>Chriſt, ſo versäume nicht, das Wort des <rs type="person" key="G0001"
+							>Herrn</rs> zu leſen;</l>
+					<l>Bedenke, daß dieß Wort das Heil der ganzen Welt,</l>
+					<l>Den Rath der Seligkeit, den Geiſt aus <rs type="person" key="G0001">Gott</rs>
+						enthält.</l>
+				</lg>
+				<lg>
+					<l>Merk auf, als ob dir <rs type="person" key="G0001">Gott</rs>, dein <rs
+							type="person" key="G0001">Gott</rs>, gerufen hätte;</l>
+					<l>Merk auf, als ob er ſelbſt zu dir vom Himmel redte!</l>
+					<l>So lies! Mit Ehrfurcht lies, mit Luſt und mit Vertraun,</l>
+					<l>Und mit dem frommen Ernſt, in <rs type="person" key="G0001">Gott</rs> dich zu
+						erbaun.</l>
+				</lg>
+				<lg>
+					<l>Sprich fromm: O <rs type="person" key="G0001">Gott</rs>, vor dem ich meine
+						Hände falte,</l>
+					<l>Gieb, daß ich dein Gebot für dein Wort ewig halte;</l>
+					<l>Und laß mich deinen Rath empfindungſvoll verſtehn,</l>
+					<l>Die Wunder am Geſetz, am Wort vom Kreuze ſehn!</l>
+				</lg>
+				<pb n="118"/>
+				<lg>
+					<l> Er, aller <choice>
+							<orig>Wahrheit</orig>
+							<reg>Weiſheit</reg>
+						</choice>
+						<rs type="person" key="G0001">Gott</rs>, kann dich nicht irren laſsen. </l>
+					<l>Lies, Chriſt, ſein heilig Buch, lies oft; du wirſt es faſsen,</l>
+					<l>So viel dein Heil verlangt. <rs type="person" key="G0001">Gott</rs> iſts, der
+						Weiſheit giebt,</l>
+					<l>Wenn man ſie redlich ſucht und aus Gewiſsen liebt.</l>
+				</lg>
+				<lg>
+					<l>Lies, frey von Leidenſchaft und ledig von Geſchäften,</l>
+					<l>Und ſammle deinen Geiſt mit allen ſeinen Kräften.</l>
+					<l>Der beſte Theil des Tags, des Morgens Heiterkeit,</l>
+					<l>Und dann der Tag des <rs type="person" key="G0001">Herrn</rs>, der ſey der
+						Schrift geweiht.</l>
+				</lg>
+				<lg>
+					<l>Rührt dich ein ſtarker Spruch: ſo ruf ihn, dir zum Glücke,</l>
+					<l>Des Tags oft in dein Herz, im Stillen oft, zurücke.</l>
+					<l>Empfinde ſeinen Geiſt, und ſtärke dich durch ihn</l>
+					<l>Zum wahren Edelmuth, das Gute zu vollziehn.</l>
+				</lg>
+				<pb n="119"/>
+				<lg>
+					<l>Um tugendhaft zu ſeyn, dazu ſind wir auf Erden.</l>
+					<l>Thu, was die Schrift gebeut; dann wirſt du inne werden,</l>
+					<l>Die Lehre ſey von <rs type="person" key="G0001">Gott</rs>, die dir verkündigt
+						iſt,</l>
+					<l>Und dann das Wort verſtehn, dem du gehorſam biſt.</l>
+				</lg>
+				<lg>
+					<l>Spricht ſie geheimniſvoll: ſo laß dich dieß nicht ſchrecken.</l>
+					<l>Ein endlicher Verſtand kann <rs type="person" key="G0001">Gott</rs> nie ganz
+						entdecken;</l>
+					<l><rs type="person" key="G0001">Gott</rs> bleibt unendlich hoch. Wenn er ſich
+						dir erklärt:</l>
+					<l>So glaube, was er ſpricht, nicht was dein Witz begehrt.</l>
+				</lg>
+				<lg>
+					<l>Sich ſeines ſchwachen Lichts bey <rs type="person" key="G0001">Gottes</rs>
+						Licht nicht ſchämen,</l>
+					<l>Iſt Ruhm; und die Vernunft alſdenn gefangen nehmen,</l>
+					<l>Wenn <rs type="person" key="G0001">Gott</rs> ſich offenbart, iſt der
+						Geſchöpfe Pflicht;</l>
+					<l>Und weiſe Demuth iſts, das glauben, was <rs type="person" key="G0001"
+							>Gott</rs> ſpricht.</l>
+				</lg>
+				<pb n="120"/>
+				<lg>
+					<l>Drum laß dich, frommer Chriſt, durch keine Zweifel kränken.</l>
+					<l>Hier biſt du Kind; doch dort wird <rs type="person" key="G0001">Gott</rs>
+						mehr Licht dir ſchenken.</l>
+					<l>Dort wächſt mit deinem Glück dein Licht in Ewigkeit;</l>
+					<l>Dort iſt die Zeit des Schauns, und hier des Glaubens Zeit.</l>
+				</lg>
+				<lg>
+					<l>Verehre ſtets die Schrift; und ſiehſt du Dunkelheiten:</l>
+					<l>So laß dich deinen Freund, der mehr als du ſieht, leiten.</l>
+					<l>Ein forſchender Verſtand, der ſich der Schrift geweiht,</l>
+					<l>Ein angefochtnes Herz, hebt manche Dunkelheit.</l>
+				</lg>
+				<lg>
+					<l><anchor subtype="resurrection_start" type="resurrection"/>Halt feſt an <rs
+							type="person" key="G0001">Gottes</rs> Wort; es iſt dein Glück auf
+						Erden</l>
+					<l>Und wird, ſo wahr <rs type="person" key="G0001">Gott</rs> iſt, dein Glück im
+						Himmel werden.<anchor subtype="resurrection_end" type="resurrection"/></l>
+					<l>Verachte chriſtlich groß des Bibelfeindes Spott;</l>
+					<l>Die Lehre, die er ſchmäht, bleibt doch das Wort aus <rs type="person"
+							key="G0001">Gott</rs>.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

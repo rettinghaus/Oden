@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"?>
+<?xml-stylesheet type="text/xsl" href="base.xsl"?>
+<TEI xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>
+					XXX
+				</title>
+				<author type="text">
+					unknown
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Sächsische Akademie der Wissenschaften zu Leipzig
+				</authority>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="book" xml:id="VD18:11043652-002" style="text-align: center">
+					<lb />
+					Zwölf geistliche Oden und Lieder
+					<lb />
+					als ein Anhang
+					<lb />
+					zu Gellerts geistlichen Oden und Liedern
+					<lb />
+					mit Melodien
+					<lb />
+					von
+					<lb />
+					Carl Philipp Emanuel Bach.
+					<lb />
+					Zweyte Auflage.
+					<lb />
+					Berlin, gedruckt und zu finden bey George Ludewig Winter
+					<date when="1771">1771</date>
+					.
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Bach-Repertorium, Kantatendatenbank</p>
+			</projectDesc>
+		</encodingDesc>
+		<revisionDesc>
+			<change when="2013-03-11" who="RL">encoding started</change>
+		</revisionDesc>
+	</teiHeader>
+
+	<text type="lied">
+		<body>
+			<pb n="XX" ed="CPEB1771" />
+			<div type="chorale">
+				<head type="title">XXX.</head>
+				<lg>
+					<l></l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

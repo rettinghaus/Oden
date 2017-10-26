@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"?><?xml-stylesheet type="text/xsl" href="base.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title> Gellert: Gottes Macht und Vorsehung</title>
+				<!--Arbeitstitel-->
+			</titleStmt>
+			<publicationStmt>
+				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
+					<rs type="person" key="G0002">C. F. Gellert</rs>.<lb/>
+					Mit allergnädigsten Freyheiten.<lb/>
+					<hi rend="spaced_out"><placeName>Leipzig</placeName>,</hi><lb/>
+					in der Weidmannischen Handlung, <date when="1757">1757</date>.</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Bach-Repertorium, Kantatendatenbank</p>
+			</projectDesc>
+		</encodingDesc>
+		<profileDesc>
+			<particDesc>
+				<listPerson>
+					<!--alphabetische Liste der Personen-->
+					<!--Aaron - A0001-->
+					<!--Abraham - A0002-->
+					<!--Adam - A0003-->
+					<!--Bach, Carl Philipp Emanuel - B0001-->
+					<!--Cramer, Johann Andreas - C0001-->
+					<!--Gellert, Christian Fürchtegott - G0002-->
+					<!--Gott - G0001-->
+					<!--Jakob - J0002-->
+					<!--Jesus Christus - J0001-->
+					<!--Levi - L0001-->
+					<!--Melchisedek - M0001-->
+					<!--Moses - M0002-->
+					<!--Petrus, Simon - P0001-->
+					<!--Samuel - S0001-->
+					<!--Simeon - S0002-->
+					<!--Sturm, Christoph Christian - S0001-->
+					<person role="priest" sex="1">
+						<persName type="reg" key="A0002">Aaron</persName>
+						<occupation>erster Priester</occupation>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="A0001">Abraham</persName>
+						<persName type="alt">Abram</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="first man" sex="1">
+						<persName type="reg" key="A0003">Adam</persName>
+						<occupation>Erster Mensch</occupation>
+					</person>
+					<person role="composer scribe" sex="1" source="Bach">
+						<persName type="reg" key="B0001"><surname>Bach</surname>, <forename>Carl
+								Philipp Emanuel</forename></persName>
+						<persName type="full"><forename>Carl Philipp Emanuel</forename>
+							<surname>Bach</surname></persName>
+						<event type="birth" when="1714-03">
+							<desc><placeName><settlement>Weimar</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Komponist</occupation>
+						<note type="bioSummary"/>
+						<idno type="GND">118505505</idno>
+						<idno type="WeGA"/>
+						<persName type="sigla" subtype="Kast"/>
+						<persName type="sigla" subtype="Blechschmidt"/>
+						<persName type="sigla" subtype="Dürr"/>
+						<persName type="sigla" subtype="Kobayashi"/>
+						<persName type="sigla" subtype="misc"/>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="C0001"><surname>Cramer</surname>, <forename>Johann
+								Andreas</forename></persName>
+						<persName type="full"><forename>Johann
+								Andreas</forename><surname>Cramer</surname></persName>
+						<event type="birth" when="1723-01-27">
+							<desc><placeName><settlement>Jöhstadt</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788-06-12">
+							<desc><placeName><settlement>Kiel</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Schriftsteller</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118973258</idno>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="G0002"><surname>Gellert</surname>,
+								<forename>Christian Fürchtegott</forename></persName>
+						<persName type="full"><forename>Christian
+								Fürchtegott</forename><surname>Gellert</surname></persName>
+						<event type="birth" when="1715-07-04">
+							<desc><placeName><settlement>Hainichen</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1769-12-13">
+							<desc><placeName><settlement>Lepzig</settlement></placeName></desc>
+						</event>
+						<occupation>Philosoph</occupation>
+						<occupation>Moralphilosoph</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118538322</idno>
+					</person>
+					<person role="god">
+						<persName type="reg" key="G0001">Gott</persName>
+						<persName type="full">JHWH</persName>
+						<occupation>Gott</occupation>
+						<idno type="GND">118556703</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="J0002">Jakob</persName>
+						<persName type="alt">Israel</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="god" sex="1">
+						<persName type="reg" key="J0001">Jesus Christus</persName>
+						<persName type="full">Jesus von Nazareth</persName>
+						<occupation>Messias</occupation>
+						<occupation>Gott</occupation>
+						<occupation>Heiland</occupation>
+						<occupation>Sohn Gottes</occupation>
+						<idno type="GND">118557513</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="L0001">Levi</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="king" sex="1">
+						<persName type="reg" key="M0001">Melchisedek</persName>
+						<occupation>alttestamentlicher König</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="M0002">Moses</persName>
+						<persName type="alt">Mose</persName>
+						<occupation>Prophet des Alten Testaments</occupation>
+					</person>
+					<person role="apostle" sex="1">
+						<persName type="reg" key="P0001">Petrus</persName>
+						<persName type="full">Simon Petrus</persName>
+						<occupation>Jünger Jesu</occupation>
+						<occupation>Apostel</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0001">Samuel</persName>
+						<occupation>alttestamentlicher Prophet</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0002">Simeon</persName>
+						<occupation>Prophet des Neuen Testaments</occupation>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="S0001"><surname>Sturm</surname>,
+								<forename>Christoph Christian</forename></persName>
+						<persName type="full"><forename>Christoph
+								Christian</forename><surname>Sturm</surname></persName>
+						<event type="birth" when="1740-01-25">
+							<desc><placeName><settlement>Augsburg</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1786-08-26">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Komponist</occupation>
+						<idno type="GND">118158651</idno>
+					</person>
+				</listPerson>
+			</particDesc>
+		</profileDesc>
+	</teiHeader>
+	<text type="lied">
+		<body>
+			<pb n="78"/>
+			<pb n="17" ed="CPEB1758"/>
+			<div type="chorale">
+				<head type="title">Gottes Macht und Vorſehung.</head>
+				<lg>
+					<l><rs type="person" key="G0001">Gott</rs> iſt mein Lied!</l>
+					<l>Er iſt der <rs type="person" key="G0001">Gott</rs> der Stärke;</l>
+					<l>Hehr iſt ſein Nam, und groß ſind ſeine Werke,</l>
+					<l>Und alle Himmel ſein Gebiet.</l>
+				</lg>
+				<lg>
+					<l>Er will und ſprichts;</l>
+					<l>So ſind und leben Welten.</l>
+					<l>Und er gebeut; ſo fallen durch ſein Schelten</l>
+					<l>Die Himmel wieder in ihr Nichts.</l>
+				</lg>
+				<lg>
+					<l>Licht iſt ſein Kleid,</l>
+					<l>Und ſeine Wahl das Beſte.</l>
+					<l>Er herrſcht als <rs type="person" key="G0001">Gott</rs>, und ſeines Thrones
+						Feſte</l>
+					<l>Iſt Wahrheit und Gerechtigkeit.</l>
+				</lg>
+				<lg>
+					<l>Unendlich reich,</l>
+					<l>Ein Meer von Seligkeiten,</l>
+					<l>Ohn Anfang <rs type="person" key="G0001">Gott</rs>, und <rs type="person"
+							key="G0001">Gott</rs> in ewgen Zeiten!</l>
+					<l><rs type="person" key="G0001">Herr</rs> aller Welt, wer iſt dir gleich?</l>
+				</lg>
+				<lg>
+					<l>Was iſt und war,</l>
+					<l>In Himmel, Erd und Meere,</l>
+					<l>Das kennet <rs type="person" key="G0001">Gott</rs>, und ſeiner Werke
+						Heere</l>
+					<l>Sind ewig vor ihm offenbar.</l>
+				</lg>
+				<pb n="79"/>
+				<lg>
+					<l>Er iſt um mich,</l>
+					<l>
+						<choice>
+							<orig>Schafft,</orig>
+							<reg>Schaft,</reg>
+						</choice> daß ich ſicher ruhe; </l>
+					<l>Er ſchafft, was ich vor oder nachmals thue,</l>
+					<l>Und er erforſchet mich und dich.</l>
+				</lg>
+				<lg>
+					<l>Er iſt dir nah,</l>
+					<l>Du ſitzeſt oder geheſt;</l>
+					<l>Ob du ans Meer, ob du gen Himmel flöheſt:</l>
+					<l>So iſt er allenthalben da.</l>
+				</lg>
+				<lg>
+					<l>Er kennt mein Flehn</l>
+					<l>Und allen Rath der Seele.</l>
+					<l>Er weiß, wie oft ich Gutes thu und fehle,</l>
+					<l>Und eilt, mir gnädig beyzuſtehn.</l>
+				</lg>
+				<lg>
+					<l>Er wog mir dar,</l>
+					<l>Was er mir geben wollte,</l>
+					<l>Schrieb auf ſein Buch, wie lang ich leben ſollte,</l>
+					<l>Da ich noch unbereitet war.</l>
+				</lg>
+				<lg>
+					<l>Nichts, nichts iſt mein,</l>
+					<l>Das <rs type="person" key="G0001">Gott</rs> nicht angehöre.</l>
+					<l><rs type="person" key="G0001">Herr</rs>, immerdar ſoll deines Namens
+						Ehre,</l>
+					<l>Dein Lob in meinem Munde ſeyn!</l>
+				</lg>
+				<pb n="80"/>
+				<lg>
+					<l>Wer kann die Pracht</l>
+					<l> Von deinen <choice>
+							<orig>Wundern</orig>
+							<reg>Wunden</reg>
+						</choice> faſsen? </l>
+					<l>Ein jeder Staub, den du haſt werden laſsen,</l>
+					<l>Verkündigt ſeines <rs type="person" key="G0001">Schöpfers</rs> Macht.</l>
+				</lg>
+				<lg>
+					<l>Der kleinſte Halm</l>
+					<l>Iſt deiner Weiſheit Spiegel.</l>
+					<l>Du, Luft und Meer, ihr, Auen, Thal und Hügel,</l>
+					<l>Ihr ſeyd ſein Loblied und ſein Pſalm!</l>
+				</lg>
+				<lg>
+					<l>Du tränkſt das Land,</l>
+					<l>Führſt uns auf grüne Weiden;</l>
+					<l> Und Nacht und Tag, und Korn und Wein und <choice>
+							<orig>Freuden</orig>
+							<reg>Freude</reg>
+						</choice>
+					</l>
+					<l>Empfangen wir aus deiner Hand.</l>
+				</lg>
+				<lg>
+					<l>Kein Sperling fällt,</l>
+					<l>Herr, ohne deinen Willen;</l>
+					<l>Sollt ich mein Herz nicht mit dem Troſte ſtillen,</l>
+					<l>Daß deine Hand mein Leben hält?</l>
+				</lg>
+				<lg>
+					<l>Iſt <rs type="person" key="G0001">Gott</rs> mein Schutz,</l>
+					<l>Will <rs type="person" key="G0001">Gott</rs> mein Retter werden:</l>
+					<l> So frag ich nichts nach Himmel und nach <choice>
+							<orig>Erden,</orig>
+							<reg>Erden</reg>
+						</choice>
+					</l>
+					<l>Und biete ſelbſt der Hölle Trutz.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

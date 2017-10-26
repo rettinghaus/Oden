@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"?><?xml-stylesheet type="text/xsl" href="base.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title> Gellert: Das Gebet</title>
+				<!--Arbeitstitel-->
+			</titleStmt>
+			<publicationStmt>
+				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
+					<rs type="person" key="G0002">C. F. Gellert</rs>.<lb/>
+					Mit allergnädigsten Freyheiten.<lb/>
+					<hi rend="spaced_out"><placeName>Leipzig</placeName>,</hi><lb/>
+					in der Weidmannischen Handlung, <date when="1757">1757</date>.</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Bach-Repertorium, Kantatendatenbank</p>
+			</projectDesc>
+		</encodingDesc>
+		<profileDesc>
+			<particDesc>
+				<listPerson>
+					<!--alphabetische Liste der Personen-->
+					<!--Aaron - A0001-->
+					<!--Abraham - A0002-->
+					<!--Adam - A0003-->
+					<!--Bach, Carl Philipp Emanuel - B0001-->
+					<!--Cramer, Johann Andreas - C0001-->
+					<!--Gellert, Christian Fürchtegott - G0002-->
+					<!--Gott - G0001-->
+					<!--Jakob - J0002-->
+					<!--Jesus Christus - J0001-->
+					<!--Levi - L0001-->
+					<!--Melchisedek - M0001-->
+					<!--Moses - M0002-->
+					<!--Petrus, Simon - P0001-->
+					<!--Samuel - S0001-->
+					<!--Simeon - S0002-->
+					<!--Sturm, Christoph Christian - S0001-->
+					<person role="priest" sex="1">
+						<persName type="reg" key="A0002">Aaron</persName>
+						<occupation>erster Priester</occupation>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="A0001">Abraham</persName>
+						<persName type="alt">Abram</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="first man" sex="1">
+						<persName type="reg" key="A0003">Adam</persName>
+						<occupation>Erster Mensch</occupation>
+					</person>
+					<person role="composer scribe" sex="1" source="Bach">
+						<persName type="reg" key="B0001"><surname>Bach</surname>, <forename>Carl
+								Philipp Emanuel</forename></persName>
+						<persName type="full"><forename>Carl Philipp Emanuel</forename>
+							<surname>Bach</surname></persName>
+						<event type="birth" when="1714-03">
+							<desc><placeName><settlement>Weimar</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Komponist</occupation>
+						<note type="bioSummary"/>
+						<idno type="GND">118505505</idno>
+						<idno type="WeGA"/>
+						<persName type="sigla" subtype="Kast"/>
+						<persName type="sigla" subtype="Blechschmidt"/>
+						<persName type="sigla" subtype="Dürr"/>
+						<persName type="sigla" subtype="Kobayashi"/>
+						<persName type="sigla" subtype="misc"/>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="C0001"><surname>Cramer</surname>, <forename>Johann
+								Andreas</forename></persName>
+						<persName type="full"><forename>Johann
+								Andreas</forename><surname>Cramer</surname></persName>
+						<event type="birth" when="1723-01-27">
+							<desc><placeName><settlement>Jöhstadt</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788-06-12">
+							<desc><placeName><settlement>Kiel</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Schriftsteller</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118973258</idno>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="G0002"><surname>Gellert</surname>,
+								<forename>Christian Fürchtegott</forename></persName>
+						<persName type="full"><forename>Christian
+								Fürchtegott</forename><surname>Gellert</surname></persName>
+						<event type="birth" when="1715-07-04">
+							<desc><placeName><settlement>Hainichen</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1769-12-13">
+							<desc><placeName><settlement>Lepzig</settlement></placeName></desc>
+						</event>
+						<occupation>Philosoph</occupation>
+						<occupation>Moralphilosoph</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118538322</idno>
+					</person>
+					<person role="god">
+						<persName type="reg" key="G0001">Gott</persName>
+						<persName type="full">JHWH</persName>
+						<occupation>Gott</occupation>
+						<idno type="GND">118556703</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="J0002">Jakob</persName>
+						<persName type="alt">Israel</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="god" sex="1">
+						<persName type="reg" key="J0001">Jesus Christus</persName>
+						<persName type="full">Jesus von Nazareth</persName>
+						<occupation>Messias</occupation>
+						<occupation>Gott</occupation>
+						<occupation>Heiland</occupation>
+						<occupation>Sohn Gottes</occupation>
+						<idno type="GND">118557513</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="L0001">Levi</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="king" sex="1">
+						<persName type="reg" key="M0001">Melchisedek</persName>
+						<occupation>alttestamentlicher König</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="M0002">Moses</persName>
+						<persName type="alt">Mose</persName>
+						<occupation>Prophet des Alten Testaments</occupation>
+					</person>
+					<person role="apostle" sex="1">
+						<persName type="reg" key="P0001">Petrus</persName>
+						<persName type="full">Simon Petrus</persName>
+						<occupation>Jünger Jesu</occupation>
+						<occupation>Apostel</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0001">Samuel</persName>
+						<occupation>alttestamentlicher Prophet</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0002">Simeon</persName>
+						<occupation>Prophet des Neuen Testaments</occupation>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="S0001"><surname>Sturm</surname>,
+								<forename>Christoph Christian</forename></persName>
+						<persName type="full"><forename>Christoph
+								Christian</forename><surname>Sturm</surname></persName>
+						<event type="birth" when="1740-01-25">
+							<desc><placeName><settlement>Augsburg</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1786-08-26">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Komponist</occupation>
+						<idno type="GND">118158651</idno>
+					</person>
+				</listPerson>
+			</particDesc>
+		</profileDesc>
+	</teiHeader>
+	<text type="lied">
+		<body>
+			<pb n="6"/>
+			<pb n="22" ed="CPEB1758"/>
+			<div type="chorale">
+				<head type="title">Das Gebet.</head>
+				<lg>
+					<l>Dein Heil, o Chriſt, nicht zu verſcherzen,</l>
+					<l>Sey wach und nüchtern zum Gebet!</l>
+					<l>Ein Flehn aus reinem, guten Herzen</l>
+					<l> Hat <rs type="person" key="G0001">Gott</rs>, dein Vater, <choice>
+							<orig>nie</orig>
+							<reg>nicht</reg>
+						</choice> verſchmäht.</l>
+					<l>Erſchein vor ſeinem Angeſichte</l>
+					<l>Mit Dank, mit Demuth, oft und gern,</l>
+					<l>Und prüfe dich in ſeinem Lichte,</l>
+					<l>Und klage deine Noth dem <rs type="person" key="G0001">Herrn</rs>.</l>
+				</lg>
+				<lg>
+					<l>Welch Glück, ſo hoch geehrt zu werden,</l>
+					<l>Und im Gebet vor <rs type="person" key="G0001">Gott</rs> zu ſtehn!</l>
+					<l>Der <rs type="person" key="G0001">Herr</rs> des Himmels und der Erden,</l>
+					<l>Bedarf der eines Menſchen Flehn?</l>
+					<l>Sagt <rs type="person" key="G0001">Gott</rs> nicht: Bittet, daß ihr
+						nehmet?</l>
+					<l>Iſt des Gebetes Frucht nicht dein?</l>
+					<l>Wer ſich der Pflicht zu beten ſchämet,</l>
+					<l>Der ſchämt ſich, <rs type="person" key="G0001">Gottes</rs> Freund zu
+						ſeyn.</l>
+				</lg>
+				<lg>
+					<l>Sein Glück von ſeinem <rs type="person" key="G0001">Gott</rs> begehren,</l>
+					<l>Iſt dieß denn eine ſchwere Pflicht?</l>
+					<l> Und <choice>
+							<orig>ſein</orig>
+							<reg>ſeine</reg>
+						</choice> Wünſche <rs type="person" key="G0001">Gott</rs> erklären, </l>
+					<l>Erhebt dieß unſre Seele nicht?</l>
+					<l>Sich in der Furcht des Höchſten ſtärken,</l>
+					<l>In dem Vertraun, daß <rs type="person" key="G0001">Gott</rs> uns liebt,</l>
+					<l>Im Fleiß zu allen guten Werken,</l>
+					<l>Iſt dieſe Pflicht für dich betrübt?</l>
+				</lg>
+				<pb n="7"/>
+				<pb n="23" ed="CPEB1758"/>
+				<lg>
+					<l>Bet oft in Einfalt deiner Seelen;</l>
+					<l><rs type="person" key="G0001">Gott</rs> ſieht aufs Herz, <rs type="person"
+							key="G0001">Gott</rs> iſt ein Geiſt.</l>
+					<l>Wie können dir die Worte fehlen,</l>
+					<l>wofern dein Herz dich beten heißt?</l>
+					<l>Nicht Töne ſinds, die <rs type="person" key="G0001">Gott</rs> gefallen,</l>
+					<l>Nicht Worte, die die Kunſt gebeut.</l>
+					<l><rs type="person" key="G0001">Gott</rs> iſt kein Menſch. Ein gläubig
+						Lallen,</l>
+					<l>Das iſt vor ihm Beredſamkeit.</l>
+				</lg>
+				<lg>
+					<l>Wer das, was uns zum Frieden dienet,</l>
+					<l>Im Glauben ſucht, der ehret <rs type="person" key="G0001">Gott</rs>.</l>
+					<l>Wer das zu bitten ſich erkühnet,</l>
+					<l>Was er nicht wünſcht, entehret <rs type="person" key="G0001">Gott</rs>.</l>
+					<l>Wer täglich <rs type="person" key="G0001">Gott</rs> die Treue ſchwöret,</l>
+					<l>Und dann vergißt, was er beſchwur,</l>
+					<l>Und klagt, daß <rs type="person" key="G0001">Gott</rs> ihn nicht erhöret,</l>
+					<l>Der ſpottet ſeines Schöpfers nur.</l>
+				</lg>
+				<lg>
+					<l>Bet oft zu <rs type="person" key="G0001">Gott</rs>, und ſchmeck in
+						Freuden,</l>
+					<l>Wie freundlich er, dein <rs type="person" key="G0001">Vater</rs>, iſt.</l>
+					<l>Bet oft zu <rs type="person" key="G0001">Gott</rs>, und fühl in Leiden,</l>
+					<l>Wie göttlich er das Leid versüßt.</l>
+					<l>Bet oft, wenn dich Verſuchung quälet;</l>
+					<l>
+						<rs type="person" key="G0001">Gott</rs> hörts, <rs type="person" key="G0001"
+							>Gott</rs> iſts, der Hülfe <choice>
+							<orig>ſchafft.</orig>
+							<reg>ſchaft.</reg>
+						</choice>
+					</l>
+					<l>Bet oft, wenn innrer Troſt dir fehlet;</l>
+					<l>Er giebt den Müden Stärk und Kraft.</l>
+				</lg>
+				<pb n="8"/>
+				<lg>
+					<l>Bet oft, und heiter im Gemüthe</l>
+					<l>Schau dich an ſeinen Wunden ſatt.</l>
+					<l>Schau auf den Ernſt, ſchau auf die Güte,</l>
+					<l>Mit der er dich geleitet hat.</l>
+					<l>Hier irrteſt du in deiner Jugend,</l>
+					<l>Im Alter dort. Er trug Geduld,</l>
+					<l>Rief dich durch Glück und Kreuz zur Tugend;</l>
+					<l>Erkenn und fühle ſeine Huld.</l>
+				</lg>
+				<lg>
+					<l> Bet oft, und <anchor subtype="resurrection_start" type="resurrection"/>ſchau
+						mit ſelgen Blicken</l>
+					<l> Hin in des Ewigen Gezelt<anchor subtype="resurrection_end"
+							type="resurrection"/>,</l>
+					<l>Und <anchor subtype="resurrection_start" type="resurrection"/>ſchmeck im
+						gläubigen Entzücken</l>
+					<l>Die Kräfte der zukünftgen Welt<anchor subtype="resurrection_end"
+							type="resurrection"/>.</l>
+					<l>Ein Glück von Millionen Jahren,</l>
+					<l><anchor subtype="resurrection_start" type="resurrection"/>Welch Glück! Doch
+						iſt's von jenem Glück,</l>
+					<l>Das dem der Herr wird offenbaren,</l>
+					<l>Der ihm hier dient, kein Augenblick.<anchor subtype="resurrection_end"
+							type="resurrection"/></l>
+				</lg>
+				<lg>
+					<l>Bet oft; durchſchau mit heilgem Muthe</l>
+					<l>Die herzliche Barmherzigkeit</l>
+					<l>Deß, der mit ſeinem theuren Blute</l>
+					<l>Die Welt, der Sünder Welt befreyt.</l>
+					<l>Nie wirſt du dieſes Werk ergründen;</l>
+					<l>Nein, es iſt eines <rs type="person" key="G0001">Gottes</rs> That.</l>
+					<l>Erfreu dich ihrer, rein von Sünden,</l>
+					<l>Und ehr im Glauben <rs type="person" key="G0001">Gottes</rs> Rath.</l>
+				</lg>
+				<pb n="9"/>
+				<lg>
+					<l>Bet oft; entdeck am ſtillen Orte</l>
+					<l><rs type="person" key="G0001">Gott</rs> ohne Zagen deinen Schmerz.</l>
+					<l>Er ſchließt vom Herzen auf die Worte,</l>
+					<l>Nicht von den Worten auf das Herz.</l>
+					<l>Nicht dein gebognes Knie, nicht Thränen,</l>
+					<l>Nicht Worte, Seufzer, Pſalm und Ton,</l>
+					<l>Nicht dein Gelübd rührt <rs type="person" key="G0001">Gott</rs>; dein
+						Sehnen,</l>
+					<l>Dein Glaub an ihn und ſeinen <rs type="person" key="J0001">Sohn</rs>.</l>
+				</lg>
+				<lg>
+					<l>Bet oft; <rs type="person" key="G0001">Gott</rs> wohnt an jeder Stäte,</l>
+					<l>In keiner minder oder mehr.</l>
+					<l>Denk nicht: Wenn ich mit vielen bete:</l>
+					<l>So find ich eh bey <rs type="person" key="G0001">Gott</rs> Gehör.</l>
+					<l><rs type="person" key="G0001">Gott</rs> iſt kein Menſch. Iſt dein
+						Begehren</l>
+					<l>Gerecht und gut: ſo hört ers gern.</l>
+					<l>Iſts nicht gerecht: ſo gelten Zähren</l>
+					<l>Der ganzen Welt nichts vor dem Herrn.</l>
+				</lg>
+				<lg>
+					<l>Doch säume nicht, in den Gemeinen</l>
+					<l>Auch öffentlich <rs type="person" key="G0001">Gott</rs> anzuflehn,</l>
+					<l>Und ſeinen Namen mit den Seinen,</l>
+					<l>mit ſeinen Brüdern, zu erhöhn;</l>
+					<l>Dein Herz voll Andacht zu entdecken,</l>
+					<l>Wie es dein Mitchriſt dir entdeckt,</l>
+					<l>Und ihn zur Innbrunſt zu erwecken,</l>
+					<l>Wie er zur Innbrunſt dich erweckt.</l>
+				</lg>
+				<pb n="10"/>
+				<lg>
+					<l>Biſt du ein Herr, dem andre dienen:</l>
+					<l>So ſey ihr Beyſpiel, ſey es ſtets,</l>
+					<l>Und feyre täglich gern mit ihnen</l>
+					<l>Die ſelge Stunde des Gebets.</l>
+					<l>Nie ſchäme dich des Heils der Seelen,</l>
+					<l>Die <rs type="person" key="G0001">Gottes</rs> Hand dir anvertraut.</l>
+					<l>Kein Knecht des Hauſes müſse fehlen;</l>
+					<l>Er iſt ein Chriſt und werd erbaut!</l>
+				</lg>
+				<lg>
+					<l>Bet oft zu <rs type="person" key="G0001">Gott</rs> für deine Brüder,</l>
+					<l>Für alle Menſchen, als ihr Freund;</l>
+					<l>Denn wir ſind eines Leibes Glieder;</l>
+					<l>Ein Glied davon iſt auch dein Feind.</l>
+					<l>Bet oft; ſo wirſt du Glauben halten,</l>
+					<l>Dich prüfen, und das Böſe ſcheun,</l>
+					<l>An Lieb und Eifer nicht erkalten,</l>
+					<l>Und gern zum Guten weiſe ſeyn.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

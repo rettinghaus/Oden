@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"?><?xml-stylesheet type="text/xsl" href="base.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title> Cramer: 25. Psalm</title>
+				<!--Arbeitstitel-->
+			</titleStmt>
+			<publicationStmt>
+				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<lb/> Herrn <rs type="person" key="C0001">Doctor Cramers</rs><lb/> übersetzte
+					<lb/> Psalmen mit Melodien <lb/> zum <lb/> Singen bey dem Claviere <lb/> von
+						<lb/><rs type="person" key="B0001">Carl Philipp Emanuel Bach</rs>.<lb/>
+					<pubPlace>Leipzig</pubPlace>,<lb/> Im Verlage des Autors. <date when="1774"
+						>1774</date>. </bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Bach-Repertorium, Kantatendatenbank</p>
+			</projectDesc>
+		</encodingDesc>
+		<profileDesc>
+			<particDesc>
+				<listPerson>
+					<!--alphabetische Liste der Personen-->
+					<!--Aaron - A0001-->
+					<!--Abraham - A0002-->
+					<!--Adam - A0003-->
+					<!--Bach, Carl Philipp Emanuel - B0001-->
+					<!--Cramer, Johann Andreas - C0001-->
+					<!--Gellert, Christian Fürchtegott - G0002-->
+					<!--Gott - G0001-->
+					<!--Jakob - J0002-->
+					<!--Jesus Christus - J0001-->
+					<!--Levi - L0001-->
+					<!--Melchisedek - M0001-->
+					<!--Moses - M0002-->
+					<!--Petrus, Simon - P0001-->
+					<!--Samuel - S0001-->
+					<!--Simeon - S0002-->
+					<!--Sturm, Christoph Christian - S0001-->
+					<person role="priest" sex="1">
+						<persName type="reg" key="A0002">Aaron</persName>
+						<occupation>erster Priester</occupation>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="A0001">Abraham</persName>
+						<persName type="alt">Abram</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="first man" sex="1">
+						<persName type="reg" key="A0003">Adam</persName>
+						<occupation>Erster Mensch</occupation>
+					</person>
+					<person role="composer scribe" sex="1" source="Bach">
+						<persName type="reg" key="B0001"><surname>Bach</surname>, <forename>Carl
+								Philipp Emanuel</forename></persName>
+						<persName type="full"><forename>Carl Philipp Emanuel</forename>
+							<surname>Bach</surname></persName>
+						<event type="birth" when="1714-03">
+							<desc><placeName><settlement>Weimar</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Komponist</occupation>
+						<note type="bioSummary"/>
+						<idno type="GND">118505505</idno>
+						<idno type="WeGA"/>
+						<persName type="sigla" subtype="Kast"/>
+						<persName type="sigla" subtype="Blechschmidt"/>
+						<persName type="sigla" subtype="Dürr"/>
+						<persName type="sigla" subtype="Kobayashi"/>
+						<persName type="sigla" subtype="misc"/>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="C0001"><surname>Cramer</surname>, <forename>Johann
+								Andreas</forename></persName>
+						<persName type="full"><forename>Johann
+								Andreas</forename><surname>Cramer</surname></persName>
+						<event type="birth" when="1723-01-27">
+							<desc><placeName><settlement>Jöhstadt</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788-06-12">
+							<desc><placeName><settlement>Kiel</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Schriftsteller</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118973258</idno>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="G0002"><surname>Gellert</surname>,
+								<forename>Christian Fürchtegott</forename></persName>
+						<persName type="full"><forename>Christian
+								Fürchtegott</forename><surname>Gellert</surname></persName>
+						<event type="birth" when="1715-07-04">
+							<desc><placeName><settlement>Hainichen</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1769-12-13">
+							<desc><placeName><settlement>Lepzig</settlement></placeName></desc>
+						</event>
+						<occupation>Philosoph</occupation>
+						<occupation>Moralphilosoph</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118538322</idno>
+					</person>
+					<person role="god">
+						<persName type="reg" key="G0001">Gott</persName>
+						<persName type="full">JHWH</persName>
+						<occupation>Gott</occupation>
+						<idno type="GND">118556703</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="J0002">Jakob</persName>
+						<persName type="alt">Israel</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="god" sex="1">
+						<persName type="reg" key="J0001">Jesus Christus</persName>
+						<persName type="full">Jesus von Nazareth</persName>
+						<occupation>Messias</occupation>
+						<occupation>Gott</occupation>
+						<occupation>Heiland</occupation>
+						<occupation>Sohn Gottes</occupation>
+						<idno type="GND">118557513</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="L0001">Levi</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="king" sex="1">
+						<persName type="reg" key="M0001">Melchisedek</persName>
+						<occupation>alttestamentlicher König</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="M0002">Moses</persName>
+						<persName type="alt">Mose</persName>
+						<occupation>Prophet des Alten Testaments</occupation>
+					</person>
+					<person role="apostle" sex="1">
+						<persName type="reg" key="P0001">Petrus</persName>
+						<persName type="full">Simon Petrus</persName>
+						<occupation>Jünger Jesu</occupation>
+						<occupation>Apostel</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0001">Samuel</persName>
+						<occupation>alttestamentlicher Prophet</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0002">Simeon</persName>
+						<occupation>Prophet des Neuen Testaments</occupation>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="S0001"><surname>Sturm</surname>,
+								<forename>Christoph Christian</forename></persName>
+						<persName type="full"><forename>Christoph
+								Christian</forename><surname>Sturm</surname></persName>
+						<event type="birth" when="1740-01-25">
+							<desc><placeName><settlement>Augsburg</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1786-08-26">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Komponist</occupation>
+						<idno type="GND">118158651</idno>
+					</person>
+				</listPerson>
+			</particDesc>
+		</profileDesc>
+		<revisionDesc>
+			<change when="2013-11-04" who="RL">encoding started</change>
+		</revisionDesc>
+	</teiHeader>
+	<text type="lied">
+		<body>
+			<pb n="13" ed="CPEB1774"/>
+			<div type="chorale">
+				<head type="title">Der fünf und zwanzigſte Pſalm.</head>
+				<lg>
+					<l><rs type="person" key="G0001">Herr</rs>, mein einziges Verlangen,</l>
+					<l><rs type="person" key="G0001">Gott</rs>, zu dir erheb ich mich!</l>
+					<l>Ich vertraue nur auf dich!</l>
+					<l>Laß mich keine Schmach umfangen!</l>
+					<l>Damit nicht mein ſtolzer Feind,</l>
+					<l>Wenn mir keine Hülf erſcheint,</l>
+					<l>Jauchze, daß ſein Frevel ſiege.</l>
+				</lg>
+				<lg>
+					<l>Keiner wird ſich ſchämen dürfen,</l>
+					<l>Welcher dich zum Schilde nimmt,</l>
+					<l>Wenn ihn auch die Feind ergrimmt</l>
+					<l>Tage lang danieder würfen.</l>
+					<l>Aber Schande fällt auf den,</l>
+					<l>Welcher, Fromme zu verſchmähn,</l>
+					<l>Ohne Furcht vor <rs type="person" key="G0001">Gott</rs> ſich waget.</l>
+				</lg>
+				<lg>
+					<l>Zeige du mir deine Wege!</l>
+					<l>Bringe ſelbſt durch deinen Rath</l>
+					<l>Mich auf deinen ſichern Pfad,</l>
+					<l>Daß ich heilig wandeln möge!</l>
+					<l>Leicht verirret ſich mein Fuß,</l>
+					<l>Wenn ich Wege wandeln muß,</l>
+					<l>Die ich, mir gelaſsen, wähle.</l>
+				</lg>
+				<lg>
+					<l>Führe mich nach deinem Willen!</l>
+					<l>Laß mich deine Wahrheit ſehn!</l>
+					<l>Dankbar will ich dich erhöhn,</l>
+					<l>Freudig dein Gebot erfüllen.</l>
+					<l><rs type="person" key="G0001">Gott</rs>, du hilfſt mir! Du biſt mein!</l>
+					<l>Täglich, täglich harr ich dein,</l>
+					<l>Daß du Hülfe ſenden werdeſt.</l>
+				</lg>
+				<lg>
+					<l>Habe Mitleid mit mir Armen!</l>
+					<l>Eh dein Weltgebäu noch ſtand,</l>
+					<l><rs type="person" key="G0001">Vater, Vater</rs>, da empfand</l>
+					<l>Schon dein Herz für mich Erbarmen.</l>
+					<l>Ach, gedenk an deine Huld</l>
+					<l>Und vergieb, vergiß die Schuld</l>
+					<l>Der Verbrechen meiner Jugend!</l>
+				</lg>
+				<lg>
+					<l>Ich bereue meine Sünde,</l>
+					<l>Die ich wider dich gethan.</l>
+					<l><rs type="person" key="G0001">Gott</rs>, gedenke nicht daran,</l>
+					<l>Daß ſich nicht dein Zorn entzünde!</l>
+					<l>Als Erbarmer denke mein!</l>
+					<l>Laß mich deine Huld erfreun,</l>
+					<l>Herr, um deiner Güte willen!</l>
+				</lg>
+				<lg>
+					<l><rs type="person" key="G0001">Gott</rs> iſt gütig und vollkommen!</l>
+					<l>Darum führet ſeine Huld</l>
+					<l>Irre Sünder, voll Geduld,</l>
+					<l>Auf die Wege ſeiner Frommen.</l>
+					<l>Und er unterweiſt ſie früh,</l>
+					<l>Noch im Leben, ehe ſie</l>
+					<l>Blind in ihren Abgrund ſtürzen.</l>
+				</lg>
+				<lg>
+					<l>Arme, die vor ihm ſich beugen,</l>
+					<l>Führt er, und ſie ſtraucheln nicht.</l>
+					<l>Frommen Armen ſtralt ſein Licht,</l>
+					<l>Ihnen ſeinen Weg zu zeigen.</l>
+					<l>Güt und Wahrheit iſt ſein Pfad,</l>
+					<l>Dem, der ſich geheiligt hat,</l>
+					<l><rs type="person" key="G0001">Gottes</rs> Bund und Recht zu halten.</l>
+				</lg>
+				<lg>
+					<l>Ach um deiner Güte willen</l>
+					<l>Wolleſt du mir, <rs type="person" key="G0001">Herr</rs>, verzeihn,</l>
+					<l>Wolleſt du mir gnädig ſeyn,</l>
+					<l>Und mich nun mit Troſt erfüllen!</l>
+					<l>Groß iſt meine Miſsethat,</l>
+					<l>Welche dich beleidigt hat;</l>
+					<l>Größer noch iſt deine Güte.</l>
+				</lg>
+				<lg>
+					<l>Wer iſt willig, <rs type="person" key="G0001">Gott</rs> zu ehren?</l>
+					<l>Seelig, ſeelig iſt der Mann;</l>
+					<l>Denn <rs type="person" key="G0001">Gott</rs> nimmt ſich ſeiner an,</l>
+					<l>Ihn den beſten Weg zu lehren.</l>
+					<l>Welch ein Glück wird ihn erfreun!</l>
+					<l>Welche süße Ruh iſt ſein,</l>
+					<l>Ewig iſt des Frommen Freude!</l>
+				</lg>
+				<lg>
+					<l>Seinen Saamen wird <rs type="person" key="G0001">Gott</rs> ſchützen;</l>
+					<l>Unter ſeiner ſtarken Hand</l>
+					<l>Wird er das verheißne Land</l>
+					<l>Ewig ungeſtört beſitzen.</l>
+					<l>Fromme ſchützt ſein weiſer Rath;</l>
+					<l>Dem, der ihn vor Augen hat,</l>
+					<l>Hält er ewig Bund und Treue.</l>
+				</lg>
+				<lg>
+					<l>Immer heb ich meine Blicke</l>
+					<l>Hin zu <rs type="person" key="G0001">Gott</rs>; denn er entreißt</l>
+					<l>Aus den Leiden meinen Geiſt,</l>
+					<l>Meinen Fuß aus jedem Stricke.</l>
+					<l>Wende gnädig dich zu mir!</l>
+					<l>Ich erwarte Schutz von dir,</l>
+					<l>Denn ich bin allein und elend.</l>
+				</lg>
+				<lg>
+					<l>Groß ſind die Beängſtigungen</l>
+					<l>Meiner Seele! <rs type="person" key="G0001">Gott</rs>, wie groß!</l>
+					<l>Reiß mich aus den Banden los,</l>
+					<l>Welche meine Seel umſchlungen!</l>
+					<l>Schaue her auf meine Laſt!</l>
+					<l>Hilf mir! Ich erliege faſt!</l>
+					<l>Tilge jede meiner Sünden!</l>
+				</lg>
+				<lg>
+					<l>Schaue doch, wie viele Mengen</l>
+					<l>Meiner Widerſacher ſind;</l>
+					<l>Wie ſie, <rs type="person" key="G0001">Vater</rs>, mich, dein Kind,</l>
+					<l>Haſsen und tyranniſch drängen!</l>
+					<l>Rette mich! Ich bin zu ſchwach!</l>
+					<l>Hilf mir! Reiß mich aus der Schmach:</l>
+					<l>Denn du haſt mein ganz Vertrauen!</l>
+				</lg>
+				<lg>
+					<l>Deine Güte, <rs type="person" key="G0001">Herr</rs>, erfreue,</l>
+					<l><rs type="person" key="G0001">Gott</rs>, dein Heil beglücke mich;</l>
+					<l>Denn ich hoffe feſt auf dich,</l>
+					<l>Und vertraue deiner Treue!</l>
+					<l>Eile, <rs type="person" key="G0001">Gott</rs>, erſcheine bald,</l>
+					<l><placeName>Iſrael</placeName> aus der Gewalt</l>
+					<l>Aller ſeiner Angſt zu reißen!</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

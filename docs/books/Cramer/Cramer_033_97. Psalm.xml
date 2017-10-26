@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"?><?xml-stylesheet type="text/xsl" href="base.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title> Cramer: 97. Psalm</title>
+				<!--Arbeitstitel-->
+			</titleStmt>
+			<publicationStmt>
+				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<lb/> Herrn <rs type="person" key="C0001">Doctor Cramers</rs><lb/> übersetzte
+					<lb/> Psalmen mit Melodien <lb/> zum <lb/> Singen bey dem Claviere <lb/> von
+						<lb/><rs type="person" key="B0001">Carl Philipp Emanuel Bach</rs>.<lb/>
+					<pubPlace>Leipzig</pubPlace>,<lb/> Im Verlage des Autors. <date when="1774"
+						>1774</date>. </bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Bach-Repertorium, Kantatendatenbank</p>
+			</projectDesc>
+		</encodingDesc>
+		<profileDesc>
+			<particDesc>
+				<listPerson>
+					<!--alphabetische Liste der Personen-->
+					<!--Aaron - A0001-->
+					<!--Abraham - A0002-->
+					<!--Adam - A0003-->
+					<!--Bach, Carl Philipp Emanuel - B0001-->
+					<!--Cramer, Johann Andreas - C0001-->
+					<!--Gellert, Christian Fürchtegott - G0002-->
+					<!--Gott - G0001-->
+					<!--Jakob - J0002-->
+					<!--Jesus Christus - J0001-->
+					<!--Levi - L0001-->
+					<!--Melchisedek - M0001-->
+					<!--Moses - M0002-->
+					<!--Petrus, Simon - P0001-->
+					<!--Samuel - S0001-->
+					<!--Simeon - S0002-->
+					<!--Sturm, Christoph Christian - S0001-->
+					<person role="priest" sex="1">
+						<persName type="reg" key="A0002">Aaron</persName>
+						<occupation>erster Priester</occupation>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="A0001">Abraham</persName>
+						<persName type="alt">Abram</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="first man" sex="1">
+						<persName type="reg" key="A0003">Adam</persName>
+						<occupation>Erster Mensch</occupation>
+					</person>
+					<person role="composer scribe" sex="1" source="Bach">
+						<persName type="reg" key="B0001"><surname>Bach</surname>, <forename>Carl
+								Philipp Emanuel</forename></persName>
+						<persName type="full"><forename>Carl Philipp Emanuel</forename>
+							<surname>Bach</surname></persName>
+						<event type="birth" when="1714-03">
+							<desc><placeName><settlement>Weimar</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Komponist</occupation>
+						<note type="bioSummary"/>
+						<idno type="GND">118505505</idno>
+						<idno type="WeGA"/>
+						<persName type="sigla" subtype="Kast"/>
+						<persName type="sigla" subtype="Blechschmidt"/>
+						<persName type="sigla" subtype="Dürr"/>
+						<persName type="sigla" subtype="Kobayashi"/>
+						<persName type="sigla" subtype="misc"/>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="C0001"><surname>Cramer</surname>, <forename>Johann
+								Andreas</forename></persName>
+						<persName type="full"><forename>Johann
+								Andreas</forename><surname>Cramer</surname></persName>
+						<event type="birth" when="1723-01-27">
+							<desc><placeName><settlement>Jöhstadt</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788-06-12">
+							<desc><placeName><settlement>Kiel</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Schriftsteller</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118973258</idno>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="G0002"><surname>Gellert</surname>,
+								<forename>Christian Fürchtegott</forename></persName>
+						<persName type="full"><forename>Christian
+								Fürchtegott</forename><surname>Gellert</surname></persName>
+						<event type="birth" when="1715-07-04">
+							<desc><placeName><settlement>Hainichen</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1769-12-13">
+							<desc><placeName><settlement>Lepzig</settlement></placeName></desc>
+						</event>
+						<occupation>Philosoph</occupation>
+						<occupation>Moralphilosoph</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118538322</idno>
+					</person>
+					<person role="god">
+						<persName type="reg" key="G0001">Gott</persName>
+						<persName type="full">JHWH</persName>
+						<occupation>Gott</occupation>
+						<idno type="GND">118556703</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="J0002">Jakob</persName>
+						<persName type="alt">Israel</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="god" sex="1">
+						<persName type="reg" key="J0001">Jesus Christus</persName>
+						<persName type="full">Jesus von Nazareth</persName>
+						<occupation>Messias</occupation>
+						<occupation>Gott</occupation>
+						<occupation>Heiland</occupation>
+						<occupation>Sohn Gottes</occupation>
+						<idno type="GND">118557513</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="L0001">Levi</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="king" sex="1">
+						<persName type="reg" key="M0001">Melchisedek</persName>
+						<occupation>alttestamentlicher König</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="M0002">Moses</persName>
+						<persName type="alt">Mose</persName>
+						<occupation>Prophet des Alten Testaments</occupation>
+					</person>
+					<person role="apostle" sex="1">
+						<persName type="reg" key="P0001">Petrus</persName>
+						<persName type="full">Simon Petrus</persName>
+						<occupation>Jünger Jesu</occupation>
+						<occupation>Apostel</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0001">Samuel</persName>
+						<occupation>alttestamentlicher Prophet</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0002">Simeon</persName>
+						<occupation>Prophet des Neuen Testaments</occupation>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="S0001"><surname>Sturm</surname>,
+								<forename>Christoph Christian</forename></persName>
+						<persName type="full"><forename>Christoph
+								Christian</forename><surname>Sturm</surname></persName>
+						<event type="birth" when="1740-01-25">
+							<desc><placeName><settlement>Augsburg</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1786-08-26">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Komponist</occupation>
+						<idno type="GND">118158651</idno>
+					</person>
+				</listPerson>
+			</particDesc>
+		</profileDesc>
+		<revisionDesc>
+			<change when="2013-11-04" who="RL">encoding started</change>
+		</revisionDesc>
+	</teiHeader>
+	<text type="lied">
+		<body>
+			<pb n="33" ed="CPEB1774"/>
+			<div type="chorale">
+				<head type="title">Der ſieben und neunzigſte Pſalm.</head>
+				<lg>
+					<l><rs type="person" key="G0001">Jehova</rs> regieret: Es jauchze die Erde!</l>
+					<l>Ihr Inſeln, frohlockt, verherrlichet werde</l>
+					<l>Der Name <rs type="person" key="G0001">Gottes</rs> in der Welt!</l>
+					<l>Wolken ſind unter des Ewigen Füßen.</l>
+					<l>In undurchdringbarn Finſterniſsen</l>
+					<l>Steht ſein gefürchtetes Gezelt!</l>
+				</lg>
+				<lg>
+					<l>Gerecht iſt der Herrſcher, und Rach iſt die Stütze</l>
+					<l>Von ſeinem in Nacht verhülleten Sitze,</l>
+					<l>Den keine Wut erſchüttern kann.</l>
+					<l>Tötendes Feuer entflammet den Rächer,</l>
+					<l>Und zündet frevelnde Verbrecher,</l>
+					<l>Die Feinde ſeines Namens, an.</l>
+				</lg>
+				<lg>
+					<l>Die Blitze des <rs type="person" key="G0001">Richters</rs> durchſtrahlen die
+						Erde,</l>
+					<l>Da wanket der Kreis der zitternden Erde,</l>
+					<l>Die er mit ſeinem Finger hält.</l>
+					<l>Himmelbedräuende Berge zerfließen,</l>
+					<l>Wie Wachs, <rs type="person" key="G0001">Gott</rs>, unter deinen Füßen,</l>
+					<l>Vor dir, dem Könige der Welt.</l>
+				</lg>
+				<lg>
+					<l>Er herrſchet gewaltig; die Welten erbeben</l>
+					<l>Und beten ihn an; die Himmel erheben</l>
+					<l>Den <rs type="person" key="G0001">Herrn</rs>, daſs er gerecht regiert.</l>
+					<l>Alle bewundernde Völker lobſingen,</l>
+					<l>Ihm Preis und Dank und Macht zu bringen,</l>
+					<l>Ihm, welchem alles Lob gebührt.</l>
+				</lg>
+				<lg>
+					<l>Schmach treffe den Bilderanbeter! Entſetzen</l>
+					<l>Ergreife den Knecht der nichtigen Götzen!</l>
+					<l>Mit Schande werd er angethan!</l>
+					<l>Bringet, o Engel, ihr himmliſchen Heere,</l>
+					<l>Ihr Götter unter <rs type="person" key="G0001">Gott</rs>, ihm Ehre,</l>
+					<l>Und betet den Beherrſcher an!</l>
+				</lg>
+				<lg>
+					<l><placeName>Jeruſalem</placeName> hört es, iſt Dank, iſt Entzücken.</l>
+					<l>Die Töcher <placeName>Judäa</placeName> freun ſich und ſchmücken</l>
+					<l>Zum Feſte deines Lobes ſich.</l>
+					<l><rs type="person" key="G0001">Höchſter</rs>, dich rühmen ſie, ihren
+						Erretter;</l>
+					<l>Sie preiſen, o du <rs type="person" key="G0001">Gott der Götter</rs>,</l>
+					<l>O <rs type="person" key="G0001">Beſter der Beherrſcher</rs>, dich!</l>
+				</lg>
+				<lg>
+					<l>Ihr, die ihr ihn liebet, haßt, was ihn beleidigt!</l>
+					<l>Die Frommen liebt <rs type="person" key="G0001">Gott</rs>, und mächtig
+						vertheidigt</l>
+					<l>Er den, der ſeinen Namen ehrt.</l>
+					<l>Theuer ſind vor ihm der Heiligen Seelen,</l>
+					<l>Der Frevler, der ſie wünſcht zu quälen,</l>
+					<l>Wird ſchnell durch ſeinen Zorn verzehrt.</l>
+				</lg>
+				<lg>
+					<l>Oft weinen die Frommen in ſchreckenden Nächten;</l>
+					<l>Doch plötzlich entfliehn ſie; ſeine Gerechten</l>
+					<l>Sehn Licht, und Freude wird ihr Theil.</l>
+					<l>Freut euch des Höchſten, ihr Frommen, und preiſet</l>
+					<l>Den <rs type="person" key="G0001">Herrn</rs>, der heilig ſich beweiſet;</l>
+					<l>Erhebt ihn! Dankt ihm für ſein Heil!</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

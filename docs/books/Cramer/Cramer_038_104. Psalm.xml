@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"?><?xml-stylesheet type="text/xsl" href="base.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title> Cramer: 104. Psalm</title>
+				<!--Arbeitstitel-->
+			</titleStmt>
+			<publicationStmt>
+				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<lb/> Herrn <rs type="person" key="C0001">Doctor Cramers</rs><lb/> übersetzte
+					<lb/> Psalmen mit Melodien <lb/> zum <lb/> Singen bey dem Claviere <lb/> von
+						<lb/><rs type="person" key="B0001">Carl Philipp Emanuel Bach</rs>.<lb/>
+					<pubPlace>Leipzig</pubPlace>,<lb/> Im Verlage des Autors. <date when="1774"
+						>1774</date>. </bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Bach-Repertorium, Kantatendatenbank</p>
+			</projectDesc>
+		</encodingDesc>
+		<profileDesc>
+			<particDesc>
+				<listPerson>
+					<!--alphabetische Liste der Personen-->
+					<!--Aaron - A0001-->
+					<!--Abraham - A0002-->
+					<!--Adam - A0003-->
+					<!--Bach, Carl Philipp Emanuel - B0001-->
+					<!--Cramer, Johann Andreas - C0001-->
+					<!--Gellert, Christian Fürchtegott - G0002-->
+					<!--Gott - G0001-->
+					<!--Jakob - J0002-->
+					<!--Jesus Christus - J0001-->
+					<!--Levi - L0001-->
+					<!--Melchisedek - M0001-->
+					<!--Moses - M0002-->
+					<!--Petrus, Simon - P0001-->
+					<!--Samuel - S0001-->
+					<!--Simeon - S0002-->
+					<!--Sturm, Christoph Christian - S0001-->
+					<person role="priest" sex="1">
+						<persName type="reg" key="A0002">Aaron</persName>
+						<occupation>erster Priester</occupation>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="A0001">Abraham</persName>
+						<persName type="alt">Abram</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="first man" sex="1">
+						<persName type="reg" key="A0003">Adam</persName>
+						<occupation>Erster Mensch</occupation>
+					</person>
+					<person role="composer scribe" sex="1" source="Bach">
+						<persName type="reg" key="B0001"><surname>Bach</surname>, <forename>Carl
+								Philipp Emanuel</forename></persName>
+						<persName type="full"><forename>Carl Philipp Emanuel</forename>
+							<surname>Bach</surname></persName>
+						<event type="birth" when="1714-03">
+							<desc><placeName><settlement>Weimar</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Komponist</occupation>
+						<note type="bioSummary"/>
+						<idno type="GND">118505505</idno>
+						<idno type="WeGA"/>
+						<persName type="sigla" subtype="Kast"/>
+						<persName type="sigla" subtype="Blechschmidt"/>
+						<persName type="sigla" subtype="Dürr"/>
+						<persName type="sigla" subtype="Kobayashi"/>
+						<persName type="sigla" subtype="misc"/>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="C0001"><surname>Cramer</surname>, <forename>Johann
+								Andreas</forename></persName>
+						<persName type="full"><forename>Johann
+								Andreas</forename><surname>Cramer</surname></persName>
+						<event type="birth" when="1723-01-27">
+							<desc><placeName><settlement>Jöhstadt</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788-06-12">
+							<desc><placeName><settlement>Kiel</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Schriftsteller</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118973258</idno>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="G0002"><surname>Gellert</surname>,
+								<forename>Christian Fürchtegott</forename></persName>
+						<persName type="full"><forename>Christian
+								Fürchtegott</forename><surname>Gellert</surname></persName>
+						<event type="birth" when="1715-07-04">
+							<desc><placeName><settlement>Hainichen</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1769-12-13">
+							<desc><placeName><settlement>Lepzig</settlement></placeName></desc>
+						</event>
+						<occupation>Philosoph</occupation>
+						<occupation>Moralphilosoph</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118538322</idno>
+					</person>
+					<person role="god">
+						<persName type="reg" key="G0001">Gott</persName>
+						<persName type="full">JHWH</persName>
+						<occupation>Gott</occupation>
+						<idno type="GND">118556703</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="J0002">Jakob</persName>
+						<persName type="alt">Israel</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="god" sex="1">
+						<persName type="reg" key="J0001">Jesus Christus</persName>
+						<persName type="full">Jesus von Nazareth</persName>
+						<occupation>Messias</occupation>
+						<occupation>Gott</occupation>
+						<occupation>Heiland</occupation>
+						<occupation>Sohn Gottes</occupation>
+						<idno type="GND">118557513</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="L0001">Levi</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="king" sex="1">
+						<persName type="reg" key="M0001">Melchisedek</persName>
+						<occupation>alttestamentlicher König</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="M0002">Moses</persName>
+						<persName type="alt">Mose</persName>
+						<occupation>Prophet des Alten Testaments</occupation>
+					</person>
+					<person role="apostle" sex="1">
+						<persName type="reg" key="P0001">Petrus</persName>
+						<persName type="full">Simon Petrus</persName>
+						<occupation>Jünger Jesu</occupation>
+						<occupation>Apostel</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0001">Samuel</persName>
+						<occupation>alttestamentlicher Prophet</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0002">Simeon</persName>
+						<occupation>Prophet des Neuen Testaments</occupation>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="S0001"><surname>Sturm</surname>,
+								<forename>Christoph Christian</forename></persName>
+						<persName type="full"><forename>Christoph
+								Christian</forename><surname>Sturm</surname></persName>
+						<event type="birth" when="1740-01-25">
+							<desc><placeName><settlement>Augsburg</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1786-08-26">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Komponist</occupation>
+						<idno type="GND">118158651</idno>
+					</person>
+				</listPerson>
+			</particDesc>
+		</profileDesc>
+		<revisionDesc>
+			<change when="2013-11-04" who="RL">encoding started</change>
+		</revisionDesc>
+	</teiHeader>
+	<text type="lied">
+		<body>
+			<pb n="38" ed="CPEB1774"/>
+			<div type="chorale">
+				<head type="title">Der hundert und vierte Pſalm.</head>
+				<lg>
+					<l>Erheb, erheb, o meine Seele,</l>
+					<l><rs type="person" key="G0001">Gott</rs>, meinen <rs type="person" key="G0001"
+							>Schöpfer</rs>, und erzähle,</l>
+					<l>Verkündige ſein Lob der Welt!</l>
+					<l>Ihm ſinge deine Jubellieder;</l>
+					<l>Der Fromme halle ſie ihm wieder,</l>
+					<l>Ihm, der uns ſchuf und uns erhält!</l>
+					<l>Frohlockt ihm, alle ſeine Heere!</l>
+					<l>Ihm weihet euern Lobgeſang!</l>
+					<l>Der <rs type="person" key="G0001">Herr</rs> iſt würdig, Preis und Ehre</l>
+					<l>Zu nehmen, Lob und Ruhm und Dank.</l>
+				</lg>
+				<lg>
+					<l><rs type="person" key="G0001">Herr</rs>, dir iſt niemand zu vergleichen;</l>
+					<l>Kein Lob kann deine Größ erreichen,</l>
+					<l>Kein noch ſo feuriger Verſtand.</l>
+					<l>Pracht, Majeſtät und Ruhm umgeben</l>
+					<l>Dich, aller Weſen Quell und Leben,</l>
+					<l>Licht iſt dein ſtrahlenvoll Gewand.</l>
+					<l>Du bauſt in unermeßne Höhen,</l>
+					<l>Allgegenwärtiger, dein Haus,</l>
+					<l>Und wölbſt mit dichten Waſserſeen</l>
+					<l>Die glanzerfüllte Wohnung aus.</l>
+				</lg>
+				<lg>
+					<l>Wie biſt du, wenn du, <rs type="person" key="G0001">Gott der Götter</rs>,</l>
+					<l>Herabfährſt, wenn du in dem Wetter</l>
+					<l>Einhergehſt, uns ſo fürchterlich!</l>
+					<l>Du willſt, und Wolken ſind dein Wagen,</l>
+					<l>Dein Wagen donnert; willig tragen</l>
+					<l>Die Fittiche des Sturmes dich.</l>
+					<l>Die Engel fliegen, gleich den Winden,</l>
+					<l>Vor dir voran, Herr Zebaoth;</l>
+					<l>Wie Flammen, die ſich ſchnell entzünden,</l>
+					<l>Sind deiner Allmacht Diener, <rs type="person" key="G0001">Gott</rs>.</l>
+				</lg>
+				<lg>
+					<l>Du haſt der Erde Grund geleget;</l>
+					<l>Nun ſteht ſie ewig unbeweget;</l>
+					<l>Vor Alters war die Tief ihr Kleid.</l>
+					<l>Auf allen Bergen ſtanden Waſser;</l>
+					<l>Du ſchaltſt ſie; da entflohn die Waſser,</l>
+					<l>Durch deines Donners Kraft zerſtreut.</l>
+					<l>Der Berge Gipfel, <rs type="person" key="G0001">Herr</rs>, erſchienen,</l>
+					<l>Erhoben durch dein mächtig Wort;</l>
+					<l>Die Thäler ſanken unter ihnen</l>
+					<l>An den für ſie beſtimmten Ort.</l>
+				</lg>
+				<pb n="39" ed="CPEB1774"/>
+				<lg>
+					<l>Nun ſteht der Waſser Wut umdämmet,</l>
+					<l>Daß ſie, durch deinen Arm gehemmet,</l>
+					<l>Die Erde nicht verwüſten kann.</l>
+					<l>Du ſprichſt; der Berge Schooß' entquellen</l>
+					<l>Die Brunnen, werden Bäch' und ſchwellen</l>
+					<l>Zu Strömen und zu Seen an.</l>
+					<l>Aus ihnen ſchöpft das Volk der Felder</l>
+					<l>Erquickung, bis ſein Durſt ſich ſtillt;</l>
+					<l>Auch rieſeln Waſser durch die Wälder,</l>
+					<l>Erfriſchen und erfreun das Wild.</l>
+				</lg>
+				<lg>
+					<l>Viel ſchattenvolle Bäume grünen</l>
+					<l>An deinen Waſsern, und aus ihnen</l>
+					<l>Ertönt der Vögel Luſt und Dank.</l>
+					<l>In ihrer Zweige Schutz verborgen,</l>
+					<l>Frohlocken ſie dir jeden Morgen,</l>
+					<l>Tönt dir des Abends ihr Geſang.</l>
+					<l>Mit deinem ſegenvollen Thaue</l>
+					<l>Wird jeder ſteile Berg erquickt.</l>
+					<l>Auch grünen fröhlich Feld und Aue,</l>
+					<l>Mit deinen Früchten, <rs type="person" key="G0001">Gott</rs>, geſchmückt.</l>
+				</lg>
+				<lg>
+					<l>Durch dich entſprießt, damit die Heerden</l>
+					<l>Der ſichern Flur gesättigt werden,</l>
+					<l>Das Gras und kleidet, <rs type="person" key="G0001">Gott</rs>, das Land.</l>
+					<l>Uns blühn die Kräuter, und der Seegen</l>
+					<l>Der Saaten reifet uns entgegen,</l>
+					<l>Und füllt des frohen Schnitters Hand.</l>
+					<l>Brot giebſt du für des Menſchen Leben;</l>
+					<l>Und unſre Herzen zu erfreun,</l>
+					<l>Giebſt du den traubenvollen Reben</l>
+					<l>Mit milder, reicher Hand den Wein.</l>
+				</lg>
+				<lg>
+					<l>Du ſchaffſt das Oel, uns zu erquicken,</l>
+					<l>Des Menſchen Angeſicht zu ſchmücken;</l>
+					<l>Und heiter glänzt ſein Angeſicht.</l>
+					<l>Wem giebſt du, <rs type="person" key="G0001">Gott</rs>, nicht Brot die
+						Fülle,</l>
+					<l>Daß jeder ſeinen Hunger ſtille?</l>
+					<l>Wen ſtärkt du, wen erfreuſt du nicht?</l>
+					<l>Die Bäume leben und empfangen</l>
+					<l>Von dir des Obſtes Ueberfluß;</l>
+					<l>Gepflanzt von deinen Händen prangen</l>
+					<l>Die Zedern auf dem Libanus.</l>
+				</lg>
+				<lg>
+					<l>Die Vögeln baun in ihren Wipfeln,</l>
+					<l>Die Störch in hoher Tannen Gipfeln,</l>
+					<l>Gebildet und ernährt durch dich.</l>
+					<l>Die Gemſe liebt der Felſen Spitzen,</l>
+					<l>Den jähen Berg; in ihren Ritzen</l>
+					<l>Verbergen die Caninchen ſich.</l>
+					<l>Den Mond erſchuf uns deine Gnade,</l>
+					<l>Er leuchtet uns und theilt die Zeit;</l>
+					<l>Die Sonne kennt und eilt die Pfade,</l>
+					<l>Die ihr dein Wink zu gehn gebeut.</l>
+				</lg>
+				<lg>
+					<l>Der Menſch, von ſeinem Fleiß ermattet,</l>
+					<l>Ruht, von der Finſterni? umſchattet,</l>
+					<l>Und nur das Volk der Wüſte wacht.</l>
+					<l>Dann gehn die Thier aus ihren Wäldern,</l>
+					<l>Und ſuchen auf bethauten Feldern</l>
+					<l>Sich ihre Nahrung in der Nacht.</l>
+					<l>Des jungen Löwen laut Gebrülle</l>
+					<l>Begehret ſeinen Raub von dir;</l>
+					<l>Du nährſt es, <rs type="person" key="G0001">Gott</rs>, aus deiner Fülle,</l>
+					<l>Du sättigſt jedes wilde Thier.</l>
+				</lg>
+				<lg>
+					<l>Die Morgenröthe kömmt; ſchon glühen</l>
+					<l>Des Tages Strahlen; ſchnell entfliehen</l>
+					<l>Die Thier in ihre Höhlen hin.</l>
+					<l>Der Menſch erwacht und pflanzt und säet;</l>
+					<l>Dein Seegen folgt ihm, wo er gehet,</l>
+					<l>Und jeder Fleiß wird ſein Gewinn.</l>
+					<l>Wie zahllos, <rs type="person" key="G0001">Gott</rs>, ſind deine Werke!</l>
+					<l>Die Welt iſt deiner Güte voll.</l>
+					<l>Du giebſt ſie, daß man deine Stärke</l>
+					<l>Und Huld und Weiſheit rühmen ſoll.</l>
+				</lg>
+				<lg>
+					<l>Wie wimmelts in den weiten Meeren</l>
+					<l>Von größern und von kleinern Heeren;</l>
+					<l>Dein Leviathan ſpielet hier.</l>
+					<l>Die Schiffe finden ſichre Bahnen</l>
+					<l>Selbſt auf den wilden Oceanen,</l>
+					<l>Geführt, erhalten, <rs type="person" key="G0001">Gott</rs>, von dir.</l>
+					<l><rs type="person" key="G0001">Herr</rs>, alles wartet auf der Erde,</l>
+					<l>Im Meer und in der Luft, auf dich,</l>
+					<l>Daß es von dir gesättigt werde;</l>
+					<l>Du ſeegneſt; ſie erquicken ſich.</l>
+				</lg>
+				<lg>
+					<l>Du giebſt; ſie ſammeln; was ſie haben,</l>
+					<l>Sind deiner milden Hände Gaben;</l>
+					<l>Du sättigſt ſie mit Freundlichkeit.</l>
+					<l>Dein Angeſicht iſt Heil und Leben;</l>
+					<l><rs type="person" key="G0001">Herr</rs>, du verbirgſt es, ſie erbeben;</l>
+					<l>Ihr Odem fliehet, weil es dräut.</l>
+					<l>Du zürneſt, <rs type="person" key="G0001">Gott</rs>, und das Verderben</l>
+					<l>Ergreift begierig ſeinen Raub;</l>
+					<l>Still ſteht das Leben, und ſie ſterben,</l>
+					<l>Und werden, was ſie waren, Staub.</l>
+				</lg>
+				<lg>
+					<l>Dein Odem tödtet und beſeelet;</l>
+					<l>Die Welt, die deine Huld erzählet,</l>
+					<l>Erneuert ſich auf dein Gebot.</l>
+					<l>Dein Ruhm iſt ewig; deine Stärke</l>
+					<l>Schuf und bewahret deine Werke;</l>
+					<l>Sie ſind dein Wohlgefallen, Gott.</l>
+					<l>Du ſchauſt die Erd an, ſie erzittert;</l>
+					<l>Du taſteſt an der Berge Höhn;</l>
+					<l>Und Berg und Fels, durch dich zerſplittert,</l>
+					<l>Sind Flammen, dampfen und vergehn.</l>
+				</lg>
+				<lg>
+					<l><rs type="person" key="G0001">Gott</rs>, meinem <rs type="person" key="G0001"
+							>Gott</rs>, will ich lobſingen;</l>
+					<l>Ihm will ich Dank und Ehre bringen,</l>
+					<l>Ihm, weil ich athme, Lieder weyhn!</l>
+					<l>Die frommen Lieder, die ihn ehren,</l>
+					<l>Wird er mit Wohlgefallen hören;</l>
+					<l>Ich will mich in dem <rs type="person" key="G0001">Herrn</rs> erfreun!</l>
+					<l>Die Erde trägt zwar viel Verbrecher,</l>
+					<l>Doch bald vertilget <rs type="person" key="G0001">Gott</rs> ihr Heer:</l>
+					<l>Er ſchaut ſie an, der Laſter Rächer;</l>
+					<l>Und alle Frevler ſind nicht mehr.</l>
+				</lg>
+				<lg>
+					<l>Erheb, erheb, o meine Seele,</l>
+					<l><rs type="person" key="G0001">Gott</rs>, meinen <rs type="person" key="G0001"
+							>Schöpfer</rs>, und erzähle,</l>
+					<l>Verkündige ſein Lob der Welt!</l>
+					<l>Ihm ſinge deine Jubellieder;</l>
+					<l>Der Fromme halle ſie ihm wieder,</l>
+					<l>Ihm, der uns bildet und erhält!</l>
+					<l>Frohlockt ihm, alle ſeine Heere!</l>
+					<l>Ihm weihet euern Lobgeſang!</l>
+					<l>Der <rs type="person" key="G0001">Herr</rs> iſt würdig, Preis und Ehre</l>
+					<l>Zu nehmen, Lob und Ruhm und Dank.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

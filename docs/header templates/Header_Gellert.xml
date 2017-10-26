@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"?><?xml-stylesheet type="text/xsl" href="base.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Gellert: Weihnachtslied</title>
+            <!--Arbeitstitel-->
+         </titleStmt>
+         <publicationStmt>
+            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl> <lb/> Geistliche <lb/> Oden und Lieder <lb/> von <lb/>
+               <rs type="person" key="G0002">C. F. Gellert</rs>.<lb/> Mit allergnädigsten Freyheiten. <lb/>
+               <pubPlace>
+                  <hi rend="spaced_out">Leipzig</hi>
+               </pubPlace> , <lb/> in der Weidmannischen Handlung, <date when="1757">1757</date> .
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Bach-Repertorium, Kantatendatenbank</p>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <particDesc>
+            <listPerson>
+               <person role="composer scribe" sex="1" source="Bach">
+                  <persName type="reg" key="B0001"><surname>Bach</surname>, <forename>Carl Philipp
+                        Emanuel</forename></persName>
+                  <persName type="full"><forename>Carl Philipp Emanuel</forename>
+                     <surname>Bach</surname></persName>
+                  <event type="birth" when="1714-03">
+                     <desc><placeName><settlement>Weimar</settlement></placeName></desc>
+                  </event>
+                  <event type="death" when="1788">
+                     <desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+                  </event>
+                  <occupation>Komponist</occupation>
+                  <note type="bioSummary"/>
+                  <idno type="GND">118505505</idno>
+                  <idno type="WeGA"/>
+                  <persName type="sigla" subtype="Kast"/>
+                  <persName type="sigla" subtype="Blechschmidt"/>
+                  <persName type="sigla" subtype="Dürr"/>
+                  <persName type="sigla" subtype="Kobayashi"/>
+                  <persName type="sigla" subtype="misc"/>
+               </person>
+               <person role="poet" sex="1">
+                  <persName type="reg" key="G0002"><surname>Gellert</surname>, <forename>Christian
+                        Fürchtegott</forename></persName>
+                  <persName type="full"><forename>Christian
+                        Fürchtegott</forename><surname>Gellert</surname></persName>
+                  <event type="birth" when="1715-07-04">
+                     <desc><placeName><settlement>Hainichen</settlement></placeName></desc>
+                  </event>
+                  <event type="death" when="1769-12-13">
+                     <desc><placeName><settlement>Lepzig</settlement></placeName></desc>
+                  </event>
+                  <occupation>Philosoph</occupation>
+                  <occupation>Moralphilosoph</occupation>
+                  <occupation>Dichter</occupation>
+                  <idno type="GND">118538322</idno>
+               </person>
+               <person role="god">
+                  <persName type="reg" key="G0001">Gott</persName>
+                  <persName type="full">JHWH</persName>
+                  <occupation>Gott</occupation>
+                  <idno type="GND">118556703</idno>
+               </person>
+               <person role="god">
+                  <persName type="reg" key="J0001">Jesus Christus</persName>
+                  <persName type="full">Jesus von Nazareth</persName>
+                  <occupation>Messias</occupation>
+                  <occupation>Gott</occupation>
+                  <occupation>Heiland</occupation>
+                  <occupation>Sohn Gottes</occupation>
+                  <idno type="GND">118557513</idno>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text type="lied">
+      <body>
+         <pb n="XX"/>
+         <!--Seitenzahl Quelle eins-->
+         <pb n="XX" ed="CPEB1758"/>
+         <!-- Seitenzahl Quelle zwei-->
+         <div type="chorale">
+            <head type="title">XXX.</head>
+            <lg>
+               <l/>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

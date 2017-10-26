@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"?><?xml-stylesheet type="text/xsl" href="base.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title> Sturm I: Osterlied</title>
+				<!--Arbeitstitel-->
+			</titleStmt>
+			<publicationStmt>
+				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					Herrn <rs type="person" key="S0001">Christoph Christian Sturms</rs>, <lb/>
+					Hauptpastors an der Hauptkirche St. Petri und Scholaren in <placeName
+						type="workplace">Hamburg</placeName>, <lb/> geistliche Gesänge<lb/>mit<lb/>
+					Melodien zum Singen bey dem Claviere<lb/>vom<lb/>
+					Herrn Kapellmeister<rs type="person" key="B0001">Carl Philipp Emanuel Bach</rs>,<lb/>
+					Musikdirektor in <placeName type="workplace">Hamburg</placeName><lb/>
+					<pubPlace>Hamburg</pubPlace>,
+					<lb/>bey <persName role="publisher">Johann Henrich Herold</persName>, <date when="1780">1780</date>.</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Bach-Repertorium, Kantatendatenbank</p>
+			</projectDesc>
+		</encodingDesc>
+		<profileDesc>
+			<particDesc>
+				<listPerson>
+					<!--alphabetische Liste der Personen-->
+					<!--Aaron - A0001-->
+					<!--Abraham - A0002-->
+					<!--Adam - A0003-->
+					<!--Bach, Carl Philipp Emanuel - B0001-->
+					<!--Cramer, Johann Andreas - C0001-->
+					<!--Gellert, Christian Fürchtegott - G0002-->
+					<!--Gott - G0001-->
+					<!--Jakob - J0002-->
+					<!--Jesus Christus - J0001-->
+					<!--Levi - L0001-->
+					<!--Melchisedek - M0001-->
+					<!--Moses - M0002-->
+					<!--Petrus, Simon - P0001-->
+					<!--Samuel - S0001-->
+					<!--Simeon - S0002-->
+					<!--Sturm, Christoph Christian - S0001-->
+					<person role="priest" sex="1">
+						<persName type="reg" key="A0002">Aaron</persName>
+						<occupation>erster Priester</occupation>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="A0001">Abraham</persName>
+						<persName type="alt">Abram</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="first man" sex="1">
+						<persName type="reg" key="A0003">Adam</persName>
+						<occupation>Erster Mensch</occupation>
+					</person>
+					<person role="composer scribe" sex="1" source="Bach">
+						<persName type="reg" key="B0001"><surname>Bach</surname>, <forename>Carl
+								Philipp Emanuel</forename></persName>
+						<persName type="full"><forename>Carl Philipp Emanuel</forename>
+							<surname>Bach</surname></persName>
+						<event type="birth" when="1714-03">
+							<desc><placeName><settlement>Weimar</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Komponist</occupation>
+						<note type="bioSummary"/>
+						<idno type="GND">118505505</idno>
+						<idno type="WeGA"/>
+						<persName type="sigla" subtype="Kast"/>
+						<persName type="sigla" subtype="Blechschmidt"/>
+						<persName type="sigla" subtype="Dürr"/>
+						<persName type="sigla" subtype="Kobayashi"/>
+						<persName type="sigla" subtype="misc"/>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="C0001"><surname>Cramer</surname>, <forename>Johann
+								Andreas</forename></persName>
+						<persName type="full"><forename>Johann
+								Andreas</forename><surname>Cramer</surname></persName>
+						<event type="birth" when="1723-01-27">
+							<desc><placeName><settlement>Jöhstadt</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788-06-12">
+							<desc><placeName><settlement>Kiel</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Schriftsteller</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118973258</idno>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="G0002"><surname>Gellert</surname>,
+								<forename>Christian Fürchtegott</forename></persName>
+						<persName type="full"><forename>Christian
+								Fürchtegott</forename><surname>Gellert</surname></persName>
+						<event type="birth" when="1715-07-04">
+							<desc><placeName><settlement>Hainichen</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1769-12-13">
+							<desc><placeName><settlement>Lepzig</settlement></placeName></desc>
+						</event>
+						<occupation>Philosoph</occupation>
+						<occupation>Moralphilosoph</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118538322</idno>
+					</person>
+					<person role="god">
+						<persName type="reg" key="G0001">Gott</persName>
+						<persName type="full">JHWH</persName>
+						<occupation>Gott</occupation>
+						<idno type="GND">118556703</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="J0002">Jakob</persName>
+						<persName type="alt">Israel</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="god" sex="1">
+						<persName type="reg" key="J0001">Jesus Christus</persName>
+						<persName type="full">Jesus von Nazareth</persName>
+						<occupation>Messias</occupation>
+						<occupation>Gott</occupation>
+						<occupation>Heiland</occupation>
+						<occupation>Sohn Gottes</occupation>
+						<idno type="GND">118557513</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="L0001">Levi</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="king" sex="1">
+						<persName type="reg" key="M0001">Melchisedek</persName>
+						<occupation>alttestamentlicher König</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="M0002">Moses</persName>
+						<persName type="alt">Mose</persName>
+						<occupation>Prophet des Alten Testaments</occupation>
+					</person>
+					<person role="apostle" sex="1">
+						<persName type="reg" key="P0001">Petrus</persName>
+						<persName type="full">Simon Petrus</persName>
+						<occupation>Jünger Jesu</occupation>
+						<occupation>Apostel</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0001">Samuel</persName>
+						<occupation>alttestamentlicher Prophet</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0002">Simeon</persName>
+						<occupation>Prophet des Neuen Testaments</occupation>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="S0001"><surname>Sturm</surname>,
+								<forename>Christoph Christian</forename></persName>
+						<persName type="full"><forename>Christoph
+								Christian</forename><surname>Sturm</surname></persName>
+						<event type="birth" when="1740-01-25">
+							<desc><placeName><settlement>Augsburg</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1786-08-26">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Komponist</occupation>
+						<idno type="GND">118158651</idno>
+					</person>
+				</listPerson>
+			</particDesc>
+		</profileDesc>
+		<revisionDesc>
+			<change when="2014-02-21" who="RL">encoding started</change>
+		</revisionDesc>
+	</teiHeader>
+	<text type="lied">
+		<body>
+			<pb n="4" ed="CPEB1780"/>
+			<div type="chorale">
+				<head type="title">Oſterlied.</head>
+				<lg>
+					<l>Amen! Lob und Preis und Stärke</l>
+					<l>Sey dem Vollender ſeiner Werke!</l>
+					<l>Dem <rs type="person" key="J0001">Todesüberwinder</rs> Dank!</l>
+					<l>Singt dem auferſtandnen Helden!</l>
+					<l>Und alle Himmel, alle Welten</l>
+					<l>Und dieſer Erdkreis ſey Geſang!</l>
+					<l>Ihm, der vom Tod erſtand,</l>
+					<l>Ihm, der einſt überwand,</l>
+					<l>Hallelujah!</l>
+					<l>Sein iſt die Macht!</l>
+					<l>Er hats vollbracht!</l>
+					<l>Die Welt iſt ſeiner Ehre voll!</l>
+				</lg>
+				<lg>
+					<l>Ja, du Land der Gräber, Erde,</l>
+					<l>Empor aus deinem Staube! Werde</l>
+					<l>Ein Land des Lebens und des Lichts!</l>
+					<l>Er, der ſiegreich auferſtanden,</l>
+					<l>Befreyt dich von des Todes Banden</l>
+					<l>Und von den Quaalen des Gerichts.</l>
+					<l>Heil dir! Das Grab iſt leer!</l>
+					<l>Des Abgrunds Schreckenheer</l>
+					<l>Iſt bezwungen.</l>
+					<l>Des Todes Nacht,</l>
+					<l>Der Hölle Macht,</l>
+					<l>Der Gräber Grauen iſt beſiegt.</l>
+				</lg>
+				<lg>
+					<l>Was vermag, uns zu erſchüttern?</l>
+					<l>Der Hölle Sklaven müſsen zittern</l>
+					<l>Vor ihm, der ewig, ewig lebt.</l>
+					<l>Wir, des Auferſtandnen Brüder,</l>
+					<l>Wir, Chriſten, ſeines Körpers Glieder,</l>
+					<l>Wir freun uns deß, der ewig lebt.</l>
+					<l>Für uns ſank er in Tod,</l>
+					<l>Für uns entrückte Gott</l>
+					<l>Ihn dem Grabe.</l>
+					<l>Empörer bebt!</l>
+					<l>Der Sieger lebt!</l>
+					<l>Er lebt und ſtirbt hinfort nicht mehr.</l>
+				</lg>
+				<lg>
+					<l>Unſer Herz darf nun nicht wanken,</l>
+					<l>Die bangen, zweifelnden Gedanken</l>
+					<l>Beſiegt des Glaubens Zuverſicht.</l>
+					<l>Wie ein Fels des Herrn im Meere,</l>
+					<l>Steht unerſchüttert Jeſu Lehre,</l>
+					<l>Umglänzt mit Seligkeit und Licht.</l>
+					<l>Der Himmel Bau zerfällt;</l>
+					<l>Die Herrlichkeit der Welt</l>
+					<l>Wird verſchwinden.</l>
+					<l>Doch fort und fort</l>
+					<l>Steht <rs type="person" key="J0001">Jeſu</rs> Wort,</l>
+					<l>Bleibt Troſt und Heil in Ewigkeit.</l>
+				</lg>
+				<lg>
+					<l>Doch auch wir, wir werden bleiben.</l>
+					<l>Mag doch des Körpers Staub zerſtäuben:</l>
+					<l>Verzehre, Moder, mein Gebein!</l>
+					<l><rs type="person" key="J0001">Jeſus</rs> lebt! Und meine Glieder</l>
+					<l>Belebt einſt ſeine Allmacht wieder;</l>
+					<l>Wie er, werd ich unſterblich ſeyn.</l>
+					<l>In der Verweſung Grab</l>
+					<l>Dringt dann ſein Ruf hinab:</l>
+					<l>Und ich lebe!</l>
+					<l>Und ich bin Sein,</l>
+					<l>Auf ewig Sein!</l>
+					<l>Wie wird mir dann, o dann, mir ſeyn!</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

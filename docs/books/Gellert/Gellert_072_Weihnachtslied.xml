@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"?><?xml-stylesheet type="text/xsl" href="base.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title> Gellert: Weihnachtslied </title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
+					<rs type="person" key="G0002">C. F. Gellert</rs>.<lb/>
+					Mit allergnädigsten Freyheiten.<lb/>
+					<hi rend="spaced_out"><placeName>Leipzig</placeName>,</hi><lb/>
+					in der Weidmannischen Handlung, <date when="1757">1757</date>.</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Bach-Repertorium, Kantatendatenbank</p>
+			</projectDesc>
+		</encodingDesc>
+		<profileDesc>
+			<particDesc>
+				<listPerson>
+					<!--alphabetische Liste der Personen-->
+					<!--Aaron - A0001-->
+					<!--Abraham - A0002-->
+					<!--Adam - A0003-->
+					<!--Bach, Carl Philipp Emanuel - B0001-->
+					<!--Cramer, Johann Andreas - C0001-->
+					<!--Gellert, Christian Fürchtegott - G0002-->
+					<!--Gott - G0001-->
+					<!--Jakob - J0002-->
+					<!--Jesus Christus - J0001-->
+					<!--Levi - L0001-->
+					<!--Melchisedek - M0001-->
+					<!--Moses - M0002-->
+					<!--Petrus, Simon - P0001-->
+					<!--Samuel - S0001-->
+					<!--Simeon - S0002-->
+					<!--Sturm, Christoph Christian - S0001-->
+					<person role="priest" sex="1">
+						<persName type="reg" key="A0002">Aaron</persName>
+						<occupation>erster Priester</occupation>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="A0001">Abraham</persName>
+						<persName type="alt">Abram</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="first man" sex="1">
+						<persName type="reg" key="A0003">Adam</persName>
+						<occupation>Erster Mensch</occupation>
+					</person>
+					<person role="composer scribe" sex="1" source="Bach">
+						<persName type="reg" key="B0001"><surname>Bach</surname>, <forename>Carl
+								Philipp Emanuel</forename></persName>
+						<persName type="full"><forename>Carl Philipp Emanuel</forename>
+							<surname>Bach</surname></persName>
+						<event type="birth" when="1714-03">
+							<desc><placeName><settlement>Weimar</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Komponist</occupation>
+						<note type="bioSummary"/>
+						<idno type="GND">118505505</idno>
+						<idno type="WeGA"/>
+						<persName type="sigla" subtype="Kast"/>
+						<persName type="sigla" subtype="Blechschmidt"/>
+						<persName type="sigla" subtype="Dürr"/>
+						<persName type="sigla" subtype="Kobayashi"/>
+						<persName type="sigla" subtype="misc"/>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="C0001"><surname>Cramer</surname>, <forename>Johann
+								Andreas</forename></persName>
+						<persName type="full"><forename>Johann
+								Andreas</forename><surname>Cramer</surname></persName>
+						<event type="birth" when="1723-01-27">
+							<desc><placeName><settlement>Jöhstadt</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788-06-12">
+							<desc><placeName><settlement>Kiel</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Schriftsteller</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118973258</idno>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="G0002"><surname>Gellert</surname>,
+								<forename>Christian Fürchtegott</forename></persName>
+						<persName type="full"><forename>Christian
+								Fürchtegott</forename><surname>Gellert</surname></persName>
+						<event type="birth" when="1715-07-04">
+							<desc><placeName><settlement>Hainichen</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1769-12-13">
+							<desc><placeName><settlement>Lepzig</settlement></placeName></desc>
+						</event>
+						<occupation>Philosoph</occupation>
+						<occupation>Moralphilosoph</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118538322</idno>
+					</person>
+					<person role="god">
+						<persName type="reg" key="G0001">Gott</persName>
+						<persName type="full">JHWH</persName>
+						<occupation>Gott</occupation>
+						<idno type="GND">118556703</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="J0002">Jakob</persName>
+						<persName type="alt">Israel</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="god" sex="1">
+						<persName type="reg" key="J0001">Jesus Christus</persName>
+						<persName type="full">Jesus von Nazareth</persName>
+						<occupation>Messias</occupation>
+						<occupation>Gott</occupation>
+						<occupation>Heiland</occupation>
+						<occupation>Sohn Gottes</occupation>
+						<idno type="GND">118557513</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="L0001">Levi</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="king" sex="1">
+						<persName type="reg" key="M0001">Melchisedek</persName>
+						<occupation>alttestamentlicher König</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="M0002">Moses</persName>
+						<persName type="alt">Mose</persName>
+						<occupation>Prophet des Alten Testaments</occupation>
+					</person>
+					<person role="apostle" sex="1">
+						<persName type="reg" key="P0001">Petrus</persName>
+						<persName type="full">Simon Petrus</persName>
+						<occupation>Jünger Jesu</occupation>
+						<occupation>Apostel</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0001">Samuel</persName>
+						<occupation>alttestamentlicher Prophet</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0002">Simeon</persName>
+						<occupation>Prophet des Neuen Testaments</occupation>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="S0001"><surname>Sturm</surname>,
+								<forename>Christoph Christian</forename></persName>
+						<persName type="full"><forename>Christoph
+								Christian</forename><surname>Sturm</surname></persName>
+						<event type="birth" when="1740-01-25">
+							<desc><placeName><settlement>Augsburg</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1786-08-26">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Komponist</occupation>
+						<idno type="GND">118158651</idno>
+					</person>
+				</listPerson>
+			</particDesc>
+		</profileDesc>
+	</teiHeader>
+	<text type="lied">
+		<body>
+			<pb n="72"/>
+			<pb n="47" ed="CPEB1758"/>
+			<div type="chorale">
+				<head type="title">Weihnachtſlied.</head>
+				<lg>
+					<l>Dieß iſt der Tag, den <rs type="person" key="G0001">Gott</rs> gemacht;</l>
+					<l>Sein werd in aller Welt gedacht!</l>
+					<l>Ihn preiſe, was durch <rs type="person" key="J0001">Jeſum Chriſt</rs></l>
+					<l>Im Himmel und auf Erden iſt!</l>
+				</lg>
+				<lg>
+					<l>Die Völker haben dein geharrt,</l>
+					<l>Bis daß die Zeit erfüllet ward;</l>
+					<l>Da ſandte <rs type="person" key="G0001">Gott</rs> von ſeinem Thron</l>
+					<l>das Heil der Welt, dich, ſeinen <rs type="person" key="J0001">Sohn</rs>.</l>
+				</lg>
+				<lg>
+					<l>Wenn ich dieß Wunder faſsen will:</l>
+					<l>So ſteht mein Geiſt vor Ehrfurcht ſtill.</l>
+					<l>Er betet an, und er ermißt,</l>
+					<l>Daß <rs type="person" key="G0001">Gottes</rs> Lieb unendlich iſt.</l>
+				</lg>
+				<lg>
+					<l>Damit der Sünder Gnad erhält,</l>
+					<l>Erniedrigſt du dich, <rs type="person" key="G0001">Herr</rs> der Welt,</l>
+					<l>Nimmſt ſelbſt an unſrer Menſchheit Theil,</l>
+					<l>Erſcheinſt im Fleiſch, und wirſt uns Heil.</l>
+				</lg>
+				<lg>
+					<l>Dein <rs type="person" key="J0001">König</rs>, <placeName>Zion</placeName>,
+						kömmt zu dir.</l>
+					<l>"Ich komm, im Buche ſteht von mir;</l>
+					<l>"<rs type="person" key="G0001">Gott</rs>, deinen Willen thu ich gern.</l>
+					<l>Gelobt ſey, der da kömmt im <rs type="person" key="G0001">Herrn</rs>!</l>
+				</lg>
+				<pb n="73"/>
+				<lg>
+					<l><rs type="person" key="J0001">Herr</rs>, der du Menſch gebohren wirſt,</l>
+					<l><rs type="person" key="J0001">Immanuel</rs> und <rs type="person" key="J0001"
+							>Friedefürſt</rs>,</l>
+					<l>Auf den die Väter hoffend ſahn,</l>
+					<l>Dich, <rs type="person" key="J0001">Gott Meſsias</rs>, bet ich an.</l>
+				</lg>
+				<lg>
+					<l>Du, unſer Heil und höchſtes Gut,</l>
+					<l>Vereineſt dich mit Fleiſch und Blut,</l>
+					<l>Wirſt unſer Freund und Bruder hier,</l>
+					<l>Und <rs type="person" key="G0001">Gottes</rs> Kinder werden wir.</l>
+				</lg>
+				<lg>
+					<l>Gedanke voller Majeſtät!</l>
+					<l>Du biſt es, der das Herz erhöht.</l>
+					<l>Gedanke voller Seligkeit!</l>
+					<l>Du biſt es, der das Herz erfreut.</l>
+				</lg>
+				<lg>
+					<l>Durch Eines Sünde fiel die Welt.</l>
+					<l>Ein Mittler iſts, der ſie erhält.</l>
+					<l>Was zagt der Menſch, wenn der ihn ſchützt,</l>
+					<l>Der in des <rs type="person" key="G0001">Vaters</rs> Schooße ſitzt?</l>
+				</lg>
+				<lg>
+					<l>Jauchzt, Himmel, die ihr ihn erfuhrt,</l>
+					<l>Den Tag der heiligſten Geburt;</l>
+					<l>Und Erde, die ihn heute ſieht,</l>
+					<l>Sing ihm, dem <rs type="person" key="G0001">Herrn</rs>, ein neues Lied!</l>
+				</lg>
+				<pb n="74"/>
+				<lg>
+					<l>Dieß iſt der Tag, den <rs type="person" key="G0001">Gott</rs> gemacht;</l>
+					<l>Sein werd in aller Welt gedacht!</l>
+					<l>Ihn preiſe, was durch <rs type="person" key="G0001">Jeſum Chriſt</rs></l>
+					<l>Im Himmel und auf Erden iſt!</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"?><?xml-stylesheet type="text/xsl" href="base.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Sturm II: Erinnerung an den Tod</title>
+            <!--Arbeitstitel-->
+         </titleStmt>
+         <publicationStmt>
+            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               Herrn <rs type="person" key="S0001">Christoph Christian Sturms</rs>,<lb/>
+               Hauptpastors an der Hauptkirche St. Petri und Scholaren in <placeName type="workplace">Hamburg</placeName>,<lb/>
+               geistliche Gesänge<lb/>mit<lb/>
+               Melodien zum Singen bey dem Claviere<lb/>vom<lb/>
+               Herrn Kapellmeister <rs type="person" key="B0001">Carl Philipp Emanuel Bach</rs>,<lb/>
+               Musikdirektor in <placeName type="workplace">Hamburg</placeName>.<lb/>
+               Zweyte Sammlung.<lb/>
+               Dritte mit dem vollständigen Verzeichnisse der Schriften des Herrn
+               <rs type="person" key="S0001">C. C. Sturms</rs> vermehrten Auflage.<lb/>
+               <pubPlace>Hamburg</pubPlace>,<lb/>
+               bey <persName role="publisher">Johann Henrich Herold</persName>, <date when="1792">1792</date>.</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Bach-Repertorium, Kantatendatenbank</p>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <particDesc>
+            <listPerson>
+               <!--alphabetische Liste der Personen-->
+               <!--Aaron - A0001-->
+               <!--Abraham - A0002-->
+               <!--Adam - A0003-->
+               <!--Bach, Carl Philipp Emanuel - B0001-->
+               <!--Cramer, Johann Andreas - C0001-->
+               <!--Gellert, Christian Fürchtegott - G0002-->
+               <!--Gott - G0001-->
+               <!--Jakob - J0002-->
+               <!--Jesus Christus - J0001-->
+               <!--Levi - L0001-->
+               <!--Melchisedek - M0001-->
+               <!--Moses - M0002-->
+               <!--Petrus, Simon - P0001-->
+               <!--Samuel - S0001-->
+               <!--Simeon - S0002-->
+               <!--Sturm, Christoph Christian - S0001-->
+               <person role="priest" sex="1">
+                  <persName type="reg" key="A0002">Aaron</persName>
+                  <occupation>erster Priester</occupation>
+               </person>
+               <person role="patriarch" sex="1">
+                  <persName type="reg" key="A0001">Abraham</persName>
+                  <persName type="alt">Abram</persName>
+                  <occupation>Erzvater</occupation>
+               </person>
+               <person role="first man" sex="1">
+                  <persName type="reg" key="A0003">Adam</persName>
+                  <occupation>Erster Mensch</occupation>
+               </person>
+               <person role="composer scribe" sex="1" source="Bach">
+                  <persName type="reg" key="B0001"><surname>Bach</surname>, <forename>Carl Philipp
+                        Emanuel</forename></persName>
+                  <persName type="full"><forename>Carl Philipp Emanuel</forename>
+                     <surname>Bach</surname></persName>
+                  <event type="birth" when="1714-03">
+                     <desc><placeName><settlement>Weimar</settlement></placeName></desc>
+                  </event>
+                  <event type="death" when="1788">
+                     <desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+                  </event>
+                  <occupation>Komponist</occupation>
+                  <note type="bioSummary"/>
+                  <idno type="GND">118505505</idno>
+                  <idno type="WeGA"/>
+                  <persName type="sigla" subtype="Kast"/>
+                  <persName type="sigla" subtype="Blechschmidt"/>
+                  <persName type="sigla" subtype="Dürr"/>
+                  <persName type="sigla" subtype="Kobayashi"/>
+                  <persName type="sigla" subtype="misc"/>
+               </person>
+               <person role="poet" sex="1">
+                  <persName type="reg" key="C0001"><surname>Cramer</surname>, <forename>Johann
+                        Andreas</forename></persName>
+                  <persName type="full"><forename>Johann
+                     Andreas</forename><surname>Cramer</surname></persName>
+                  <event type="birth" when="1723-01-27">
+                     <desc><placeName><settlement>Jöhstadt</settlement></placeName></desc>
+                  </event>
+                  <event type="death" when="1788-06-12">
+                     <desc><placeName><settlement>Kiel</settlement></placeName></desc>
+                  </event>
+                  <occupation>Theologe</occupation>
+                  <occupation>Schriftsteller</occupation>
+                  <occupation>Dichter</occupation>
+                  <idno type="GND">118973258</idno>
+               </person>
+               <person role="poet" sex="1">
+                  <persName type="reg" key="G0002"><surname>Gellert</surname>, <forename>Christian
+                        Fürchtegott</forename></persName>
+                  <persName type="full"><forename>Christian
+                        Fürchtegott</forename><surname>Gellert</surname></persName>
+                  <event type="birth" when="1715-07-04">
+                     <desc><placeName><settlement>Hainichen</settlement></placeName></desc>
+                  </event>
+                  <event type="death" when="1769-12-13">
+                     <desc><placeName><settlement>Lepzig</settlement></placeName></desc>
+                  </event>
+                  <occupation>Philosoph</occupation>
+                  <occupation>Moralphilosoph</occupation>
+                  <occupation>Dichter</occupation>
+                  <idno type="GND">118538322</idno>
+               </person>
+               <person role="god">
+                  <persName type="reg" key="G0001">Gott</persName>
+                  <persName type="full">JHWH</persName>
+                  <occupation>Gott</occupation>
+                  <idno type="GND">118556703</idno>
+               </person>
+               <person role="patriarch" sex="1">
+                  <persName type="reg" key="J0002">Jakob</persName>
+                  <persName type="alt">Israel</persName>
+                  <occupation>Erzvater</occupation>
+               </person>
+               <person role="god" sex="1">
+                  <persName type="reg" key="J0001">Jesus Christus</persName>
+                  <persName type="full">Jesus von Nazareth</persName>
+                  <occupation>Messias</occupation>
+                  <occupation>Gott</occupation>
+                  <occupation>Heiland</occupation>
+                  <occupation>Sohn Gottes</occupation>
+                  <idno type="GND">118557513</idno>
+               </person>
+               <person role="patriarch" sex="1">
+                  <persName type="reg" key="L0001">Levi</persName>
+                  <occupation>Erzvater</occupation>
+               </person>
+               <person role="king" sex="1">
+                  <persName type="reg" key="M0001">Melchisedek</persName>
+                  <occupation>alttestamentlicher König</occupation>
+               </person>
+               <person role="prophet" sex="1">
+                  <persName type="reg" key="M0002">Moses</persName>
+                  <persName type="alt">Mose</persName>
+                  <occupation>Prophet des Alten Testaments</occupation>
+               </person>
+               <person role="apostle" sex="1">
+                  <persName type="reg" key="P0001">Petrus</persName>
+                  <persName type="full">Simon Petrus</persName>
+                  <occupation>Jünger Jesu</occupation>
+                  <occupation>Apostel</occupation>
+               </person>
+               <person role="prophet" sex="1">
+                  <persName type="reg" key="S0001">Samuel</persName>
+                  <occupation>alttestamentlicher Prophet</occupation>
+               </person>
+               <person role="prophet" sex="1">
+                  <persName type="reg" key="S0002">Simeon</persName>
+                  <occupation>Prophet des Neuen Testaments</occupation>
+               </person>
+               <person role="poet" sex="1">
+                  <persName type="reg" key="S0001"><surname>Sturm</surname>, <forename>Christoph
+                        Christian</forename></persName>
+                  <persName type="full"><forename>Christoph
+                        Christian</forename><surname>Sturm</surname></persName>
+                  <event type="birth" when="1740-01-25">
+                     <desc><placeName><settlement>Augsburg</settlement></placeName></desc>
+                  </event>
+                  <event type="death" when="1786-08-26">
+                     <desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+                  </event>
+                  <occupation>Theologe</occupation>
+                  <occupation>Komponist</occupation>
+                  <idno type="GND">118158651</idno>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2014-03-05" who="RL">encoding started</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="lied">
+      <body>
+         <pb n="18" ed="CPEB1792"/>
+         <!-- Seitenzahl Quelle eins-->
+         <div type="chorale">
+            <head type="title">Erinnerung an den Tod.</head>
+            <lg>
+               <l>Noch bin ich dein Gaſt, o Erde.</l>
+               <l><rs type="person" key="G0001">Gott</rs> mehrt meiner Tage Zahl.</l>
+               <l>Daß ich reif zum Himmel werde,</l>
+               <l>Prüft er mich, läßt mir die Wahl,</l>
+               <l>Böſes oder Guts zu wählen.</l>
+               <l>Doch, werd ich viel Jahre zählen?</l>
+               <l>Oder ruft ein früher Tod</l>
+               <l>Mich zur bangen Sterbeſnoth?</l>
+            </lg>
+            <lg>
+               <l><rs type="person" key="G0001">Herr</rs>, du weißts. Du haſt die Tage</l>
+               <l>Meines Lebenſlaufs gezählt.</l>
+               <l>Ihre Freuden, ihre Plage</l>
+               <l>Sah dein Auge, das nie fehlt,</l>
+               <l>Früher noch, als du auf Erden</l>
+               <l>Mich ließt einen Pilger werden,</l>
+               <l>Da ſchon ſchriebſt du meinen Tod</l>
+               <l>Auf dein Buch, allweiſer <rs type="person" key="G0001">Gott</rs>.</l>
+            </lg>
+            <lg>
+               <l>Einſt, wenn es dein Wille fordert,</l>
+               <l>Wird mein reger Leib zu Staub:</l>
+               <l>Und das Feur, das in mir lodert,</l>
+               <l>Wird des kalten Todes Raub.</l>
+               <l>So wie Frühlingſblumen welken,</l>
+               <l>Wird mein Leben auch verwelken:</l>
+               <l>Kraft und Odem nehmen ab,</l>
+               <l>Und den Leichnam nimmt das Grab.</l>
+            </lg>
+            <lg>
+               <l>Nimm ihn hin zu deinem Staube,</l>
+               <l>Grab! verwandle ihn in Erd!</l>
+               <l>Dennoch triumphirt mein Glaube;</l>
+               <l>Denn mein Leib wird einſt verklärt.</l>
+               <l>Des verweſten Körpers Trümmer</l>
+               <l>Bleiben wahrlich nicht auf immer</l>
+               <l>Der Vermodrung ſchnöder Raub.</l>
+               <l>Neu beſeelt wird einſt mein Staub.</l>
+            </lg>
+            <lg>
+               <l>Durch dein ſchöpfriſch Wort: Es werde!</l>
+               <l>Rufſt du, <rs type="person" key="G0001">Herr</rs>, in mein Gebein</l>
+               <l>Neues Leben. Nicht mehr Erde</l>
+               <l>Wird alſdann mein Körper ſeyn.</l>
+               <l>Zu den himmliſchen Geſchäften</l>
+               <l>Schmückſt du ihn mit neuen Kräften:</l>
+               <l>Und von Schmerz und Sterblichkeit</l>
+               <l>Wird er ewig dann befreyt.</l>
+            </lg>
+            <lg>
+               <l>Hör, o Seele, einſt mit Freuden</l>
+               <l>Jenen Ruf: Das Grab iſt da!</l>
+               <l>Denn das Ende deiner Leiden</l>
+               <l>Iſt mit ihm zugleich dir nah.</l>
+               <l>Er, der deinen Tod bezwungen,</l>
+               <l>Hat das Leben dir errungen.</l>
+               <l>Durch den Weg der Sterblichkeit</l>
+               <l>Führt er dich zur Ewigkeit.</l>
+            </lg>
+            <lg>
+               <l>Stärke mich auf dieſe Stunde,</l>
+               <l><rs type="person" key="J0001">Jeſu</rs>, der du für mich ſtarbſt,</l>
+               <l>Und an <rs type="person" key="G0001">Gottes</rs> Gnadenbunde</l>
+               <l>Ewig Antheil mir erwarbſt.</l>
+               <l>Laß mich Tod und Grab nicht ſcheuen;</l>
+               <l>Laß vielmehr mich darauf freuen.</l>
+               <l>Denn, nach treu vollbrachtem Lauf,</l>
+               <l>Nimmſt du mich zum Himmel auf.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

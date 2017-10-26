@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"?><?xml-stylesheet type="text/xsl" href="base.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title> Gellert: Betrachtung des Todes</title>
+				<!--Arbeitstitel-->
+			</titleStmt>
+			<publicationStmt>
+				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
+					<rs type="person" key="G0002">C. F. Gellert</rs>.<lb/>
+					Mit allergnädigsten Freyheiten.<lb/>
+					<hi rend="spaced_out"><placeName>Leipzig</placeName>,</hi><lb/>
+					in der Weidmannischen Handlung, <date when="1757">1757</date>.</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Bach-Repertorium, Kantatendatenbank</p>
+			</projectDesc>
+		</encodingDesc>
+		<profileDesc>
+			<particDesc>
+				<listPerson>
+					<!--alphabetische Liste der Personen-->
+					<!--Aaron - A0001-->
+					<!--Abraham - A0002-->
+					<!--Adam - A0003-->
+					<!--Bach, Carl Philipp Emanuel - B0001-->
+					<!--Cramer, Johann Andreas - C0001-->
+					<!--Gellert, Christian Fürchtegott - G0002-->
+					<!--Gott - G0001-->
+					<!--Jakob - J0002-->
+					<!--Jesus Christus - J0001-->
+					<!--Levi - L0001-->
+					<!--Melchisedek - M0001-->
+					<!--Moses - M0002-->
+					<!--Petrus, Simon - P0001-->
+					<!--Samuel - S0001-->
+					<!--Simeon - S0002-->
+					<!--Sturm, Christoph Christian - S0001-->
+					<person role="priest" sex="1">
+						<persName type="reg" key="A0002">Aaron</persName>
+						<occupation>erster Priester</occupation>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="A0001">Abraham</persName>
+						<persName type="alt">Abram</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="first man" sex="1">
+						<persName type="reg" key="A0003">Adam</persName>
+						<occupation>Erster Mensch</occupation>
+					</person>
+					<person role="composer scribe" sex="1" source="Bach">
+						<persName type="reg" key="B0001"><surname>Bach</surname>, <forename>Carl
+								Philipp Emanuel</forename></persName>
+						<persName type="full"><forename>Carl Philipp Emanuel</forename>
+							<surname>Bach</surname></persName>
+						<event type="birth" when="1714-03">
+							<desc><placeName><settlement>Weimar</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Komponist</occupation>
+						<note type="bioSummary"/>
+						<idno type="GND">118505505</idno>
+						<idno type="WeGA"/>
+						<persName type="sigla" subtype="Kast"/>
+						<persName type="sigla" subtype="Blechschmidt"/>
+						<persName type="sigla" subtype="Dürr"/>
+						<persName type="sigla" subtype="Kobayashi"/>
+						<persName type="sigla" subtype="misc"/>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="C0001"><surname>Cramer</surname>, <forename>Johann
+								Andreas</forename></persName>
+						<persName type="full"><forename>Johann
+								Andreas</forename><surname>Cramer</surname></persName>
+						<event type="birth" when="1723-01-27">
+							<desc><placeName><settlement>Jöhstadt</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1788-06-12">
+							<desc><placeName><settlement>Kiel</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Schriftsteller</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118973258</idno>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="G0002"><surname>Gellert</surname>,
+								<forename>Christian Fürchtegott</forename></persName>
+						<persName type="full"><forename>Christian
+								Fürchtegott</forename><surname>Gellert</surname></persName>
+						<event type="birth" when="1715-07-04">
+							<desc><placeName><settlement>Hainichen</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1769-12-13">
+							<desc><placeName><settlement>Lepzig</settlement></placeName></desc>
+						</event>
+						<occupation>Philosoph</occupation>
+						<occupation>Moralphilosoph</occupation>
+						<occupation>Dichter</occupation>
+						<idno type="GND">118538322</idno>
+					</person>
+					<person role="god">
+						<persName type="reg" key="G0001">Gott</persName>
+						<persName type="full">JHWH</persName>
+						<occupation>Gott</occupation>
+						<idno type="GND">118556703</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="J0002">Jakob</persName>
+						<persName type="alt">Israel</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="god" sex="1">
+						<persName type="reg" key="J0001">Jesus Christus</persName>
+						<persName type="full">Jesus von Nazareth</persName>
+						<occupation>Messias</occupation>
+						<occupation>Gott</occupation>
+						<occupation>Heiland</occupation>
+						<occupation>Sohn Gottes</occupation>
+						<idno type="GND">118557513</idno>
+					</person>
+					<person role="patriarch" sex="1">
+						<persName type="reg" key="L0001">Levi</persName>
+						<occupation>Erzvater</occupation>
+					</person>
+					<person role="king" sex="1">
+						<persName type="reg" key="M0001">Melchisedek</persName>
+						<occupation>alttestamentlicher König</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="M0002">Moses</persName>
+						<persName type="alt">Mose</persName>
+						<occupation>Prophet des Alten Testaments</occupation>
+					</person>
+					<person role="apostle" sex="1">
+						<persName type="reg" key="P0001">Petrus</persName>
+						<persName type="full">Simon Petrus</persName>
+						<occupation>Jünger Jesu</occupation>
+						<occupation>Apostel</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0001">Samuel</persName>
+						<occupation>alttestamentlicher Prophet</occupation>
+					</person>
+					<person role="prophet" sex="1">
+						<persName type="reg" key="S0002">Simeon</persName>
+						<occupation>Prophet des Neuen Testaments</occupation>
+					</person>
+					<person role="poet" sex="1">
+						<persName type="reg" key="S0001"><surname>Sturm</surname>,
+								<forename>Christoph Christian</forename></persName>
+						<persName type="full"><forename>Christoph
+								Christian</forename><surname>Sturm</surname></persName>
+						<event type="birth" when="1740-01-25">
+							<desc><placeName><settlement>Augsburg</settlement></placeName></desc>
+						</event>
+						<event type="death" when="1786-08-26">
+							<desc><placeName><settlement>Hamburg</settlement></placeName></desc>
+						</event>
+						<occupation>Theologe</occupation>
+						<occupation>Komponist</occupation>
+						<idno type="GND">118158651</idno>
+					</person>
+				</listPerson>
+			</particDesc>
+		</profileDesc>
+	</teiHeader>
+	<text type="lied">
+		<body>
+			<pb n="149"/>
+			<pb n="28" ed="CPEB1758"/>
+			<div type="chorale">
+				<head type="title">Betrachtung des Todes.</head>
+				<lg>
+					<l><anchor subtype="death_start" type="death"/>Wie ſicher lebt der Menſch, der
+						Staub!</l>
+					<l>Sein Leben iſt ein fallend Laub;</l>
+					<l>Und dennoch ſchmeichelt er ſich gern,</l>
+					<l>Der Tag des Todes ſey noch fern.<anchor subtype="death_end" type="death"
+						/></l>
+				</lg>
+				<lg>
+					<anchor subtype="death_start" type="death"/>
+					<l> Der Jüngling <choice>
+							<orig>hofft</orig>
+							<reg>hoft</reg>
+						</choice> des Greiſes Ziel, </l>
+					<l>Der Mann noch ſeiner Jahre viel,</l>
+					<l>Der Greis zu vielen noch ein Jahr,</l>
+					<l>Und keiner nimmt den Irrthum wahr.<anchor subtype="death_end" type="death"
+						/></l>
+				</lg>
+				<lg>
+					<anchor subtype="death_start" type="death"/>
+					<l>Sprich nicht: Ich denk in Glück und Noth</l>
+					<l>Im Herzen oft an meinen Tod.</l>
+					<l>Der, den der Tod nicht weiſer macht,</l>
+					<l>Hat nie mit Ernſt an ihn gedacht.<anchor subtype="death_end" type="death"
+						/></l>
+				</lg>
+				<lg>
+					<l><anchor subtype="death_start" type="death"/>Wir leben hier zur Ewigkeit,</l>
+					<l>Zu thun, was uns der Herr gebeut,</l>
+					<l>Und unſers Lebens kleinſter Theil</l>
+					<l>Iſt eine Friſt zu unſerm Heil.<anchor subtype="death_end" type="death"/></l>
+				</lg>
+				<pb n="150"/>
+				<lg>
+					<l><anchor subtype="death_start" type="death"/>Der Tod rückt Seelen vor
+						Gericht;</l>
+					<l>Da bringt <rs type="person" key="G0001">Gott</rs> alles an das Licht,</l>
+					<l>Und macht, was hier verborgen war,</l>
+					<l>Den Rath der Herzen offenbar.<anchor subtype="death_end" type="death"/></l>
+				</lg>
+				<lg>
+					<l><anchor subtype="death_start" type="death"/>Drum da dein Tod dir täglich
+						dräut,</l>
+					<l>So ſei doch wacker und bereit;</l>
+					<l>Prüf deinen Glauben, als ein Chriſt,</l>
+					<l>Ob er durch Liebe thätig iſt.<anchor subtype="death_end" type="death"/></l>
+				</lg>
+				<lg>
+					<l><anchor subtype="death_start" type="death"/>Ein Seufzer in der letzten
+						Noth,</l>
+					<l>Ein Wunſch, durch des Erlöſers Tod</l>
+					<l>Vor <rs type="person" key="G0001">Gottes</rs> Thron gerecht zu ſeyn,</l>
+					<l>Dieß macht dich nicht von Sünden rein.<anchor subtype="death_end"
+							type="death"/></l>
+				</lg>
+				<lg>
+					<l>Ein Herz, das <rs type="person" key="G0001">Gottes</rs> Stimme hört,</l>
+					<l>Ihr folgt und ſich vom Böſen kehrt;</l>
+					<l>Ein gläubig Herz, von Lieb erfüllt,</l>
+					<l>Dies iſt es, was in <rs type="person" key="J0001">Chriſto</rs> gilt.</l>
+				</lg>
+				<lg>
+					<l>Die Heiligung erfordert Müh;</l>
+					<l>Du wirkſt ſie nicht, <rs type="person" key="G0001">Gott</rs> wirket ſie.</l>
+					<l>Du aber ringe ſtets nach ihr,</l>
+					<l>Als wäre ſie ein Werk von dir.</l>
+				</lg>
+				<pb n="151"/>
+				<lg>
+					<l>Der Ruf des Lebens, das du lebſt,</l>
+					<l>Dein höchſtes Ziel, nach dem du ſtrebſt,</l>
+					<l>Und deiner Tage Rechenſchaft</l>
+					<l>Iſt Tugend in des Glaubens Kraft.</l>
+				</lg>
+				<lg>
+					<l><anchor subtype="death_start" type="death"/>Ihr alle ſeine Tage weihn,</l>
+					<l>Heißt eingedenk des Todes ſeyn;</l>
+					<l>Und Wachſen in der Heiligung,</l>
+					<l>Iſt wahre Todſerinnerung.<anchor subtype="death_end" type="death"/></l>
+				</lg>
+				<lg>
+					<l><anchor subtype="death_start" type="death"/>Wie oft vergeß ich dieſe
+						Pflicht!</l>
+					<l><rs type="person" key="G0001">Herr</rs>, geh mit mir nicht ins Gericht;</l>
+					<l>Drück ſelbſt des Todes Bild in mich,</l>
+					<l>Daß ich dir wandle würdiglich;<anchor subtype="death_end" type="death"/></l>
+				</lg>
+				<lg>
+					<l>Daß ich mein Herz mit jedem Tag</l>
+					<l>Vor dir, o <rs type="person" key="G0001">Gott</rs>, erforſchen mag,</l>
+					<l>Ob Liebe, Demuth, Fried und Treu,</l>
+					<l>Die Frucht des Geiſtes, in ihm ſey;</l>
+				</lg>
+				<lg>
+					<l><anchor subtype="death_start" type="death"/>Daß ich zu dir um Gnade fleh,</l>
+					<l>Stets meiner Schwachheit widerſteh,</l>
+					<l>Und einſtens in des Glaubens Macht</l>
+					<l>Mit Freuden ruf: Es iſt vollbracht!<anchor subtype="death_end" type="death"
+						/></l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
