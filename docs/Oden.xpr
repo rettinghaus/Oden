@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="16.1">
+    <meta>
+        <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="Oden.xpr">
+        <file name="books/Cramer/Cramer_001_Ps001.xml"/>
+        <file name="books/Cramer/Cramer_002_Ps004.xml"/>
+        <file name="books/Cramer/Cramer_003_Ps006.xml"/>
+        <file name="books/Cramer/Cramer_007_Ps007.xml"/>
+        <file name="books/Cramer/Cramer_008_Ps015.xml"/>
+        <file name="books/Cramer/Cramer_009_Ps017.xml"/>
+        <file name="books/Cramer/Cramer_010_Ps019.xml"/>
+        <file name="books/Cramer/Cramer_012_Ps023.xml"/>
+        <file name="books/Cramer/Cramer_013_25.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_014_30.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_015_32.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_016_33.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_018_38.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_019_42.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_020_46.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_021_47.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_022_65.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_024_67.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_026_86.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_027_88.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_028_90.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_029_91.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_030_93.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_032_96.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_033_97.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_034_99.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_035_100.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_036_103.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_038_104.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_040_110.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_041_111.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_042_116.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_043_119.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_044_120.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_045_128.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_046_130.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_047_139.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_048_142.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_049_145.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_050_146.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_051_148.%20Psalm.xml"/>
+        <file name="books/Cramer/Cramer_052_150.%20Psalm.xml"/>
+    </projectTree>
+</project>
