@@ -7,7 +7,7 @@
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
-            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+            <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -76,7 +76,6 @@
                   <occupation>Komponist</occupation>
                   <note type="bioSummary"/>
                   <idno type="GND">118505505</idno>
-                  <idno type="WeGA"/>
                   <persName type="sigla" subtype="Kast"/>
                   <persName type="sigla" subtype="Blechschmidt"/>
                   <persName type="sigla" subtype="Dürr"/>
@@ -189,72 +188,72 @@
          <pb n="9" ed="CPEB1792"/>
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
-            <head type="title">Oſterlied.</head>
+            <head><title>Oſterlied.</title></head>
             <lg>
-               <l>Er lebt! <rs type="person" key="J0001">Des Todes Sieger</rs> lebt!</l>
-               <l>Der Retter aller Sünder!</l>
-               <l>Der Feinde Heer erſchrickt und bebt</l>
-               <l>Vor ſeinem Ueberwinder.</l>
-               <l>Das ſtolze Hohngeſchrey</l>
-               <l>Der Mörder iſt vorbey!</l>
-               <l>Dahin iſt ihre Wuth!</l>
-               <l>Auf, Chriſten, faſset Muth</l>
-               <l>Und ſingt von <rs type="person" key="G0001">Gottes</rs> Siege!</l>
+               <lb/><l>Er lebt! <rs type="person" key="J0001">Des Todes Sieger</rs> lebt!</l>
+               <lb/><l>Der Retter aller Sünder!</l>
+               <lb/><l>Der Feinde Heer erſchrickt und bebt</l>
+               <lb/><l>Vor ſeinem Ueberwinder.</l>
+               <lb/><l>Das ſtolze Hohngeſchrey</l>
+               <lb/><l>Der Mörder iſt vorbey!</l>
+               <lb/><l>Dahin iſt ihre Wuth!</l>
+               <lb/><l>Auf, Chriſten, faſset Muth</l>
+               <lb/><l>Und ſingt von <rs type="person" key="G0001">Gottes</rs> Siege!</l>
             </lg>
             <lg>
-               <l>Er lebt! Die Rechte <rs type="person" key="J0001">Jeſu</rs> ſiegt!</l>
-               <l>Sie ſiegt und iſt erhöhet!</l>
-               <l>Und zu des Siegers Füßen liegt,</l>
-               <l>Wer frech ihm widerſtehet.</l>
-               <l>Beſiegt iſt, was uns droht:</l>
-               <l>Beſiegt ſind Höll und Tod.</l>
-               <l>Von ſeines Arms Gewalt,</l>
-               <l>Von ſeinem Sieg erſchallt</l>
-               <l>Der Himmel und die Erde.</l>
+               <lb/><l>Er lebt! Die Rechte <rs type="person" key="J0001">Jeſu</rs> ſiegt!</l>
+               <lb/><l>Sie ſiegt und iſt erhöhet!</l>
+               <lb/><l>Und zu des Siegers Füßen liegt,</l>
+               <lb/><l>Wer frech ihm widerſtehet.</l>
+               <lb/><l>Beſiegt iſt, was uns droht:</l>
+               <lb/><l>Beſiegt ſind Höll und Tod.</l>
+               <lb/><l>Von ſeines Arms Gewalt,</l>
+               <lb/><l>Von ſeinem Sieg erſchallt</l>
+               <lb/><l>Der Himmel und die Erde.</l>
             </lg>
             <lg>
-               <l>Und voll von ſeiner Majeſtät</l>
-               <l>Sind der Gerechten Hütten.</l>
-               <l>Die Rechte <rs type="person" key="J0001">Jeſu</rs> iſt erhöht!</l>
-               <l>Sie hat den Sieg erſtritten!</l>
-               <l>Sein iſt Gewalt und Macht.</l>
-               <l>Er hat ſein Werk vollbracht,</l>
-               <l>Die Welt mit <rs type="person" key="G0001">Gott</rs> versöhnt:</l>
-               <l>Und nun iſt er gekrönt</l>
-               <l>Mit Herrlichkeit und Ehre.</l>
+               <lb/><l>Und voll von ſeiner Majeſtät</l>
+               <lb/><l>Sind der Gerechten Hütten.</l>
+               <lb/><l>Die Rechte <rs type="person" key="J0001">Jeſu</rs> iſt erhöht!</l>
+               <lb/><l>Sie hat den Sieg erſtritten!</l>
+               <lb/><l>Sein iſt Gewalt und Macht.</l>
+               <lb/><l>Er hat ſein Werk vollbracht,</l>
+               <lb/><l>Die Welt mit <rs type="person" key="G0001">Gott</rs> versöhnt:</l>
+               <lb/><l>Und nun iſt er gekrönt</l>
+               <lb/><l>Mit Herrlichkeit und Ehre.</l>
             </lg>
             <lg>
-               <l>Er lebt! Er, der Unſterblichkeit</l>
-               <l>Und aller Freuden Geber:</l>
-               <l>Und ſeines Sieges Herrlichkeit</l>
-               <l>Verkündigen die Gräber.</l>
-               <l>Vom Himmel ſchallts hinab:</l>
-               <l>Wo iſt dein Sieg, o Grab?</l>
-               <l>Wo iſt dein Stachel, Tod?</l>
-               <l>Gelobt ſey unſer <rs type="person" key="G0001">Gott</rs>,</l>
-               <l>Der uns den Sieg gegeben!</l>
+               <lb/><l>Er lebt! Er, der Unſterblichkeit</l>
+               <lb/><l>Und aller Freuden Geber:</l>
+               <lb/><l>Und ſeines Sieges Herrlichkeit</l>
+               <lb/><l>Verkündigen die Gräber.</l>
+               <lb/><l>Vom Himmel ſchallts hinab:</l>
+               <lb/><l>Wo iſt dein Sieg, o Grab?</l>
+               <lb/><l>Wo iſt dein Stachel, Tod?</l>
+               <lb/><l>Gelobt ſey unſer <rs type="person" key="G0001">Gott</rs>,</l>
+               <lb/><l>Der uns den Sieg gegeben!</l>
             </lg>
             <lg>
-               <l>Gelobt ſey <rs type="person" key="G0001">Gott</rs>! Er hat den Sieg</l>
-               <l>Durch <rs type="person" key="J0001">Jeſum</rs> uns gegeben.</l>
-               <l>Errungen iſt durch ſeinen Sieg</l>
-               <l>Unſterblichkeit und Leben.</l>
-               <l>O Chriſten, feyret heut</l>
-               <l>Sein Siegeſfeſt erfreut.</l>
-               <l>Ihn, der den Sieg errang,</l>
-               <l>Rühm' euer Lobgeſang</l>
-               <l>In Tempeln und in Hütten!</l>
+               <lb/><l>Gelobt ſey <rs type="person" key="G0001">Gott</rs>! Er hat den Sieg</l>
+               <lb/><l>Durch <rs type="person" key="J0001">Jeſum</rs> uns gegeben.</l>
+               <lb/><l>Errungen iſt durch ſeinen Sieg</l>
+               <lb/><l>Unſterblichkeit und Leben.</l>
+               <lb/><l>O Chriſten, feyret heut</l>
+               <lb/><l>Sein Siegeſfeſt erfreut.</l>
+               <lb/><l>Ihn, der den Sieg errang,</l>
+               <lb/><l>Rühm' euer Lobgeſang</l>
+               <lb/><l>In Tempeln und in Hütten!</l>
             </lg>
             <lg>
-               <l>Doch einſt wird nicht in Hütten mehr</l>
-               <l>Der Menſch des Staubs ihn loben.</l>
-               <l>Durch alle Himmel wird einſt Er</l>
-               <l>Mit Sieg und Preis erhoben.</l>
-               <l>Wenn von dem Wolkenthron</l>
-               <l>Der Richter, <rs type="person" key="J0001">Gottes Sohn</rs></l>
-               <l>In jede Totengruft,</l>
-               <l>Erwacht zum Leben! ruft:</l>
-               <l>Wie werdet ihr ihm danken!</l>
+               <lb/><l>Doch einſt wird nicht in Hütten mehr</l>
+               <lb/><l>Der Menſch des Staubs ihn loben.</l>
+               <lb/><l>Durch alle Himmel wird einſt Er</l>
+               <lb/><l>Mit Sieg und Preis erhoben.</l>
+               <lb/><l>Wenn von dem Wolkenthron</l>
+               <lb/><l>Der Richter, <rs type="person" key="J0001">Gottes Sohn</rs></l>
+               <lb/><l>In jede Totengruft,</l>
+               <lb/><l>Erwacht zum Leben! ruft:</l>
+               <lb/><l>Wie werdet ihr ihm danken!</l>
             </lg>
          </div>
       </body>

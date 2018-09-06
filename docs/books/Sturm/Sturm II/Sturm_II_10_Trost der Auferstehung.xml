@@ -7,7 +7,7 @@
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
-            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+            <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -76,7 +76,6 @@
                   <occupation>Komponist</occupation>
                   <note type="bioSummary"/>
                   <idno type="GND">118505505</idno>
-                  <idno type="WeGA"/>
                   <persName type="sigla" subtype="Kast"/>
                   <persName type="sigla" subtype="Blechschmidt"/>
                   <persName type="sigla" subtype="Dürr"/>
@@ -189,47 +188,47 @@
          <pb n="10" ed="CPEB1792"/>
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
-            <head type="title">Troſt der Auferſtehung.</head>
+            <head><title>Troſt der Auferſtehung.</title></head>
             <lg>
-               <l><rs type="person" key="J0001">Herr</rs>, du biſt meine Zuverſicht.</l>
-               <l>Du lebſt: auch ich werd leben.</l>
-               <l>Mir wirſt du, was dein Wort verſpricht,</l>
-               <l>Unſterblichkeit einſt geben.</l>
-               <l>Dein Jünger kommt nicht ins Gericht:</l>
-               <l>Dies ſtärket meine Zuverſicht.</l>
+               <lb/><l><rs type="person" key="J0001">Herr</rs>, du biſt meine Zuverſicht.</l>
+               <lb/><l>Du lebſt: auch ich werd leben.</l>
+               <lb/><l>Mir wirſt du, was dein Wort verſpricht,</l>
+               <lb/><l>Unſterblichkeit einſt geben.</l>
+               <lb/><l>Dein Jünger kommt nicht ins Gericht:</l>
+               <lb/><l>Dies ſtärket meine Zuverſicht.</l>
             </lg>
             <lg>
-               <l>Hier geh ich oftmals weinend hin,</l>
-               <l>Den Saamen auſzuſtreuen:</l>
-               <l>Dort wird der herrlichſte Gewinn</l>
-               <l>Der Erndte mich erfreuen.</l>
-               <l>Ich leide und verzage nicht,</l>
-               <l>Denn du biſt meine Zuverſicht.</l>
+               <lb/><l>Hier geh ich oftmals weinend hin,</l>
+               <lb/><l>Den Saamen auſzuſtreuen:</l>
+               <lb/><l>Dort wird der herrlichſte Gewinn</l>
+               <lb/><l>Der Erndte mich erfreuen.</l>
+               <lb/><l>Ich leide und verzage nicht,</l>
+               <lb/><l>Denn du biſt meine Zuverſicht.</l>
             </lg>
             <lg>
-               <l>Und ſinkt dereinſt mein Leib in Staub.</l>
-               <l><rs type="person" key="G0001">Gott</rs> wird ihn neu beleben.</l>
-               <l>Er werde der Verweſung Raub,</l>
-               <l>Dort werd ich ewig leben.</l>
-               <l>Dies ſchafft im finſtern Tal mir Licht,</l>
-               <l>Und gibt der Seele Zuverſicht.</l>
+               <lb/><l>Und ſinkt dereinſt mein Leib in Staub.</l>
+               <lb/><l><rs type="person" key="G0001">Gott</rs> wird ihn neu beleben.</l>
+               <lb/><l>Er werde der Verweſung Raub,</l>
+               <lb/><l>Dort werd ich ewig leben.</l>
+               <lb/><l>Dies ſchafft im finſtern Tal mir Licht,</l>
+               <lb/><l>Und gibt der Seele Zuverſicht.</l>
             </lg>
             <lg>
-               <l><rs type="person" key="G0001">Herr</rs>, dieſen Segen dank ich dir.</l>
-               <l>Mich aus der Gruft zu heben,</l>
-               <l>Giengſt du aus deinem Grab herfür;</l>
-               <l>Du lebſt, und ich ſoll leben.</l>
-               <l>Ich glaub es dir, und zweifle nicht;</l>
+               <lb/><l><rs type="person" key="G0001">Herr</rs>, dieſen Segen dank ich dir.</l>
+               <lb/><l>Mich aus der Gruft zu heben,</l>
+               <lb/><l>Giengſt du aus deinem Grab herfür;</l>
+               <lb/><l>Du lebſt, und ich ſoll leben.</l>
+               <lb/><l>Ich glaub es dir, und zweifle nicht;</l>
                <!--Satzzeichen unklar: ";" oder ":"-->
-               <l>Dein Wort iſt meine Zuverſicht.</l>
+               <lb/><l>Dein Wort iſt meine Zuverſicht.</l>
             </lg>
             <lg>
-               <l>In dieſem Glauben ſtärke mich.</l>
-               <l>Laß mich den Troſt empfinden,</l>
-               <l>Den großen Troſt, daß ich durch dich</l>
-               <l>Den Tod ſoll überwinden.</l>
-               <l>Grab und Verweſung ſchreckt mich nicht:</l>
-               <l>Denn du bleibſt meine Zuverſicht.</l>
+               <lb/><l>In dieſem Glauben ſtärke mich.</l>
+               <lb/><l>Laß mich den Troſt empfinden,</l>
+               <lb/><l>Den großen Troſt, daß ich durch dich</l>
+               <lb/><l>Den Tod ſoll überwinden.</l>
+               <lb/><l>Grab und Verweſung ſchreckt mich nicht:</l>
+               <lb/><l>Denn du bleibſt meine Zuverſicht.</l>
             </lg>
          </div>
       </body>

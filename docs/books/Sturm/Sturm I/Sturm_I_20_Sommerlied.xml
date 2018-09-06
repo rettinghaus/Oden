@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -73,7 +73,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -185,54 +184,54 @@
 		<body>
 			<pb n="20" ed="CPEB1780"/>
 			<div type="chorale">
-				<head type="title">Sommerlied.</head>
+				<head><title>Sommerlied.</title></head>
 				<lg>
-					<l><rs type="person" key="G0001">Allgütiger</rs>, dich will ich fühlen</l>
-					<l>Im Flor der reizenden Natur:</l>
-					<l>Dir will ich ſingen und dir ſpielen</l>
-					<l>Im Schoos der blumenvollen Flur.</l>
-					<l>Vom Aufgang bis zum Niedergang</l>
-					<l>Erſchalle dir mein Lobgeſang!</l>
+					<lb/><l><rs type="person" key="G0001">Allgütiger</rs>, dich will ich fühlen</l>
+					<lb/><l>Im Flor der reizenden Natur:</l>
+					<lb/><l>Dir will ich ſingen und dir ſpielen</l>
+					<lb/><l>Im Schoos der blumenvollen Flur.</l>
+					<lb/><l>Vom Aufgang bis zum Niedergang</l>
+					<lb/><l>Erſchalle dir mein Lobgeſang!</l>
 				</lg>
 				<lg>
-					<l>Du biſt der Geber aller Freude!</l>
-					<l>Des Segens Schöpfer biſt du, <rs type="person" key="G0001">Gott</rs>!</l>
-					<l>Den Heerden gibſt du ihre Weide,</l>
-					<l>Und deinen Menſchenkindern Brod.</l>
-					<l>Der Wurm im Staub, die Raup am Blatt</l>
-					<l>Wird durch dich lebenſfroh und ſatt.</l>
+					<lb/><l>Du biſt der Geber aller Freude!</l>
+					<lb/><l>Des Segens Schöpfer biſt du, <rs type="person" key="G0001">Gott</rs>!</l>
+					<lb/><l>Den Heerden gibſt du ihre Weide,</l>
+					<lb/><l>Und deinen Menſchenkindern Brod.</l>
+					<lb/><l>Der Wurm im Staub, die Raup am Blatt</l>
+					<lb/><l>Wird durch dich lebenſfroh und ſatt.</l>
 				</lg>
 				<lg>
-					<l>Und Leben ſtrömt mit deiner Sonne</l>
-					<l>In jeden Halm, in jede Bruſt:</l>
-					<l>Sie gibt den Blüthenthälern Wonne,</l>
-					<l>Und jedem Thiere Trieb zur Luſt!</l>
-					<l>Belebt durch ihren milden Strahl</l>
-					<l>Feirt Hein und Flur und Berg und Thal.</l>
+					<lb/><l>Und Leben ſtrömt mit deiner Sonne</l>
+					<lb/><l>In jeden Halm, in jede Bruſt:</l>
+					<lb/><l>Sie gibt den Blüthenthälern Wonne,</l>
+					<lb/><l>Und jedem Thiere Trieb zur Luſt!</l>
+					<lb/><l>Belebt durch ihren milden Strahl</l>
+					<lb/><l>Feirt Hein und Flur und Berg und Thal.</l>
 				</lg>
 				<lg>
-					<l>Auf unſre Saaten träufelt Segen</l>
-					<l>O <rs type="person" key="G0001">Gott</rs>, mit jedem Morgenthau.</l>
-					<l>Erfriſcht durch deinen ſanften Regen</l>
-					<l>Lacht jugendlich die Blumenau.</l>
-					<l>Dein Bach, der aus dem Berge quillt,</l>
-					<l>Erquickt den Wandrer und das Wild.</l>
+					<lb/><l>Auf unſre Saaten träufelt Segen</l>
+					<lb/><l>O <rs type="person" key="G0001">Gott</rs>, mit jedem Morgenthau.</l>
+					<lb/><l>Erfriſcht durch deinen ſanften Regen</l>
+					<lb/><l>Lacht jugendlich die Blumenau.</l>
+					<lb/><l>Dein Bach, der aus dem Berge quillt,</l>
+					<lb/><l>Erquickt den Wandrer und das Wild.</l>
 				</lg>
 				<lg>
-					<l>Da ſtehn die Zeugen deiner Milde</l>
-					<l>Hier in der Schöpfung Heiligthum!</l>
-					<l>Weit durch die güldnen Korngefilde</l>
-					<l>Tönt himmelan dein Schöpferruhm.</l>
-					<l>Und die Geſchöpfe, ſatt durch dich,</l>
-					<l>Freun deiner Vatergüte ſich.</l>
+					<lb/><l>Da ſtehn die Zeugen deiner Milde</l>
+					<lb/><l>Hier in der Schöpfung Heiligthum!</l>
+					<lb/><l>Weit durch die güldnen Korngefilde</l>
+					<lb/><l>Tönt himmelan dein Schöpferruhm.</l>
+					<lb/><l>Und die Geſchöpfe, ſatt durch dich,</l>
+					<lb/><l>Freun deiner Vatergüte ſich.</l>
 				</lg>
 				<lg>
-					<l>Auch du frohlocke, meine Seele!</l>
-					<l>Sey Andacht, Inbrunſt und Gefühl!</l>
-					<l>Von deines <rs type="person" key="G0001">Schöpfers</rs> Macht erzehle</l>
-					<l>Entzückt dein frommes Saitenſpiel.</l>
-					<l>Vom Aufgang bis zum Niedergang</l>
-					<l>Erſchalle <rs type="person" key="G0001">Gott</rs> dein Lobgeſang!</l>
+					<lb/><l>Auch du frohlocke, meine Seele!</l>
+					<lb/><l>Sey Andacht, Inbrunſt und Gefühl!</l>
+					<lb/><l>Von deines <rs type="person" key="G0001">Schöpfers</rs> Macht erzehle</l>
+					<lb/><l>Entzückt dein frommes Saitenſpiel.</l>
+					<lb/><l>Vom Aufgang bis zum Niedergang</l>
+					<lb/><l>Erſchalle <rs type="person" key="G0001">Gott</rs> dein Lobgeſang!</l>
 				</lg>
 			</div>
 		</body>

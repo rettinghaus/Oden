@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -73,7 +73,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -185,48 +184,48 @@
 		<body>
 			<pb n="8" ed="CPEB1780"/>
 			<div type="chorale">
-				<head type="title">Die Würde des Chriſten.</head>
+				<head><title>Die Würde des Chriſten.</title></head>
 				<lg>
-					<l>Ich bin ein Chriſt!</l>
-					<l>Mein Herz iſt ruhig, und vergißt</l>
-					<l>Die Nichtigkeit der Erden.</l>
-					<l>Ich fühle meinen ganzen Werth;</l>
-					<l>Unſterblich ſoll ich werden.</l>
+					<lb/><l>Ich bin ein Chriſt!</l>
+					<lb/><l>Mein Herz iſt ruhig, und vergißt</l>
+					<lb/><l>Die Nichtigkeit der Erden.</l>
+					<lb/><l>Ich fühle meinen ganzen Werth;</l>
+					<lb/><l>Unſterblich ſoll ich werden.</l>
 				</lg>
 				<lg>
-					<l>Ich bin ein Chriſt!</l>
-					<l>Nur blendend und vergänglich iſt</l>
-					<l>Der Erdenehre Schimmer.</l>
-					<l>Mein Ruhm, von Wahn und Irthum frei,</l>
-					<l>Täuſcht meine Hoffnung nimmer.</l>
+					<lb/><l>Ich bin ein Chriſt!</l>
+					<lb/><l>Nur blendend und vergänglich iſt</l>
+					<lb/><l>Der Erdenehre Schimmer.</l>
+					<lb/><l>Mein Ruhm, von Wahn und Irthum frei,</l>
+					<lb/><l>Täuſcht meine Hoffnung nimmer.</l>
 				</lg>
 				<lg>
-					<l>Ich bin ein Chriſt!</l>
-					<l>Rein von der Lüſte Thorheit iſt</l>
-					<l>Die edle freye Seele.</l>
-					<l>Zur Tugend führt der Weiſheit Pfad,</l>
-					<l>Den ich entſchloſsen wähle.</l>
+					<lb/><l>Ich bin ein Chriſt!</l>
+					<lb/><l>Rein von der Lüſte Thorheit iſt</l>
+					<lb/><l>Die edle freye Seele.</l>
+					<lb/><l>Zur Tugend führt der Weiſheit Pfad,</l>
+					<lb/><l>Den ich entſchloſsen wähle.</l>
 				</lg>
 				<lg>
-					<l>Ich bin ein Chriſt!</l>
-					<l>Nicht werth der Himmels Freuden iſt</l>
-					<l>Die Trübſal dieſes Lebens.</l>
-					<l>Ich bin des hohen Troſtes voll:</l>
-					<l>Ich leide nicht vergebens.</l>
+					<lb/><l>Ich bin ein Chriſt!</l>
+					<lb/><l>Nicht werth der Himmels Freuden iſt</l>
+					<lb/><l>Die Trübſal dieſes Lebens.</l>
+					<lb/><l>Ich bin des hohen Troſtes voll:</l>
+					<lb/><l>Ich leide nicht vergebens.</l>
 				</lg>
 				<lg>
-					<l>Ich bin ein Chriſt!</l>
-					<l>Geſegnet ſey mir Tod! Du biſt</l>
-					<l>Der Weg zum höhern Leben.</l>
-					<l>Er, dem ich diente, wird mich einſt</l>
-					<l>Zum Engelglück erheben.</l>
+					<lb/><l>Ich bin ein Chriſt!</l>
+					<lb/><l>Geſegnet ſey mir Tod! Du biſt</l>
+					<lb/><l>Der Weg zum höhern Leben.</l>
+					<lb/><l>Er, dem ich diente, wird mich einſt</l>
+					<lb/><l>Zum Engelglück erheben.</l>
 				</lg>
 				<lg>
-					<l>Ich bin ein Chriſt!</l>
-					<l>Sing Pſalter! Freudenthränen fließt</l>
-					<l>In meines Dankes Lieder!</l>
-					<l>Preis ihm, dem <rs type="person" key="J0001">Mittler, Jeſu Chriſt</rs>!</l>
-					<l>Lobſinget ihm ſeine Brüder!</l>
+					<lb/><l>Ich bin ein Chriſt!</l>
+					<lb/><l>Sing Pſalter! Freudenthränen fließt</l>
+					<lb/><l>In meines Dankes Lieder!</l>
+					<lb/><l>Preis ihm, dem <rs type="person" key="J0001">Mittler, Jeſu Chriſt</rs>!</l>
+					<lb/><l>Lobſinget ihm ſeine Brüder!</l>
 				</lg>
 			</div>
 		</body>

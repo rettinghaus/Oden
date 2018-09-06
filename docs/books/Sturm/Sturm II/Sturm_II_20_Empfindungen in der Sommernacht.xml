@@ -7,7 +7,7 @@
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
-            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+            <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -76,7 +76,6 @@
                   <occupation>Komponist</occupation>
                   <note type="bioSummary"/>
                   <idno type="GND">118505505</idno>
-                  <idno type="WeGA"/>
                   <persName type="sigla" subtype="Kast"/>
                   <persName type="sigla" subtype="Blechschmidt"/>
                   <persName type="sigla" subtype="Dürr"/>
@@ -189,38 +188,38 @@
          <pb n="20" ed="CPEB1792"/>
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
-            <head type="title">Empfindungen in der Sommernacht.</head>
+            <head><title>Empfindungen in der Sommernacht.</title></head>
             <lg>
-               <l>Der Mond iſt aufgegangen:</l>
-               <l>Die güldnen Sterne prangen</l>
-               <l>Am blauen Himmelſzelt.</l>
-               <l>Gebüſch und Haine ſchallen</l>
-               <l>Vom Lied der Nachtigallen:</l>
-               <l>O <rs type="person" key="G0001">Gott</rs>, wie ſchön iſt deine Welt!</l>
+               <lb/><l>Der Mond iſt aufgegangen:</l>
+               <lb/><l>Die güldnen Sterne prangen</l>
+               <lb/><l>Am blauen Himmelſzelt.</l>
+               <lb/><l>Gebüſch und Haine ſchallen</l>
+               <lb/><l>Vom Lied der Nachtigallen:</l>
+               <lb/><l>O <rs type="person" key="G0001">Gott</rs>, wie ſchön iſt deine Welt!</l>
             </lg>
             <lg>
-               <l>Schön, wenn vom Abendthaue</l>
-               <l>Beperlet Wald und Aue</l>
-               <l>In deinem Segen ſtehn;</l>
-               <l>Und wenn in Ungewittern</l>
-               <l>Die Donner ſie erſchüttern,</l>
-               <l>Iſt deine Welt, o <rs type="person" key="G0001">Vater</rs>, ſchön.</l>
+               <lb/><l>Schön, wenn vom Abendthaue</l>
+               <lb/><l>Beperlet Wald und Aue</l>
+               <lb/><l>In deinem Segen ſtehn;</l>
+               <lb/><l>Und wenn in Ungewittern</l>
+               <lb/><l>Die Donner ſie erſchüttern,</l>
+               <lb/><l>Iſt deine Welt, o <rs type="person" key="G0001">Vater</rs>, ſchön.</l>
             </lg>
             <lg>
-               <l>Aus deiner Allmacht Fülle</l>
-               <l>Strömt in der Nächte Stille</l>
-               <l>Erquickung auf die Flur:</l>
-               <l>Und durch die kühlen Lüfte</l>
-               <l>Bringt ihre Balſamdüfte</l>
-               <l>Zum Abendopfer die Natur.</l>
+               <lb/><l>Aus deiner Allmacht Fülle</l>
+               <lb/><l>Strömt in der Nächte Stille</l>
+               <lb/><l>Erquickung auf die Flur:</l>
+               <lb/><l>Und durch die kühlen Lüfte</l>
+               <lb/><l>Bringt ihre Balſamdüfte</l>
+               <lb/><l>Zum Abendopfer die Natur.</l>
             </lg>
             <lg>
-               <l>Mit ihrem Opfer walle</l>
-               <l>Mein Dank empor! Ich falle</l>
-               <l>Vor dir anbetend hin.</l>
-               <l>Du ſchufſt in hoher Ferne</l>
-               <l>Den Mond: du ſchufſt die Sterne:</l>
-               <l>Du ſchufſt der Haine Sängerin.</l>
+               <lb/><l>Mit ihrem Opfer walle</l>
+               <lb/><l>Mein Dank empor! Ich falle</l>
+               <lb/><l>Vor dir anbetend hin.</l>
+               <lb/><l>Du ſchufſt in hoher Ferne</l>
+               <lb/><l>Den Mond: du ſchufſt die Sterne:</l>
+               <lb/><l>Du ſchufſt der Haine Sängerin.</l>
             </lg>
          </div>
       </body>

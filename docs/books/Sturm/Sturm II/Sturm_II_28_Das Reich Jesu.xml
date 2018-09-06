@@ -7,7 +7,7 @@
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
-            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+            <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -76,7 +76,6 @@
                   <occupation>Komponist</occupation>
                   <note type="bioSummary"/>
                   <idno type="GND">118505505</idno>
-                  <idno type="WeGA"/>
                   <persName type="sigla" subtype="Kast"/>
                   <persName type="sigla" subtype="Blechschmidt"/>
                   <persName type="sigla" subtype="Dürr"/>
@@ -189,48 +188,48 @@
          <pb n="28" ed="CPEB1792"/>
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
-            <head type="title">Das Reich Jeſu.</head>
+            <head><title>Das Reich Jeſu.</title></head>
             <lg>
-               <l>Dir, o du <rs type="person" key="J0001">Herrſcher</rs>, <rs type="person"
+               <lb/><l>Dir, o du <rs type="person" key="J0001">Herrſcher</rs>, <rs type="person"
                      key="J0001">Jeſu Chriſt</rs>,</l>
-               <l>Der du der Welten <rs type="person" key="J0001">Schöpfer</rs> biſt,</l>
-               <l>Iſt alles unterthänig.</l>
-               <l>Doch wer ſah deine Majeſtät,</l>
-               <l>Als dich dein arges Volk verſchmäht?</l>
-               <l>Wer ehrte dich als König?</l>
+               <lb/><l>Der du der Welten <rs type="person" key="J0001">Schöpfer</rs> biſt,</l>
+               <lb/><l>Iſt alles unterthänig.</l>
+               <lb/><l>Doch wer ſah deine Majeſtät,</l>
+               <lb/><l>Als dich dein arges Volk verſchmäht?</l>
+               <lb/><l>Wer ehrte dich als König?</l>
             </lg>
             <lg>
-               <l>Du haſt dich deiner Herrlichkeit</l>
-               <l>Entäußert eine kurze Zeit:</l>
-               <l>Wardſt Menſchen unterthänig:</l>
-               <l>Geſchlagen wardſt du, und verhöhnt,</l>
-               <l>Verſpeyet und zum Spott gekrönt;</l>
-               <l>Und doch warſt du ein König.</l>
+               <lb/><l>Du haſt dich deiner Herrlichkeit</l>
+               <lb/><l>Entäußert eine kurze Zeit:</l>
+               <lb/><l>Wardſt Menſchen unterthänig:</l>
+               <lb/><l>Geſchlagen wardſt du, und verhöhnt,</l>
+               <lb/><l>Verſpeyet und zum Spott gekrönt;</l>
+               <lb/><l>Und doch warſt du ein König.</l>
             </lg>
             <lg>
-               <l>Von Ewigkeit warſt du beſtimmt,</l>
-               <l>Dein Reich, das nie ein Ende nimmt,</l>
-               <l>Auf Erden auſzubreiten.</l>
-               <l>Dich hat dein <rs type="person" key="G0001">Gott</rs> zum Herrn erhöht:</l>
-               <l>Dein Reich, o <rs type="person" key="J0001">Göttlicher</rs>! beſteht</l>
-               <l>Durch alle Ewigkeiten.</l>
+               <lb/><l>Von Ewigkeit warſt du beſtimmt,</l>
+               <lb/><l>Dein Reich, das nie ein Ende nimmt,</l>
+               <lb/><l>Auf Erden auſzubreiten.</l>
+               <lb/><l>Dich hat dein <rs type="person" key="G0001">Gott</rs> zum Herrn erhöht:</l>
+               <lb/><l>Dein Reich, o <rs type="person" key="J0001">Göttlicher</rs>! beſteht</l>
+               <lb/><l>Durch alle Ewigkeiten.</l>
             </lg>
             <lg>
-               <l>Wie groß, wie angebetet iſt</l>
-               <l>Dein Nam, o <rs type="person" key="J0001">Herrſcher, <rs type="person" key="J0001"
+               <lb/><l>Wie groß, wie angebetet iſt</l>
+               <lb/><l>Dein Nam, o <rs type="person" key="J0001">Herrſcher, <rs type="person" key="J0001"
                         >Jeſu Chriſt</rs></rs>,</l>
-               <l>Dich rühmen alle Zungen.</l>
-               <l>O wie weit herrlicher wird einſt,</l>
-               <l>Wenn du zum Weltgericht erſcheinſt,</l>
-               <l>Dein hohes Reich beſungen.</l>
+               <lb/><l>Dich rühmen alle Zungen.</l>
+               <lb/><l>O wie weit herrlicher wird einſt,</l>
+               <lb/><l>Wenn du zum Weltgericht erſcheinſt,</l>
+               <lb/><l>Dein hohes Reich beſungen.</l>
             </lg>
             <lg>
-               <l>Vom Aufgang bis zum Niedergang</l>
-               <l>Erſchallt dir dann der Lobgeſang</l>
-               <l>Des Himmels und der Erde.</l>
-               <l>Wie freu ich mich auf dieſes Glück!</l>
-               <l>O wär er da, der Augenblick,</l>
-               <l>Da ich dich ſchauen werde!</l>
+               <lb/><l>Vom Aufgang bis zum Niedergang</l>
+               <lb/><l>Erſchallt dir dann der Lobgeſang</l>
+               <lb/><l>Des Himmels und der Erde.</l>
+               <lb/><l>Wie freu ich mich auf dieſes Glück!</l>
+               <lb/><l>O wär er da, der Augenblick,</l>
+               <lb/><l>Da ich dich ſchauen werde!</l>
             </lg>
          </div>
       </body>

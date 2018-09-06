@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -73,7 +73,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -185,68 +184,68 @@
 		<body>
 			<pb n="27" ed="CPEB1780"/>
 			<div type="chorale">
-				<head type="title">Gottes Allgegenwart.</head>
+				<head><title>Gottes Allgegenwart.</title></head>
 				<lg>
-					<l>Nie biſt du, <rs type="person" key="G0001">Höchſter</rs>, von uns fern:</l>
-					<l>Du wirkſt an allen Enden.</l>
-					<l>Wo ich nur bin, <rs type="person" key="G0001">Herr</rs> aller Herrn,</l>
-					<l>Bin ich in deinen Händen.</l>
-					<l>Durch dich nur leb und athme ich,</l>
-					<l>Denn deine Rechte ſchützet mich.</l>
+					<lb/><l>Nie biſt du, <rs type="person" key="G0001">Höchſter</rs>, von uns fern:</l>
+					<lb/><l>Du wirkſt an allen Enden.</l>
+					<lb/><l>Wo ich nur bin, <rs type="person" key="G0001">Herr</rs> aller Herrn,</l>
+					<lb/><l>Bin ich in deinen Händen.</l>
+					<lb/><l>Durch dich nur leb und athme ich,</l>
+					<lb/><l>Denn deine Rechte ſchützet mich.</l>
 				</lg>
 				<lg>
-					<l>Du <choice>
+					<lb/><l>Du <choice>
 							<sic>weißſt,</sic>
 							<corr>weißt,</corr>
 						</choice>was ich gedenke: du,</l>
-					<l>Du prüfeſt meine Seele.</l>
-					<l>Du ſiehſt es, wenn ich Gutes thu:</l>
-					<l>Du ſiehſt es, wenn ich fehle.</l>
-					<l>Nichts, nichts kann deinem Aug entfliehn,</l>
-					<l>Nichts deinen Händen mich entziehn.</l>
+					<lb/><l>Du prüfeſt meine Seele.</l>
+					<lb/><l>Du ſiehſt es, wenn ich Gutes thu:</l>
+					<lb/><l>Du ſiehſt es, wenn ich fehle.</l>
+					<lb/><l>Nichts, nichts kann deinem Aug entfliehn,</l>
+					<lb/><l>Nichts deinen Händen mich entziehn.</l>
 				</lg>
 				<lg>
-					<l>Wenn ich in ſtiller Einſamkeit</l>
-					<l>Mein Herz an dich ergebe,</l>
-					<l>Und fern von Welt und Eitelkeit</l>
-					<l>Den Geiſt zu dir erhebe,</l>
-					<l>So merkſt du gnädig auf mein Flehn</l>
-					<l>Und läßt mich Troſt und Freude ſehn.</l>
+					<lb/><l>Wenn ich in ſtiller Einſamkeit</l>
+					<lb/><l>Mein Herz an dich ergebe,</l>
+					<lb/><l>Und fern von Welt und Eitelkeit</l>
+					<lb/><l>Den Geiſt zu dir erhebe,</l>
+					<lb/><l>So merkſt du gnädig auf mein Flehn</l>
+					<lb/><l>Und läßt mich Troſt und Freude ſehn.</l>
 				</lg>
 				<lg>
-					<l>Du merkſt es, wenn des Herzens Rath</l>
-					<l>Verkehrte Wege wählet:</l>
-					<l>Und bleibt auch eine böſe That</l>
-					<l>Vor Menſchen hier verheelet,</l>
-					<l>So <choice>
+					<lb/><l>Du merkſt es, wenn des Herzens Rath</l>
+					<lb/><l>Verkehrte Wege wählet:</l>
+					<lb/><l>Und bleibt auch eine böſe That</l>
+					<lb/><l>Vor Menſchen hier verheelet,</l>
+					<lb/><l>So <choice>
 							<sic>weißſt</sic>
 							<corr>weißt</corr>
 						</choice> du ſie, und züchtigſt mich</l>
-					<l>Zu meiner Beßrung väterlich.</l>
+					<lb/><l>Zu meiner Beßrung väterlich.</l>
 				</lg>
 				<lg>
-					<l>Du höreſt meinen Seufzern zu,</l>
-					<l>Daß Hülfe mir erſcheine.</l>
-					<l>Voll Mitleid, <rs type="person" key="G0001">Vater</rs>, zähleſt du</l>
-					<l>Die Thränen, die ich weine.</l>
-					<l>Du ſiehſt und wägeſt meinen Schmerz</l>
-					<l>Und ſtärkſt mit deinem Troſt mein Herz.</l>
+					<lb/><l>Du höreſt meinen Seufzern zu,</l>
+					<lb/><l>Daß Hülfe mir erſcheine.</l>
+					<lb/><l>Voll Mitleid, <rs type="person" key="G0001">Vater</rs>, zähleſt du</l>
+					<lb/><l>Die Thränen, die ich weine.</l>
+					<lb/><l>Du ſiehſt und wägeſt meinen Schmerz</l>
+					<lb/><l>Und ſtärkſt mit deinem Troſt mein Herz.</l>
 				</lg>
 				<lg>
-					<l>O drück, <rs type="person" key="G0001">Allgegenwärtiger</rs>,</l>
-					<l>Dies tief in meine Seele.</l>
-					<l>Daß, wo ich bin, nur dich, o <rs type="person" key="G0001">Herr</rs>,</l>
-					<l>Mein Herz zur Zuflucht wähle:</l>
-					<l>Daß ich dein heilig Auge ſcheu,</l>
-					<l>Und dir zu dienen eifrig ſey.</l>
+					<lb/><l>O drück, <rs type="person" key="G0001">Allgegenwärtiger</rs>,</l>
+					<lb/><l>Dies tief in meine Seele.</l>
+					<lb/><l>Daß, wo ich bin, nur dich, o <rs type="person" key="G0001">Herr</rs>,</l>
+					<lb/><l>Mein Herz zur Zuflucht wähle:</l>
+					<lb/><l>Daß ich dein heilig Auge ſcheu,</l>
+					<lb/><l>Und dir zu dienen eifrig ſey.</l>
 				</lg>
 				<lg>
-					<l>Laß überall gewiſsenhaft</l>
-					<l>Nach deinem Wort mich handeln:</l>
-					<l>Und ſtärke mich dann auch mit Kraft,</l>
-					<l>Getroſt vor dir zu wandeln.</l>
-					<l>Daß du, o <rs type="person" key="G0001">Gott</rs>, ſtets um mich ſeyſt,</l>
-					<l>Dies tröſt und beßre meinen Geiſt!</l>
+					<lb/><l>Laß überall gewiſsenhaft</l>
+					<lb/><l>Nach deinem Wort mich handeln:</l>
+					<lb/><l>Und ſtärke mich dann auch mit Kraft,</l>
+					<lb/><l>Getroſt vor dir zu wandeln.</l>
+					<lb/><l>Daß du, o <rs type="person" key="G0001">Gott</rs>, ſtets um mich ſeyſt,</l>
+					<lb/><l>Dies tröſt und beßre meinen Geiſt!</l>
 				</lg>
 			</div>
 		</body>

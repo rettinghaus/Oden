@@ -7,7 +7,7 @@
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
-            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+            <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -76,7 +76,6 @@
                   <occupation>Komponist</occupation>
                   <note type="bioSummary"/>
                   <idno type="GND">118505505</idno>
-                  <idno type="WeGA"/>
                   <persName type="sigla" subtype="Kast"/>
                   <persName type="sigla" subtype="Blechschmidt"/>
                   <persName type="sigla" subtype="Dürr"/>
@@ -189,43 +188,43 @@
          <pb n="24" ed="CPEB1792"/>
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
-            <head type="title">Empfindungen eines Bußfertigen.</head>
+            <head><title>Empfindungen eines Bußfertigen.</title></head>
             <lg>
-               <l>Ach, wie viel Böſes wohnt in mir!</l>
-               <l>Wer zählts, wie oft ich fehle?</l>
-               <l>Ich fühl es, <rs type="person" key="G0001">Herr</rs>, und klag es dir:</l>
-               <l>O beſsre meine Seele!</l>
+               <lb/><l>Ach, wie viel Böſes wohnt in mir!</l>
+               <lb/><l>Wer zählts, wie oft ich fehle?</l>
+               <lb/><l>Ich fühl es, <rs type="person" key="G0001">Herr</rs>, und klag es dir:</l>
+               <lb/><l>O beſsre meine Seele!</l>
             </lg>
             <lg>
-               <l>Ich wandle ganz der Sünden Bahn,</l>
-               <l>Und bin zum Guten träge;</l>
-               <l>Herr nimm dich meines Elends an!</l>
-               <l>Hilf mir auf deine Wege!</l>
+               <lb/><l>Ich wandle ganz der Sünden Bahn,</l>
+               <lb/><l>Und bin zum Guten träge;</l>
+               <lb/><l>Herr nimm dich meines Elends an!</l>
+               <lb/><l>Hilf mir auf deine Wege!</l>
             </lg>
             <lg>
-               <l>Verkehrt und thöricht iſt mein Sinn,</l>
-               <l>Beherrſcht von böſen Lüſten;</l>
-               <l>O neige meine Seele hin</l>
-               <l>Zur Freude wahrer Chriſten!</l>
+               <lb/><l>Verkehrt und thöricht iſt mein Sinn,</l>
+               <lb/><l>Beherrſcht von böſen Lüſten;</l>
+               <lb/><l>O neige meine Seele hin</l>
+               <lb/><l>Zur Freude wahrer Chriſten!</l>
             </lg>
             <lg>
-               <l>Mich reizt der Eitelkeiten Tand</l>
-               <l>Mehr, als das Heil der Seelen.</l>
-               <l>Herr, gib mir Weiſheit und Verſtand,</l>
-               <l>Das beſte Theil zu wählen!</l>
+               <lb/><l>Mich reizt der Eitelkeiten Tand</l>
+               <lb/><l>Mehr, als das Heil der Seelen.</l>
+               <lb/><l>Herr, gib mir Weiſheit und Verſtand,</l>
+               <lb/><l>Das beſte Theil zu wählen!</l>
             </lg>
             <lg>
-               <l>Mein <rs type="person" key="G0001">Gott</rs>, mein <rs type="person" key="G0001"
+               <lb/><l>Mein <rs type="person" key="G0001">Gott</rs>, mein <rs type="person" key="G0001"
                      >Gott</rs>, gedenke nicht</l>
-               <l>Der Sünden meiner Jugend!</l>
-               <l>Erinnre mich an meine Pflicht</l>
-               <l>Und gib mir Kraft zur Tugend!</l>
+               <lb/><l>Der Sünden meiner Jugend!</l>
+               <lb/><l>Erinnre mich an meine Pflicht</l>
+               <lb/><l>Und gib mir Kraft zur Tugend!</l>
             </lg>
             <lg>
-               <l>Hilf, o mein <rs type="person" key="J0001">Heiland</rs>, hilf, daß ich</l>
-               <l>Nicht unbegnadigt ſterbe;</l>
-               <l>Daß ich, geheiliget durch dich,</l>
-               <l>Einſt deinen Himmel erbe!</l>
+               <lb/><l>Hilf, o mein <rs type="person" key="J0001">Heiland</rs>, hilf, daß ich</l>
+               <lb/><l>Nicht unbegnadigt ſterbe;</l>
+               <lb/><l>Daß ich, geheiliget durch dich,</l>
+               <lb/><l>Einſt deinen Himmel erbe!</l>
             </lg>
          </div>
       </body>

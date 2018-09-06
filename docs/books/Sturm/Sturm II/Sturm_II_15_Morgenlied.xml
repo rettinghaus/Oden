@@ -7,7 +7,7 @@
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
-            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+            <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -76,7 +76,6 @@
                   <occupation>Komponist</occupation>
                   <note type="bioSummary"/>
                   <idno type="GND">118505505</idno>
-                  <idno type="WeGA"/>
                   <persName type="sigla" subtype="Kast"/>
                   <persName type="sigla" subtype="Blechschmidt"/>
                   <persName type="sigla" subtype="Dürr"/>
@@ -189,76 +188,76 @@
          <pb n="15" ed="CPEB1792"/>
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
-            <head type="title">Morgenlied.</head>
+            <head><title>Morgenlied.</title></head>
             <lg>
-               <l>Des Morgens neue Sonne</l>
-               <l>Erfüllt auf dein Geheiß</l>
-               <l>Mit Leben, Licht und Wonne,</l>
-               <l><rs type="person" key="G0001">Gott</rs>, deinen Erdenkreis.</l>
-               <l>Auf mich ſcheint ſie herab.</l>
-               <l>Ich freue, <rs type="person" key="G0001">Gott</rs>, ich freue</l>
-               <l>Mich ihres Lichts aufs neue</l>
-               <l>Und deiner, der es gab.</l>
+               <lb/><l>Des Morgens neue Sonne</l>
+               <lb/><l>Erfüllt auf dein Geheiß</l>
+               <lb/><l>Mit Leben, Licht und Wonne,</l>
+               <lb/><l><rs type="person" key="G0001">Gott</rs>, deinen Erdenkreis.</l>
+               <lb/><l>Auf mich ſcheint ſie herab.</l>
+               <lb/><l>Ich freue, <rs type="person" key="G0001">Gott</rs>, ich freue</l>
+               <lb/><l>Mich ihres Lichts aufs neue</l>
+               <lb/><l>Und deiner, der es gab.</l>
             </lg>
             <lg>
-               <l>Zu dir, zu dir erhebe</l>
-               <l>Dir frohe Seele ſich.</l>
-               <l>Allmächtig ſprachſt du: lebe!</l>
-               <l>Ich lebte, <rs type="person" key="G0001">Herr</rs>, durch dich:</l>
-               <l>Und mit dem erſten Strahl</l>
-               <l>Gab deine milde Sonne</l>
-               <l>Mir Leben, Licht und Wonne</l>
-               <l>Und Segen ohne Zahl.</l>
+               <lb/><l>Zu dir, zu dir erhebe</l>
+               <lb/><l>Dir frohe Seele ſich.</l>
+               <lb/><l>Allmächtig ſprachſt du: lebe!</l>
+               <lb/><l>Ich lebte, <rs type="person" key="G0001">Herr</rs>, durch dich:</l>
+               <lb/><l>Und mit dem erſten Strahl</l>
+               <lb/><l>Gab deine milde Sonne</l>
+               <lb/><l>Mir Leben, Licht und Wonne</l>
+               <lb/><l>Und Segen ohne Zahl.</l>
             </lg>
             <lg>
-               <l>Sieh dieſer neue Morgen</l>
-               <l>Soll dir geheiligt ſeyn.</l>
-               <l>Ich will mich, frey von Sorgen,</l>
-               <l>Nur deiner Güte freun.</l>
-               <l>Biſhieher halfſt du, <rs type="person" key="G0001">Herr</rs>!</l>
-               <l>Lobſing ihm, meine Seele!</l>
-               <l>Lobſing ihm und erzähle:</l>
-               <l>Wie treu, wie gut iſt Er!</l>
+               <lb/><l>Sieh dieſer neue Morgen</l>
+               <lb/><l>Soll dir geheiligt ſeyn.</l>
+               <lb/><l>Ich will mich, frey von Sorgen,</l>
+               <lb/><l>Nur deiner Güte freun.</l>
+               <lb/><l>Biſhieher halfſt du, <rs type="person" key="G0001">Herr</rs>!</l>
+               <lb/><l>Lobſing ihm, meine Seele!</l>
+               <lb/><l>Lobſing ihm und erzähle:</l>
+               <lb/><l>Wie treu, wie gut iſt Er!</l>
             </lg>
             <lg>
-               <l>Ich überſchau die Pfade</l>
-               <l>Der kurzen Pilgerſchaft.</l>
-               <l>Nah war mir <rs type="person" key="G0001">Gottes</rs> Gnade,</l>
-               <l>Nah war mir ſeine Kraft.</l>
-               <l>Er leitet zum Ziel</l>
-               <l>Mich auf ſo ſanften Wegen:</l>
-               <l>Und gab mir ſeinen Segen</l>
-               <l>Mir großer Freuden viel.</l>
+               <lb/><l>Ich überſchau die Pfade</l>
+               <lb/><l>Der kurzen Pilgerſchaft.</l>
+               <lb/><l>Nah war mir <rs type="person" key="G0001">Gottes</rs> Gnade,</l>
+               <lb/><l>Nah war mir ſeine Kraft.</l>
+               <lb/><l>Er leitet zum Ziel</l>
+               <lb/><l>Mich auf ſo ſanften Wegen:</l>
+               <lb/><l>Und gab mir ſeinen Segen</l>
+               <lb/><l>Mir großer Freuden viel.</l>
             </lg>
             <lg>
-               <l>Und gegen dieſe Freuden,</l>
-               <l>(O wer, wer zählet ſie?)</l>
-               <l>Was ſind die kurzen Leiden</l>
-               <l>Was iſt des Lebens Müh?</l>
-               <l>Am Abend war mein Herz</l>
-               <l>Oft voll von Gram und Sorgen;</l>
-               <l>Und mit dem neuen Morgen</l>
-               <l>Verſchwand mein Gram und Schmerz.</l>
+               <lb/><l>Und gegen dieſe Freuden,</l>
+               <lb/><l>(O wer, wer zählet ſie?)</l>
+               <lb/><l>Was ſind die kurzen Leiden</l>
+               <lb/><l>Was iſt des Lebens Müh?</l>
+               <lb/><l>Am Abend war mein Herz</l>
+               <lb/><l>Oft voll von Gram und Sorgen;</l>
+               <lb/><l>Und mit dem neuen Morgen</l>
+               <lb/><l>Verſchwand mein Gram und Schmerz.</l>
             </lg>
             <lg>
-               <l>So war des Ewgen Rechte</l>
-               <l>Stets meine Zuverſicht.</l>
-               <l>Durch Tage, wie durch Nächte</l>
-               <l>War er mein Heil und Licht.</l>
-               <l>Wie that er mir ſo wohl!</l>
-               <l>Wohin ich geh und trete,</l>
-               <l>Iſt jede, jede Stätte</l>
-               <l>Von ſeiner Güte voll.</l>
+               <lb/><l>So war des Ewgen Rechte</l>
+               <lb/><l>Stets meine Zuverſicht.</l>
+               <lb/><l>Durch Tage, wie durch Nächte</l>
+               <lb/><l>War er mein Heil und Licht.</l>
+               <lb/><l>Wie that er mir ſo wohl!</l>
+               <lb/><l>Wohin ich geh und trete,</l>
+               <lb/><l>Iſt jede, jede Stätte</l>
+               <lb/><l>Von ſeiner Güte voll.</l>
             </lg>
             <lg>
-               <l><rs type="person" key="G0001">Gott</rs>, dir gebühret Stärke</l>
-               <l>Und Preis in Ewigkeit!</l>
-               <l>Groß, groß ſind deine Werke,</l>
-               <l>Groß deine Freundlichkeit.</l>
-               <l>Ich will mein Lebelang</l>
-               <l>Dich preiſen, dich erhöhen,</l>
-               <l>Und einſt mein letztes Flehen</l>
-               <l>Sey noch dein Lobgeſang!</l>
+               <lb/><l><rs type="person" key="G0001">Gott</rs>, dir gebühret Stärke</l>
+               <lb/><l>Und Preis in Ewigkeit!</l>
+               <lb/><l>Groß, groß ſind deine Werke,</l>
+               <lb/><l>Groß deine Freundlichkeit.</l>
+               <lb/><l>Ich will mein Lebelang</l>
+               <lb/><l>Dich preiſen, dich erhöhen,</l>
+               <lb/><l>Und einſt mein letztes Flehen</l>
+               <lb/><l>Sey noch dein Lobgeſang!</l>
             </lg>
          </div>
       </body>

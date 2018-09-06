@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -73,7 +73,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -185,62 +184,62 @@
 		<body>
 			<pb n="23" ed="CPEB1780"/>
 			<div type="chorale">
-				<head type="title">Lob des Allgütigen.</head>
+				<head><title>Lob des Allgütigen.</title></head>
 				<lg>
-					<l><rs type="person" key="G0001">Allgütiger</rs>, mein Lebenlang</l>
-					<l>Iſt meines Liedes Lobgeſang</l>
-					<l>Dir demuthſvoll geweiht.</l>
-					<l>Denn du biſt gut: und jeder Ort,</l>
-					<l>Die Erde hier, der Himmel dort</l>
-					<l>Rühmt deine Gütigkeit.</l>
+					<lb/><l><rs type="person" key="G0001">Allgütiger</rs>, mein Lebenlang</l>
+					<lb/><l>Iſt meines Liedes Lobgeſang</l>
+					<lb/><l>Dir demuthſvoll geweiht.</l>
+					<lb/><l>Denn du biſt gut: und jeder Ort,</l>
+					<lb/><l>Die Erde hier, der Himmel dort</l>
+					<lb/><l>Rühmt deine Gütigkeit.</l>
 				</lg>
 				<lg>
-					<l>Die Sonne, <rs type="person" key="G0001">Vater</rs>, trägt dein Bild:</l>
-					<l>Sie iſt, wie du, ſo ſtark und mild,</l>
-					<l>So ſegenvoll, wie du.</l>
-					<l>Es ſtrömt aus ihr mit jedem Strahl</l>
-					<l>Licht und Erquickung ohne Zahl</l>
-					<l>Durch dich der Erde zu.</l>
+					<lb/><l>Die Sonne, <rs type="person" key="G0001">Vater</rs>, trägt dein Bild:</l>
+					<lb/><l>Sie iſt, wie du, ſo ſtark und mild,</l>
+					<lb/><l>So ſegenvoll, wie du.</l>
+					<lb/><l>Es ſtrömt aus ihr mit jedem Strahl</l>
+					<lb/><l>Licht und Erquickung ohne Zahl</l>
+					<lb/><l>Durch dich der Erde zu.</l>
 				</lg>
 				<lg>
-					<l>In jeder Anmuth der Natur,</l>
-					<l>In jedem Blümchen auf der Flur</l>
-					<l>Fühl ichs, wie gut du biſt.</l>
-					<l>Selbſt, wenn dein Wetterſturm uns dräut,</l>
-					<l>Seh ich, wie Reiz und Fruchtbarkeit</l>
-					<l>Aus Donnerwolken fließt.</l>
+					<lb/><l>In jeder Anmuth der Natur,</l>
+					<lb/><l>In jedem Blümchen auf der Flur</l>
+					<lb/><l>Fühl ichs, wie gut du biſt.</l>
+					<lb/><l>Selbſt, wenn dein Wetterſturm uns dräut,</l>
+					<lb/><l>Seh ich, wie Reiz und Fruchtbarkeit</l>
+					<lb/><l>Aus Donnerwolken fließt.</l>
 				</lg>
 				<lg>
-					<l>Ja, <rs type="person" key="G0001">Herr</rs>, unendlich gut biſt du!</l>
-					<l>Der Morgen rufts dem Mittag zu:</l>
-					<l>Der Tag dem Abendroth.</l>
-					<l>Die Flur bedeckt mit Schnee und Eis</l>
-					<l>Rühmt Erndtefeldern deinen Preis,</l>
-					<l><rs type="person" key="G0001">Jehova Zebaoth</rs>!</l>
+					<lb/><l>Ja, <rs type="person" key="G0001">Herr</rs>, unendlich gut biſt du!</l>
+					<lb/><l>Der Morgen rufts dem Mittag zu:</l>
+					<lb/><l>Der Tag dem Abendroth.</l>
+					<lb/><l>Die Flur bedeckt mit Schnee und Eis</l>
+					<lb/><l>Rühmt Erndtefeldern deinen Preis,</l>
+					<lb/><l><rs type="person" key="G0001">Jehova Zebaoth</rs>!</l>
 				</lg>
 				<lg>
-					<l>Nichts iſt von deinem Wohlthun leer:</l>
-					<l>Das kleinſte Sandkorn an dem Meer</l>
-					<l>Iſt deiner Güte Preis.</l>
-					<l>Der Wurm im Staube lebt durch dich:</l>
-					<l>Durch dich freut er des Lebens ſich,</l>
-					<l>Und ſtirbt auf dein Geheiß.</l>
+					<lb/><l>Nichts iſt von deinem Wohlthun leer:</l>
+					<lb/><l>Das kleinſte Sandkorn an dem Meer</l>
+					<lb/><l>Iſt deiner Güte Preis.</l>
+					<lb/><l>Der Wurm im Staube lebt durch dich:</l>
+					<lb/><l>Durch dich freut er des Lebens ſich,</l>
+					<lb/><l>Und ſtirbt auf dein Geheiß.</l>
 				</lg>
 				<lg>
-					<l>Auf deines Segens Ueberfluß</l>
-					<l>Schöpft unaufhörlichen Genuß</l>
-					<l>Der Engel, dort am Thron:</l>
-					<l>Und hier, an unſrer Wallfahrt Grab,</l>
-					<l>Strömt Seligkeit durch dich herab</l>
-					<l>Auf jeden Erdenſohn.</l>
+					<lb/><l>Auf deines Segens Ueberfluß</l>
+					<lb/><l>Schöpft unaufhörlichen Genuß</l>
+					<lb/><l>Der Engel, dort am Thron:</l>
+					<lb/><l>Und hier, an unſrer Wallfahrt Grab,</l>
+					<lb/><l>Strömt Seligkeit durch dich herab</l>
+					<lb/><l>Auf jeden Erdenſohn.</l>
 				</lg>
 				<lg>
-					<l>Doch wer? Wer faßts, wie gut du biſt?</l>
-					<l>Undenkbar, wie dein Weſen, iſt</l>
-					<l><rs type="person" key="G0001">Gott</rs>, deine Freundlichkeit.</l>
-					<l>Im Staube bet ich an vor dir!</l>
-					<l>Gebenedeyet ſey ſie mir</l>
-					<l>Nun und in Ewigkeit!</l>
+					<lb/><l>Doch wer? Wer faßts, wie gut du biſt?</l>
+					<lb/><l>Undenkbar, wie dein Weſen, iſt</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, deine Freundlichkeit.</l>
+					<lb/><l>Im Staube bet ich an vor dir!</l>
+					<lb/><l>Gebenedeyet ſey ſie mir</l>
+					<lb/><l>Nun und in Ewigkeit!</l>
 				</lg>
 			</div>
 		</body>

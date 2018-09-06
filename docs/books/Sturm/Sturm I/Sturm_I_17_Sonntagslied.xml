@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -73,7 +73,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -185,63 +184,63 @@
 		<body>
 			<pb n="17" ed="CPEB1780"/>
 			<div type="chorale">
-				<head type="title">Sonntagſlied.</head>
+				<head><title>Sonntagſlied.</title></head>
 				<lg>
-					<l>Dir, <rs type="person" key="J0001">Jeſu</rs>, dir ſey dieſer Tag
+					<lb/><l>Dir, <rs type="person" key="J0001">Jeſu</rs>, dir ſey dieſer Tag
 						geweihet,</l>
-					<l>Ihn feyert gern, wer deines Heils ſich freuet.</l>
-					<l>O laß auch mich mit Freuden vor dich treten,</l>
-					<l>Dich anzubeten.</l>
+					<lb/><l>Ihn feyert gern, wer deines Heils ſich freuet.</l>
+					<lb/><l>O laß auch mich mit Freuden vor dich treten,</l>
+					<lb/><l>Dich anzubeten.</l>
 				</lg>
 				<lg>
-					<l>Dich preiſt der Lobgeſang der Himmelſheere,</l>
-					<l>Auch unſer Tempel ſchall von deiner Ehre!</l>
-					<l>Auch unſer Dank und unſrer Ehrfurcht Flehen</l>
-					<l>Soll dich erhöhen.</l>
+					<lb/><l>Dich preiſt der Lobgeſang der Himmelſheere,</l>
+					<lb/><l>Auch unſer Tempel ſchall von deiner Ehre!</l>
+					<lb/><l>Auch unſer Dank und unſrer Ehrfurcht Flehen</l>
+					<lb/><l>Soll dich erhöhen.</l>
 				</lg>
 				<lg>
-					<l>Wie freu ich mich, die Stätte zu begrüßen,</l>
-					<l>Wo Dürſtenden des Lebens Bäche fließen,</l>
-					<l>Und wo dein Heil von der Erlöſten Zungen</l>
-					<l>Froh wird beſungen.</l>
+					<lb/><l>Wie freu ich mich, die Stätte zu begrüßen,</l>
+					<lb/><l>Wo Dürſtenden des Lebens Bäche fließen,</l>
+					<lb/><l>Und wo dein Heil von der Erlöſten Zungen</l>
+					<lb/><l>Froh wird beſungen.</l>
 				</lg>
 				<lg>
-					<l>Vergebens lockt die Welt zu ihren Freuden,</l>
-					<l>Mein Geiſt ſoll ſich an <rs type="person" key="G0001">Gottes</rs> Lehre
+					<lb/><l>Vergebens lockt die Welt zu ihren Freuden,</l>
+					<lb/><l>Mein Geiſt ſoll ſich an <rs type="person" key="G0001">Gottes</rs> Lehre
 						weiden:</l>
-					<l>Sein himmliſch Wort, das ſeine Boten lehren,</l>
-					<l>Das will ich hören.</l>
+					<lb/><l>Sein himmliſch Wort, das ſeine Boten lehren,</l>
+					<lb/><l>Das will ich hören.</l>
 				</lg>
 				<lg>
-					<l>Mit Andacht will ich heut vor dich treten:</l>
-					<l>Ich weiß, du hörſt, die kindlich zu dir beten.</l>
-					<l>Der Thoren Glück, die ſich der Sünde freuen,</l>
-					<l>Kann nicht gedeihn.</l>
+					<lb/><l>Mit Andacht will ich heut vor dich treten:</l>
+					<lb/><l>Ich weiß, du hörſt, die kindlich zu dir beten.</l>
+					<lb/><l>Der Thoren Glück, die ſich der Sünde freuen,</l>
+					<lb/><l>Kann nicht gedeihn.</l>
 				</lg>
 				<lg>
-					<l>O laß auch heute deinen Geiſt mich lehren,</l>
-					<l>Vom Weg, der dir mißfällt, mich abzukehren:</l>
-					<l>Er leite mich, daß meine ganze Seele</l>
-					<l>Zum Troſt dich wähle.</l>
+					<lb/><l>O laß auch heute deinen Geiſt mich lehren,</l>
+					<lb/><l>Vom Weg, der dir mißfällt, mich abzukehren:</l>
+					<lb/><l>Er leite mich, daß meine ganze Seele</l>
+					<lb/><l>Zum Troſt dich wähle.</l>
 				</lg>
 				<lg>
-					<l>Dein Tag ſey mir ein Denkmal deiner Güte!</l>
-					<l>Er bring mir Heil, und lenke mein Gemüthe</l>
-					<l>Auf jenen Troſt, den du der Welt erworben,</l>
-					<l>Da du geſtorben.</l>
+					<lb/><l>Dein Tag ſey mir ein Denkmal deiner Güte!</l>
+					<lb/><l>Er bring mir Heil, und lenke mein Gemüthe</l>
+					<lb/><l>Auf jenen Troſt, den du der Welt erworben,</l>
+					<lb/><l>Da du geſtorben.</l>
 				</lg>
 				<lg>
-					<l>Dich bet ich an, du Todesüberwinder!</l>
-					<l>An dieſem Tag haſt du, zum Heil der Sünder,</l>
-					<l>Die fern von <rs type="person" key="G0001">Gott</rs> in Todeſschatten
+					<lb/><l>Dich bet ich an, du Todesüberwinder!</l>
+					<lb/><l>An dieſem Tag haſt du, zum Heil der Sünder,</l>
+					<lb/><l>Die fern von <rs type="person" key="G0001">Gott</rs> in Todeſschatten
 						ſaßen,</l>
-					<l>Dein Grab verlaſsen.</l>
+					<lb/><l>Dein Grab verlaſsen.</l>
 				</lg>
 				<lg>
-					<l>Es feyre dankbar dieſen Tag die Erde,</l>
-					<l>Daß jedes Land voll deines Ruhmes werde!</l>
-					<l>Lob ſey, Erlöſer, deinem großen Namen,</l>
-					<l>Auf ewig. Amen.</l>
+					<lb/><l>Es feyre dankbar dieſen Tag die Erde,</l>
+					<lb/><l>Daß jedes Land voll deines Ruhmes werde!</l>
+					<lb/><l>Lob ſey, Erlöſer, deinem großen Namen,</l>
+					<lb/><l>Auf ewig. Amen.</l>
 				</lg>
 			</div>
 		</body>

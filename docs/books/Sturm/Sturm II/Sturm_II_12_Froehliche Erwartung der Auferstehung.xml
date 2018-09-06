@@ -7,7 +7,7 @@
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
-            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+            <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -76,7 +76,6 @@
                   <occupation>Komponist</occupation>
                   <note type="bioSummary"/>
                   <idno type="GND">118505505</idno>
-                  <idno type="WeGA"/>
                   <persName type="sigla" subtype="Kast"/>
                   <persName type="sigla" subtype="Blechschmidt"/>
                   <persName type="sigla" subtype="Dürr"/>
@@ -189,42 +188,42 @@
          <pb n="12" ed="CPEB1792"/>
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
-            <head type="title">Fröhliche Erwartung der Auferſtehung.</head>
+            <head><title>Fröhliche Erwartung der Auferſtehung.</title></head>
             <lg>
-               <l>Einſt geh ich ohne Beben</l>
-               <l>Zu meinem Tode hin.</l>
-               <l>Denn <rs type="person" key="J0001">Chriſtus</rs> iſt mein Leben</l>
-               <l>Und Sterben mein Gewinn.</l>
+               <lb/><l>Einſt geh ich ohne Beben</l>
+               <lb/><l>Zu meinem Tode hin.</l>
+               <lb/><l>Denn <rs type="person" key="J0001">Chriſtus</rs> iſt mein Leben</l>
+               <lb/><l>Und Sterben mein Gewinn.</l>
             </lg>
             <lg>
-               <l>Ich ſcheue nicht die Schrecken</l>
-               <l>Der freudenleeren Gruft.</l>
-               <l>Der wird mich auferwecken,</l>
-               <l>Der mich zum Grabe ruft.</l>
+               <lb/><l>Ich ſcheue nicht die Schrecken</l>
+               <lb/><l>Der freudenleeren Gruft.</l>
+               <lb/><l>Der wird mich auferwecken,</l>
+               <lb/><l>Der mich zum Grabe ruft.</l>
             </lg>
             <lg>
-               <l>Und rief mich, abzuſcheiden,</l>
-               <l>Auch heute ſchon mein <rs type="person" key="G0001">Gott</rs>,</l>
-               <l>So folg ich ihm mit Freuden</l>
-               <l>Und ſterbt auf ſein Gebot.</l>
+               <lb/><l>Und rief mich, abzuſcheiden,</l>
+               <lb/><l>Auch heute ſchon mein <rs type="person" key="G0001">Gott</rs>,</l>
+               <lb/><l>So folg ich ihm mit Freuden</l>
+               <lb/><l>Und ſterbt auf ſein Gebot.</l>
             </lg>
             <lg>
-               <l>Des Lebens friſche Blüthe</l>
-               <l>Vermodre nur im Staub:</l>
-               <l>Die Wange, die ſonſt glühte,</l>
-               <l>Sey der Verweſung Raub.</l>
+               <lb/><l>Des Lebens friſche Blüthe</l>
+               <lb/><l>Vermodre nur im Staub:</l>
+               <lb/><l>Die Wange, die ſonſt glühte,</l>
+               <lb/><l>Sey der Verweſung Raub.</l>
             </lg>
             <lg>
-               <l>Ich hoff ein beßres Leben,</l>
-               <l>Das nie von mir entflieht.</l>
-               <l>Ein Leib wird mich umgeben,</l>
-               <l>Der nimmermehr verblüht.</l>
+               <lb/><l>Ich hoff ein beßres Leben,</l>
+               <lb/><l>Das nie von mir entflieht.</l>
+               <lb/><l>Ein Leib wird mich umgeben,</l>
+               <lb/><l>Der nimmermehr verblüht.</l>
             </lg>
             <lg>
-               <l>Dann eil ich dir entgegen,</l>
-               <l>Mein triumphierend Haupt,</l>
-               <l>Und ſeh entzückt den Segen</l>
-               <l>Des Heils, das ich geglaubt.</l>
+               <lb/><l>Dann eil ich dir entgegen,</l>
+               <lb/><l>Mein triumphierend Haupt,</l>
+               <lb/><l>Und ſeh entzückt den Segen</l>
+               <lb/><l>Des Heils, das ich geglaubt.</l>
             </lg>
          </div>
       </body>

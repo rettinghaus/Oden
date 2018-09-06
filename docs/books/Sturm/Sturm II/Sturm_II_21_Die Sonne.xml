@@ -7,7 +7,7 @@
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
-            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+            <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -76,7 +76,6 @@
                   <occupation>Komponist</occupation>
                   <note type="bioSummary"/>
                   <idno type="GND">118505505</idno>
-                  <idno type="WeGA"/>
                   <persName type="sigla" subtype="Kast"/>
                   <persName type="sigla" subtype="Blechschmidt"/>
                   <persName type="sigla" subtype="Dürr"/>
@@ -189,43 +188,43 @@
          <pb n="XX" ed="CPEB1792"/>
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
-            <head type="title">Die Sonne.</head>
+            <head><title>Die Sonne.</title></head>
             <lg>
-               <l><rs type="person" key="G0001">Gottes</rs> Güte, <rs type="person" key="G0001"
+               <lb/><l><rs type="person" key="G0001">Gottes</rs> Güte, <rs type="person" key="G0001"
                      >Gottes</rs> Macht</l>
-               <l>Predigt mir der Sonne Pracht:</l>
-               <l>Zeigt mir allerwegen</l>
-               <l>Ihres <rs type="person" key="G0001">Schöpfers</rs> Segen:</l>
+               <lb/><l>Predigt mir der Sonne Pracht:</l>
+               <lb/><l>Zeigt mir allerwegen</l>
+               <lb/><l>Ihres <rs type="person" key="G0001">Schöpfers</rs> Segen:</l>
             </lg>
             <lg>
-               <l>Zeigt mir den auf Berg und Thal,</l>
-               <l>Der, zu leuchten, ihr befahl,</l>
-               <l>Daß bekannt der Erde</l>
-               <l>Seine Güte werde.</l>
+               <lb/><l>Zeigt mir den auf Berg und Thal,</l>
+               <lb/><l>Der, zu leuchten, ihr befahl,</l>
+               <lb/><l>Daß bekannt der Erde</l>
+               <lb/><l>Seine Güte werde.</l>
             </lg>
             <lg>
-               <l>Und voll Inbrunſt wird mein Herz:</l>
-               <l>Fröhlich blick ich himmelwärts,</l>
-               <l>An den blauen Höhen</l>
-               <l>Ihre Bahn zu ſehen.</l>
+               <lb/><l>Und voll Inbrunſt wird mein Herz:</l>
+               <lb/><l>Fröhlich blick ich himmelwärts,</l>
+               <lb/><l>An den blauen Höhen</l>
+               <lb/><l>Ihre Bahn zu ſehen.</l>
             </lg>
             <lg>
-               <l>Dann empfind ich hohen Muth,</l>
-               <l>Denn ihr Schöpfer hat es gut,</l>
-               <l>Gut mit mir gemeynet,</l>
-               <l>Weil ſie mir auch ſcheinet.</l>
+               <lb/><l>Dann empfind ich hohen Muth,</l>
+               <lb/><l>Denn ihr Schöpfer hat es gut,</l>
+               <lb/><l>Gut mit mir gemeynet,</l>
+               <lb/><l>Weil ſie mir auch ſcheinet.</l>
             </lg>
             <lg>
-               <l>Darum eil ich ſorgenleer,</l>
-               <l>Zu der Arbeit: iſt ſie ſchwer,</l>
-               <l>Iſt ſie reich an Plagen:</l>
-               <l>Hoffnung lehrt ſie tragen.</l>
+               <lb/><l>Darum eil ich ſorgenleer,</l>
+               <lb/><l>Zu der Arbeit: iſt ſie ſchwer,</l>
+               <lb/><l>Iſt ſie reich an Plagen:</l>
+               <lb/><l>Hoffnung lehrt ſie tragen.</l>
             </lg>
             <lg>
-               <l>Der, als er in ihrer Pracht</l>
-               <l>Sonnen ſchuf, an mich gedacht,</l>
-               <l>Und mein Wohl ermeſsen,</l>
-               <l>Wird mich nie vergeſsen.</l>
+               <lb/><l>Der, als er in ihrer Pracht</l>
+               <lb/><l>Sonnen ſchuf, an mich gedacht,</l>
+               <lb/><l>Und mein Wohl ermeſsen,</l>
+               <lb/><l>Wird mich nie vergeſsen.</l>
             </lg>
          </div>
       </body>

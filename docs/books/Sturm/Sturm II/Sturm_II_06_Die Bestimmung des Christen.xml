@@ -7,7 +7,7 @@
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
-            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+            <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -76,7 +76,6 @@
                   <occupation>Komponist</occupation>
                   <note type="bioSummary"/>
                   <idno type="GND">118505505</idno>
-                  <idno type="WeGA"/>
                   <persName type="sigla" subtype="Kast"/>
                   <persName type="sigla" subtype="Blechschmidt"/>
                   <persName type="sigla" subtype="Dürr"/>
@@ -189,68 +188,68 @@
          <pb n="6" ed="CPEB1792"/>
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
-            <head type="title">Die Beſtimmung des Chriſten.</head>
+            <head><title>Die Beſtimmung des Chriſten.</title></head>
             <lg>
-               <l>Mein Glück im kurzen Raum der Zeit,</l>
-               <l>Den hohen Werth der Ewigkeit,</l>
-               <l>Empfindet meine Seele.</l>
-               <l>Mich riefſt du, <rs type="person" key="G0001">Vater</rs>, aus dem Nichts</l>
-               <l>Zum frohen Anſchaun deines Lichts;</l>
-               <l>Dies dankt dir meine Seele.</l>
-               <l>Nicht zu den Freuden dieſer Zeit,</l>
-               <l>Zur Wonne jener Ewigkeit,</l>
-               <l>Dir einſt zu werden ähnlicher,</l>
-               <l>Erſchufſt du mich, <rs type="person" key="G0001">Allmächtiger</rs>.</l>
-               <l>O <rs type="person" key="G0001">Vater</rs>! <rs type="person" key="G0001"
+               <lb/><l>Mein Glück im kurzen Raum der Zeit,</l>
+               <lb/><l>Den hohen Werth der Ewigkeit,</l>
+               <lb/><l>Empfindet meine Seele.</l>
+               <lb/><l>Mich riefſt du, <rs type="person" key="G0001">Vater</rs>, aus dem Nichts</l>
+               <lb/><l>Zum frohen Anſchaun deines Lichts;</l>
+               <lb/><l>Dies dankt dir meine Seele.</l>
+               <lb/><l>Nicht zu den Freuden dieſer Zeit,</l>
+               <lb/><l>Zur Wonne jener Ewigkeit,</l>
+               <lb/><l>Dir einſt zu werden ähnlicher,</l>
+               <lb/><l>Erſchufſt du mich, <rs type="person" key="G0001">Allmächtiger</rs>.</l>
+               <lb/><l>O <rs type="person" key="G0001">Vater</rs>! <rs type="person" key="G0001"
                      >Gott</rs>!</l>
-               <l>Für mich gabſt du den Sohn in Tod:</l>
-               <l>Wie groß bin ich durch dich, mein <rs type="person" key="G0001">Gott</rs>!</l>
+               <lb/><l>Für mich gabſt du den Sohn in Tod:</l>
+               <lb/><l>Wie groß bin ich durch dich, mein <rs type="person" key="G0001">Gott</rs>!</l>
             </lg>
             <lg>
-               <l><rs type="person" key="J0001">Sohn</rs>, zum Erlöſer mir geſandt!</l>
-               <l>Ich folge deiner ſanften Hand,</l>
-               <l>Die mich zum Himmel leitet.</l>
-               <l>Für mich haſt du vor <rs type="person" key="G0001">Gottes</rs> Thron</l>
-               <l>Den unauſsprechlich großen Lohn</l>
-               <l>Des Himmels zubereitet.</l>
-               <l>Zwar itzt ſeh ich mit ſchwachem Blick</l>
-               <l>Der ſeligen Verklärung Glück:</l>
-               <l>Und dunkel iſt mir jene Welt,</l>
-               <l>Die <rs type="person" key="G0001">Gott</rs> dem Glauben vorbehält.</l>
-               <l>O <rs type="person" key="J0001">Jeſu Chriſt</rs>!</l>
-               <l>Dort ſoll ich erſt mein Heil verſtehn,</l>
-               <l>Und jauchzend deine Gnade ſehn.</l>
+               <lb/><l><rs type="person" key="J0001">Sohn</rs>, zum Erlöſer mir geſandt!</l>
+               <lb/><l>Ich folge deiner ſanften Hand,</l>
+               <lb/><l>Die mich zum Himmel leitet.</l>
+               <lb/><l>Für mich haſt du vor <rs type="person" key="G0001">Gottes</rs> Thron</l>
+               <lb/><l>Den unauſsprechlich großen Lohn</l>
+               <lb/><l>Des Himmels zubereitet.</l>
+               <lb/><l>Zwar itzt ſeh ich mit ſchwachem Blick</l>
+               <lb/><l>Der ſeligen Verklärung Glück:</l>
+               <lb/><l>Und dunkel iſt mir jene Welt,</l>
+               <lb/><l>Die <rs type="person" key="G0001">Gott</rs> dem Glauben vorbehält.</l>
+               <lb/><l>O <rs type="person" key="J0001">Jeſu Chriſt</rs>!</l>
+               <lb/><l>Dort ſoll ich erſt mein Heil verſtehn,</l>
+               <lb/><l>Und jauchzend deine Gnade ſehn.</l>
             </lg>
             <lg>
-               <l>Geiſt <rs type="person" key="G0001">Gottes</rs>, unſre Zuverſicht,</l>
-               <l>Verlaß, verlaß uns Arme nicht,</l>
-               <l>Und ſtärk uns unſern Glauben.</l>
-               <l>Durch dich blickt unſer Aug zum Lohn,</l>
-               <l>Bereit für uns an <rs type="person" key="G0001">Gottes</rs> Thron.</l>
-               <l>O ſchenk uns dieſen Glauben.</l>
-               <l>Lenk uns von Welt und Eitelkeit</l>
-               <l>Auf jenes Heil der Ewigkeit:</l>
-               <l>Daß wir der Welt entriſsen, dir</l>
-               <l>Hier leben, <rs type="person" key="G0001">Gott</rs>! einſt ſterben dir.</l>
-               <l>Geiſt, unſer <rs type="person" key="G0001">Gott</rs>!</l>
-               <l>Zeig uns im Tod das Heil des <rs type="person" key="G0001">Herrn</rs>:</l>
-               <l>Dann folgen wir zum Grabe gern.</l>
+               <lb/><l>Geiſt <rs type="person" key="G0001">Gottes</rs>, unſre Zuverſicht,</l>
+               <lb/><l>Verlaß, verlaß uns Arme nicht,</l>
+               <lb/><l>Und ſtärk uns unſern Glauben.</l>
+               <lb/><l>Durch dich blickt unſer Aug zum Lohn,</l>
+               <lb/><l>Bereit für uns an <rs type="person" key="G0001">Gottes</rs> Thron.</l>
+               <lb/><l>O ſchenk uns dieſen Glauben.</l>
+               <lb/><l>Lenk uns von Welt und Eitelkeit</l>
+               <lb/><l>Auf jenes Heil der Ewigkeit:</l>
+               <lb/><l>Daß wir der Welt entriſsen, dir</l>
+               <lb/><l>Hier leben, <rs type="person" key="G0001">Gott</rs>! einſt ſterben dir.</l>
+               <lb/><l>Geiſt, unſer <rs type="person" key="G0001">Gott</rs>!</l>
+               <lb/><l>Zeig uns im Tod das Heil des <rs type="person" key="G0001">Herrn</rs>:</l>
+               <lb/><l>Dann folgen wir zum Grabe gern.</l>
             </lg>
             <lg>
-               <l><rs type="person" key="G0001"><rs type="person" key="J0001">Dreyeiniger</rs></rs>!
+               <lb/><l><rs type="person" key="G0001"><rs type="person" key="J0001">Dreyeiniger</rs></rs>!
                   wie groß ſind wir!</l>
-               <l>Wie groß, wie ſelig werden wir!</l>
-               <l>Lehr uns dies Glück betrachten.</l>
-               <l>Der Erde Scheingut sättigt nicht:</l>
-               <l>Der Erde Weiſheit tröſtet nicht:</l>
-               <l>O lehr uns, ſie verachten.</l>
-               <l>Der du uns ſchufſt, dich opferteſt</l>
-               <l>Für Sünder, und ſie heiligteſt:</l>
-               <l>Wir dein ſo theures Eigenthum,</l>
-               <l>Wir bringen deinem Namen Ruhm.</l>
-               <l>Dreyeiniger!</l>
-               <l>In Ewigkeit ſey unſer <rs type="person" key="G0001">Gott</rs>!</l>
-               <l>So freun wir uns auf unſern Tod.</l>
+               <lb/><l>Wie groß, wie ſelig werden wir!</l>
+               <lb/><l>Lehr uns dies Glück betrachten.</l>
+               <lb/><l>Der Erde Scheingut sättigt nicht:</l>
+               <lb/><l>Der Erde Weiſheit tröſtet nicht:</l>
+               <lb/><l>O lehr uns, ſie verachten.</l>
+               <lb/><l>Der du uns ſchufſt, dich opferteſt</l>
+               <lb/><l>Für Sünder, und ſie heiligteſt:</l>
+               <lb/><l>Wir dein ſo theures Eigenthum,</l>
+               <lb/><l>Wir bringen deinem Namen Ruhm.</l>
+               <lb/><l>Dreyeiniger!</l>
+               <lb/><l>In Ewigkeit ſey unſer <rs type="person" key="G0001">Gott</rs>!</l>
+               <lb/><l>So freun wir uns auf unſern Tod.</l>
             </lg>
          </div>
       </body>

@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -73,7 +73,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -185,89 +184,89 @@
 		<body>
 			<pb n="30" ed="CPEB1780"/>
 			<div type="chorale">
-				<head type="title">Vertrauen auf Gott.</head>
+				<head><title>Vertrauen auf Gott.</title></head>
 				<lg>
-					<l>Der <rs type="person" key="G0001">Herr</rs> iſt meine Zuverſicht,</l>
-					<l>Mein beſter Troſt im Leben.</l>
-					<l>Dem fehlt es nie an Heil und Licht,</l>
-					<l>Der ſich an ihn ergeben.</l>
-					<l><rs type="person" key="G0001">Gott</rs> iſt mein Gott:</l>
-					<l>Auf ſein Gebot</l>
-					<l>Wird meine Seele ſtille.</l>
-					<l>Mir genügt des <rs type="person" key="G0001">Vaters</rs> Wille.</l>
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> iſt meine Zuverſicht,</l>
+					<lb/><l>Mein beſter Troſt im Leben.</l>
+					<lb/><l>Dem fehlt es nie an Heil und Licht,</l>
+					<lb/><l>Der ſich an ihn ergeben.</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> iſt mein Gott:</l>
+					<lb/><l>Auf ſein Gebot</l>
+					<lb/><l>Wird meine Seele ſtille.</l>
+					<lb/><l>Mir genügt des <rs type="person" key="G0001">Vaters</rs> Wille.</l>
 				</lg>
 				<lg>
-					<l>Wer wollte dir, <rs type="person" key="G0001">Herr</rs>, nicht vertraun?</l>
-					<l>Du biſt des Schwachen Stärke.</l>
-					<l>Die Augen, welche zu dir ſchaun,</l>
-					<l>Sehn deine Wunderwerke.</l>
-					<l><rs type="person" key="G0001">Herr</rs>, groß von Rath,</l>
-					<l>Und ſtark von That!</l>
-					<l>Mit gnadenvollen Händen</l>
-					<l>Wirſt du dein Werk vollenden.</l>
+					<lb/><l>Wer wollte dir, <rs type="person" key="G0001">Herr</rs>, nicht vertraun?</l>
+					<lb/><l>Du biſt des Schwachen Stärke.</l>
+					<lb/><l>Die Augen, welche zu dir ſchaun,</l>
+					<lb/><l>Sehn deine Wunderwerke.</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, groß von Rath,</l>
+					<lb/><l>Und ſtark von That!</l>
+					<lb/><l>Mit gnadenvollen Händen</l>
+					<lb/><l>Wirſt du dein Werk vollenden.</l>
 				</lg>
 				<lg>
-					<l>Noch nie hat ſich, wer dich geliebt,</l>
-					<l>Verlaſsen ſehen müſsen:</l>
-					<l>Du läßt ihn, wenn ihn Noth umgiebt,</l>
-					<l>Doch deinen Troſt genießen.</l>
-					<l>Des Frommen Herz</l>
-					<l>Wird frey von Schmerz.</l>
-					<l>Der Sünder eitles Dichten</l>
-					<l>Wird einſt dein Rath zernichten.</l>
+					<lb/><l>Noch nie hat ſich, wer dich geliebt,</l>
+					<lb/><l>Verlaſsen ſehen müſsen:</l>
+					<lb/><l>Du läßt ihn, wenn ihn Noth umgiebt,</l>
+					<lb/><l>Doch deinen Troſt genießen.</l>
+					<lb/><l>Des Frommen Herz</l>
+					<lb/><l>Wird frey von Schmerz.</l>
+					<lb/><l>Der Sünder eitles Dichten</l>
+					<lb/><l>Wird einſt dein Rath zernichten.</l>
 					<!--vernichten?-->
 				</lg>
 				<lg>
-					<l>Drum hoff, o Seele, hoff auf <rs type="person" key="G0001">Gott</rs>!</l>
-					<l>Der Thoren Troſt verſchwindet;</l>
-					<l>Wenn der Gerechte ſelbſt im Tod</l>
-					<l>Ruh und Erquickung findet.</l>
-					<l>Wenn jener fällt,</l>
-					<l>Iſt er ein Held:</l>
-					<l>Er ſteht, wenn jene zittern,</l>
-					<l>Ein Fels in Ungewittern.</l>
+					<lb/><l>Drum hoff, o Seele, hoff auf <rs type="person" key="G0001">Gott</rs>!</l>
+					<lb/><l>Der Thoren Troſt verſchwindet;</l>
+					<lb/><l>Wenn der Gerechte ſelbſt im Tod</l>
+					<lb/><l>Ruh und Erquickung findet.</l>
+					<lb/><l>Wenn jener fällt,</l>
+					<lb/><l>Iſt er ein Held:</l>
+					<lb/><l>Er ſteht, wenn jene zittern,</l>
+					<lb/><l>Ein Fels in Ungewittern.</l>
 				</lg>
 				<lg>
-					<l>Wirf nicht die große Hoffnung hin,</l>
-					<l>Die dir dein Glaube reichet,</l>
-					<l>Verflucht ſind, die zu Menſchen fliehn;</l>
-					<l>Verflucht, wer von ihm weichet!</l>
-					<l>Dein <rs type="person" key="J0001">Heiland</rs> ſtarb;</l>
-					<l>Er, er erwarb</l>
-					<l>Auf ſeinem Todeſhügel,</l>
-					<l>Dir deines Glaubens Siegel.</l>
+					<lb/><l>Wirf nicht die große Hoffnung hin,</l>
+					<lb/><l>Die dir dein Glaube reichet,</l>
+					<lb/><l>Verflucht ſind, die zu Menſchen fliehn;</l>
+					<lb/><l>Verflucht, wer von ihm weichet!</l>
+					<lb/><l>Dein <rs type="person" key="J0001">Heiland</rs> ſtarb;</l>
+					<lb/><l>Er, er erwarb</l>
+					<lb/><l>Auf ſeinem Todeſhügel,</l>
+					<lb/><l>Dir deines Glaubens Siegel.</l>
 				</lg>
 				<lg>
-					<l>Sey unbewegt, wenn um dich her</l>
-					<l>Sich Ungewitter ſammeln!</l>
-					<l><rs type="person" key="G0001">Gott</rs> hilft, wenn Chriſten freudenleer</l>
-					<l>Zu ihm um Gnade ſtammeln.</l>
-					<l>Die Zeit der Quaal,</l>
-					<l>Der Thränen Zahl</l>
-					<l>Zählt er: er wiegt die Schmerzen,</l>
-					<l>Und wälzt ſie von dem Herzen.</l>
+					<lb/><l>Sey unbewegt, wenn um dich her</l>
+					<lb/><l>Sich Ungewitter ſammeln!</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> hilft, wenn Chriſten freudenleer</l>
+					<lb/><l>Zu ihm um Gnade ſtammeln.</l>
+					<lb/><l>Die Zeit der Quaal,</l>
+					<lb/><l>Der Thränen Zahl</l>
+					<lb/><l>Zählt er: er wiegt die Schmerzen,</l>
+					<lb/><l>Und wälzt ſie von dem Herzen.</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Herr</rs>, du biſt meine Zuverſicht;</l>
-					<l>Auf dich hofft meine Seele.</l>
-					<l>Du <choice>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, du biſt meine Zuverſicht;</l>
+					<lb/><l>Auf dich hofft meine Seele.</l>
+					<lb/><l>Du <choice>
 							<sic>weißſt,><corr>weißt,</corr></sic>
 						</choice>was meinem Glück gebricht,</l>
-					<l>Wenn ich mich kümmernd quäle,</l>
-					<l>Wer wollte ſich</l>
-					<l>Nicht ganz auf dich,</l>
-					<l>Allmächtiger, verlaſsen,</l>
-					<l>Und ſich in Kummer faſsen?</l>
+					<lb/><l>Wenn ich mich kümmernd quäle,</l>
+					<lb/><l>Wer wollte ſich</l>
+					<lb/><l>Nicht ganz auf dich,</l>
+					<lb/><l>Allmächtiger, verlaſsen,</l>
+					<lb/><l>Und ſich in Kummer faſsen?</l>
 				</lg>
 				<lg>
-					<l>In deine Hand befehl ich mich,</l>
-					<l>Mein Wohlſeyn und mein Leben.</l>
-					<l>Mein hoffend Auge blickt auf dich:</l>
-					<l>Dir will ich mich ergeben.</l>
-					<l>Sey du mein <rs type="person" key="G0001">Gott</rs>.</l>
-					<l>Und einſt im Tod</l>
-					<l>Der Fels, auf den ich traue,</l>
-					<l>Bis ich dein Antlitz ſchaue.</l>
+					<lb/><l>In deine Hand befehl ich mich,</l>
+					<lb/><l>Mein Wohlſeyn und mein Leben.</l>
+					<lb/><l>Mein hoffend Auge blickt auf dich:</l>
+					<lb/><l>Dir will ich mich ergeben.</l>
+					<lb/><l>Sey du mein <rs type="person" key="G0001">Gott</rs>.</l>
+					<lb/><l>Und einſt im Tod</l>
+					<lb/><l>Der Fels, auf den ich traue,</l>
+					<lb/><l>Bis ich dein Antlitz ſchaue.</l>
 				</lg>
 			</div>
 		</body>

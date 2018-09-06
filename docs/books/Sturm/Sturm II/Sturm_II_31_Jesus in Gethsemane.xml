@@ -7,7 +7,7 @@
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
-            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+            <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -76,7 +76,6 @@
                   <occupation>Komponist</occupation>
                   <note type="bioSummary"/>
                   <idno type="GND">118505505</idno>
-                  <idno type="WeGA"/>
                   <persName type="sigla" subtype="Kast"/>
                   <persName type="sigla" subtype="Blechschmidt"/>
                   <persName type="sigla" subtype="Dürr"/>
@@ -189,48 +188,48 @@
          <pb n="31" ed="CPEB1792"/>
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
-            <head type="title">Jeſus in Gethſemane.</head>
+            <head><title>Jeſus in Gethſemane.</title></head>
             <lg>
-               <l>Schau hin! Dort in <placeName>Gethſemane</placeName></l>
-               <l>Klagt, trauret, bebt der <rs type="person" key="J0001">Heiligſte</rs></l>
-               <l>Und ringt mit Todeſquaal.</l>
-               <l>O ſieh ihn weinen, beten, knien:</l>
-               <l>Herb iſt der Kelch: doch trinkt er ihn.</l>
+               <lb/><l>Schau hin! Dort in <placeName>Gethſemane</placeName></l>
+               <lb/><l>Klagt, trauret, bebt der <rs type="person" key="J0001">Heiligſte</rs></l>
+               <lb/><l>Und ringt mit Todeſquaal.</l>
+               <lb/><l>O ſieh ihn weinen, beten, knien:</l>
+               <lb/><l>Herb iſt der Kelch: doch trinkt er ihn.</l>
             </lg>
             <lg>
-               <l>Schau hin, dort geht er ins Gericht.<!--Satzzeichen nicht erkennbar--></l>
-               <l>Sein blutbefloßnes Angeſicht</l>
-               <l>Liegt vor dem <rs type="person" key="G0001">Herrn</rs> im Staub.</l>
-               <l>Doch fleht der peinlich Leidende:</l>
-               <l>Nicht mein, dein Wille, <rs type="person" key="G0001">Gott</rs>, geſcheh!</l>
+               <lb/><l>Schau hin, dort geht er ins Gericht.<!--Satzzeichen nicht erkennbar--></l>
+               <lb/><l>Sein blutbefloßnes Angeſicht</l>
+               <lb/><l>Liegt vor dem <rs type="person" key="G0001">Herrn</rs> im Staub.</l>
+               <lb/><l>Doch fleht der peinlich Leidende:</l>
+               <lb/><l>Nicht mein, dein Wille, <rs type="person" key="G0001">Gott</rs>, geſcheh!</l>
             </lg>
             <lg>
-               <l>Schau hin zum Oelberg, wenn die Luſt</l>
-               <l>Der Eitelkeit in deiner Bruſt</l>
-               <l>Sich gegen <rs type="person" key="G0001">Gott</rs> empört.</l>
-               <l>Ach ſieh, die Arbeit jener Nacht</l>
-               <l>Hat deine Sünde ihm gemacht.</l>
+               <lb/><l>Schau hin zum Oelberg, wenn die Luſt</l>
+               <lb/><l>Der Eitelkeit in deiner Bruſt</l>
+               <lb/><l>Sich gegen <rs type="person" key="G0001">Gott</rs> empört.</l>
+               <lb/><l>Ach ſieh, die Arbeit jener Nacht</l>
+               <lb/><l>Hat deine Sünde ihm gemacht.</l>
             </lg>
             <lg>
-               <l>Schau hin, wenn bey des Leidens Schmerz</l>
-               <l>Dein mattes, jammervolles Herz</l>
-               <l>In Thränen ſich ergießt.</l>
-               <l>Auch in der Nächte dunkelm Graun,</l>
-               <l>Chriſt, lerne deinem <rs type="person" key="G0001">Gott</rs> vertraun.</l>
+               <lb/><l>Schau hin, wenn bey des Leidens Schmerz</l>
+               <lb/><l>Dein mattes, jammervolles Herz</l>
+               <lb/><l>In Thränen ſich ergießt.</l>
+               <lb/><l>Auch in der Nächte dunkelm Graun,</l>
+               <lb/><l>Chriſt, lerne deinem <rs type="person" key="G0001">Gott</rs> vertraun.</l>
             </lg>
             <lg>
-               <l>Schau hin! Nach Labung dürſteſt du,</l>
-               <l>Du wünſcheſt Heiterkeit und Ruh.</l>
-               <l>Er, Er errang ſie dir.</l>
-               <l>Nun läßt der <rs type="person" key="J0001">Richter</rs> auf dein Flehn</l>
-               <l>Vor dir den Kelch vorüber gehn.</l>
+               <lb/><l>Schau hin! Nach Labung dürſteſt du,</l>
+               <lb/><l>Du wünſcheſt Heiterkeit und Ruh.</l>
+               <lb/><l>Er, Er errang ſie dir.</l>
+               <lb/><l>Nun läßt der <rs type="person" key="J0001">Richter</rs> auf dein Flehn</l>
+               <lb/><l>Vor dir den Kelch vorüber gehn.</l>
             </lg>
             <lg>
-               <l>Schau hin, wenn einſt das Grab dich ſchreckt</l>
-               <l>Und kalter Schweiß die Stirn bedeckt:</l>
-               <l>Sein Trauren, ſeine Quaal,</l>
-               <l>Sein Flehn, ſein Ringen mit dem Tod</l>
-               <l>Versüßt dir deine letzte Noth.</l>
+               <lb/><l>Schau hin, wenn einſt das Grab dich ſchreckt</l>
+               <lb/><l>Und kalter Schweiß die Stirn bedeckt:</l>
+               <lb/><l>Sein Trauren, ſeine Quaal,</l>
+               <lb/><l>Sein Flehn, ſein Ringen mit dem Tod</l>
+               <lb/><l>Versüßt dir deine letzte Noth.</l>
             </lg>
          </div>
       </body>

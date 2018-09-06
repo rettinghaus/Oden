@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -73,7 +73,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -185,61 +184,61 @@
 		<body>
 			<pb n="21" ed="CPEB1780"/>
 			<div type="chorale">
-				<head type="title">Die Fortdauer der Lehre Jeſu.</head>
+				<head><title>Die Fortdauer der Lehre Jeſu.</title></head>
 				<lg>
-					<l>Umſonſt empört die Hölle ſich</l>
-					<l>Mit ihrem Schreckenheere!</l>
-					<l>Dein <rs type="person" key="G0001">Gott</rs>, o <placeName>Zion</placeName>
+					<lb/><l>Umſonſt empört die Hölle ſich</l>
+					<lb/><l>Mit ihrem Schreckenheere!</l>
+					<lb/><l>Dein <rs type="person" key="G0001">Gott</rs>, o <placeName>Zion</placeName>
 						ſchützet dich,</l>
-					<l>Schützt ſeines <rs type="person" key="J0001">Sohnes</rs> Lehre.</l>
-					<l>Sie ſpreche Hohn! Sie ſchäume Wuth!</l>
-					<l>Mit uns iſt <rs type="person" key="G0001">Gott</rs>! Er gibt uns Muth!</l>
-					<l>Er ſchenkt uns Kraft, zu ſiegen.</l>
+					<lb/><l>Schützt ſeines <rs type="person" key="J0001">Sohnes</rs> Lehre.</l>
+					<lb/><l>Sie ſpreche Hohn! Sie ſchäume Wuth!</l>
+					<lb/><l>Mit uns iſt <rs type="person" key="G0001">Gott</rs>! Er gibt uns Muth!</l>
+					<lb/><l>Er ſchenkt uns Kraft, zu ſiegen.</l>
 				</lg>
 				<lg>
-					<l>Wenn Tauſende zu Schmach und Tod</l>
-					<l>Sich gegen dich verſchwören:</l>
-					<l>Sey muthig! Deines Glaubens <rs type="person" key="G0001">Gott</rs></l>
-					<l>Wird ihren Rath zerſtören.</l>
-					<l>Durch ihn, der einſt mit ſtarker Hand</l>
-					<l>Das Heer der Hölle überwand,</l>
-					<l>Wirſt du den Sieg behalten.</l>
+					<lb/><l>Wenn Tauſende zu Schmach und Tod</l>
+					<lb/><l>Sich gegen dich verſchwören:</l>
+					<lb/><l>Sey muthig! Deines Glaubens <rs type="person" key="G0001">Gott</rs></l>
+					<lb/><l>Wird ihren Rath zerſtören.</l>
+					<lb/><l>Durch ihn, der einſt mit ſtarker Hand</l>
+					<lb/><l>Das Heer der Hölle überwand,</l>
+					<lb/><l>Wirſt du den Sieg behalten.</l>
 				</lg>
 				<lg>
-					<l>Jahrtauſende bekämpft es ſchon</l>
-					<l>Das Heiligthum der Chriſten:</l>
-					<l>Spricht trotzend unſrer Kirche Hohn</l>
-					<l>Und droht, ſie zu verwüſten.</l>
-					<l>Umſonſt iſt ſeines Frevels Müh:</l>
-					<l>Noch unerſchüttert ſtehet ſie</l>
-					<l>Auf ihrem Felſengrunde.</l>
+					<lb/><l>Jahrtauſende bekämpft es ſchon</l>
+					<lb/><l>Das Heiligthum der Chriſten:</l>
+					<lb/><l>Spricht trotzend unſrer Kirche Hohn</l>
+					<lb/><l>Und droht, ſie zu verwüſten.</l>
+					<lb/><l>Umſonſt iſt ſeines Frevels Müh:</l>
+					<lb/><l>Noch unerſchüttert ſtehet ſie</l>
+					<lb/><l>Auf ihrem Felſengrunde.</l>
 				</lg>
 				<lg>
-					<l>Wo ſind mit ihres Armes Macht</l>
-					<l>Die wüthenden Zerſtörer?</l>
-					<l>Wo ſind ſie? In des Grabes Nacht,</l>
-					<l>Da liegen die Empörer.</l>
-					<l><rs type="person" key="G0001">Gott</rs> ſah von ſeiner Allmacht Thron</l>
-					<l>Der Starken Trotz, der Spötter Hohn,</l>
-					<l>Und ſtürzte ſie zu Boden.</l>
+					<lb/><l>Wo ſind mit ihres Armes Macht</l>
+					<lb/><l>Die wüthenden Zerſtörer?</l>
+					<lb/><l>Wo ſind ſie? In des Grabes Nacht,</l>
+					<lb/><l>Da liegen die Empörer.</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> ſah von ſeiner Allmacht Thron</l>
+					<lb/><l>Der Starken Trotz, der Spötter Hohn,</l>
+					<lb/><l>Und ſtürzte ſie zu Boden.</l>
 				</lg>
 				<lg>
-					<l>Auf ihrer Feinde Trümmern ſteht</l>
-					<l>Siegprangend <rs type="person" key="J0001">Jeſu</rs> Lehre.</l>
-					<l>Sie ſteht, die Kirche <rs type="person" key="J0001">Chriſti</rs> ſteht,</l>
-					<l>Wie ein Gebirg im Meere.</l>
-					<l>Nicht wilder Wellen Ungeſtüm,</l>
-					<l>Nicht der erboßten Feinde Grimm</l>
-					<l>Vermag, ſie zu erſchüttern.</l>
+					<lb/><l>Auf ihrer Feinde Trümmern ſteht</l>
+					<lb/><l>Siegprangend <rs type="person" key="J0001">Jeſu</rs> Lehre.</l>
+					<lb/><l>Sie ſteht, die Kirche <rs type="person" key="J0001">Chriſti</rs> ſteht,</l>
+					<lb/><l>Wie ein Gebirg im Meere.</l>
+					<lb/><l>Nicht wilder Wellen Ungeſtüm,</l>
+					<lb/><l>Nicht der erboßten Feinde Grimm</l>
+					<lb/><l>Vermag, ſie zu erſchüttern.</l>
 				</lg>
 				<lg>
-					<l>Und Erd und Himmel wird vergehn;</l>
-					<l>Doch <rs type="person" key="J0001">Jeſu</rs> Wort wird bleiben:</l>
-					<l>Wenn ſeine Feinde, die es ſchmähn,</l>
-					<l>Vor ihm, wie Spreu, zerſtäuben.</l>
-					<l>Wohl uns, wenn wir uns, <rs type="person" key="J0001">Jeſu</rs>, dein</l>
-					<l>Und deiner Wahrheit gläubig freun!</l>
-					<l>Auch wir, wir werden bleiben!</l>
+					<lb/><l>Und Erd und Himmel wird vergehn;</l>
+					<lb/><l>Doch <rs type="person" key="J0001">Jeſu</rs> Wort wird bleiben:</l>
+					<lb/><l>Wenn ſeine Feinde, die es ſchmähn,</l>
+					<lb/><l>Vor ihm, wie Spreu, zerſtäuben.</l>
+					<lb/><l>Wohl uns, wenn wir uns, <rs type="person" key="J0001">Jeſu</rs>, dein</l>
+					<lb/><l>Und deiner Wahrheit gläubig freun!</l>
+					<lb/><l>Auch wir, wir werden bleiben!</l>
 				</lg>
 			</div>
 		</body>

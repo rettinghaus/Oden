@@ -7,7 +7,7 @@
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
-            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+            <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -76,7 +76,6 @@
                   <occupation>Komponist</occupation>
                   <note type="bioSummary"/>
                   <idno type="GND">118505505</idno>
-                  <idno type="WeGA"/>
                   <persName type="sigla" subtype="Kast"/>
                   <persName type="sigla" subtype="Blechschmidt"/>
                   <persName type="sigla" subtype="Dürr"/>
@@ -189,78 +188,78 @@
          <pb n="4" ed="CPEB1792"/>
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
-            <head type="title">Verſicherung der Seligkeit.</head>
+            <head><title>Verſicherung der Seligkeit.</title></head>
             <lg>
-               <l>Ich weiß, an wen mein Glaub ſich hält.</l>
-               <l>Kein Feind ſoll mir ihn rauben.</l>
-               <l>Als Bürger einer beſsern Welt</l>
-               <l>Leb ich hier noch im Glauben.</l>
-               <l>Dort ſchau ich, was ich hier geglaubt.</l>
-               <l>Wer iſt, der mir mein Erbtheil raubt?</l>
-               <l>Es ruht in <rs type="person" key="J0001">Jeſu</rs> Händen.</l>
+               <lb/><l>Ich weiß, an wen mein Glaub ſich hält.</l>
+               <lb/><l>Kein Feind ſoll mir ihn rauben.</l>
+               <lb/><l>Als Bürger einer beſsern Welt</l>
+               <lb/><l>Leb ich hier noch im Glauben.</l>
+               <lb/><l>Dort ſchau ich, was ich hier geglaubt.</l>
+               <lb/><l>Wer iſt, der mir mein Erbtheil raubt?</l>
+               <lb/><l>Es ruht in <rs type="person" key="J0001">Jeſu</rs> Händen.</l>
             </lg>
             <lg>
-               <l>Mein Leben iſt ein kurzer Streit:</l>
-               <l>Lang iſt der Tag des Sieges.</l>
-               <l>Ich kämpfe für die Ewigkeit;</l>
-               <l>Erwünſchter Lohn des Krieges!</l>
-               <l>Wenn mich die Macht der Feinde ſchreckt,</l>
-               <l>Werd ich durch <rs type="person" key="J0001">Jeſu</rs> Macht bedeckt.</l>
-               <l>Was kann mir denn nun ſchaden?</l>
+               <lb/><l>Mein Leben iſt ein kurzer Streit:</l>
+               <lb/><l>Lang iſt der Tag des Sieges.</l>
+               <lb/><l>Ich kämpfe für die Ewigkeit;</l>
+               <lb/><l>Erwünſchter Lohn des Krieges!</l>
+               <lb/><l>Wenn mich die Macht der Feinde ſchreckt,</l>
+               <lb/><l>Werd ich durch <rs type="person" key="J0001">Jeſu</rs> Macht bedeckt.</l>
+               <lb/><l>Was kann mir denn nun ſchaden?</l>
             </lg>
             <lg>
-               <l><rs type="person" key="J0001">Herr, Herr</rs>! du biſt mein ganzer Ruhm,</l>
-               <l>Mein Troſt in dieſem Leben,</l>
-               <l>In jener Welt mein Eigenthum.</l>
-               <l>Du haſt dich mir gegeben.</l>
-               <l>Von fern glänzt mir mein Kleinod zu:</l>
-               <l>Bald ſchenkſt du nach dem Kampf mir Ruh</l>
-               <l>Und reichſt mir meine Krone.</l>
+               <lb/><l><rs type="person" key="J0001">Herr, Herr</rs>! du biſt mein ganzer Ruhm,</l>
+               <lb/><l>Mein Troſt in dieſem Leben,</l>
+               <lb/><l>In jener Welt mein Eigenthum.</l>
+               <lb/><l>Du haſt dich mir gegeben.</l>
+               <lb/><l>Von fern glänzt mir mein Kleinod zu:</l>
+               <lb/><l>Bald ſchenkſt du nach dem Kampf mir Ruh</l>
+               <lb/><l>Und reichſt mir meine Krone.</l>
             </lg>
             <lg>
-               <l><rs type="person" key="J0001">Herr</rs>, lenke meines Geiſtes Blick</l>
-               <l>Von dieſer Welt Getümmel</l>
-               <l>Auch dich, auf meiner Seele Glück,</l>
-               <l>Auf Ewigkeit und Himmel.</l>
-               <l>Die Welt mit ihrer Herrlichkeit</l>
-               <l>Vergeht, und währt nur kurze Zeit.</l>
-               <l>Im Himmel ſey mein Wandel!</l>
+               <lb/><l><rs type="person" key="J0001">Herr</rs>, lenke meines Geiſtes Blick</l>
+               <lb/><l>Von dieſer Welt Getümmel</l>
+               <lb/><l>Auch dich, auf meiner Seele Glück,</l>
+               <lb/><l>Auf Ewigkeit und Himmel.</l>
+               <lb/><l>Die Welt mit ihrer Herrlichkeit</l>
+               <lb/><l>Vergeht, und währt nur kurze Zeit.</l>
+               <lb/><l>Im Himmel ſey mein Wandel!</l>
             </lg>
             <lg>
-               <l>Itzt, da mich dieſer Leib beſchwert,</l>
-               <l>Iſt mir noch nicht erſchienen,</l>
-               <l>Was jene beßre Welt gewährt,</l>
-               <l>Wo wir <rs type="person" key="G0001">Gott</rs> heilig dienen.</l>
-               <l>Dann, wenn mein Auge nicht mehr weint,</l>
-               <l>Und mein Erlöſungſtag erſcheint,</l>
-               <l>Dann werd ichs froh empfinden.</l>
+               <lb/><l>Itzt, da mich dieſer Leib beſchwert,</l>
+               <lb/><l>Iſt mir noch nicht erſchienen,</l>
+               <lb/><l>Was jene beßre Welt gewährt,</l>
+               <lb/><l>Wo wir <rs type="person" key="G0001">Gott</rs> heilig dienen.</l>
+               <lb/><l>Dann, wenn mein Auge nicht mehr weint,</l>
+               <lb/><l>Und mein Erlöſungſtag erſcheint,</l>
+               <lb/><l>Dann werd ichs froh empfinden.</l>
             </lg>
             <lg>
-               <l>Nur dunkel ſeh ich hier mein Heil;</l>
-               <l>Dort iſt mein Antlitz heiter.</l>
-               <l>Hier iſt die Sünde noch mein Theil;</l>
-               <l>Dort iſt ſie es nicht weiter.</l>
-               <l>Hier iſt mein Werth mir noch verhüllt;</l>
-               <l>Dort wird er ſichtbar, wenn dein Bild</l>
-               <l>Mich, <rs type="person" key="G0001">Gott</rs>, vollkommen ſchmücket.</l>
+               <lb/><l>Nur dunkel ſeh ich hier mein Heil;</l>
+               <lb/><l>Dort iſt mein Antlitz heiter.</l>
+               <lb/><l>Hier iſt die Sünde noch mein Theil;</l>
+               <lb/><l>Dort iſt ſie es nicht weiter.</l>
+               <lb/><l>Hier iſt mein Werth mir noch verhüllt;</l>
+               <lb/><l>Dort wird er ſichtbar, wenn dein Bild</l>
+               <lb/><l>Mich, <rs type="person" key="G0001">Gott</rs>, vollkommen ſchmücket.</l>
             </lg>
             <lg>
-               <l>Zu dieſem Glück bin ich erkauft,</l>
-               <l>O <rs type="person" key="J0001">Herr</rs>, durch deine Leiden;</l>
-               <l>Auf deinen Tod bin ich getauft;</l>
-               <l>Wer will mich von dir ſcheiden?</l>
-               <l>Du zeichneſt mich in deine Hand:</l>
-               <l>Herr, du biſt mir, ich dir bekannt.</l>
-               <l>Mein ſind des Himmels Freuden.</l>
+               <lb/><l>Zu dieſem Glück bin ich erkauft,</l>
+               <lb/><l>O <rs type="person" key="J0001">Herr</rs>, durch deine Leiden;</l>
+               <lb/><l>Auf deinen Tod bin ich getauft;</l>
+               <lb/><l>Wer will mich von dir ſcheiden?</l>
+               <lb/><l>Du zeichneſt mich in deine Hand:</l>
+               <lb/><l>Herr, du biſt mir, ich dir bekannt.</l>
+               <lb/><l>Mein ſind des Himmels Freuden.</l>
             </lg>
             <lg>
-               <l>Wie groß iſt meine Herrlichkeit!</l>
-               <l>Empfinde ſie, o Seele!</l>
-               <l>Vom Tand der Erde unentweiht,</l>
-               <l>Erhebe <rs type="person" key="G0001">Gott</rs>, o Seele!</l>
-               <l>Der Erde glänzend Nichts vergeht:</l>
-               <l>Nur des Gerechten Ruhm beſteht</l>
-               <l>Durch alle Ewigkeiten.</l>
+               <lb/><l>Wie groß iſt meine Herrlichkeit!</l>
+               <lb/><l>Empfinde ſie, o Seele!</l>
+               <lb/><l>Vom Tand der Erde unentweiht,</l>
+               <lb/><l>Erhebe <rs type="person" key="G0001">Gott</rs>, o Seele!</l>
+               <lb/><l>Der Erde glänzend Nichts vergeht:</l>
+               <lb/><l>Nur des Gerechten Ruhm beſteht</l>
+               <lb/><l>Durch alle Ewigkeiten.</l>
             </lg>
          </div>
       </body>

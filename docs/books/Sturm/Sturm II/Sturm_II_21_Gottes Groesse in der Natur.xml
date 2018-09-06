@@ -7,7 +7,7 @@
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
-            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+            <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -76,7 +76,6 @@
                   <occupation>Komponist</occupation>
                   <note type="bioSummary"/>
                   <idno type="GND">118505505</idno>
-                  <idno type="WeGA"/>
                   <persName type="sigla" subtype="Kast"/>
                   <persName type="sigla" subtype="Blechschmidt"/>
                   <persName type="sigla" subtype="Dürr"/>
@@ -189,66 +188,66 @@
          <pb n="21" ed="CPEB1792"/>
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
-            <head type="title">Gottes Größe in der Natur.</head>
+            <head><title>Gottes Größe in der Natur.</title></head>
             <lg>
-               <l>Weit um mich her iſt alles Freude!</l>
-               <l>Wie ſchön iſt, Schöpfer, deine Welt!</l>
-               <l>Wie prangt in ſeinem Feierkleide</l>
-               <l>Gebürg und Thal und Wald und Feld!</l>
-               <l>Wie heilig wird mir jede Stätte!</l>
-               <l>Wohin ich geh, wohin ich trete,</l>
-               <l>Biſt du ſo nahe, <rs type="person" key="G0001">Gott</rs>, und ich</l>
-               <l>Erblicke dich auf allen Fluren;</l>
-               <l>In allen deinen Kreaturen</l>
-               <l>Erblick ich, aller <rs type="person" key="G0001">Vater</rs>, dich.</l>
+               <lb/><l>Weit um mich her iſt alles Freude!</l>
+               <lb/><l>Wie ſchön iſt, Schöpfer, deine Welt!</l>
+               <lb/><l>Wie prangt in ſeinem Feierkleide</l>
+               <lb/><l>Gebürg und Thal und Wald und Feld!</l>
+               <lb/><l>Wie heilig wird mir jede Stätte!</l>
+               <lb/><l>Wohin ich geh, wohin ich trete,</l>
+               <lb/><l>Biſt du ſo nahe, <rs type="person" key="G0001">Gott</rs>, und ich</l>
+               <lb/><l>Erblicke dich auf allen Fluren;</l>
+               <lb/><l>In allen deinen Kreaturen</l>
+               <lb/><l>Erblick ich, aller <rs type="person" key="G0001">Vater</rs>, dich.</l>
             </lg>
             <lg>
-               <l>Das Murmeln in beredten Bäumen</l>
-               <l>Ruft: Fröhlich müßt ihr <rs type="person" key="G0001">Gott</rs> erhöhn!</l>
-               <l>Die Zeit in Schwermuth zu verträumen,</l>
-               <l>Iſt, Menſchen, ſeine Welt zu ſchön!</l>
-               <l>Mir ſagt, beglänzt vom Morgenthaue,</l>
-               <l>Die Flur, der Garten und die Aue:</l>
-               <l>Wie ſegnet unſer <rs type="person" key="G0001">Gott</rs> ſo gern!</l>
-               <l>Mir ſagt das Rauſchen ſeiner Fluten:</l>
-               <l><rs type="person" key="G0001">Gott</rs> iſt der Urquell alles Guten!</l>
-               <l>Der Bach ſagt liſpelnd: Lobt den <rs type="person" key="G0001">Herrn</rs>!</l>
+               <lb/><l>Das Murmeln in beredten Bäumen</l>
+               <lb/><l>Ruft: Fröhlich müßt ihr <rs type="person" key="G0001">Gott</rs> erhöhn!</l>
+               <lb/><l>Die Zeit in Schwermuth zu verträumen,</l>
+               <lb/><l>Iſt, Menſchen, ſeine Welt zu ſchön!</l>
+               <lb/><l>Mir ſagt, beglänzt vom Morgenthaue,</l>
+               <lb/><l>Die Flur, der Garten und die Aue:</l>
+               <lb/><l>Wie ſegnet unſer <rs type="person" key="G0001">Gott</rs> ſo gern!</l>
+               <lb/><l>Mir ſagt das Rauſchen ſeiner Fluten:</l>
+               <lb/><l><rs type="person" key="G0001">Gott</rs> iſt der Urquell alles Guten!</l>
+               <lb/><l>Der Bach ſagt liſpelnd: Lobt den <rs type="person" key="G0001">Herrn</rs>!</l>
             </lg>
             <lg>
-               <l>Wie beugen ſich der Saaten Spitzen!</l>
-               <l>Wie ſchwellen ſie von Segen an,</l>
-               <l>Daß kaum der Halm die Aehre ſtützen,</l>
-               <l>Die reiche Laſt kaum tragen kann!</l>
-               <l>Hier ſammeln ämſig ſchon die Bienen</l>
-               <l>Viel Erndten, um auch uns zu dienen,</l>
-               <l>Von <rs type="person" key="G0001">Gottes</rs> ſchönen Blumen ab.</l>
-               <l>Dort ſpinnt der Seidenwurm, und webet,</l>
-               <l>Eh er verwandelt wieder lebet,</l>
-               <l>Sich ſeine Hüll und auch ſein Grab.</l>
+               <lb/><l>Wie beugen ſich der Saaten Spitzen!</l>
+               <lb/><l>Wie ſchwellen ſie von Segen an,</l>
+               <lb/><l>Daß kaum der Halm die Aehre ſtützen,</l>
+               <lb/><l>Die reiche Laſt kaum tragen kann!</l>
+               <lb/><l>Hier ſammeln ämſig ſchon die Bienen</l>
+               <lb/><l>Viel Erndten, um auch uns zu dienen,</l>
+               <lb/><l>Von <rs type="person" key="G0001">Gottes</rs> ſchönen Blumen ab.</l>
+               <lb/><l>Dort ſpinnt der Seidenwurm, und webet,</l>
+               <lb/><l>Eh er verwandelt wieder lebet,</l>
+               <lb/><l>Sich ſeine Hüll und auch ſein Grab.</l>
             </lg>
             <lg>
-               <l>Wie haſt du, <rs type="person" key="G0001">Gott</rs> der Güt und Stärke,</l>
-               <l>So väterlich an uns gedacht!</l>
-               <l>Wie viel und groß ſind deine Werke!</l>
-               <l>Wie ſchön! Wie wunderbar gemacht!</l>
-               <l>Zum vollen fröhlichen Genuſse</l>
-               <l>Empfängt von deinem Ueberfluſse</l>
-               <l>Was lebet ſeine Speis, o <rs type="person" key="G0001">Gott</rs>!</l>
-               <l>Gebürge geben, Täler geben</l>
-               <l>Was allen nötig iſt, zum Leben —</l>
-               <l>Den Thieren Gras; uns Wein und Brodt!</l>
+               <lb/><l>Wie haſt du, <rs type="person" key="G0001">Gott</rs> der Güt und Stärke,</l>
+               <lb/><l>So väterlich an uns gedacht!</l>
+               <lb/><l>Wie viel und groß ſind deine Werke!</l>
+               <lb/><l>Wie ſchön! Wie wunderbar gemacht!</l>
+               <lb/><l>Zum vollen fröhlichen Genuſse</l>
+               <lb/><l>Empfängt von deinem Ueberfluſse</l>
+               <lb/><l>Was lebet ſeine Speis, o <rs type="person" key="G0001">Gott</rs>!</l>
+               <lb/><l>Gebürge geben, Täler geben</l>
+               <lb/><l>Was allen nötig iſt, zum Leben —</l>
+               <lb/><l>Den Thieren Gras; uns Wein und Brodt!</l>
             </lg>
             <lg>
-               <l>Weit um mich her iſt alles Freude!</l>
-               <l>O freu auch, meine Seele, dich.</l>
-               <l>In <rs type="person" key="G0001">Gottes</rs> ſchönem Weltgebäude!</l>
-               <l>Wie reichlich ſegnet er auch mich!</l>
-               <l>Laß deſsen Lob umher erſchallen,</l>
-               <l>Der dir ſo wohl thut; allen, allen</l>
-               <l>So wohl thut, der ſo freundlich iſt!</l>
-               <l>Stimm ein in der Geſchöpfe Chöre:</l>
-               <l>Dir, Gott, ſey Preis, dir Dank und Ehre,</l>
-               <l>Der du ſo mild und gnädig biſt!</l>
+               <lb/><l>Weit um mich her iſt alles Freude!</l>
+               <lb/><l>O freu auch, meine Seele, dich.</l>
+               <lb/><l>In <rs type="person" key="G0001">Gottes</rs> ſchönem Weltgebäude!</l>
+               <lb/><l>Wie reichlich ſegnet er auch mich!</l>
+               <lb/><l>Laß deſsen Lob umher erſchallen,</l>
+               <lb/><l>Der dir ſo wohl thut; allen, allen</l>
+               <lb/><l>So wohl thut, der ſo freundlich iſt!</l>
+               <lb/><l>Stimm ein in der Geſchöpfe Chöre:</l>
+               <lb/><l>Dir, Gott, ſey Preis, dir Dank und Ehre,</l>
+               <lb/><l>Der du ſo mild und gnädig biſt!</l>
             </lg>
          </div>
       </body>

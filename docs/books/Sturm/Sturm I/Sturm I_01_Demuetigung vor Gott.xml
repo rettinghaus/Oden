@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -73,7 +73,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -185,77 +184,77 @@
 		<body>
 			<pb n="1" ed="CPEB1780"/>
 			<div type="chorale">
-				<head type="title">Demüthigung vor Gott.</head>
+				<head><title>Demüthigung vor Gott.</title></head>
 				<lg>
-					<l>Betet an vor <rs type="person" key="G0001">Gott</rs>, ihr Sünder!</l>
-					<l>Fallt in den Staub hin, Menſchenkinder!</l>
-					<l>Kommt alle! Kniet und betet an!</l>
-					<l>Er, der <rs type="person" key="G0001">Herr</rs>, hat euch erſchaffen,</l>
-					<l>Zum Himmel, Sünder, euch erſchaffen:</l>
-					<l>Der retten und verderben kann.</l>
-					<l>Der <rs type="person" key="G0001">Herr</rs> iſt euer Gott!</l>
-					<l><rs type="person" key="G0001">Jehova Zebaoth</rs>!</l>
-					<l>Der Erbarmer!</l>
-					<l><rs type="person" key="G0001">Gott</rs>, groß von Rath:</l>
-					<l><rs type="person" key="G0001">Gott</rs>, groß von That!</l>
-					<l>Ein Rächer eurer Miſsethat.</l>
+					<lb/><l>Betet an vor <rs type="person" key="G0001">Gott</rs>, ihr Sünder!</l>
+					<lb/><l>Fallt in den Staub hin, Menſchenkinder!</l>
+					<lb/><l>Kommt alle! Kniet und betet an!</l>
+					<lb/><l>Er, der <rs type="person" key="G0001">Herr</rs>, hat euch erſchaffen,</l>
+					<lb/><l>Zum Himmel, Sünder, euch erſchaffen:</l>
+					<lb/><l>Der retten und verderben kann.</l>
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> iſt euer Gott!</l>
+					<lb/><l><rs type="person" key="G0001">Jehova Zebaoth</rs>!</l>
+					<lb/><l>Der Erbarmer!</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, groß von Rath:</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, groß von That!</l>
+					<lb/><l>Ein Rächer eurer Miſsethat.</l>
 				</lg>
 				<lg>
-					<l>Betet an vor <rs type="person" key="G0001">Gott</rs>! Es komme</l>
-					<l>Gebeugt der Sünder und der Fromme</l>
-					<l>Vor des <rs type="person" key="G0001">Allmächtgen</rs> Angeſicht!</l>
-					<l>Ach von hunderttauſend Seelen,</l>
-					<l>Die alle ſtraucheln, alle fehlen,</l>
-					<l>Ruf jede: <rs type="person" key="G0001">Herr</rs>, vertilg uns nicht!</l>
-					<l>Wär er nicht unſer <rs type="person" key="G0001">Gott</rs>,</l>
-					<l>Nicht durch des <rs type="person" key="J0001">Mittlers</rs> Tod</l>
-					<l>Unſer <rs type="person" key="G0001">Vater</rs>:</l>
-					<l>Längſt träf uns ſchon</l>
-					<l>Von ſeinem Thron</l>
-					<l>Der Sünden qualenvoller Lohn.</l>
+					<lb/><l>Betet an vor <rs type="person" key="G0001">Gott</rs>! Es komme</l>
+					<lb/><l>Gebeugt der Sünder und der Fromme</l>
+					<lb/><l>Vor des <rs type="person" key="G0001">Allmächtgen</rs> Angeſicht!</l>
+					<lb/><l>Ach von hunderttauſend Seelen,</l>
+					<lb/><l>Die alle ſtraucheln, alle fehlen,</l>
+					<lb/><l>Ruf jede: <rs type="person" key="G0001">Herr</rs>, vertilg uns nicht!</l>
+					<lb/><l>Wär er nicht unſer <rs type="person" key="G0001">Gott</rs>,</l>
+					<lb/><l>Nicht durch des <rs type="person" key="J0001">Mittlers</rs> Tod</l>
+					<lb/><l>Unſer <rs type="person" key="G0001">Vater</rs>:</l>
+					<lb/><l>Längſt träf uns ſchon</l>
+					<lb/><l>Von ſeinem Thron</l>
+					<lb/><l>Der Sünden qualenvoller Lohn.</l>
 				</lg>
 				<lg>
-					<l>Betet an! <rs type="person" key="G0001">Gott</rs> iſt die Liebe!</l>
-					<l>Rühmts, Sünder, laut: <rs type="person" key="G0001">Gott</rs> iſt die
+					<lb/><l>Betet an! <rs type="person" key="G0001">Gott</rs> iſt die Liebe!</l>
+					<lb/><l>Rühmts, Sünder, laut: <rs type="person" key="G0001">Gott</rs> iſt die
 						Liebe!</l>
-					<l>Durch <rs type="person" key="J0001">Jeſum Chriſtum unſer Gott</rs></l>
-					<l>Noch trägt er die Uebertreter,</l>
-					<l>Vertilgt noch nicht die Miſsethäter,</l>
-					<l>Erduldet noch der Frevler Spott.</l>
-					<l>Hört! Der <rs type="person" key="G0001">Allmächtge</rs> ſpricht!</l>
-					<l>Verſtockt die Herzen nicht</l>
-					<l>Seiner Stimme.</l>
-					<l>Gerecht iſt <rs type="person" key="G0001">Gott</rs>!</l>
-					<l>Gerecht der Tod,</l>
-					<l>Den er verſtockten Sündern droht!</l>
+					<lb/><l>Durch <rs type="person" key="J0001">Jeſum Chriſtum unſer Gott</rs></l>
+					<lb/><l>Noch trägt er die Uebertreter,</l>
+					<lb/><l>Vertilgt noch nicht die Miſsethäter,</l>
+					<lb/><l>Erduldet noch der Frevler Spott.</l>
+					<lb/><l>Hört! Der <rs type="person" key="G0001">Allmächtge</rs> ſpricht!</l>
+					<lb/><l>Verſtockt die Herzen nicht</l>
+					<lb/><l>Seiner Stimme.</l>
+					<lb/><l>Gerecht iſt <rs type="person" key="G0001">Gott</rs>!</l>
+					<lb/><l>Gerecht der Tod,</l>
+					<lb/><l>Den er verſtockten Sündern droht!</l>
 				</lg>
 				<lg>
-					<l>Betet an! Ach nicht im Grimme,</l>
-					<l>Noch ruft <rs type="person" key="G0001">Gott</rs> mit der Vaterſtimme</l>
-					<l>Den Böſen auf dem Irrweg zu:</l>
-					<l>Kehret wieder von dem Pfade</l>
-					<l>Des Unglücks! Seht den Weg der Gnade</l>
-					<l>Und ſucht für eure Seele Ruh!</l>
-					<l>Klein iſt der Tage Zahl:</l>
-					<l>Vielleicht zum letztenmal</l>
-					<l>Tönt die Stimme:</l>
-					<l>Barmherzigkeit!</l>
-					<l>Gehorcht noch heut:</l>
-					<l>Nah iſt euch Tod und Ewigkeit.</l>
+					<lb/><l>Betet an! Ach nicht im Grimme,</l>
+					<lb/><l>Noch ruft <rs type="person" key="G0001">Gott</rs> mit der Vaterſtimme</l>
+					<lb/><l>Den Böſen auf dem Irrweg zu:</l>
+					<lb/><l>Kehret wieder von dem Pfade</l>
+					<lb/><l>Des Unglücks! Seht den Weg der Gnade</l>
+					<lb/><l>Und ſucht für eure Seele Ruh!</l>
+					<lb/><l>Klein iſt der Tage Zahl:</l>
+					<lb/><l>Vielleicht zum letztenmal</l>
+					<lb/><l>Tönt die Stimme:</l>
+					<lb/><l>Barmherzigkeit!</l>
+					<lb/><l>Gehorcht noch heut:</l>
+					<lb/><l>Nah iſt euch Tod und Ewigkeit.</l>
 				</lg>
 				<lg>
-					<l>Betet an! Erwacht, ihr Sünder!</l>
-					<l>Erwacht, denn euch, o Menſchenkinder,</l>
-					<l>Erwartet Tod und Ewigkeit!</l>
-					<l>Lohn und Strafe, Tod und Leben</l>
-					<l>Hat <rs type="person" key="G0001">Gott</rs> in eure Hand gegeben:</l>
-					<l>Erwacht! Noch iſt zur Buße Zeit.</l>
-					<l>Allmächtig iſt der <rs type="person" key="G0001">Herr</rs>!</l>
-					<l>Gerecht, gerecht iſt Er!</l>
-					<l>Frevler, zittert!</l>
-					<l>Wißt, was er ſpricht,</l>
-					<l>Gereut ihm nicht;</l>
-					<l>Er kommt, er kommt und hält Gericht!</l>
+					<lb/><l>Betet an! Erwacht, ihr Sünder!</l>
+					<lb/><l>Erwacht, denn euch, o Menſchenkinder,</l>
+					<lb/><l>Erwartet Tod und Ewigkeit!</l>
+					<lb/><l>Lohn und Strafe, Tod und Leben</l>
+					<lb/><l>Hat <rs type="person" key="G0001">Gott</rs> in eure Hand gegeben:</l>
+					<lb/><l>Erwacht! Noch iſt zur Buße Zeit.</l>
+					<lb/><l>Allmächtig iſt der <rs type="person" key="G0001">Herr</rs>!</l>
+					<lb/><l>Gerecht, gerecht iſt Er!</l>
+					<lb/><l>Frevler, zittert!</l>
+					<lb/><l>Wißt, was er ſpricht,</l>
+					<lb/><l>Gereut ihm nicht;</l>
+					<lb/><l>Er kommt, er kommt und hält Gericht!</l>
 				</lg>
 			</div>
 		</body>

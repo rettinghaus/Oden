@@ -7,7 +7,7 @@
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
-            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+            <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -76,7 +76,6 @@
                   <occupation>Komponist</occupation>
                   <note type="bioSummary"/>
                   <idno type="GND">118505505</idno>
-                  <idno type="WeGA"/>
                   <persName type="sigla" subtype="Kast"/>
                   <persName type="sigla" subtype="Blechschmidt"/>
                   <persName type="sigla" subtype="Dürr"/>
@@ -189,49 +188,49 @@
          <pb n="19" ed="CPEB1792"/>
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
-            <head type="title">Gott, der Ernährer der Menſchen.</head>
+            <head><title>Gott, der Ernährer der Menſchen.</title></head>
             <lg>
-               <l>In hundert Sprachen tönt die Stimme</l>
-               <l>Der Erdenvölker auf zu <rs type="person" key="G0001">Gott</rs>.</l>
-               <l>Und durch aller Himmel Zeiten</l>
-               <l>Rufen tauſend Millionen:</l>
-               <l>Gib uns unſer täglich Brod.</l>
+               <lb/><l>In hundert Sprachen tönt die Stimme</l>
+               <lb/><l>Der Erdenvölker auf zu <rs type="person" key="G0001">Gott</rs>.</l>
+               <lb/><l>Und durch aller Himmel Zeiten</l>
+               <lb/><l>Rufen tauſend Millionen:</l>
+               <lb/><l>Gib uns unſer täglich Brod.</l>
             </lg>
             <lg>
-               <l>Und er von ſeinem Wolkenſitze</l>
-               <l>Schaut väterlich auf ſie;</l>
-               <l>Spricht zur Sonne: kehre wieder!</l>
-               <l>Und zum Regen: komm hernieder!</l>
-               <l>Spricht zu ſeiner Erde: blüh!</l>
+               <lb/><l>Und er von ſeinem Wolkenſitze</l>
+               <lb/><l>Schaut väterlich auf ſie;</l>
+               <lb/><l>Spricht zur Sonne: kehre wieder!</l>
+               <lb/><l>Und zum Regen: komm hernieder!</l>
+               <lb/><l>Spricht zu ſeiner Erde: blüh!</l>
             </lg>
             <lg>
-               <l>Und Regen, Sonn und Erde hören</l>
-               <l>Gehorſam ihres <rs type="person" key="G0001">Herrn</rs> Gebot.</l>
-               <l>Und die Sonne kehret wieder:</l>
-               <l>Und der Regen kommt hernieder:</l>
-               <l>Und die Erde giebt uns Brod.</l>
+               <lb/><l>Und Regen, Sonn und Erde hören</l>
+               <lb/><l>Gehorſam ihres <rs type="person" key="G0001">Herrn</rs> Gebot.</l>
+               <lb/><l>Und die Sonne kehret wieder:</l>
+               <lb/><l>Und der Regen kommt hernieder:</l>
+               <lb/><l>Und die Erde giebt uns Brod.</l>
             </lg>
             <lg>
-               <l>Vom Aufgang bis zum Niedergange</l>
-               <l>Iſt alles deiner Güte voll.</l>
-               <l>Gott, im Sonnenſchein und Regen</l>
-               <l>Giebt das Land uns ſeinen Segen,</l>
-               <l>Trift und Garten ihren Zoll.</l>
+               <lb/><l>Vom Aufgang bis zum Niedergange</l>
+               <lb/><l>Iſt alles deiner Güte voll.</l>
+               <lb/><l>Gott, im Sonnenſchein und Regen</l>
+               <lb/><l>Giebt das Land uns ſeinen Segen,</l>
+               <lb/><l>Trift und Garten ihren Zoll.</l>
             </lg>
             <lg>
-               <l><rs type="person" key="G0001">Herr</rs>, deiner milden Vaterliebe</l>
-               <l>Kann ewig unſer Herz ſich freun.</l>
-               <l>Du kannſt uns, was wir begehren,</l>
-               <l>Gnädig jedes Gut gewähren,</l>
-               <l>Erd und Himmel, Herr, ſind dein.</l>
+               <lb/><l><rs type="person" key="G0001">Herr</rs>, deiner milden Vaterliebe</l>
+               <lb/><l>Kann ewig unſer Herz ſich freun.</l>
+               <lb/><l>Du kannſt uns, was wir begehren,</l>
+               <lb/><l>Gnädig jedes Gut gewähren,</l>
+               <lb/><l>Erd und Himmel, Herr, ſind dein.</l>
             </lg>
             <lg>
-               <l>Und dein ſind wir, o <rs type="person" key="G0001">Weltregierer</rs>,</l>
-               <l><rs type="person" key="G0001">Gott</rs>, <rs type="person" key="G0001">unſer
+               <lb/><l>Und dein ſind wir, o <rs type="person" key="G0001">Weltregierer</rs>,</l>
+               <lb/><l><rs type="person" key="G0001">Gott</rs>, <rs type="person" key="G0001">unſer
                      Vater</rs>, wir ſind dein.</l>
-               <l>Du wirſt uns zum Erdenleben</l>
-               <l>Speiſe, Ruh und Kleidung geben,</l>
-               <l>Wirſt uns ſegnen, uns erfreun.</l>
+               <lb/><l>Du wirſt uns zum Erdenleben</l>
+               <lb/><l>Speiſe, Ruh und Kleidung geben,</l>
+               <lb/><l>Wirſt uns ſegnen, uns erfreun.</l>
             </lg>
          </div>
       </body>

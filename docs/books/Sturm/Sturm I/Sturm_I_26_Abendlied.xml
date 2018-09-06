@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -73,7 +73,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -185,39 +184,39 @@
 		<body>
 			<pb n="25" ed="CPEB1780"/>
 			<div type="chorale">
-				<head type="title">Abendlied.</head>
+				<head><title>Abendlied.</title></head>
 				<lg>
-					<l>So flüchtig, als des Tages Stunden</l>
-					<l>Mir unter Luſt und Schmerzen verſchwunden,</l>
-					<l>Verfliegt mir meine Lebenſzeit.</l>
-					<l>Mein kurzer Pfad wird immer jäher:</l>
-					<l>Mit jedem Abend rück ich näher,</l>
-					<l>O <rs type="person" key="G0001">Vater</rs>, deiner Ewigkeit.</l>
+					<lb/><l>So flüchtig, als des Tages Stunden</l>
+					<lb/><l>Mir unter Luſt und Schmerzen verſchwunden,</l>
+					<lb/><l>Verfliegt mir meine Lebenſzeit.</l>
+					<lb/><l>Mein kurzer Pfad wird immer jäher:</l>
+					<lb/><l>Mit jedem Abend rück ich näher,</l>
+					<lb/><l>O <rs type="person" key="G0001">Vater</rs>, deiner Ewigkeit.</l>
 				</lg>
 				<lg>
-					<l>Vielleicht hat deine milde Sonne</l>
-					<l>Zum letztenmal mit Lebenſwonne</l>
-					<l>Und Jugendkraft mein Herz erquickt.</l>
-					<l>Eh noch die Morgenſonne glühet,</l>
-					<l>Bin ich vielleicht, wie Gras, verblühet,</l>
-					<l>Verblühet, und der Erd entrückt.</l>
+					<lb/><l>Vielleicht hat deine milde Sonne</l>
+					<lb/><l>Zum letztenmal mit Lebenſwonne</l>
+					<lb/><l>Und Jugendkraft mein Herz erquickt.</l>
+					<lb/><l>Eh noch die Morgenſonne glühet,</l>
+					<lb/><l>Bin ich vielleicht, wie Gras, verblühet,</l>
+					<lb/><l>Verblühet, und der Erd entrückt.</l>
 				</lg>
 				<lg>
-					<l>Ach, <rs type="person" key="G0001">Gott</rs>, ich denks mit Furcht und
+					<lb/><l>Ach, <rs type="person" key="G0001">Gott</rs>, ich denks mit Furcht und
 						Beben!</l>
-					<l>Vor deinem Antlitz ſteht mein Leben,</l>
-					<l>Steht jede Neigung, jede That.</l>
-					<l>Sey gnädig, <rs type="person" key="G0001">Ewiger</rs>! Verſchone!</l>
-					<l>Ich ſeufze: Ach, in deinem <rs type="person" key="J0001">Sohne</rs></l>
-					<l>Sey gnädig meiner Miſsethat.</l>
+					<lb/><l>Vor deinem Antlitz ſteht mein Leben,</l>
+					<lb/><l>Steht jede Neigung, jede That.</l>
+					<lb/><l>Sey gnädig, <rs type="person" key="G0001">Ewiger</rs>! Verſchone!</l>
+					<lb/><l>Ich ſeufze: Ach, in deinem <rs type="person" key="J0001">Sohne</rs></l>
+					<lb/><l>Sey gnädig meiner Miſsethat.</l>
 				</lg>
 				<lg>
-					<l>Sieh dieſe Thränen meiner Reue:</l>
-					<l><rs type="person" key="G0001">Herr</rs>, ich gelobe dir aufs neue,</l>
-					<l>Mich treuer deinem Dienſt zu weihn.</l>
-					<l>Bald fällt auf meine Augenlider</l>
-					<l>Von dir geſandt, der Schlummer nieder.</l>
-					<l>O laß ihn ſanft und ſtärkend ſeyn.</l>
+					<lb/><l>Sieh dieſe Thränen meiner Reue:</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, ich gelobe dir aufs neue,</l>
+					<lb/><l>Mich treuer deinem Dienſt zu weihn.</l>
+					<lb/><l>Bald fällt auf meine Augenlider</l>
+					<lb/><l>Von dir geſandt, der Schlummer nieder.</l>
+					<lb/><l>O laß ihn ſanft und ſtärkend ſeyn.</l>
 				</lg>
 			</div>
 		</body>

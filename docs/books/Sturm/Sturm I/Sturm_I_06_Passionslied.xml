@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -73,7 +73,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -185,57 +184,57 @@
 		<body>
 			<pb n="6" ed="CPEB1780"/>
 			<div type="chorale">
-				<head type="title">Paſsionſlied.</head>
+				<head><title>Paſsionſlied.</title></head>
 				<lg>
-					<l>Da ſteheſt du, <rs type="person" key="J0001">Sohn Gottes</rs>,</l>
-					<l>Von Frevlern frech entweiht:</l>
+					<lb/><l>Da ſteheſt du, <rs type="person" key="J0001">Sohn Gottes</rs>,</l>
+					<lb/><l>Von Frevlern frech entweiht:</l>
 					<!-- Stain on paper, interpunctation unclear -->
-					<l>Ein Ziel des niedern Spottes,</l>
-					<l>Zerſchlagen und verſpeit!</l>
-					<l>Doch mehr, als Schmerz und Schande,</l>
-					<l>Kränkt dich dein ſchwacher Freund,</l>
-					<l>Der treulos dich verkannte,</l>
-					<l>Und nun den Fall beweint.</l>
+					<lb/><l>Ein Ziel des niedern Spottes,</l>
+					<lb/><l>Zerſchlagen und verſpeit!</l>
+					<lb/><l>Doch mehr, als Schmerz und Schande,</l>
+					<lb/><l>Kränkt dich dein ſchwacher Freund,</l>
+					<lb/><l>Der treulos dich verkannte,</l>
+					<lb/><l>Und nun den Fall beweint.</l>
 				</lg>
 				<lg>
-					<l>Doch ſpricht aus deinen Blicken</l>
-					<l>Nur Gnade, nur Geduld.</l>
-					<l>O <rs type="person" key="J0001">Jeſu</rs>, wie entzücken</l>
-					<l>Die Proben deiner Huld!</l>
-					<l>Du kämpfſt mit eignen Schmerzen;</l>
-					<l>Doch fühlſt du fremde Pein,</l>
-					<l>Und eilſt, bedrängten Herzen</l>
-					<l>Erquickung zu verleihn.</l>
+					<lb/><l>Doch ſpricht aus deinen Blicken</l>
+					<lb/><l>Nur Gnade, nur Geduld.</l>
+					<lb/><l>O <rs type="person" key="J0001">Jeſu</rs>, wie entzücken</l>
+					<lb/><l>Die Proben deiner Huld!</l>
+					<lb/><l>Du kämpfſt mit eignen Schmerzen;</l>
+					<lb/><l>Doch fühlſt du fremde Pein,</l>
+					<lb/><l>Und eilſt, bedrängten Herzen</l>
+					<lb/><l>Erquickung zu verleihn.</l>
 				</lg>
 				<lg>
-					<l>Die Allmacht deiner Blicke</l>
-					<l>Dringt <rs type="person" key="P0001">Petro</rs> tief ins Herz.</l>
-					<l>Beſchämt geht er zurücke,</l>
-					<l>Erfüllt mit Reu und Schmerz.</l>
-					<l>Wie wuchs nun deinem Zeugen</l>
-					<l>Beſtändigkeit und Muth!</l>
-					<l>Furcht konnt ihn nie mehr beugen,</l>
-					<l>Für dich, <rs type="person" key="J0001">Herr</rs>, floſs ſein Blut.</l>
+					<lb/><l>Die Allmacht deiner Blicke</l>
+					<lb/><l>Dringt <rs type="person" key="P0001">Petro</rs> tief ins Herz.</l>
+					<lb/><l>Beſchämt geht er zurücke,</l>
+					<lb/><l>Erfüllt mit Reu und Schmerz.</l>
+					<lb/><l>Wie wuchs nun deinem Zeugen</l>
+					<lb/><l>Beſtändigkeit und Muth!</l>
+					<lb/><l>Furcht konnt ihn nie mehr beugen,</l>
+					<lb/><l>Für dich, <rs type="person" key="J0001">Herr</rs>, floſs ſein Blut.</l>
 				</lg>
 				<lg>
-					<l>Erlöſer meiner Seele,</l>
-					<l>Sey meine Zuverſicht.</l>
-					<l>Ich, Schwacher, ich verhehle</l>
-					<l>Dir meine Sünde nicht.</l>
-					<l>Mit Schaam und bittrer Reue</l>
-					<l>Bekenn ich es vor dir:</l>
-					<l>Auch ich vergaß der Treue.</l>
-					<l>Vergieb, vergieb es mir.</l>
+					<lb/><l>Erlöſer meiner Seele,</l>
+					<lb/><l>Sey meine Zuverſicht.</l>
+					<lb/><l>Ich, Schwacher, ich verhehle</l>
+					<lb/><l>Dir meine Sünde nicht.</l>
+					<lb/><l>Mit Schaam und bittrer Reue</l>
+					<lb/><l>Bekenn ich es vor dir:</l>
+					<lb/><l>Auch ich vergaß der Treue.</l>
+					<lb/><l>Vergieb, vergieb es mir.</l>
 				</lg>
 				<lg>
-					<l>In meiner Nacht erſcheine</l>
-					<l>Mir deiner Gnade Licht!</l>
-					<l>Gieb, wenn ich einſam weine,</l>
-					<l>Dem Herzen Zuverſicht.</l>
-					<l>Ich will dich frey bekennen,</l>
-					<l>Dich, meinen <rs type="person" key="J0001">Herrn und Gott</rs>.</l>
-					<l>Nichts ſoll von dir mich trennen,</l>
-					<l>Nicht Schande, nicht der Tod.</l>
+					<lb/><l>In meiner Nacht erſcheine</l>
+					<lb/><l>Mir deiner Gnade Licht!</l>
+					<lb/><l>Gieb, wenn ich einſam weine,</l>
+					<lb/><l>Dem Herzen Zuverſicht.</l>
+					<lb/><l>Ich will dich frey bekennen,</l>
+					<lb/><l>Dich, meinen <rs type="person" key="J0001">Herrn und Gott</rs>.</l>
+					<lb/><l>Nichts ſoll von dir mich trennen,</l>
+					<lb/><l>Nicht Schande, nicht der Tod.</l>
 				</lg>
 			</div>
 		</body>

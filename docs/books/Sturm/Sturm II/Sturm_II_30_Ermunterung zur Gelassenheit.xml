@@ -7,7 +7,7 @@
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
-            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+            <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -76,7 +76,6 @@
                   <occupation>Komponist</occupation>
                   <note type="bioSummary"/>
                   <idno type="GND">118505505</idno>
-                  <idno type="WeGA"/>
                   <persName type="sigla" subtype="Kast"/>
                   <persName type="sigla" subtype="Blechschmidt"/>
                   <persName type="sigla" subtype="Dürr"/>
@@ -189,52 +188,52 @@
          <pb n="30" ed="CPEB1792"/>
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
-            <head type="title">Ermunterung zur Gelaſsenheit.</head>
+            <head><title>Ermunterung zur Gelaſsenheit.</title></head>
             <lg>
-               <l><rs type="person" key="J0001">Herr</rs>, es geſcheh dein Wille!</l>
-               <l>Gern duld ich jeden Schmerz.</l>
-               <l>Nur gib mir Ruh und Stille</l>
-               <l>Und Freudigkeit ins Herz.</l>
-               <l>Laß mich, wenn mir Verſuchung droht,</l>
-               <l>Wie du, ſo willig leiden,</l>
-               <l>So treu ſeyn bis in Tod.</l>
+               <lb/><l><rs type="person" key="J0001">Herr</rs>, es geſcheh dein Wille!</l>
+               <lb/><l>Gern duld ich jeden Schmerz.</l>
+               <lb/><l>Nur gib mir Ruh und Stille</l>
+               <lb/><l>Und Freudigkeit ins Herz.</l>
+               <lb/><l>Laß mich, wenn mir Verſuchung droht,</l>
+               <lb/><l>Wie du, ſo willig leiden,</l>
+               <lb/><l>So treu ſeyn bis in Tod.</l>
             </lg>
             <lg>
-               <l>Der Martern jede ſchwebte</l>
-               <l>Vor deinem Angeſicht:</l>
-               <l>Doch deine Seele bebte</l>
-               <l>Vor ihrem Anblick nicht.</l>
-               <l>Voll Freudigkeit und Geiſteſruh</l>
-               <l>Erhebſt du dich vom Staube</l>
-               <l>Und eilſt den Feinden zu.</l>
+               <lb/><l>Der Martern jede ſchwebte</l>
+               <lb/><l>Vor deinem Angeſicht:</l>
+               <lb/><l>Doch deine Seele bebte</l>
+               <lb/><l>Vor ihrem Anblick nicht.</l>
+               <lb/><l>Voll Freudigkeit und Geiſteſruh</l>
+               <lb/><l>Erhebſt du dich vom Staube</l>
+               <lb/><l>Und eilſt den Feinden zu.</l>
             </lg>
             <lg>
-               <l>Dich ſchreckte das Getümmel</l>
-               <l>Der Mörderwaffen nicht.</l>
-               <l>In deinem Geiſt war Himmel,</l>
-               <l>Und Muth im Angeſicht.</l>
-               <l>Schon ſtürzt auf dich der Feinde Schaar:</l>
-               <l>Doch du bietſt deine Hände</l>
-               <l>Den Banden willig dar.</l>
+               <lb/><l>Dich ſchreckte das Getümmel</l>
+               <lb/><l>Der Mörderwaffen nicht.</l>
+               <lb/><l>In deinem Geiſt war Himmel,</l>
+               <lb/><l>Und Muth im Angeſicht.</l>
+               <lb/><l>Schon ſtürzt auf dich der Feinde Schaar:</l>
+               <lb/><l>Doch du bietſt deine Hände</l>
+               <lb/><l>Den Banden willig dar.</l>
             </lg>
             <lg>
-               <l>O wär ich doch im Leiden</l>
-               <l>Wie du, ſo ſanft und ſtill!</l>
-               <l>O litt ich ſo mit Freuden,</l>
-               <l>Was <rs type="person" key="G0001">Gott</rs>, mein <rs type="person" key="G0001"
+               <lb/><l>O wär ich doch im Leiden</l>
+               <lb/><l>Wie du, ſo ſanft und ſtill!</l>
+               <lb/><l>O litt ich ſo mit Freuden,</l>
+               <lb/><l>Was <rs type="person" key="G0001">Gott</rs>, mein <rs type="person" key="G0001"
                      >Vater</rs> will!</l>
-               <l>Ich will mit Ehrfurcht und Vertraun,</l>
-               <l>Geduld von dir zu lernen,</l>
-               <l>Auf dich, <rs type="person" key="J0001">Erlöſer</rs>, ſchaun.</l>
+               <lb/><l>Ich will mit Ehrfurcht und Vertraun,</l>
+               <lb/><l>Geduld von dir zu lernen,</l>
+               <lb/><l>Auf dich, <rs type="person" key="J0001">Erlöſer</rs>, ſchaun.</l>
             </lg>
             <lg>
-               <l>Gibſt du mir deinen Frieden,</l>
-               <l>So ſchreckt mich keine Noth,</l>
-               <l>Und keine Schmach hienieden:</l>
-               <l>Wärs auch der Martertod.</l>
-               <l>Durch dich, <rs type="person" key="J0001">Herr</rs>, überwind ich weit:</l>
-               <l>Denn deine Gnade tröſtet</l>
-               <l>Mit Ruh und Seligkeit.</l>
+               <lb/><l>Gibſt du mir deinen Frieden,</l>
+               <lb/><l>So ſchreckt mich keine Noth,</l>
+               <lb/><l>Und keine Schmach hienieden:</l>
+               <lb/><l>Wärs auch der Martertod.</l>
+               <lb/><l>Durch dich, <rs type="person" key="J0001">Herr</rs>, überwind ich weit:</l>
+               <lb/><l>Denn deine Gnade tröſtet</l>
+               <lb/><l>Mit Ruh und Seligkeit.</l>
             </lg>
          </div>
       </body>

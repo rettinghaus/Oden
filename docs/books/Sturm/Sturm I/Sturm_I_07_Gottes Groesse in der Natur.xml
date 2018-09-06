@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -73,7 +73,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -185,48 +184,48 @@
 		<body>
 			<pb n="7" ed="CPEB1780"/>
 			<div type="chorale">
-				<head type="title">Gottes Größe in der Natur.</head>
+				<head><title>Gottes Größe in der Natur.</title></head>
 				<lg>
-					<l>Groß iſt der <rs type="person" key="G0001">Herr</rs>! Von ſeiner Macht</l>
-					<l>Erzehlen Himmel, Erd und Meere.</l>
-					<l>Ihn preiſt die ſternenvolle Nacht,</l>
-					<l>Die Sonn und aller Sonnen Heere.</l>
+					<lb/><l>Groß iſt der <rs type="person" key="G0001">Herr</rs>! Von ſeiner Macht</l>
+					<lb/><l>Erzehlen Himmel, Erd und Meere.</l>
+					<lb/><l>Ihn preiſt die ſternenvolle Nacht,</l>
+					<lb/><l>Die Sonn und aller Sonnen Heere.</l>
 				</lg>
 				<lg>
-					<l>Ihn rühmt die blühende Natur:</l>
-					<l>Ihr Schmuck und ihres Segens Menge,</l>
-					<l>Die Frucht der Garbenſchweren Flur,</l>
-					<l>Sind ſeiner Allmacht Lobgesänge.</l>
+					<lb/><l>Ihn rühmt die blühende Natur:</l>
+					<lb/><l>Ihr Schmuck und ihres Segens Menge,</l>
+					<lb/><l>Die Frucht der Garbenſchweren Flur,</l>
+					<lb/><l>Sind ſeiner Allmacht Lobgesänge.</l>
 				</lg>
 				<lg>
-					<l>Ihn preiſt in ſeiner Felſenkluft</l>
-					<l>Des Löwen furchtbares Gebrülle:</l>
-					<l>Der Rabe, der um Speiſe ruft,</l>
-					<l>Der Wurm in ſeines Staubes Hülle.</l>
+					<lb/><l>Ihn preiſt in ſeiner Felſenkluft</l>
+					<lb/><l>Des Löwen furchtbares Gebrülle:</l>
+					<lb/><l>Der Rabe, der um Speiſe ruft,</l>
+					<lb/><l>Der Wurm in ſeines Staubes Hülle.</l>
 				</lg>
 				<lg>
-					<l>Der Rebenberg, das Weitzenthal,</l>
-					<l>Der Schmerlenbach, der Auen Blüthe,</l>
-					<l>Die Luft und jeder Sonnenſtrahl</l>
-					<l>Verkündigt des <rs type="person" key="G0001">Allmächtigen</rs> Güte.</l>
+					<lb/><l>Der Rebenberg, das Weitzenthal,</l>
+					<lb/><l>Der Schmerlenbach, der Auen Blüthe,</l>
+					<lb/><l>Die Luft und jeder Sonnenſtrahl</l>
+					<lb/><l>Verkündigt des <rs type="person" key="G0001">Allmächtigen</rs> Güte.</l>
 				</lg>
 				<lg>
-					<l>Des Weſtes Kühlung ſendet Er,</l>
-					<l>Den Donnerſturm in Ungewittern.</l>
-					<l>Er ſpricht! Und ſtill iſt Erd und Meer!</l>
-					<l>Er ſpricht! Und Meer und Erde zittern!</l>
+					<lb/><l>Des Weſtes Kühlung ſendet Er,</l>
+					<lb/><l>Den Donnerſturm in Ungewittern.</l>
+					<lb/><l>Er ſpricht! Und ſtill iſt Erd und Meer!</l>
+					<lb/><l>Er ſpricht! Und Meer und Erde zittern!</l>
 				</lg>
 				<lg>
-					<l>Vom Aufgang bis zum Niedergang,</l>
-					<l>Von hier bis zu den fernſten Sphären,</l>
-					<l>Schallt der Geſchöpfe Lobgeſang</l>
-					<l>Zu unſers <rs type="person" key="G0001">Weltenſchöpfers</rs> Ehren.</l>
+					<lb/><l>Vom Aufgang bis zum Niedergang,</l>
+					<lb/><l>Von hier bis zu den fernſten Sphären,</l>
+					<lb/><l>Schallt der Geſchöpfe Lobgeſang</l>
+					<lb/><l>Zu unſers <rs type="person" key="G0001">Weltenſchöpfers</rs> Ehren.</l>
 				</lg>
 				<lg>
-					<l>Groß iſt der <rs type="person" key="G0001">Herr</rs>! Zu ihn empor</l>
-					<l>Soll meine frohe Seele dringen.</l>
-					<l>In aller Creaturen Chor</l>
-					<l>Soll meines Liedes Jubel ſingen.</l>
+					<lb/><l>Groß iſt der <rs type="person" key="G0001">Herr</rs>! Zu ihn empor</l>
+					<lb/><l>Soll meine frohe Seele dringen.</l>
+					<lb/><l>In aller Creaturen Chor</l>
+					<lb/><l>Soll meines Liedes Jubel ſingen.</l>
 				</lg>
 			</div>
 		</body>

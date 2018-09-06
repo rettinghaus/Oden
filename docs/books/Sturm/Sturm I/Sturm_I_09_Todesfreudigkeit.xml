@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -73,7 +73,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -185,38 +184,38 @@
 		<body>
 			<pb n="9" ed="CPEB1780"/>
 			<div type="chorale">
-				<head type="title">Todeſfreudigkeit.</head>
+				<head><title>Todeſfreudigkeit.</title></head>
 				<lg>
-					<l><rs type="person" key="G0001">Gott</rs>, dem ich lebe, deß ich bin,</l>
-					<l>Dem einſt ich ſterbe,</l>
-					<l>Getroſt und freudig geh ich hin:</l>
-					<l>Denn zum Erbe,</l>
-					<l>Das dort aufbehalten iſt,</l>
-					<l>Führt mich der Weg des Todes.</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, dem ich lebe, deß ich bin,</l>
+					<lb/><l>Dem einſt ich ſterbe,</l>
+					<lb/><l>Getroſt und freudig geh ich hin:</l>
+					<lb/><l>Denn zum Erbe,</l>
+					<lb/><l>Das dort aufbehalten iſt,</l>
+					<lb/><l>Führt mich der Weg des Todes.</l>
 				</lg>
 				<lg>
-					<l>Ihn werd ich ſchauen, dem ich hier</l>
-					<l>Geglaubet habe:</l>
-					<l>So hohe Freuden gab er mir</l>
-					<l>Schon am Grabe.</l>
-					<l>Wie wird dann, o dann mir ſeyn,</l>
-					<l>Wenn ich ihn ſchauen werde!</l>
+					<lb/><l>Ihn werd ich ſchauen, dem ich hier</l>
+					<lb/><l>Geglaubet habe:</l>
+					<lb/><l>So hohe Freuden gab er mir</l>
+					<lb/><l>Schon am Grabe.</l>
+					<lb/><l>Wie wird dann, o dann mir ſeyn,</l>
+					<lb/><l>Wenn ich ihn ſchauen werde!</l>
 				</lg>
 				<lg>
-					<l>Mich ſchrecke nicht des Todes Quaal,</l>
-					<l>Der Gräber Grauen!</l>
-					<l>Der letzte Weg durchs dunkle Thal</l>
-					<l>Führt zum Schauen.</l>
-					<l>Nun geh ich im Frieden hin,</l>
-					<l>Wenn <rs type="person" key="G0001">Gott</rs> mich ruft zum Grabe.</l>
+					<lb/><l>Mich ſchrecke nicht des Todes Quaal,</l>
+					<lb/><l>Der Gräber Grauen!</l>
+					<lb/><l>Der letzte Weg durchs dunkle Thal</l>
+					<lb/><l>Führt zum Schauen.</l>
+					<lb/><l>Nun geh ich im Frieden hin,</l>
+					<lb/><l>Wenn <rs type="person" key="G0001">Gott</rs> mich ruft zum Grabe.</l>
 				</lg>
 				<lg>
-					<l>Gieb mir den Glauben <rs type="person" key="S0002">Simeons</rs></l>
-					<l>Und <rs type="person" key="J0002">Jacobs</rs> Freuden.</l>
-					<l>Laß mich beym Anblick jenes Lohns</l>
-					<l>Froh verſcheiden.</l>
-					<l>Segne und behüte mich!</l>
-					<l><rs type="person" key="G0001">Herr</rs>, gieb mir deinen Frieden!</l>
+					<lb/><l>Gieb mir den Glauben <rs type="person" key="S0002">Simeons</rs></l>
+					<lb/><l>Und <rs type="person" key="J0002">Jacobs</rs> Freuden.</l>
+					<lb/><l>Laß mich beym Anblick jenes Lohns</l>
+					<lb/><l>Froh verſcheiden.</l>
+					<lb/><l>Segne und behüte mich!</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, gieb mir deinen Frieden!</l>
 				</lg>
 			</div>
 		</body>

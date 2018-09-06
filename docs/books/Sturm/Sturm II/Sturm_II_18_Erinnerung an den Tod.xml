@@ -7,7 +7,7 @@
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
-            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+            <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -76,7 +76,6 @@
                   <occupation>Komponist</occupation>
                   <note type="bioSummary"/>
                   <idno type="GND">118505505</idno>
-                  <idno type="WeGA"/>
                   <persName type="sigla" subtype="Kast"/>
                   <persName type="sigla" subtype="Blechschmidt"/>
                   <persName type="sigla" subtype="Dürr"/>
@@ -189,76 +188,76 @@
          <pb n="18" ed="CPEB1792"/>
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
-            <head type="title">Erinnerung an den Tod.</head>
+            <head><title>Erinnerung an den Tod.</title></head>
             <lg>
-               <l>Noch bin ich dein Gaſt, o Erde.</l>
-               <l><rs type="person" key="G0001">Gott</rs> mehrt meiner Tage Zahl.</l>
-               <l>Daß ich reif zum Himmel werde,</l>
-               <l>Prüft er mich, läßt mir die Wahl,</l>
-               <l>Böſes oder Guts zu wählen.</l>
-               <l>Doch, werd ich viel Jahre zählen?</l>
-               <l>Oder ruft ein früher Tod</l>
-               <l>Mich zur bangen Sterbeſnoth?</l>
+               <lb/><l>Noch bin ich dein Gaſt, o Erde.</l>
+               <lb/><l><rs type="person" key="G0001">Gott</rs> mehrt meiner Tage Zahl.</l>
+               <lb/><l>Daß ich reif zum Himmel werde,</l>
+               <lb/><l>Prüft er mich, läßt mir die Wahl,</l>
+               <lb/><l>Böſes oder Guts zu wählen.</l>
+               <lb/><l>Doch, werd ich viel Jahre zählen?</l>
+               <lb/><l>Oder ruft ein früher Tod</l>
+               <lb/><l>Mich zur bangen Sterbeſnoth?</l>
             </lg>
             <lg>
-               <l><rs type="person" key="G0001">Herr</rs>, du weißts. Du haſt die Tage</l>
-               <l>Meines Lebenſlaufs gezählt.</l>
-               <l>Ihre Freuden, ihre Plage</l>
-               <l>Sah dein Auge, das nie fehlt,</l>
-               <l>Früher noch, als du auf Erden</l>
-               <l>Mich ließt einen Pilger werden,</l>
-               <l>Da ſchon ſchriebſt du meinen Tod</l>
-               <l>Auf dein Buch, allweiſer <rs type="person" key="G0001">Gott</rs>.</l>
+               <lb/><l><rs type="person" key="G0001">Herr</rs>, du weißts. Du haſt die Tage</l>
+               <lb/><l>Meines Lebenſlaufs gezählt.</l>
+               <lb/><l>Ihre Freuden, ihre Plage</l>
+               <lb/><l>Sah dein Auge, das nie fehlt,</l>
+               <lb/><l>Früher noch, als du auf Erden</l>
+               <lb/><l>Mich ließt einen Pilger werden,</l>
+               <lb/><l>Da ſchon ſchriebſt du meinen Tod</l>
+               <lb/><l>Auf dein Buch, allweiſer <rs type="person" key="G0001">Gott</rs>.</l>
             </lg>
             <lg>
-               <l>Einſt, wenn es dein Wille fordert,</l>
-               <l>Wird mein reger Leib zu Staub:</l>
-               <l>Und das Feur, das in mir lodert,</l>
-               <l>Wird des kalten Todes Raub.</l>
-               <l>So wie Frühlingſblumen welken,</l>
-               <l>Wird mein Leben auch verwelken:</l>
-               <l>Kraft und Odem nehmen ab,</l>
-               <l>Und den Leichnam nimmt das Grab.</l>
+               <lb/><l>Einſt, wenn es dein Wille fordert,</l>
+               <lb/><l>Wird mein reger Leib zu Staub:</l>
+               <lb/><l>Und das Feur, das in mir lodert,</l>
+               <lb/><l>Wird des kalten Todes Raub.</l>
+               <lb/><l>So wie Frühlingſblumen welken,</l>
+               <lb/><l>Wird mein Leben auch verwelken:</l>
+               <lb/><l>Kraft und Odem nehmen ab,</l>
+               <lb/><l>Und den Leichnam nimmt das Grab.</l>
             </lg>
             <lg>
-               <l>Nimm ihn hin zu deinem Staube,</l>
-               <l>Grab! verwandle ihn in Erd!</l>
-               <l>Dennoch triumphirt mein Glaube;</l>
-               <l>Denn mein Leib wird einſt verklärt.</l>
-               <l>Des verweſten Körpers Trümmer</l>
-               <l>Bleiben wahrlich nicht auf immer</l>
-               <l>Der Vermodrung ſchnöder Raub.</l>
-               <l>Neu beſeelt wird einſt mein Staub.</l>
+               <lb/><l>Nimm ihn hin zu deinem Staube,</l>
+               <lb/><l>Grab! verwandle ihn in Erd!</l>
+               <lb/><l>Dennoch triumphirt mein Glaube;</l>
+               <lb/><l>Denn mein Leib wird einſt verklärt.</l>
+               <lb/><l>Des verweſten Körpers Trümmer</l>
+               <lb/><l>Bleiben wahrlich nicht auf immer</l>
+               <lb/><l>Der Vermodrung ſchnöder Raub.</l>
+               <lb/><l>Neu beſeelt wird einſt mein Staub.</l>
             </lg>
             <lg>
-               <l>Durch dein ſchöpfriſch Wort: Es werde!</l>
-               <l>Rufſt du, <rs type="person" key="G0001">Herr</rs>, in mein Gebein</l>
-               <l>Neues Leben. Nicht mehr Erde</l>
-               <l>Wird alſdann mein Körper ſeyn.</l>
-               <l>Zu den himmliſchen Geſchäften</l>
-               <l>Schmückſt du ihn mit neuen Kräften:</l>
-               <l>Und von Schmerz und Sterblichkeit</l>
-               <l>Wird er ewig dann befreyt.</l>
+               <lb/><l>Durch dein ſchöpfriſch Wort: Es werde!</l>
+               <lb/><l>Rufſt du, <rs type="person" key="G0001">Herr</rs>, in mein Gebein</l>
+               <lb/><l>Neues Leben. Nicht mehr Erde</l>
+               <lb/><l>Wird alſdann mein Körper ſeyn.</l>
+               <lb/><l>Zu den himmliſchen Geſchäften</l>
+               <lb/><l>Schmückſt du ihn mit neuen Kräften:</l>
+               <lb/><l>Und von Schmerz und Sterblichkeit</l>
+               <lb/><l>Wird er ewig dann befreyt.</l>
             </lg>
             <lg>
-               <l>Hör, o Seele, einſt mit Freuden</l>
-               <l>Jenen Ruf: Das Grab iſt da!</l>
-               <l>Denn das Ende deiner Leiden</l>
-               <l>Iſt mit ihm zugleich dir nah.</l>
-               <l>Er, der deinen Tod bezwungen,</l>
-               <l>Hat das Leben dir errungen.</l>
-               <l>Durch den Weg der Sterblichkeit</l>
-               <l>Führt er dich zur Ewigkeit.</l>
+               <lb/><l>Hör, o Seele, einſt mit Freuden</l>
+               <lb/><l>Jenen Ruf: Das Grab iſt da!</l>
+               <lb/><l>Denn das Ende deiner Leiden</l>
+               <lb/><l>Iſt mit ihm zugleich dir nah.</l>
+               <lb/><l>Er, der deinen Tod bezwungen,</l>
+               <lb/><l>Hat das Leben dir errungen.</l>
+               <lb/><l>Durch den Weg der Sterblichkeit</l>
+               <lb/><l>Führt er dich zur Ewigkeit.</l>
             </lg>
             <lg>
-               <l>Stärke mich auf dieſe Stunde,</l>
-               <l><rs type="person" key="J0001">Jeſu</rs>, der du für mich ſtarbſt,</l>
-               <l>Und an <rs type="person" key="G0001">Gottes</rs> Gnadenbunde</l>
-               <l>Ewig Antheil mir erwarbſt.</l>
-               <l>Laß mich Tod und Grab nicht ſcheuen;</l>
-               <l>Laß vielmehr mich darauf freuen.</l>
-               <l>Denn, nach treu vollbrachtem Lauf,</l>
-               <l>Nimmſt du mich zum Himmel auf.</l>
+               <lb/><l>Stärke mich auf dieſe Stunde,</l>
+               <lb/><l><rs type="person" key="J0001">Jeſu</rs>, der du für mich ſtarbſt,</l>
+               <lb/><l>Und an <rs type="person" key="G0001">Gottes</rs> Gnadenbunde</l>
+               <lb/><l>Ewig Antheil mir erwarbſt.</l>
+               <lb/><l>Laß mich Tod und Grab nicht ſcheuen;</l>
+               <lb/><l>Laß vielmehr mich darauf freuen.</l>
+               <lb/><l>Denn, nach treu vollbrachtem Lauf,</l>
+               <lb/><l>Nimmſt du mich zum Himmel auf.</l>
             </lg>
          </div>
       </body>

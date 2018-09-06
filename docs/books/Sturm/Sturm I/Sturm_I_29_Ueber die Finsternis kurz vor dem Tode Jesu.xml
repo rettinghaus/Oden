@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -73,7 +73,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -185,45 +184,45 @@
 		<body>
 			<pb n="XX" ed="CPEB1780"/>
 			<div type="chorale">
-				<head type="title">Ueber die Finſterniß kurz vor dem Tode Jeſu.</head>
+				<head><title>Ueber die Finſterniß kurz vor dem Tode Jeſu.</title></head>
 				<lg>
-					<l>Nacht und Schatten decken</l>
-					<l>Des <rs type="person" key="J0001">Mittlers</rs> Angeſicht:</l>
-					<l>Und des <rs type="person" key="J0001">Richters</rs> Schrecken</l>
-					<l>Erträgt die Seele nicht!</l>
-					<l>Ach, wie iſt ihm bange</l>
-					<l>Um Freudigkeit und Licht!</l>
-					<l><rs type="person" key="G0001">Vater</rs>, ach wie lange</l>
-					<l>Verzeucht dein Angeſicht!</l>
-					<l><rs type="person" key="G0001">Herr, Herr</rs>, erbarme dich!</l>
-					<l><rs type="person" key="G0001">Herr, Herr</rs>, erbarme dich!</l>
-					<l><rs type="person" key="G0001">Gott</rs>, erbarme dich!</l>
+					<lb/><l>Nacht und Schatten decken</l>
+					<lb/><l>Des <rs type="person" key="J0001">Mittlers</rs> Angeſicht:</l>
+					<lb/><l>Und des <rs type="person" key="J0001">Richters</rs> Schrecken</l>
+					<lb/><l>Erträgt die Seele nicht!</l>
+					<lb/><l>Ach, wie iſt ihm bange</l>
+					<lb/><l>Um Freudigkeit und Licht!</l>
+					<lb/><l><rs type="person" key="G0001">Vater</rs>, ach wie lange</l>
+					<lb/><l>Verzeucht dein Angeſicht!</l>
+					<lb/><l><rs type="person" key="G0001">Herr, Herr</rs>, erbarme dich!</l>
+					<lb/><l><rs type="person" key="G0001">Herr, Herr</rs>, erbarme dich!</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, erbarme dich!</l>
 				</lg>
 				<lg>
-					<l>Nacht und Schatten decken</l>
-					<l>Das mördervolle Land:</l>
-					<l>Und bewehrt mit Schrecken</l>
-					<l>Iſt, Rächer, deine Hand.</l>
-					<l>Selbſt die Frevler zagen:</l>
-					<l>Nun ruht ihr frecher Spott:</l>
-					<l>Wehgeſchrey und Klagen</l>
-					<l>Ertönen auf zu <rs type="person" key="G0001">Gott</rs>.</l>
-					<l><rs type="person" key="G0001">Herr, Herr</rs>, erbarme dich!</l>
-					<l><rs type="person" key="G0001">Herr, Herr</rs>, erbarme dich!</l>
-					<l><rs type="person" key="G0001">Gott</rs>, erbarme dich!</l>
+					<lb/><l>Nacht und Schatten decken</l>
+					<lb/><l>Das mördervolle Land:</l>
+					<lb/><l>Und bewehrt mit Schrecken</l>
+					<lb/><l>Iſt, Rächer, deine Hand.</l>
+					<lb/><l>Selbſt die Frevler zagen:</l>
+					<lb/><l>Nun ruht ihr frecher Spott:</l>
+					<lb/><l>Wehgeſchrey und Klagen</l>
+					<lb/><l>Ertönen auf zu <rs type="person" key="G0001">Gott</rs>.</l>
+					<lb/><l><rs type="person" key="G0001">Herr, Herr</rs>, erbarme dich!</l>
+					<lb/><l><rs type="person" key="G0001">Herr, Herr</rs>, erbarme dich!</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, erbarme dich!</l>
 				</lg>
 				<lg>
-					<l>Ach nun fühlt der Spötter</l>
-					<l>Der <rs type="person" key="J0001">Gottes Sohn</rs> entehrt,</l>
-					<l>Daß der <rs type="person" key="G0001">Gott der Götter</rs></l>
-					<l>Ihn vor der Welt verklärt.</l>
-					<l>An des Abgrunds Stufen,</l>
-					<l>Dem er ſich frech genaht,</l>
-					<l>Möcht er itzt noch rufen</l>
-					<l>Zu ihm, der für ihn bat.</l>
-					<l><rs type="person" key="G0001">Herr, Herr</rs>, erbarme dich!</l>
-					<l><rs type="person" key="G0001">Herr, Herr</rs>, erbarme dich!</l>
-					<l><rs type="person" key="G0001">Gott</rs>, erbarme dich!</l>
+					<lb/><l>Ach nun fühlt der Spötter</l>
+					<lb/><l>Der <rs type="person" key="J0001">Gottes Sohn</rs> entehrt,</l>
+					<lb/><l>Daß der <rs type="person" key="G0001">Gott der Götter</rs></l>
+					<lb/><l>Ihn vor der Welt verklärt.</l>
+					<lb/><l>An des Abgrunds Stufen,</l>
+					<lb/><l>Dem er ſich frech genaht,</l>
+					<lb/><l>Möcht er itzt noch rufen</l>
+					<lb/><l>Zu ihm, der für ihn bat.</l>
+					<lb/><l><rs type="person" key="G0001">Herr, Herr</rs>, erbarme dich!</l>
+					<lb/><l><rs type="person" key="G0001">Herr, Herr</rs>, erbarme dich!</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, erbarme dich!</l>
 				</lg>
 			</div>
 		</body>

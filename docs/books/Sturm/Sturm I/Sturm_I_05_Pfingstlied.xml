@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -73,7 +73,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -185,73 +184,73 @@
 		<body>
 			<pb n="5" ed="CPEB1780"/>
 			<div type="chorale">
-				<head type="title">Pfingſtlied.</head>
+				<head><title>Pfingſtlied.</title></head>
 				<lg>
-					<l>Sey, <rs type="person" key="J0001">Weltversöhner</rs>, ſey gepreiſt!</l>
-					<l>Du ſandteſt uns den theuren Geiſt,</l>
-					<l>Der uns in alle Wahrheit leite,</l>
-					<l>Und uns zum Himmel zubereite.</l>
-					<l>Er lehret uns des Glaubens Kraft:</l>
-					<l>Stärkt uns, in dieſer Pilgerſchaft</l>
-					<l>Den Lauf zum Ziele zu vollbringen</l>
-					<l>Und einſt die Krone zu erringen.</l>
-					<l>Hallelujah! Hallelujah!</l>
+					<lb/><l>Sey, <rs type="person" key="J0001">Weltversöhner</rs>, ſey gepreiſt!</l>
+					<lb/><l>Du ſandteſt uns den theuren Geiſt,</l>
+					<lb/><l>Der uns in alle Wahrheit leite,</l>
+					<lb/><l>Und uns zum Himmel zubereite.</l>
+					<lb/><l>Er lehret uns des Glaubens Kraft:</l>
+					<lb/><l>Stärkt uns, in dieſer Pilgerſchaft</l>
+					<lb/><l>Den Lauf zum Ziele zu vollbringen</l>
+					<lb/><l>Und einſt die Krone zu erringen.</l>
+					<lb/><l>Hallelujah! Hallelujah!</l>
 				</lg>
 				<lg>
-					<l>Durch deines Geiſtes Troſt erfreut,</l>
-					<l>Wagt deiner Bothen Schaar den Streit,</l>
-					<l>Kämpft gegen falſcher Götter Heere,</l>
-					<l>Und ſiegt durch deines Kreuzes Lehre.</l>
-					<l>Begabt mit Stärke, gieng ihr Wort</l>
-					<l>Bis an der Erde Gränzen fort,</l>
-					<l>Erleuchtete die Nationen,</l>
-					<l>Und drang von Hütten zu den Thronen.</l>
-					<l>Hallelujah! Hallelujah!</l>
+					<lb/><l>Durch deines Geiſtes Troſt erfreut,</l>
+					<lb/><l>Wagt deiner Bothen Schaar den Streit,</l>
+					<lb/><l>Kämpft gegen falſcher Götter Heere,</l>
+					<lb/><l>Und ſiegt durch deines Kreuzes Lehre.</l>
+					<lb/><l>Begabt mit Stärke, gieng ihr Wort</l>
+					<lb/><l>Bis an der Erde Gränzen fort,</l>
+					<lb/><l>Erleuchtete die Nationen,</l>
+					<lb/><l>Und drang von Hütten zu den Thronen.</l>
+					<lb/><l>Hallelujah! Hallelujah!</l>
 				</lg>
 				<lg>
-					<l>O ſend ihn auch zu uns den Geiſt,</l>
-					<l>Der uns den Weg zur Wahrheit weiſt.</l>
-					<l>Ach, dunkel ſind des Lebens Pfade:</l>
-					<l>Er leuchtet ſie durch ſeine Gnade.</l>
-					<l>Er lehr uns <rs type="person" key="G0001">Gottes</rs> Heil verſtehn,</l>
-					<l>Er leit uns, wenn wir irre gehen;</l>
-					<l>Und wenn wir ſtraucheln und ermüden,</l>
-					<l>Dann ſtärk er uns durch <rs type="person" key="G0001">Gottes</rs>
+					<lb/><l>O ſend ihn auch zu uns den Geiſt,</l>
+					<lb/><l>Der uns den Weg zur Wahrheit weiſt.</l>
+					<lb/><l>Ach, dunkel ſind des Lebens Pfade:</l>
+					<lb/><l>Er leuchtet ſie durch ſeine Gnade.</l>
+					<lb/><l>Er lehr uns <rs type="person" key="G0001">Gottes</rs> Heil verſtehn,</l>
+					<lb/><l>Er leit uns, wenn wir irre gehen;</l>
+					<lb/><l>Und wenn wir ſtraucheln und ermüden,</l>
+					<lb/><l>Dann ſtärk er uns durch <rs type="person" key="G0001">Gottes</rs>
 						Frieden!</l>
-					<l>Hallelujah! Hallelujah!</l>
+					<lb/><l>Hallelujah! Hallelujah!</l>
 				</lg>
 				<lg>
-					<l>Hier, in dem Heiligthum des <rs type="person" key="G0001">Herrn</rs>,</l>
-					<l>Hier warten deiner, Geiſt des <rs type="person" key="G0001">Herrn</rs>,</l>
-					<l>Wir Chriſten, unſers Hauptes Glieder;</l>
-					<l>Komm ſegenvoll auf uns hernieder!</l>
-					<l>Hilf uns! Gieb dem Verſtande Licht,</l>
-					<l>Dem Herzen Muth und Zuverſicht,</l>
-					<l>Daß uns von ihm, den wir bekennen,</l>
-					<l>Hier weder Glück noch Leben trennen.</l>
-					<l>Hallelujah! Hallelujah!</l>
+					<lb/><l>Hier, in dem Heiligthum des <rs type="person" key="G0001">Herrn</rs>,</l>
+					<lb/><l>Hier warten deiner, Geiſt des <rs type="person" key="G0001">Herrn</rs>,</l>
+					<lb/><l>Wir Chriſten, unſers Hauptes Glieder;</l>
+					<lb/><l>Komm ſegenvoll auf uns hernieder!</l>
+					<lb/><l>Hilf uns! Gieb dem Verſtande Licht,</l>
+					<lb/><l>Dem Herzen Muth und Zuverſicht,</l>
+					<lb/><l>Daß uns von ihm, den wir bekennen,</l>
+					<lb/><l>Hier weder Glück noch Leben trennen.</l>
+					<lb/><l>Hallelujah! Hallelujah!</l>
 				</lg>
 				<lg>
-					<l>O leit uns, <rs type="person" key="J0001">Herr</rs>, an deine Hand</l>
-					<l>Hinauf ins wahre Vaterland.</l>
-					<l>Entreiß uns mächtig dem Verderben:</l>
-					<l>Erhalt uns gläubig, bis wir ſterben.</l>
-					<l>Dann ſtärk uns in des Todes Schmerz</l>
-					<l>Das ſchwache, freudenleere Herz,</l>
-					<l>Daß wir mit Muth zum Himmel dringen</l>
-					<l>Und dann den letzten Sieg erringen.</l>
-					<l>Hallelujah! Hallelujah!</l>
+					<lb/><l>O leit uns, <rs type="person" key="J0001">Herr</rs>, an deine Hand</l>
+					<lb/><l>Hinauf ins wahre Vaterland.</l>
+					<lb/><l>Entreiß uns mächtig dem Verderben:</l>
+					<lb/><l>Erhalt uns gläubig, bis wir ſterben.</l>
+					<lb/><l>Dann ſtärk uns in des Todes Schmerz</l>
+					<lb/><l>Das ſchwache, freudenleere Herz,</l>
+					<lb/><l>Daß wir mit Muth zum Himmel dringen</l>
+					<lb/><l>Und dann den letzten Sieg erringen.</l>
+					<lb/><l>Hallelujah! Hallelujah!</l>
 				</lg>
 				<lg>
-					<l>Dort, wo der Zeugen <rs type="person" key="J0001">Jeſu</rs> Schaar,</l>
-					<l>Die hier durch dich erleuchtet war,</l>
-					<l>Am Thron des <rs type="person" key="J0001">Lammes</rs> jauchzend ſtehet</l>
-					<l>Und deiner Werke Preis erhöhet:</l>
-					<l>Dort iſt auch unſers Erbes Theil:</l>
-					<l>Auch uns iſt der Erlöſung Heil</l>
-					<l>Durch dich verſiegelt: und wir kommen</l>
-					<l>Durch dich zur Seligkeit der Frommen.</l>
-					<l>Hallelujah! Hallelujah!</l>
+					<lb/><l>Dort, wo der Zeugen <rs type="person" key="J0001">Jeſu</rs> Schaar,</l>
+					<lb/><l>Die hier durch dich erleuchtet war,</l>
+					<lb/><l>Am Thron des <rs type="person" key="J0001">Lammes</rs> jauchzend ſtehet</l>
+					<lb/><l>Und deiner Werke Preis erhöhet:</l>
+					<lb/><l>Dort iſt auch unſers Erbes Theil:</l>
+					<lb/><l>Auch uns iſt der Erlöſung Heil</l>
+					<lb/><l>Durch dich verſiegelt: und wir kommen</l>
+					<lb/><l>Durch dich zur Seligkeit der Frommen.</l>
+					<lb/><l>Hallelujah! Hallelujah!</l>
 				</lg>
 			</div>
 		</body>

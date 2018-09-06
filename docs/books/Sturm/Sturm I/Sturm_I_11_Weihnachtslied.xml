@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -73,7 +73,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -185,77 +184,77 @@
 		<body>
 			<pb n="11" ed="CPEB1780"/>
 			<div type="chorale">
-				<head type="title">Weihnachtſlied.</head>
+				<head><title>Weihnachtſlied.</title></head>
 				<lg>
-					<l>Vom Grab, an dem wir wallen,</l>
-					<l>Soll, <rs type="person" key="J0001">Jeſu Chriſt</rs>, dein Lobgeſang</l>
-					<l>Empor zum Himmel ſchallen!</l>
-					<l>Dir opfre jede Seele Dank!</l>
-					<l>Und jeder der Gebornen</l>
-					<l>Erfreu ſich, Menſch zu ſeyn!</l>
-					<l>Und jeder der Verlornen</l>
-					<l>Rühm es: Erlöſt zu ſeyn.</l>
-					<l>Uns iſt das Kind gegeben!</l>
-					<l>Geboren uns der <rs type="person" key="J0001">Sohn</rs>!</l>
-					<l>Mit ihm erſcheint das Leben,</l>
-					<l>Mit ihm des Himmels Lohn!</l>
+					<lb/><l>Vom Grab, an dem wir wallen,</l>
+					<lb/><l>Soll, <rs type="person" key="J0001">Jeſu Chriſt</rs>, dein Lobgeſang</l>
+					<lb/><l>Empor zum Himmel ſchallen!</l>
+					<lb/><l>Dir opfre jede Seele Dank!</l>
+					<lb/><l>Und jeder der Gebornen</l>
+					<lb/><l>Erfreu ſich, Menſch zu ſeyn!</l>
+					<lb/><l>Und jeder der Verlornen</l>
+					<lb/><l>Rühm es: Erlöſt zu ſeyn.</l>
+					<lb/><l>Uns iſt das Kind gegeben!</l>
+					<lb/><l>Geboren uns der <rs type="person" key="J0001">Sohn</rs>!</l>
+					<lb/><l>Mit ihm erſcheint das Leben,</l>
+					<lb/><l>Mit ihm des Himmels Lohn!</l>
 				</lg>
 				<lg>
-					<l>Kommt, laßt uns niederfallen,</l>
-					<l>Vor unſerm <rs type="person" key="J0001">Mittler, Jeſus Chriſt</rs>,</l>
-					<l>Und danken, daß er allen</l>
-					<l>Erretter, Freund und Bruder iſt.</l>
-					<l>Er, gleich der Morgenſonne,</l>
-					<l>Mit ihrem erſten Strahl,</l>
-					<l>Verbreitet Licht und Wonne</l>
-					<l>Und Leben überal!</l>
-					<l>Durch ihn kommt Heil und Gnade</l>
-					<l>Auf unſre Welt herab:</l>
-					<l>Er ſegnet unſre Pfade</l>
-					<l>Durchs Leben bis zum Grab.</l>
+					<lb/><l>Kommt, laßt uns niederfallen,</l>
+					<lb/><l>Vor unſerm <rs type="person" key="J0001">Mittler, Jeſus Chriſt</rs>,</l>
+					<lb/><l>Und danken, daß er allen</l>
+					<lb/><l>Erretter, Freund und Bruder iſt.</l>
+					<lb/><l>Er, gleich der Morgenſonne,</l>
+					<lb/><l>Mit ihrem erſten Strahl,</l>
+					<lb/><l>Verbreitet Licht und Wonne</l>
+					<lb/><l>Und Leben überal!</l>
+					<lb/><l>Durch ihn kommt Heil und Gnade</l>
+					<lb/><l>Auf unſre Welt herab:</l>
+					<lb/><l>Er ſegnet unſre Pfade</l>
+					<lb/><l>Durchs Leben bis zum Grab.</l>
 				</lg>
 				<lg>
-					<l>Frohlockt ihr Mitgenoſsen</l>
-					<l>Der Sünde und der Sterblichkeit!</l>
-					<l>Nicht länger iſt verſchloſsen</l>
-					<l>Der Eingang zu der Herrlichkeit.</l>
-					<l>Zu unſrer Erd hernieder</l>
-					<l>Kam <rs type="person" key="G0001">Gottes</rs> ewger <rs type="person"
+					<lb/><l>Frohlockt ihr Mitgenoſsen</l>
+					<lb/><l>Der Sünde und der Sterblichkeit!</l>
+					<lb/><l>Nicht länger iſt verſchloſsen</l>
+					<lb/><l>Der Eingang zu der Herrlichkeit.</l>
+					<lb/><l>Zu unſrer Erd hernieder</l>
+					<lb/><l>Kam <rs type="person" key="G0001">Gottes</rs> ewger <rs type="person"
 							key="J0001">Sohn</rs>:</l>
-					<l>Nun hebt er ſeine Brüder</l>
-					<l>Empor zu <rs type="person" key="G0001">Gottes</rs> Thron.</l>
-					<l>Er ward das Heil der Sünder</l>
-					<l>Und der Verlornen Hort.</l>
-					<l>Nun ſind ſie <rs type="person" key="G0001">Gottes</rs> Kinder</l>
-					<l>Und <rs type="person" key="G0001">Gottes</rs> Erben dort.</l>
+					<lb/><l>Nun hebt er ſeine Brüder</l>
+					<lb/><l>Empor zu <rs type="person" key="G0001">Gottes</rs> Thron.</l>
+					<lb/><l>Er ward das Heil der Sünder</l>
+					<lb/><l>Und der Verlornen Hort.</l>
+					<lb/><l>Nun ſind ſie <rs type="person" key="G0001">Gottes</rs> Kinder</l>
+					<lb/><l>Und <rs type="person" key="G0001">Gottes</rs> Erben dort.</l>
 				</lg>
 				<lg>
-					<l>O du, dem itzt die Menge</l>
-					<l>Der Engel und Verklärten ſingt,</l>
-					<l>Vernimm die Lobgesänge,</l>
-					<l>Die dir dein Volk im Staube bringt.</l>
-					<l>Auch du warſt einſt auf Erden,</l>
-					<l>Was deine Brüder ſind,</l>
-					<l>Ein Dulder der Beſchwerden,</l>
-					<l>Ein ſchwaches Menſchenkind,</l>
-					<l>Was du nun biſt, das werden</l>
-					<l>Einſt deine Brüder ſeyn,</l>
-					<l>Wenn ſie, entrückt der Erden,</l>
-					<l>Sich deines Anſchauns freun.</l>
+					<lb/><l>O du, dem itzt die Menge</l>
+					<lb/><l>Der Engel und Verklärten ſingt,</l>
+					<lb/><l>Vernimm die Lobgesänge,</l>
+					<lb/><l>Die dir dein Volk im Staube bringt.</l>
+					<lb/><l>Auch du warſt einſt auf Erden,</l>
+					<lb/><l>Was deine Brüder ſind,</l>
+					<lb/><l>Ein Dulder der Beſchwerden,</l>
+					<lb/><l>Ein ſchwaches Menſchenkind,</l>
+					<lb/><l>Was du nun biſt, das werden</l>
+					<lb/><l>Einſt deine Brüder ſeyn,</l>
+					<lb/><l>Wenn ſie, entrückt der Erden,</l>
+					<lb/><l>Sich deines Anſchauns freun.</l>
 				</lg>
 				<lg>
-					<l>Bald ſind wir zu dem Lohne</l>
-					<l>Der Himmelſbürger dort erhöht,</l>
-					<l>Nah ſind wir dann dem Throne,</l>
-					<l>Und ſchauen deine Majeſtät.</l>
-					<l>Nicht mehr aus dunkler Ferne</l>
-					<l>Dringt dann der Dank zu dir:</l>
-					<l>Weit über Sonn und Sterne</l>
-					<l>Erhaben, jauchzen wir.</l>
-					<l>Und dann durch jede Sphäre</l>
-					<l>Schallt unſer Lobgeſang:</l>
-					<l>Dem Ewigen ſey Ehre!</l>
-					<l>Dem <rs type="person" key="J0001">Weltversöhner</rs> Dank!</l>
+					<lb/><l>Bald ſind wir zu dem Lohne</l>
+					<lb/><l>Der Himmelſbürger dort erhöht,</l>
+					<lb/><l>Nah ſind wir dann dem Throne,</l>
+					<lb/><l>Und ſchauen deine Majeſtät.</l>
+					<lb/><l>Nicht mehr aus dunkler Ferne</l>
+					<lb/><l>Dringt dann der Dank zu dir:</l>
+					<lb/><l>Weit über Sonn und Sterne</l>
+					<lb/><l>Erhaben, jauchzen wir.</l>
+					<lb/><l>Und dann durch jede Sphäre</l>
+					<lb/><l>Schallt unſer Lobgeſang:</l>
+					<lb/><l>Dem Ewigen ſey Ehre!</l>
+					<lb/><l>Dem <rs type="person" key="J0001">Weltversöhner</rs> Dank!</l>
 				</lg>
 			</div>
 		</body>

@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -73,7 +73,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -185,38 +184,38 @@
 		<body>
 			<pb n="18" ed="CPEB1780"/>
 			<div type="chorale">
-				<head type="title">Der Weg zum Himmel.</head>
+				<head><title>Der Weg zum Himmel.</title></head>
 				<lg>
-					<l>Schmal iſt der Pfad, auf welchem Chriſten gehen,</l>
-					<l>Und dornig ihre Bahn:</l>
-					<l>Und ſchrecklich ſind der Berge ſteile Höhen,</l>
-					<l>Zu welchen ſie ſich nahn.</l>
+					<lb/><l>Schmal iſt der Pfad, auf welchem Chriſten gehen,</l>
+					<lb/><l>Und dornig ihre Bahn:</l>
+					<lb/><l>Und ſchrecklich ſind der Berge ſteile Höhen,</l>
+					<lb/><l>Zu welchen ſie ſich nahn.</l>
 				</lg>
 				<lg>
-					<l>Doch zage nicht, o Wandrer! <rs type="person" key="G0001">Gottes</rs>
+					<lb/><l>Doch zage nicht, o Wandrer! <rs type="person" key="G0001">Gottes</rs>
 						Hände</l>
-					<l>Sind nach dir auſgeſtreckt.</l>
-					<l>Schau hin, dort iſt an deiner Laufbahn Ende</l>
-					<l>Das Kleinod aufgeſteckt.</l>
+					<lb/><l>Sind nach dir auſgeſtreckt.</l>
+					<lb/><l>Schau hin, dort iſt an deiner Laufbahn Ende</l>
+					<lb/><l>Das Kleinod aufgeſteckt.</l>
 				</lg>
 				<lg>
-					<l>Werth iſts die Kron am Ziel, nach ihr zu ſtreben.</l>
-					<l>Wie nichts iſt gegen ſie</l>
-					<l>Der kurze Lauf durch dieſes Pilgerleben</l>
-					<l>Und deines Kampfes Müh.</l>
+					<lb/><l>Werth iſts die Kron am Ziel, nach ihr zu ſtreben.</l>
+					<lb/><l>Wie nichts iſt gegen ſie</l>
+					<lb/><l>Der kurze Lauf durch dieſes Pilgerleben</l>
+					<lb/><l>Und deines Kampfes Müh.</l>
 				</lg>
 				<lg>
-					<l>Ich walle dann in meiner Laufbahn Schranken,</l>
-					<l>Zum Kleinod muthig hin.</l>
-					<l>Wie froh werd ich dir, meinem <rs type="person" key="G0001">Führer</rs>,
+					<lb/><l>Ich walle dann in meiner Laufbahn Schranken,</l>
+					<lb/><l>Zum Kleinod muthig hin.</l>
+					<lb/><l>Wie froh werd ich dir, meinem <rs type="person" key="G0001">Führer</rs>,
 						danken,</l>
-					<l>Wenn ich am Ziele bin!</l>
+					<lb/><l>Wenn ich am Ziele bin!</l>
 				</lg>
 				<lg>
-					<l>Und wenn ich nun ihn vor mir ſehen werde,</l>
-					<l>Der Ueberwinder Lohn:</l>
-					<l>Dann freudevoll ſchwing ich mich von der Erde</l>
-					<l>Hinauf zu deinem Thron.</l>
+					<lb/><l>Und wenn ich nun ihn vor mir ſehen werde,</l>
+					<lb/><l>Der Ueberwinder Lohn:</l>
+					<lb/><l>Dann freudevoll ſchwing ich mich von der Erde</l>
+					<lb/><l>Hinauf zu deinem Thron.</l>
 				</lg>
 			</div>
 		</body>

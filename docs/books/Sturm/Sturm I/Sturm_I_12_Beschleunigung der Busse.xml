@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -73,7 +73,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -185,66 +184,66 @@
 		<body>
 			<pb n="12" ed="CPEB1780"/>
 			<div type="chorale">
-				<head type="title">Beſchleunigung der Buße.</head>
+				<head><title>Beſchleunigung der Buße.</title></head>
 				<lg>
-					<l>Chriſt, ſey achtſam, ſey bereit!</l>
-					<l>Kämpfe, bet und wache!</l>
-					<l>Nah iſt Tod und Ewigkeit:</l>
-					<l>Nah dir Lohn und Rache!</l>
-					<l>Hör, <rs type="person" key="G0001">Gott</rs> ſpricht!</l>
-					<l>Säume nicht,</l>
-					<l>Seinen Ruf zu hören</l>
-					<l>Und dich zu bekehren.</l>
+					<lb/><l>Chriſt, ſey achtſam, ſey bereit!</l>
+					<lb/><l>Kämpfe, bet und wache!</l>
+					<lb/><l>Nah iſt Tod und Ewigkeit:</l>
+					<lb/><l>Nah dir Lohn und Rache!</l>
+					<lb/><l>Hör, <rs type="person" key="G0001">Gott</rs> ſpricht!</l>
+					<lb/><l>Säume nicht,</l>
+					<lb/><l>Seinen Ruf zu hören</l>
+					<lb/><l>Und dich zu bekehren.</l>
 				</lg>
 				<lg>
-					<l>Noch tönt nicht zum Weltgericht</l>
-					<l>Der Poſaune Stimme.</l>
-					<l>Noch bebt dieſer Erdball nicht</l>
-					<l>Vor des <rs type="person" key="J0001">Richters</rs> Stimme.</l>
-					<l>Aber bald,</l>
-					<l>Hör, erſchallt,</l>
-					<l><rs type="person" key="G0001">Gottes</rs> Ruf: zur Erden</l>
-					<l>Sollſt du wieder werden.</l>
+					<lb/><l>Noch tönt nicht zum Weltgericht</l>
+					<lb/><l>Der Poſaune Stimme.</l>
+					<lb/><l>Noch bebt dieſer Erdball nicht</l>
+					<lb/><l>Vor des <rs type="person" key="J0001">Richters</rs> Stimme.</l>
+					<lb/><l>Aber bald,</l>
+					<lb/><l>Hör, erſchallt,</l>
+					<lb/><l><rs type="person" key="G0001">Gottes</rs> Ruf: zur Erden</l>
+					<lb/><l>Sollſt du wieder werden.</l>
 				</lg>
 				<lg>
-					<l>Kommt nun, ehe dus gedacht,</l>
-					<l>Unter Sünd und Freuden</l>
-					<l>Deines Lebens letzte Nacht,</l>
-					<l>Was wirſt du dann leiden:</l>
-					<l>Wenn dein Herz</l>
-					<l>Von dem Schmerz</l>
-					<l>Deiner Schuld zerriſsen</l>
-					<l>Wird verzagen müſsen.</l>
+					<lb/><l>Kommt nun, ehe dus gedacht,</l>
+					<lb/><l>Unter Sünd und Freuden</l>
+					<lb/><l>Deines Lebens letzte Nacht,</l>
+					<lb/><l>Was wirſt du dann leiden:</l>
+					<lb/><l>Wenn dein Herz</l>
+					<lb/><l>Von dem Schmerz</l>
+					<lb/><l>Deiner Schuld zerriſsen</l>
+					<lb/><l>Wird verzagen müſsen.</l>
 				</lg>
 				<lg>
-					<l>Wenn vor deinem Antlitz ſich</l>
-					<l>Jede Sünd enthüllet,</l>
-					<l>Wenn dann jede, jede dich</l>
-					<l>Ganz mit Graun erfüllet:</l>
-					<l>Dich nichts dann</l>
-					<l>Stärken kann,</l>
-					<l>Keine deiner Freuden:</l>
-					<l>Was wirſt du dann leiden!</l>
+					<lb/><l>Wenn vor deinem Antlitz ſich</l>
+					<lb/><l>Jede Sünd enthüllet,</l>
+					<lb/><l>Wenn dann jede, jede dich</l>
+					<lb/><l>Ganz mit Graun erfüllet:</l>
+					<lb/><l>Dich nichts dann</l>
+					<lb/><l>Stärken kann,</l>
+					<lb/><l>Keine deiner Freuden:</l>
+					<lb/><l>Was wirſt du dann leiden!</l>
 				</lg>
 				<lg>
-					<l>Ach, wie Bang um Troſt und Ruh</l>
-					<l>An des Grabes Stufen,</l>
-					<l>Nah dem Untergang wirſt du</l>
-					<l>Dann vergebens rufen:</l>
-					<l>Rette, <rs type="person" key="G0001">Gott</rs>,</l>
-					<l>Mich vom Tod!</l>
-					<l>Höre, <rs type="person" key="G0001">Vater</rs>! Richter!</l>
-					<l>Schöpfer und Vernichter!</l>
+					<lb/><l>Ach, wie Bang um Troſt und Ruh</l>
+					<lb/><l>An des Grabes Stufen,</l>
+					<lb/><l>Nah dem Untergang wirſt du</l>
+					<lb/><l>Dann vergebens rufen:</l>
+					<lb/><l>Rette, <rs type="person" key="G0001">Gott</rs>,</l>
+					<lb/><l>Mich vom Tod!</l>
+					<lb/><l>Höre, <rs type="person" key="G0001">Vater</rs>! Richter!</l>
+					<lb/><l>Schöpfer und Vernichter!</l>
 				</lg>
 				<lg>
-					<l>Noch, noch wandelſt du, o Chriſt,</l>
-					<l>Auf des Lebens Pfade,</l>
-					<l>Nah zu deiner Rettung iſt</l>
-					<l>Dir des Ewgen Gnade.</l>
-					<l>Eil ihr zu,</l>
-					<l>Daß du Ruh</l>
-					<l>Für dein Herz empfindeſt</l>
-					<l>Und Vergebung findeſt.</l>
+					<lb/><l>Noch, noch wandelſt du, o Chriſt,</l>
+					<lb/><l>Auf des Lebens Pfade,</l>
+					<lb/><l>Nah zu deiner Rettung iſt</l>
+					<lb/><l>Dir des Ewgen Gnade.</l>
+					<lb/><l>Eil ihr zu,</l>
+					<lb/><l>Daß du Ruh</l>
+					<lb/><l>Für dein Herz empfindeſt</l>
+					<lb/><l>Und Vergebung findeſt.</l>
 				</lg>
 			</div>
 		</body>

@@ -7,7 +7,7 @@
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
-            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+            <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -76,7 +76,6 @@
                   <occupation>Komponist</occupation>
                   <note type="bioSummary"/>
                   <idno type="GND">118505505</idno>
-                  <idno type="WeGA"/>
                   <persName type="sigla" subtype="Kast"/>
                   <persName type="sigla" subtype="Blechschmidt"/>
                   <persName type="sigla" subtype="Dürr"/>
@@ -189,66 +188,66 @@
          <pb n="5" ed="CPEB1792"/>
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
-            <head type="title">Menſchenliebe Jeſu.</head>
+            <head><title>Menſchenliebe Jeſu.</title></head>
             <lg>
-               <l>Dich bet ich an, <rs type="person" key="J0001">Herr Jeſu Chriſt</rs>,</l>
-               <l>Du Heil der Menſchenkinder,</l>
-               <l>Der du ſo reich an Gnade biſt,</l>
-               <l>So zärtlich gegen Sünder!</l>
-               <l>Du biſt des Blöden Zuverſicht,</l>
-               <l>Nie wendeſt du dein Angeſicht</l>
-               <l>Von des Bedrängten Flehen.</l>
-               <l>Du ſiehſt mit gnadenvollem Blick</l>
-               <l>Auf ihn in ſeiner Noth zurück,</l>
-               <l>Und eilſt, ihm beyzuſtehen.</l>
+               <lb/><l>Dich bet ich an, <rs type="person" key="J0001">Herr Jeſu Chriſt</rs>,</l>
+               <lb/><l>Du Heil der Menſchenkinder,</l>
+               <lb/><l>Der du ſo reich an Gnade biſt,</l>
+               <lb/><l>So zärtlich gegen Sünder!</l>
+               <lb/><l>Du biſt des Blöden Zuverſicht,</l>
+               <lb/><l>Nie wendeſt du dein Angeſicht</l>
+               <lb/><l>Von des Bedrängten Flehen.</l>
+               <lb/><l>Du ſiehſt mit gnadenvollem Blick</l>
+               <lb/><l>Auf ihn in ſeiner Noth zurück,</l>
+               <lb/><l>Und eilſt, ihm beyzuſtehen.</l>
             </lg>
             <lg>
-               <l>Dein Leben in der Sterblichkeit</l>
-               <l>War für die Menſchen Segen.</l>
-               <l>Dir folgten Lieb und Freundlichkeit</l>
-               <l>Auf allen deinen Wegen.</l>
-               <l>Wohin du giengſt, gieng Wohlthun mit;</l>
-               <l>Dein Wort, dein Werk und jeden Schritt</l>
-               <l>Begleitete Erbarmen.</l>
-               <l>Du übernahmſt die ſchwere Pein,</l>
-               <l>Uns vom Verderben zu befreyn,</l>
-               <l>Und ſtarbſt zum Heil uns Armen.</l>
+               <lb/><l>Dein Leben in der Sterblichkeit</l>
+               <lb/><l>War für die Menſchen Segen.</l>
+               <lb/><l>Dir folgten Lieb und Freundlichkeit</l>
+               <lb/><l>Auf allen deinen Wegen.</l>
+               <lb/><l>Wohin du giengſt, gieng Wohlthun mit;</l>
+               <lb/><l>Dein Wort, dein Werk und jeden Schritt</l>
+               <lb/><l>Begleitete Erbarmen.</l>
+               <lb/><l>Du übernahmſt die ſchwere Pein,</l>
+               <lb/><l>Uns vom Verderben zu befreyn,</l>
+               <lb/><l>Und ſtarbſt zum Heil uns Armen.</l>
             </lg>
             <lg>
-               <l>Auch itzt noch auf der Himmel Thron</l>
-               <l>Biſt du der Troſt der Sünder.</l>
-               <l>Auch da bleibſt du, o <rs type="person" key="J0001">Gottes Sohn</rs>!</l>
-               <l>Ein Freund der Menſchenkinder.</l>
-               <l>Du ſchaffſt den Deinen wahre Ruh,</l>
-               <l>Und die Verirrten ſucheſt du</l>
-               <l>Auf rechten Weg zu leiten.</l>
-               <l>Du hörſt der Seufzenden Gebet,</l>
-               <l>Und braucheſt deine Majeſtät,</l>
-               <l>Nur Segen auſzubreiten.</l>
+               <lb/><l>Auch itzt noch auf der Himmel Thron</l>
+               <lb/><l>Biſt du der Troſt der Sünder.</l>
+               <lb/><l>Auch da bleibſt du, o <rs type="person" key="J0001">Gottes Sohn</rs>!</l>
+               <lb/><l>Ein Freund der Menſchenkinder.</l>
+               <lb/><l>Du ſchaffſt den Deinen wahre Ruh,</l>
+               <lb/><l>Und die Verirrten ſucheſt du</l>
+               <lb/><l>Auf rechten Weg zu leiten.</l>
+               <lb/><l>Du hörſt der Seufzenden Gebet,</l>
+               <lb/><l>Und braucheſt deine Majeſtät,</l>
+               <lb/><l>Nur Segen auſzubreiten.</l>
             </lg>
             <lg>
-               <l>O laß in meiner Pilgerſchaft</l>
-               <l>Mich auf dein Vorbild ſehen.</l>
-               <l>Erfülle mich mit Luſt und Kraft,</l>
-               <l>Dem Nächſten beyzuſtehen:</l>
-               <l>Betrübter Herzen Troſt zu ſeyn,</l>
-               <l>Mich mit den Fröhlichen zu freun,</l>
-               <l>Mit Weinenden zu klagen.</l>
-               <l>Laß mich dem, der ſein Herz mir weiht,</l>
-               <l>Ein Herz voll frommer Redlichkeit</l>
-               <l>Und Treue nicht verſagen.</l>
+               <lb/><l>O laß in meiner Pilgerſchaft</l>
+               <lb/><l>Mich auf dein Vorbild ſehen.</l>
+               <lb/><l>Erfülle mich mit Luſt und Kraft,</l>
+               <lb/><l>Dem Nächſten beyzuſtehen:</l>
+               <lb/><l>Betrübter Herzen Troſt zu ſeyn,</l>
+               <lb/><l>Mich mit den Fröhlichen zu freun,</l>
+               <lb/><l>Mit Weinenden zu klagen.</l>
+               <lb/><l>Laß mich dem, der ſein Herz mir weiht,</l>
+               <lb/><l>Ein Herz voll frommer Redlichkeit</l>
+               <lb/><l>Und Treue nicht verſagen.</l>
             </lg>
             <lg>
-               <l>Laß mich mit brüderlicher Huld</l>
-               <l>Den Strauchelnden erwecken;</l>
-               <l>Durch Sanftmuth, Mitleid und Geduld</l>
-               <l>Des Nächſten Fehler decken.</l>
-               <l>Mein Antlitz ſey nie fürchterlich,</l>
-               <l>Und meine Seele neige ſich</l>
-               <l>Zu des Bedrängten Flehen!</l>
-               <l>So wird mich in der beſsern Welt,</l>
-               <l>Die nur Beglückte in ſich hält,</l>
-               <l>Der Liebe Lohn erhöhen.</l>
+               <lb/><l>Laß mich mit brüderlicher Huld</l>
+               <lb/><l>Den Strauchelnden erwecken;</l>
+               <lb/><l>Durch Sanftmuth, Mitleid und Geduld</l>
+               <lb/><l>Des Nächſten Fehler decken.</l>
+               <lb/><l>Mein Antlitz ſey nie fürchterlich,</l>
+               <lb/><l>Und meine Seele neige ſich</l>
+               <lb/><l>Zu des Bedrängten Flehen!</l>
+               <lb/><l>So wird mich in der beſsern Welt,</l>
+               <lb/><l>Die nur Beglückte in ſich hält,</l>
+               <lb/><l>Der Liebe Lohn erhöhen.</l>
             </lg>
          </div>
       </body>

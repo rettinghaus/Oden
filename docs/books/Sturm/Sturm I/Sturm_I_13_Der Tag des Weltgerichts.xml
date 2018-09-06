@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -73,7 +73,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -185,41 +184,41 @@
 		<body>
 			<pb n="13" ed="CPEB1780"/>
 			<div type="chorale">
-				<head type="title">Der Tag des Weltgerichts.</head>
+				<head><title>Der Tag des Weltgerichts.</title></head>
 				<lg>
-					<l>Wann der Erde Gründe beben,</l>
-					<l>Und in Totengrüften Leben</l>
-					<l>Und im Staube Jugendſtärke wallt:</l>
-					<l>Wann des Auferweckers Stimme ſchallt:</l>
-					<l><rs type="person" key="G0001">Gott</rs>! erbarm dich unſer!</l>
+					<lb/><l>Wann der Erde Gründe beben,</l>
+					<lb/><l>Und in Totengrüften Leben</l>
+					<lb/><l>Und im Staube Jugendſtärke wallt:</l>
+					<lb/><l>Wann des Auferweckers Stimme ſchallt:</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>! erbarm dich unſer!</l>
 				</lg>
 				<lg>
-					<l>Wann mit donnerndem Getümmel,</l>
-					<l>O <rs type="person" key="G0001">Allmächt’ger</rs>, deine Himmel</l>
-					<l>Und des Erdballs Reiche ſchnell vergehn,</l>
-					<l>Und wir wankend auf den Trümmern ſtehn:</l>
-					<l><rs type="person" key="G0001">Gott</rs>! erbarm dich unſer!</l>
+					<lb/><l>Wann mit donnerndem Getümmel,</l>
+					<lb/><l>O <rs type="person" key="G0001">Allmächt’ger</rs>, deine Himmel</l>
+					<lb/><l>Und des Erdballs Reiche ſchnell vergehn,</l>
+					<lb/><l>Und wir wankend auf den Trümmern ſtehn:</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>! erbarm dich unſer!</l>
 				</lg>
 				<lg>
-					<l>Wann auf deinem Wolkenwagen,</l>
-					<l>Von Zehntauſenden getragen,</l>
-					<l><rs type="person" key="G0001">Weltenrichter</rs>, du herniederfährſt</l>
-					<l>Und den Übelthätern ſchwörſt:</l>
-					<l><rs type="person" key="G0001">Gott</rs>! erbarm dich unſer!</l>
+					<lb/><l>Wann auf deinem Wolkenwagen,</l>
+					<lb/><l>Von Zehntauſenden getragen,</l>
+					<lb/><l><rs type="person" key="G0001">Weltenrichter</rs>, du herniederfährſt</l>
+					<lb/><l>Und den Übelthätern ſchwörſt:</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>! erbarm dich unſer!</l>
 				</lg>
 				<lg>
-					<l>Wann mit Zittern und Entzücken</l>
-					<l>Alle Völker nach dir blicken,</l>
-					<l>Und dein flammend Richterangeſicht</l>
-					<l>Fluch und Lohn in ihre Seele ſpricht:</l>
-					<l><rs type="person" key="G0001">Gott</rs>! erbarm dich unſer!</l>
+					<lb/><l>Wann mit Zittern und Entzücken</l>
+					<lb/><l>Alle Völker nach dir blicken,</l>
+					<lb/><l>Und dein flammend Richterangeſicht</l>
+					<lb/><l>Fluch und Lohn in ihre Seele ſpricht:</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>! erbarm dich unſer!</l>
 				</lg>
 				<lg>
-					<l>Wann auch ich dann vor dir ſtehe,</l>
-					<l>Und mein Aug zu deiner Höhe</l>
-					<l>Bebend nur empor zu ſchauen wagt.</l>
-					<l>Wann in mir die ganze Menſchheit zagt:</l>
-					<l><rs type="person" key="G0001">Gott</rs>! Erbarm dich meiner!</l>
+					<lb/><l>Wann auch ich dann vor dir ſtehe,</l>
+					<lb/><l>Und mein Aug zu deiner Höhe</l>
+					<lb/><l>Bebend nur empor zu ſchauen wagt.</l>
+					<lb/><l>Wann in mir die ganze Menſchheit zagt:</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>! Erbarm dich meiner!</l>
 				</lg>
 			</div>
 		</body>

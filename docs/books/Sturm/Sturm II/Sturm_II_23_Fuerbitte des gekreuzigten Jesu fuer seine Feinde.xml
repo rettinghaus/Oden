@@ -7,7 +7,7 @@
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
-            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+            <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -76,7 +76,6 @@
                   <occupation>Komponist</occupation>
                   <note type="bioSummary"/>
                   <idno type="GND">118505505</idno>
-                  <idno type="WeGA"/>
                   <persName type="sigla" subtype="Kast"/>
                   <persName type="sigla" subtype="Blechschmidt"/>
                   <persName type="sigla" subtype="Dürr"/>
@@ -189,98 +188,98 @@
          <pb n="23" ed="CPEB1792"/>
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
-            <head type="title">Fürbitte des gekreuzigten Jeſu für ſeine Feinde.</head>
+            <head><title>Fürbitte des gekreuzigten Jeſu für ſeine Feinde.</title></head>
             <!-- Text der erſten Strophe ſteht innerhalb des Notentexts, hier weicht die Groß-/Kleinſchreibung am Zeilenanfang ab. Die übrigen Strophen ſind in in dieſer Auſgabe nummeriert-->
             <lg>
-               <l>Um Gnade für die Sünderwelt</l>
-               <l>Stehſt du, <rs type="person" key="J0001">mein Heil</rs>, am Kreuz gequält</l>
-               <l>Von frecher Sünder Rotten.</l>
-               <l>Dir blutet das bedrängte Herz,</l>
-               <l>Wenn dich bey deinem herben Schmerz</l>
-               <l>Die Böſewichter ſpotten.</l>
-               <l>Du ſiehſt mit ſegenvollem Blick</l>
-               <l>Von ihnen weg, auf den zurück,</l>
-               <l>Den dieſe Schaar in dir entehrt;</l>
-               <l>Rufſt, daß es Erd und Himmel hört:</l>
-               <l>Vergib, O <rs type="person" key="G0001">Gott</rs>!</l>
-               <l>Und führe nicht ſie ins Gericht!</l>
-               <l>Das, was ſie thun, verſtehn ſie nicht.</l>
+               <lb/><l>Um Gnade für die Sünderwelt</l>
+               <lb/><l>Stehſt du, <rs type="person" key="J0001">mein Heil</rs>, am Kreuz gequält</l>
+               <lb/><l>Von frecher Sünder Rotten.</l>
+               <lb/><l>Dir blutet das bedrängte Herz,</l>
+               <lb/><l>Wenn dich bey deinem herben Schmerz</l>
+               <lb/><l>Die Böſewichter ſpotten.</l>
+               <lb/><l>Du ſiehſt mit ſegenvollem Blick</l>
+               <lb/><l>Von ihnen weg, auf den zurück,</l>
+               <lb/><l>Den dieſe Schaar in dir entehrt;</l>
+               <lb/><l>Rufſt, daß es Erd und Himmel hört:</l>
+               <lb/><l>Vergib, O <rs type="person" key="G0001">Gott</rs>!</l>
+               <lb/><l>Und führe nicht ſie ins Gericht!</l>
+               <lb/><l>Das, was ſie thun, verſtehn ſie nicht.</l>
             </lg>
             <lg n="2">
-               <l>Erſtaunend ſeh ich dieſe Huld.</l>
-               <l>Wie mitleidvoll iſt die Geduld,</l>
-               <l>Die Mörder ſo erträget!</l>
-               <l>Ihr, die ihr euren <rs type="person" key="J0001">Heiland</rs> ehrt,</l>
-               <l>Fühlt ſeiner Großmuth hohen Werth</l>
-               <l>Und danket ihm beweget.</l>
-               <l>Er hat durch ſegnendes Gebet</l>
-               <l>Auch uns ein ewges Heil erfleht.</l>
-               <l>Auch uns ſagt er zu unſrer Ruh</l>
-               <l>Erbarmen und Vergebung zu.</l>
-               <l><rs type="person" key="J0001">Herr Jeſu Chriſt</rs>,</l>
-               <l>Preis deinem Tod! Preis deinem Tod!</l>
-               <l><rs type="person" key="G0001">Gott</rs> iſt durch dich der Sünder Gott!</l>
+               <lb/><l>Erſtaunend ſeh ich dieſe Huld.</l>
+               <lb/><l>Wie mitleidvoll iſt die Geduld,</l>
+               <lb/><l>Die Mörder ſo erträget!</l>
+               <lb/><l>Ihr, die ihr euren <rs type="person" key="J0001">Heiland</rs> ehrt,</l>
+               <lb/><l>Fühlt ſeiner Großmuth hohen Werth</l>
+               <lb/><l>Und danket ihm beweget.</l>
+               <lb/><l>Er hat durch ſegnendes Gebet</l>
+               <lb/><l>Auch uns ein ewges Heil erfleht.</l>
+               <lb/><l>Auch uns ſagt er zu unſrer Ruh</l>
+               <lb/><l>Erbarmen und Vergebung zu.</l>
+               <lb/><l><rs type="person" key="J0001">Herr Jeſu Chriſt</rs>,</l>
+               <lb/><l>Preis deinem Tod! Preis deinem Tod!</l>
+               <lb/><l><rs type="person" key="G0001">Gott</rs> iſt durch dich der Sünder Gott!</l>
             </lg>
             <lg n="3">
-               <l>Daß er mit Langmuth und Geduld</l>
-               <l>Auch ſelbſt bey ſehr gehäufter Schuld,</l>
-               <l>Des Böſen dennoch ſchonet;</l>
-               <l>Daß er ſo liebreich ihrer denkt,</l>
-               <l>Und ihnen Friſt zur Buße ſchenkt,</l>
-               <l>Eh nach Verdienſt er lohnet:</l>
-               <l>Daß ich noch fröhlich ſagen kann:</l>
-               <l>Auch mich, mich Sünder nimmt <rs type="person" key="G0001">Gott</rs> an:</l>
-               <l>Dies Heil hat deiner Fürſprach Kraft,</l>
-               <l>Mein treuer Heiland, mir verſchafft.</l>
-               <l>O <rs type="person" key="J0001">Jeſu Chriſt</rs>,</l>
-               <l>Mein <rs type="person" key="J0001">Herr und Gott</rs>! mein <rs type="person"
+               <lb/><l>Daß er mit Langmuth und Geduld</l>
+               <lb/><l>Auch ſelbſt bey ſehr gehäufter Schuld,</l>
+               <lb/><l>Des Böſen dennoch ſchonet;</l>
+               <lb/><l>Daß er ſo liebreich ihrer denkt,</l>
+               <lb/><l>Und ihnen Friſt zur Buße ſchenkt,</l>
+               <lb/><l>Eh nach Verdienſt er lohnet:</l>
+               <lb/><l>Daß ich noch fröhlich ſagen kann:</l>
+               <lb/><l>Auch mich, mich Sünder nimmt <rs type="person" key="G0001">Gott</rs> an:</l>
+               <lb/><l>Dies Heil hat deiner Fürſprach Kraft,</l>
+               <lb/><l>Mein treuer Heiland, mir verſchafft.</l>
+               <lb/><l>O <rs type="person" key="J0001">Jeſu Chriſt</rs>,</l>
+               <lb/><l>Mein <rs type="person" key="J0001">Herr und Gott</rs>! mein <rs type="person"
                      key="J0001">Herr und Gott</rs>!</l>
-               <l>Vertritt du mich bis in den Tod.</l>
+               <lb/><l>Vertritt du mich bis in den Tod.</l>
             </lg>
             <lg n="4">
-               <l>Iſt je mein Geiſt von Troſte leer,</l>
-               <l>Wenn meiner Miſsethaten Heer</l>
-               <l>Aufs Neue mich erſchrecket:</l>
-               <l>O dann verſichre mich aufs neu,</l>
-               <l>Du ſteheſt mir als <rs type="person" key="J0001">Mittler</rs> bey,</l>
-               <l>Der alle Schuld bedecket.</l>
-               <l>Ich blicke glaubenſvoll auf dich;</l>
-               <l>Sey du mir nur nicht fürchterlich!</l>
-               <l>Und ſchließt ſich meine Pilgerſchaft,</l>
-               <l>So ſtärke mich mit neuer Kraft.</l>
-               <l><rs type="person" key="J0001">Herr Jeſu Chriſt</rs>!</l>
-               <l>Der letzte Kampf wird mir versüßt,</l>
-               <l>Wenn du mein Troſt im Tode biſt.</l>
+               <lb/><l>Iſt je mein Geiſt von Troſte leer,</l>
+               <lb/><l>Wenn meiner Miſsethaten Heer</l>
+               <lb/><l>Aufs Neue mich erſchrecket:</l>
+               <lb/><l>O dann verſichre mich aufs neu,</l>
+               <lb/><l>Du ſteheſt mir als <rs type="person" key="J0001">Mittler</rs> bey,</l>
+               <lb/><l>Der alle Schuld bedecket.</l>
+               <lb/><l>Ich blicke glaubenſvoll auf dich;</l>
+               <lb/><l>Sey du mir nur nicht fürchterlich!</l>
+               <lb/><l>Und ſchließt ſich meine Pilgerſchaft,</l>
+               <lb/><l>So ſtärke mich mit neuer Kraft.</l>
+               <lb/><l><rs type="person" key="J0001">Herr Jeſu Chriſt</rs>!</l>
+               <lb/><l>Der letzte Kampf wird mir versüßt,</l>
+               <lb/><l>Wenn du mein Troſt im Tode biſt.</l>
             </lg>
             <lg n="5">
-               <l>Den ſanften, liebeſvollen Sinn,</l>
-               <l>Daß ich ein Freund der Feinde bin,</l>
-               <l>Flöß, <rs type="person" key="J0001">Herr</rs>, in meine Seele.</l>
-               <l>Gib, daß bey der Verfolgung Schmerz</l>
-               <l>Ich dir des Feindes hartes Herz,</l>
-               <l>Dir meine Noth befehle.</l>
-               <l>Besänftige mein wallend Blut:</l>
-               <l>Und flammt des Zornes wilde Glut</l>
-               <l>Mein Herz zur Rachbegierde an:</l>
-               <l>O ſo erinnre mich daran,</l>
-               <l><rs type="person" key="J0001">Herr Jeſu Chriſt</rs>,</l>
-               <l>Wie du am Kreuz durch dein Gebet</l>
-               <l>Selbſt deinen Mördern Gnad erfleht.</l>
+               <lb/><l>Den ſanften, liebeſvollen Sinn,</l>
+               <lb/><l>Daß ich ein Freund der Feinde bin,</l>
+               <lb/><l>Flöß, <rs type="person" key="J0001">Herr</rs>, in meine Seele.</l>
+               <lb/><l>Gib, daß bey der Verfolgung Schmerz</l>
+               <lb/><l>Ich dir des Feindes hartes Herz,</l>
+               <lb/><l>Dir meine Noth befehle.</l>
+               <lb/><l>Besänftige mein wallend Blut:</l>
+               <lb/><l>Und flammt des Zornes wilde Glut</l>
+               <lb/><l>Mein Herz zur Rachbegierde an:</l>
+               <lb/><l>O ſo erinnre mich daran,</l>
+               <lb/><l><rs type="person" key="J0001">Herr Jeſu Chriſt</rs>,</l>
+               <lb/><l>Wie du am Kreuz durch dein Gebet</l>
+               <lb/><l>Selbſt deinen Mördern Gnad erfleht.</l>
             </lg>
             <lg n="6">
-               <l>Mich tröſte dein Versöhnungſtod!</l>
-               <l>Es bilde mich dein Geiſt, mein <rs type="person" key="J0001">Gott</rs>,</l>
-               <l>Daß ich dir ähnlich werde.</l>
-               <l>O zeuch mich, du erhöhter Held,</l>
-               <l>Zu dir hinauf vom Dienſt der Welt,</l>
-               <l>Zum Himmel von der Erde!</l>
-               <l>Du biſt der Deinen Schutzpanier.</l>
-               <l>Zeuch dir uns nach, ſo laufen wir:</l>
-               <l>So wollen wir uns deiner Pein</l>
-               <l>Und deiner Fürſprach ewig freun.</l>
-               <l><rs type="person" key="J0001">Herr Jeſu Chriſt</rs>!</l>
-               <l>Wie ſelig iſt! Wie ſelig iſt</l>
-               <l>Der Menſch, dem du ſein Heiland biſt.</l>
+               <lb/><l>Mich tröſte dein Versöhnungſtod!</l>
+               <lb/><l>Es bilde mich dein Geiſt, mein <rs type="person" key="J0001">Gott</rs>,</l>
+               <lb/><l>Daß ich dir ähnlich werde.</l>
+               <lb/><l>O zeuch mich, du erhöhter Held,</l>
+               <lb/><l>Zu dir hinauf vom Dienſt der Welt,</l>
+               <lb/><l>Zum Himmel von der Erde!</l>
+               <lb/><l>Du biſt der Deinen Schutzpanier.</l>
+               <lb/><l>Zeuch dir uns nach, ſo laufen wir:</l>
+               <lb/><l>So wollen wir uns deiner Pein</l>
+               <lb/><l>Und deiner Fürſprach ewig freun.</l>
+               <lb/><l><rs type="person" key="J0001">Herr Jeſu Chriſt</rs>!</l>
+               <lb/><l>Wie ſelig iſt! Wie ſelig iſt</l>
+               <lb/><l>Der Menſch, dem du ſein Heiland biſt.</l>
             </lg>
          </div>
       </body>

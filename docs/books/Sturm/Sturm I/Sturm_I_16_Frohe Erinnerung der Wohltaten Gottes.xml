@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -73,7 +73,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -185,60 +184,60 @@
 		<body>
 			<pb n="16" ed="CPEB1780"/>
 			<div type="chorale">
-				<head type="title">Frohe Erinnerung der Wohlthaten Gottes.</head>
+				<head><title>Frohe Erinnerung der Wohlthaten Gottes.</title></head>
 				<lg>
-					<l>Auch mich, o <rs type="person" key="G0001">Herr</rs>, haſt du gemacht:</l>
-					<l>Von dir hab ich mein Leben.</l>
-					<l>Du haſt durch deine Güt und Macht,</l>
-					<l>Mir, was ich hab, gegeben.</l>
-					<l>Was iſt der Menſch, der Staub, vor dir?</l>
-					<l>Herr, was bin ich, daß du zu mir</l>
-					<l>So gnadenvoll dich neigeſt?</l>
+					<lb/><l>Auch mich, o <rs type="person" key="G0001">Herr</rs>, haſt du gemacht:</l>
+					<lb/><l>Von dir hab ich mein Leben.</l>
+					<lb/><l>Du haſt durch deine Güt und Macht,</l>
+					<lb/><l>Mir, was ich hab, gegeben.</l>
+					<lb/><l>Was iſt der Menſch, der Staub, vor dir?</l>
+					<lb/><l>Herr, was bin ich, daß du zu mir</l>
+					<lb/><l>So gnadenvoll dich neigeſt?</l>
 				</lg>
 				<lg>
-					<l>Von Kindheit an war über mir,</l>
-					<l><rs type="person" key="G0001">Gott</rs>, deine Güte neue:</l>
-					<l>Und jedes Gute kömmt von dir,</l>
-					<l>Deß ich mich jetzt erfreue.</l>
-					<l>Wohin ich ſchau, entdeck ich dich;</l>
-					<l>Du ſegneſt und erfreueſt mich</l>
-					<l>Durch alle deine Werke.</l>
+					<lb/><l>Von Kindheit an war über mir,</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, deine Güte neue:</l>
+					<lb/><l>Und jedes Gute kömmt von dir,</l>
+					<lb/><l>Deß ich mich jetzt erfreue.</l>
+					<lb/><l>Wohin ich ſchau, entdeck ich dich;</l>
+					<lb/><l>Du ſegneſt und erfreueſt mich</l>
+					<lb/><l>Durch alle deine Werke.</l>
 				</lg>
 				<lg>
-					<l>O <rs type="person" key="G0001">Gott</rs>, in jedem Augenblick</l>
-					<l>Empfind ich deine Güte.</l>
-					<l>Dir dank ich meiner Tage Glück,</l>
-					<l>Dir meines Lebens Blüthe:</l>
-					<l>Dir Glieder, Sinnen und Verſtand,</l>
-					<l>Dir Güter, Freund und Vaterland,</l>
-					<l>Die zahlenloſe Freuden.</l>
+					<lb/><l>O <rs type="person" key="G0001">Gott</rs>, in jedem Augenblick</l>
+					<lb/><l>Empfind ich deine Güte.</l>
+					<lb/><l>Dir dank ich meiner Tage Glück,</l>
+					<lb/><l>Dir meines Lebens Blüthe:</l>
+					<lb/><l>Dir Glieder, Sinnen und Verſtand,</l>
+					<lb/><l>Dir Güter, Freund und Vaterland,</l>
+					<lb/><l>Die zahlenloſe Freuden.</l>
 				</lg>
 				<lg>
-					<l>Was mich ſo froh und glücklich macht,</l>
-					<l>Am Leib und am Gemüthe;</l>
-					<l>So vieles Heil bey Tag und Nacht,</l>
-					<l>Iſt alles deine Güte.</l>
-					<l>Durch dich gibt Berg und Wald und Flur,</l>
-					<l>Durch dich gibt jede Creatur</l>
-					<l>Mir Nahrung, Stärkung, Freude.</l>
+					<lb/><l>Was mich ſo froh und glücklich macht,</l>
+					<lb/><l>Am Leib und am Gemüthe;</l>
+					<lb/><l>So vieles Heil bey Tag und Nacht,</l>
+					<lb/><l>Iſt alles deine Güte.</l>
+					<lb/><l>Durch dich gibt Berg und Wald und Flur,</l>
+					<lb/><l>Durch dich gibt jede Creatur</l>
+					<lb/><l>Mir Nahrung, Stärkung, Freude.</l>
 				</lg>
 				<lg>
-					<l>Kommt, Menſchenkinder, kommet her!</l>
-					<l>Lobt mit mir unſern <rs type="person" key="G0001">Vater</rs>!</l>
-					<l>Der uns ernährt und ſchützt, iſt Er,</l>
-					<l>Er, unſer aller <rs type="person" key="G0001">Vater</rs>!</l>
-					<l>Kommt, laßt uns ſeine Güte freun,</l>
-					<l>Ihm ewig, ewig dankbar ſeyn</l>
-					<l>Und ihm zur Ehre leben.</l>
+					<lb/><l>Kommt, Menſchenkinder, kommet her!</l>
+					<lb/><l>Lobt mit mir unſern <rs type="person" key="G0001">Vater</rs>!</l>
+					<lb/><l>Der uns ernährt und ſchützt, iſt Er,</l>
+					<lb/><l>Er, unſer aller <rs type="person" key="G0001">Vater</rs>!</l>
+					<lb/><l>Kommt, laßt uns ſeine Güte freun,</l>
+					<lb/><l>Ihm ewig, ewig dankbar ſeyn</l>
+					<lb/><l>Und ihm zur Ehre leben.</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Gott</rs>, der biſher uns Gutes gab,</l>
-					<l>Wird ferner uns bedenken,</l>
-					<l>Und bis ins Alter, bis zum Grab</l>
-					<l>Uns Heil und Freude ſchenken.</l>
-					<l>Und einſt im Himmel gibt uns Er</l>
-					<l>Vergnügen unauſsprechlich mehr</l>
-					<l>Und höhre Seligkeiten.</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, der biſher uns Gutes gab,</l>
+					<lb/><l>Wird ferner uns bedenken,</l>
+					<lb/><l>Und bis ins Alter, bis zum Grab</l>
+					<lb/><l>Uns Heil und Freude ſchenken.</l>
+					<lb/><l>Und einſt im Himmel gibt uns Er</l>
+					<lb/><l>Vergnügen unauſsprechlich mehr</l>
+					<lb/><l>Und höhre Seligkeiten.</l>
 				</lg>
 			</div>
 		</body>

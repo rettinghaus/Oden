@@ -7,7 +7,7 @@
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
-            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+            <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -76,7 +76,6 @@
                   <occupation>Komponist</occupation>
                   <note type="bioSummary"/>
                   <idno type="GND">118505505</idno>
-                  <idno type="WeGA"/>
                   <persName type="sigla" subtype="Kast"/>
                   <persName type="sigla" subtype="Blechschmidt"/>
                   <persName type="sigla" subtype="Dürr"/>
@@ -189,86 +188,86 @@
          <pb n="17" ed="CPEB1792"/>
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
-            <head type="title">Betrachtungen des Todes.</head>
+            <head><title>Betrachtungen des Todes.</title></head>
             <lg>
-               <l>Mein <rs type="person" key="J0001">Heiland</rs>, wenn mein Geiſt erfreut,</l>
-               <l>Im Glauben auf die Herrlichkeit</l>
-               <l>Des ewgen Erbtheils blicket,</l>
-               <l>Das du für mich bereitet haſt:</l>
-               <l>Wie leicht dünkt mir denn jede Laſt,</l>
-               <l>Die mich hienieden drücket?</l>
-               <l>Dann wird der Eitelkeiten Tand</l>
-               <l>Von mir in ſeinem Werth erkannt,</l>
-               <l>Der Erde Pracht iſt mir, wie Nichts,</l>
-               <l>Beim Anblick jenes ew’gen Lichts.</l>
-               <l><rs type="person" key="J0001">Herr Jeſu Chriſt</rs>!</l>
-               <l>Mein <rs type="person" key="J0001">Herr und Gott</rs>! mein <rs type="person"
+               <lb/><l>Mein <rs type="person" key="J0001">Heiland</rs>, wenn mein Geiſt erfreut,</l>
+               <lb/><l>Im Glauben auf die Herrlichkeit</l>
+               <lb/><l>Des ewgen Erbtheils blicket,</l>
+               <lb/><l>Das du für mich bereitet haſt:</l>
+               <lb/><l>Wie leicht dünkt mir denn jede Laſt,</l>
+               <lb/><l>Die mich hienieden drücket?</l>
+               <lb/><l>Dann wird der Eitelkeiten Tand</l>
+               <lb/><l>Von mir in ſeinem Werth erkannt,</l>
+               <lb/><l>Der Erde Pracht iſt mir, wie Nichts,</l>
+               <lb/><l>Beim Anblick jenes ew’gen Lichts.</l>
+               <lb/><l><rs type="person" key="J0001">Herr Jeſu Chriſt</rs>!</l>
+               <lb/><l>Mein <rs type="person" key="J0001">Herr und Gott</rs>! mein <rs type="person"
                      key="J0001">Herr und Gott</rs>!</l>
-               <l> Dies Heil verdank ich deinem Tod.</l>
+               <lb/><l> Dies Heil verdank ich deinem Tod.</l>
             </lg>
             <lg>
-               <l>Wenn einſt auf deinen Wink mein Geiſt</l>
-               <l>Des Körpers Banden ſich entreißt,</l>
-               <l>Dann ſtärkt ihn aus der Höhe:</l>
-               <l>Daß ich, durch deinen mächtgen Stab</l>
-               <l>Beſchützt, ins Todeſthal hinab</l>
-               <l>Getroſt und freudig gehe.</l>
-               <l>Die Klarheit jener beſsern Welt</l>
-               <l>Schaff, wenn mich Dunkelheit befällt,</l>
-               <l>In meinem finſtern Herzen Licht,</l>
-               <l>Und Heiterkeit im Angeſicht.</l>
-               <l><rs type="person" key="J0001">Herr Jeſu Chriſt</rs>!</l>
-               <l><rs type="person" key="J0001">Mein Herr und Gott</rs>! mein <rs type="person"
+               <lb/><l>Wenn einſt auf deinen Wink mein Geiſt</l>
+               <lb/><l>Des Körpers Banden ſich entreißt,</l>
+               <lb/><l>Dann ſtärkt ihn aus der Höhe:</l>
+               <lb/><l>Daß ich, durch deinen mächtgen Stab</l>
+               <lb/><l>Beſchützt, ins Todeſthal hinab</l>
+               <lb/><l>Getroſt und freudig gehe.</l>
+               <lb/><l>Die Klarheit jener beſsern Welt</l>
+               <lb/><l>Schaff, wenn mich Dunkelheit befällt,</l>
+               <lb/><l>In meinem finſtern Herzen Licht,</l>
+               <lb/><l>Und Heiterkeit im Angeſicht.</l>
+               <lb/><l><rs type="person" key="J0001">Herr Jeſu Chriſt</rs>!</l>
+               <lb/><l><rs type="person" key="J0001">Mein Herr und Gott</rs>! mein <rs type="person"
                      key="J0001">Herr und Gott</rs>!</l>
-               <l>Dann wird zum Schlummer mir der Tod.</l>
+               <lb/><l>Dann wird zum Schlummer mir der Tod.</l>
             </lg>
             <lg>
-               <l>Und wenn mein Geiſt aus Schüchternheit</l>
-               <l>Sich dennoch vor dem Tode ſcheut,</l>
-               <l>Weil ihn die Sünden kränken;</l>
-               <l>Dann laß mich, Herr, auf deinen Tod</l>
-               <l>Die Hoffnung baun: es werde <rs type="person" key="G0001">Gott</rs></l>
-               <l>Der Sünden nicht gedenken.</l>
-               <l>Der Troſt, den du auch mir erwarbſt,</l>
-               <l>Als du zum Heil der Sünder ſtarbſt,</l>
-               <l>Und fühlteſt, wie dich <rs type="person" key="G0001">Gott</rs> verließ,</l>
-               <l>Der mache mir das Sterben süß!</l>
-               <l>O <rs type="person" key="J0001">Jeſu Chriſt</rs>!</l>
-               <l>Mein <rs type="person" key="J0001">Herr und Gott</rs>! mein <rs type="person"
+               <lb/><l>Und wenn mein Geiſt aus Schüchternheit</l>
+               <lb/><l>Sich dennoch vor dem Tode ſcheut,</l>
+               <lb/><l>Weil ihn die Sünden kränken;</l>
+               <lb/><l>Dann laß mich, Herr, auf deinen Tod</l>
+               <lb/><l>Die Hoffnung baun: es werde <rs type="person" key="G0001">Gott</rs></l>
+               <lb/><l>Der Sünden nicht gedenken.</l>
+               <lb/><l>Der Troſt, den du auch mir erwarbſt,</l>
+               <lb/><l>Als du zum Heil der Sünder ſtarbſt,</l>
+               <lb/><l>Und fühlteſt, wie dich <rs type="person" key="G0001">Gott</rs> verließ,</l>
+               <lb/><l>Der mache mir das Sterben süß!</l>
+               <lb/><l>O <rs type="person" key="J0001">Jeſu Chriſt</rs>!</l>
+               <lb/><l>Mein <rs type="person" key="J0001">Herr und Gott</rs>! mein <rs type="person"
                      key="G0001">Herr und Gott</rs>!</l>
-               <l>Verlaß mich nicht in meinem Tod.</l>
+               <lb/><l>Verlaß mich nicht in meinem Tod.</l>
             </lg>
             <lg>
-               <l>Auf kurze Zeit ſchließt ſich zur Ruh</l>
-               <l>Mein thränenvolles Auge zu,</l>
-               <l>Und ſchlummert in dem Staube;</l>
-               <l>Doch der, der mich zum Grabe ruft,</l>
-               <l>Der ruft mich einſt auch aus der Gruft.</l>
-               <l>Ich weiß, an wen ich glaube.</l>
-               <l>Er lebet, und ich werd durch ihn</l>
-               <l>Der Grabeſnacht gewiß entfliehn.</l>
-               <l>Mein Geiſt und Leib aufs neu vereint</l>
-               <l>Schaun dich dann, großer Menſchenfreund.</l>
-               <l><rs type="person" key="J0001">Herr Jeſu Chriſt</rs>!</l>
-               <l>Mein <rs type="person" key="J0001">Herr und Gott</rs>! mein <rs type="person"
+               <lb/><l>Auf kurze Zeit ſchließt ſich zur Ruh</l>
+               <lb/><l>Mein thränenvolles Auge zu,</l>
+               <lb/><l>Und ſchlummert in dem Staube;</l>
+               <lb/><l>Doch der, der mich zum Grabe ruft,</l>
+               <lb/><l>Der ruft mich einſt auch aus der Gruft.</l>
+               <lb/><l>Ich weiß, an wen ich glaube.</l>
+               <lb/><l>Er lebet, und ich werd durch ihn</l>
+               <lb/><l>Der Grabeſnacht gewiß entfliehn.</l>
+               <lb/><l>Mein Geiſt und Leib aufs neu vereint</l>
+               <lb/><l>Schaun dich dann, großer Menſchenfreund.</l>
+               <lb/><l><rs type="person" key="J0001">Herr Jeſu Chriſt</rs>!</l>
+               <lb/><l>Mein <rs type="person" key="J0001">Herr und Gott</rs>! mein <rs type="person"
                      key="J0001">Herr und Gott</rs>!</l>
-               <l>Zum Leben machſt du mir den Tod.</l>
+               <lb/><l>Zum Leben machſt du mir den Tod.</l>
             </lg>
             <lg>
-               <l>Du bleibſt mein Troſt: ich ſchrecke nicht</l>
-               <l>Der Erde Brand, das Weltgericht,</l>
-               <l>Der Donner der Poſaunen!</l>
-               <l>Vor deinem Thron werd ich dann ſtehn,</l>
-               <l>Dich, <rs type="person" key="J0001">Richter aller Völker</rs>, ſehn,</l>
-               <l>Dich ſehn und froh erſtaunen.</l>
-               <l>Auch mir ſchenkſt du dann jenes Heil,</l>
-               <l>Der Auſerwählten ſelges Theil.</l>
-               <l>Ich ſoll, dein Mund ſchwur es mir zu.</l>
-               <l>Ich ſoll lebendig ſeyn, wie du.</l>
-               <l><rs type="person" key="J0001">Herr Jeſu Chriſt</rs>!</l>
-               <l>Mein <rs type="person" key="J0001">Herr und Gott</rs>! mein <rs type="person"
+               <lb/><l>Du bleibſt mein Troſt: ich ſchrecke nicht</l>
+               <lb/><l>Der Erde Brand, das Weltgericht,</l>
+               <lb/><l>Der Donner der Poſaunen!</l>
+               <lb/><l>Vor deinem Thron werd ich dann ſtehn,</l>
+               <lb/><l>Dich, <rs type="person" key="J0001">Richter aller Völker</rs>, ſehn,</l>
+               <lb/><l>Dich ſehn und froh erſtaunen.</l>
+               <lb/><l>Auch mir ſchenkſt du dann jenes Heil,</l>
+               <lb/><l>Der Auſerwählten ſelges Theil.</l>
+               <lb/><l>Ich ſoll, dein Mund ſchwur es mir zu.</l>
+               <lb/><l>Ich ſoll lebendig ſeyn, wie du.</l>
+               <lb/><l><rs type="person" key="J0001">Herr Jeſu Chriſt</rs>!</l>
+               <lb/><l>Mein <rs type="person" key="J0001">Herr und Gott</rs>! mein <rs type="person"
                      key="J0001">Herr und Gott</rs>!</l>
-               <l>Stärk dieſen Glauben einſt im Tod.</l>
+               <lb/><l>Stärk dieſen Glauben einſt im Tod.</l>
             </lg>
          </div>
       </body>

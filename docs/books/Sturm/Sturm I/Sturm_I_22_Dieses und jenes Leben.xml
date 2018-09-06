@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -73,7 +73,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -185,69 +184,69 @@
 		<body>
 			<pb n="22" ed="CPEB1780"/>
 			<div type="chorale">
-				<head type="title">Dieſes und jenes Leben.</head>
+				<head><title>Dieſes und jenes Leben.</title></head>
 				<lg>
-					<l>Ein Pilger bin ich in der Welt,</l>
-					<l>Und kurz ſind meine Tage.</l>
-					<l>So manche Noth, die mich befällt,</l>
-					<l>Reizt hier noch mich zur Klage.</l>
-					<l>Doch, <rs type="person" key="G0001">Vater</rs>, deine Ewigkeit</l>
-					<l>Versüßt mir meine Pilgerzeit</l>
-					<l>Und gibt mir Muth im Leiden.</l>
+					<lb/><l>Ein Pilger bin ich in der Welt,</l>
+					<lb/><l>Und kurz ſind meine Tage.</l>
+					<lb/><l>So manche Noth, die mich befällt,</l>
+					<lb/><l>Reizt hier noch mich zur Klage.</l>
+					<lb/><l>Doch, <rs type="person" key="G0001">Vater</rs>, deine Ewigkeit</l>
+					<lb/><l>Versüßt mir meine Pilgerzeit</l>
+					<lb/><l>Und gibt mir Muth im Leiden.</l>
 				</lg>
 				<lg>
-					<l>Itzt, da der Sünde Joch mich drückt,</l>
-					<l>Seufzt meine ſchwache Seele:</l>
-					<l>Wie bald iſt nicht mein Herz berückt!</l>
-					<l>Wer merkt, wie oft er fehle?</l>
-					<l>Doch einſt werd ich von Fehlern rein,</l>
-					<l>Ganz heilig und ganz ſelig ſeyn.</l>
-					<l>Dies tröſtet meine Seele.</l>
+					<lb/><l>Itzt, da der Sünde Joch mich drückt,</l>
+					<lb/><l>Seufzt meine ſchwache Seele:</l>
+					<lb/><l>Wie bald iſt nicht mein Herz berückt!</l>
+					<lb/><l>Wer merkt, wie oft er fehle?</l>
+					<lb/><l>Doch einſt werd ich von Fehlern rein,</l>
+					<lb/><l>Ganz heilig und ganz ſelig ſeyn.</l>
+					<lb/><l>Dies tröſtet meine Seele.</l>
 				</lg>
 				<lg>
-					<l>Vor meinen Augen wandeln ſie,</l>
-					<l>Die dich, Versöhner, ſchmähen.</l>
-					<l>Der Erde Reiz verblendet ſie,</l>
-					<l>Daß ſie dein Heil nicht ſehen.</l>
-					<l>Einſt bebt der Spötter Heer vor dir,</l>
-					<l>Vor deinem Richterblick: doch wir,</l>
-					<l>Wir werden vor dir jauchzen.</l>
+					<lb/><l>Vor meinen Augen wandeln ſie,</l>
+					<lb/><l>Die dich, Versöhner, ſchmähen.</l>
+					<lb/><l>Der Erde Reiz verblendet ſie,</l>
+					<lb/><l>Daß ſie dein Heil nicht ſehen.</l>
+					<lb/><l>Einſt bebt der Spötter Heer vor dir,</l>
+					<lb/><l>Vor deinem Richterblick: doch wir,</l>
+					<lb/><l>Wir werden vor dir jauchzen.</l>
 				</lg>
 				<lg>
-					<l>In ſtillen Nächten wein ich, <rs type="person" key="G0001">Herr</rs>,</l>
-					<l>Hinauf zu deiner Höhe.</l>
-					<l>Mein ſchwaches Herz ſeufzt freudenleer,</l>
-					<l>Wenn ich den Morgen ſehe.</l>
-					<l>Ein Blick gen Himmel tröſtet mich!</l>
-					<l>Und meine Thränen ſtillen ſich</l>
-					<l>Einſt ganz in jenem Leben.</l>
+					<lb/><l>In ſtillen Nächten wein ich, <rs type="person" key="G0001">Herr</rs>,</l>
+					<lb/><l>Hinauf zu deiner Höhe.</l>
+					<lb/><l>Mein ſchwaches Herz ſeufzt freudenleer,</l>
+					<lb/><l>Wenn ich den Morgen ſehe.</l>
+					<lb/><l>Ein Blick gen Himmel tröſtet mich!</l>
+					<lb/><l>Und meine Thränen ſtillen ſich</l>
+					<lb/><l>Einſt ganz in jenem Leben.</l>
 				</lg>
 				<lg>
-					<l>Wenn mich der Zukunft Schickſal ſchreckt,</l>
-					<l>Die Not in fernen Tagen;</l>
-					<l>Wenn ſie die Sorg in mir erweckt,</l>
-					<l>Ob ich ſie werd ertragen:</l>
-					<l>So mildert mir die Ewigkeit</l>
-					<l>Die Laſten dieſer Pilgerzeit</l>
-					<l>Und gibt dem Herzen Stärke.</l>
+					<lb/><l>Wenn mich der Zukunft Schickſal ſchreckt,</l>
+					<lb/><l>Die Not in fernen Tagen;</l>
+					<lb/><l>Wenn ſie die Sorg in mir erweckt,</l>
+					<lb/><l>Ob ich ſie werd ertragen:</l>
+					<lb/><l>So mildert mir die Ewigkeit</l>
+					<lb/><l>Die Laſten dieſer Pilgerzeit</l>
+					<lb/><l>Und gibt dem Herzen Stärke.</l>
 				</lg>
 				<lg>
-					<l>Der Tod, der itzt von ferne dräut,</l>
-					<l>Wenn er mir näher winket;</l>
-					<l>Wenn nach der Arbeit dieſer Zeit</l>
-					<l>Mein Haupt zum Schlummer ſinket:</l>
-					<l>So ſterb ich froh. An <rs type="person" key="J0001">Jeſu</rs> Thron</l>
-					<l>Iſt ſeiner Ueberwinder Lohn</l>
-					<l>Auch mir, auch mir bereitet.</l>
+					<lb/><l>Der Tod, der itzt von ferne dräut,</l>
+					<lb/><l>Wenn er mir näher winket;</l>
+					<lb/><l>Wenn nach der Arbeit dieſer Zeit</l>
+					<lb/><l>Mein Haupt zum Schlummer ſinket:</l>
+					<lb/><l>So ſterb ich froh. An <rs type="person" key="J0001">Jeſu</rs> Thron</l>
+					<lb/><l>Iſt ſeiner Ueberwinder Lohn</l>
+					<lb/><l>Auch mir, auch mir bereitet.</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Herr</rs>, dieſen Troſt, der mich erfreut,</l>
-					<l>Vermehr, in meinem Herzen.</l>
-					<l>Mich ſtärke deine Ewigkeit</l>
-					<l>Bei meiner Wallfahrt Schmerzen.</l>
-					<l>Sie ſey in meinem Tod mein Heil</l>
-					<l>Und einſt mein langgewünſchtes Theil,</l>
-					<l>Mit deinen Auſerwählten.</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, dieſen Troſt, der mich erfreut,</l>
+					<lb/><l>Vermehr, in meinem Herzen.</l>
+					<lb/><l>Mich ſtärke deine Ewigkeit</l>
+					<lb/><l>Bei meiner Wallfahrt Schmerzen.</l>
+					<lb/><l>Sie ſey in meinem Tod mein Heil</l>
+					<lb/><l>Und einſt mein langgewünſchtes Theil,</l>
+					<lb/><l>Mit deinen Auſerwählten.</l>
 				</lg>
 			</div>
 		</body>

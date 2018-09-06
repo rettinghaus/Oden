@@ -7,7 +7,7 @@
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
-            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+            <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -76,7 +76,6 @@
                   <occupation>Komponist</occupation>
                   <note type="bioSummary"/>
                   <idno type="GND">118505505</idno>
-                  <idno type="WeGA"/>
                   <persName type="sigla" subtype="Kast"/>
                   <persName type="sigla" subtype="Blechschmidt"/>
                   <persName type="sigla" subtype="Dürr"/>
@@ -189,78 +188,78 @@
          <pb n="3" ed="CPEB1792"/>
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
-            <head type="title">Vertrauen auf Gottes Vorſehung.</head>
+            <head><title>Vertrauen auf Gottes Vorſehung.</title></head>
             <lg>
-               <l>Was ſollt ich ängſtlich klagen,</l>
-               <l>Und in der Noth verzagen?</l>
-               <l><rs type="person" key="G0001">Der Höchſte</rs> ſorgt für mich.</l>
-               <l>Er ſorgt, daß meiner Seele</l>
-               <l>Kein wahres Wohlſeyn fehle:</l>
-               <l>Genug zum Troſt, mein Herz, für dich!</l>
+               <lb/><l>Was ſollt ich ängſtlich klagen,</l>
+               <lb/><l>Und in der Noth verzagen?</l>
+               <lb/><l><rs type="person" key="G0001">Der Höchſte</rs> ſorgt für mich.</l>
+               <lb/><l>Er ſorgt, daß meiner Seele</l>
+               <lb/><l>Kein wahres Wohlſeyn fehle:</l>
+               <lb/><l>Genug zum Troſt, mein Herz, für dich!</l>
             </lg>
             <lg>
-               <l>Was nützt es, heidniſch ſorgen,</l>
-               <l>Und jeden neuen Morgen</l>
-               <l>Mit neuem Kummer ſehn?</l>
-               <l>Du, <rs type="person" key="G0001">Vater</rs> meiner Tage,</l>
-               <l>Weißt, eh ich dirs noch ſage,</l>
-               <l> Mein Leiden und mein Wohlergehn.</l>
+               <lb/><l>Was nützt es, heidniſch ſorgen,</l>
+               <lb/><l>Und jeden neuen Morgen</l>
+               <lb/><l>Mit neuem Kummer ſehn?</l>
+               <lb/><l>Du, <rs type="person" key="G0001">Vater</rs> meiner Tage,</l>
+               <lb/><l>Weißt, eh ich dirs noch ſage,</l>
+               <lb/><l> Mein Leiden und mein Wohlergehn.</l>
             </lg>
             <lg>
-               <l>Auf deine Weiſheit ſchauen,</l>
-               <l>Und deiner Gnade trauen,</l>
-               <l>Das, <rs type="person" key="G0001">Herr</rs>, iſt meine Pflicht:</l>
-               <l> Ich will ſie treulich üben,</l>
-               <l>Und ohne Falſch dich lieben:</l>
-               <l>Denn du verläßt die Deinen nicht.</l>
+               <lb/><l>Auf deine Weiſheit ſchauen,</l>
+               <lb/><l>Und deiner Gnade trauen,</l>
+               <lb/><l>Das, <rs type="person" key="G0001">Herr</rs>, iſt meine Pflicht:</l>
+               <lb/><l> Ich will ſie treulich üben,</l>
+               <lb/><l>Und ohne Falſch dich lieben:</l>
+               <lb/><l>Denn du verläßt die Deinen nicht.</l>
             </lg>
             <lg>
-               <l>Der du die Blumen kleideſt,</l>
-               <l>Und alle Thiere weideſt,</l>
-               <l>Du <rs type="person" key="G0001">Schöpfer</rs> der Natur,</l>
-               <l>Weißt alles, was mir fehlet.</l>
-               <l>Drum, Seele, was dich quälet,</l>
-               <l>Befiel dem <rs type="person" key="G0001">Herrn</rs> und glaube nur.</l>
+               <lb/><l>Der du die Blumen kleideſt,</l>
+               <lb/><l>Und alle Thiere weideſt,</l>
+               <lb/><l>Du <rs type="person" key="G0001">Schöpfer</rs> der Natur,</l>
+               <lb/><l>Weißt alles, was mir fehlet.</l>
+               <lb/><l>Drum, Seele, was dich quälet,</l>
+               <lb/><l>Befiel dem <rs type="person" key="G0001">Herrn</rs> und glaube nur.</l>
             </lg>
             <lg>
-               <l>Ja, <rs type="person" key="G0001">Vater</rs>, alle Sorgen,</l>
-               <l>Den Gram, der mich verborgen</l>
-               <l>In meinem Herzen nagt,</l>
-               <l>Werf ich auf dich, und freue</l>
-               <l>Mich ewig deiner Treue;</l>
-               <l>Du hältſt, was du mir zugeſagt.</l>
+               <lb/><l>Ja, <rs type="person" key="G0001">Vater</rs>, alle Sorgen,</l>
+               <lb/><l>Den Gram, der mich verborgen</l>
+               <lb/><l>In meinem Herzen nagt,</l>
+               <lb/><l>Werf ich auf dich, und freue</l>
+               <lb/><l>Mich ewig deiner Treue;</l>
+               <lb/><l>Du hältſt, was du mir zugeſagt.</l>
             </lg>
             <lg>
-               <l>Wenn meine Augen thränen</l>
-               <l>Und ſich nach Hülfe ſehnen,</l>
-               <l>So klag ich dirs, dem <rs type="person" key="G0001">Herrn</rs>.</l>
-               <l>Sieh, <rs type="person" key="G0001">Vater</rs>, ich befehle</l>
-               <l>Dir jeden Wunſch der Seele;</l>
-               <l>Du hörſt, du hilfſt, du ſegneſt gern.</l>
+               <lb/><l>Wenn meine Augen thränen</l>
+               <lb/><l>Und ſich nach Hülfe ſehnen,</l>
+               <lb/><l>So klag ich dirs, dem <rs type="person" key="G0001">Herrn</rs>.</l>
+               <lb/><l>Sieh, <rs type="person" key="G0001">Vater</rs>, ich befehle</l>
+               <lb/><l>Dir jeden Wunſch der Seele;</l>
+               <lb/><l>Du hörſt, du hilfſt, du ſegneſt gern.</l>
             </lg>
             <lg>
-               <l>Du führeſt hier die Deinen</l>
-               <l>Nicht ſo, wie ſie es meynen.</l>
-               <l>Doch ſtets nach weiſem Rath.</l>
-               <l>Iſt mir die Auſsicht trübe,</l>
-               <l>So leuchtet deine Liebe</l>
-               <l>Mir auf des Lebens dunkelm Pfad.</l>
+               <lb/><l>Du führeſt hier die Deinen</l>
+               <lb/><l>Nicht ſo, wie ſie es meynen.</l>
+               <lb/><l>Doch ſtets nach weiſem Rath.</l>
+               <lb/><l>Iſt mir die Auſsicht trübe,</l>
+               <lb/><l>So leuchtet deine Liebe</l>
+               <lb/><l>Mir auf des Lebens dunkelm Pfad.</l>
             </lg>
             <lg>
-               <l>Wenn ich hier Tiefen ſehe</l>
-               <l>Und es nicht ganz verſtehe,</l>
-               <l>Was du mit mir gethan;</l>
-               <l>Kann ich doch deß mich tröſten:</l>
-               <l>Einſt nimmſt du mich Erlöſten</l>
-               <l>Nach kurzer Schmach zu Ehren an.</l>
+               <lb/><l>Wenn ich hier Tiefen ſehe</l>
+               <lb/><l>Und es nicht ganz verſtehe,</l>
+               <lb/><l>Was du mit mir gethan;</l>
+               <lb/><l>Kann ich doch deß mich tröſten:</l>
+               <lb/><l>Einſt nimmſt du mich Erlöſten</l>
+               <lb/><l>Nach kurzer Schmach zu Ehren an.</l>
             </lg>
             <lg>
-               <l>Dort, bey der Frommen Schaaren,</l>
-               <l>Dort werd ich es erfahren,</l>
-               <l>Wie gut du mich geführt.</l>
-               <l>Nach überſtandnen Leiden</l>
-               <l>Bring ich dir dann mit Freuden</l>
-               <l>Den Dank, der ewig dir gebührt.</l>
+               <lb/><l>Dort, bey der Frommen Schaaren,</l>
+               <lb/><l>Dort werd ich es erfahren,</l>
+               <lb/><l>Wie gut du mich geführt.</l>
+               <lb/><l>Nach überſtandnen Leiden</l>
+               <lb/><l>Bring ich dir dann mit Freuden</l>
+               <lb/><l>Den Dank, der ewig dir gebührt.</l>
             </lg>
          </div>
       </body>

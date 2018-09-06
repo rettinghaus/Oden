@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -73,7 +73,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -185,60 +184,60 @@
 		<body>
 			<pb n="2" ed="CPEB1780"/>
 			<div type="chorale">
-				<head type="title">Paſsionſlied.</head>
+				<head><title>Paſsionſlied.</title></head>
 				<lg>
-					<l>Einſt, als dich im Gerichte</l>
-					<l>Der Sünden Fluch umgab,</l>
-					<l>Da floß vom Angeſichte</l>
-					<l>Dir Schweiß, wie Blut, herab:</l>
-					<l>Zur Erde ſtürzte dich die Angſt,</l>
-					<l>Als nun, von <rs type="person" key="G0001">Gott</rs> verlaſsen,</l>
-					<l>Du mit dem Tode rangſt.</l>
+					<lb/><l>Einſt, als dich im Gerichte</l>
+					<lb/><l>Der Sünden Fluch umgab,</l>
+					<lb/><l>Da floß vom Angeſichte</l>
+					<lb/><l>Dir Schweiß, wie Blut, herab:</l>
+					<lb/><l>Zur Erde ſtürzte dich die Angſt,</l>
+					<lb/><l>Als nun, von <rs type="person" key="G0001">Gott</rs> verlaſsen,</l>
+					<lb/><l>Du mit dem Tode rangſt.</l>
 				</lg>
 				<lg>
-					<l>Im heißen Angſtgebete,</l>
-					<l>Wie <rs type="person" key="J0001">Mittler</rs> kämpfteſt du!</l>
-					<l>Die ganze Seele flehte</l>
-					<l>Um Linderung, um Ruh.</l>
-					<l>Doch ach! da war kein Tröſter nicht;</l>
-					<l>Du dürſteteſt vergebens</l>
-					<l>Nach Freudigkeit und Licht.</l>
+					<lb/><l>Im heißen Angſtgebete,</l>
+					<lb/><l>Wie <rs type="person" key="J0001">Mittler</rs> kämpfteſt du!</l>
+					<lb/><l>Die ganze Seele flehte</l>
+					<lb/><l>Um Linderung, um Ruh.</l>
+					<lb/><l>Doch ach! da war kein Tröſter nicht;</l>
+					<lb/><l>Du dürſteteſt vergebens</l>
+					<lb/><l>Nach Freudigkeit und Licht.</l>
 				</lg>
 				<lg>
-					<l>Auch ſie, die ſo entſchloſsen,</l>
-					<l>So männlich dich bekannt,</l>
-					<l>Sind muthlos, ſind verdroſsen,</l>
-					<l>Vom Schlummer übermannt.</l>
-					<l>Sie ſchauen deiner Seele Schmerz:</l>
-					<l>Und keiner deiner Brüder</l>
-					<l>Spricht Labſal dir ins Herz.</l>
+					<lb/><l>Auch ſie, die ſo entſchloſsen,</l>
+					<lb/><l>So männlich dich bekannt,</l>
+					<lb/><l>Sind muthlos, ſind verdroſsen,</l>
+					<lb/><l>Vom Schlummer übermannt.</l>
+					<lb/><l>Sie ſchauen deiner Seele Schmerz:</l>
+					<lb/><l>Und keiner deiner Brüder</l>
+					<lb/><l>Spricht Labſal dir ins Herz.</l>
 				</lg>
 				<lg>
-					<l>Doch du trägſt dieſe Schwachen</l>
-					<l>Mit göttlicher Geduld.</l>
-					<l>Du eilſt, ſie ſtark zu machen</l>
-					<l>Und milderſt ihre Schuld.</l>
-					<l>Erbarmend ſprichſt du: Freunde, wacht!</l>
-					<l>O wacht mit mir und betet!</l>
-					<l>Nah iſt des Feindes Macht.</l>
+					<lb/><l>Doch du trägſt dieſe Schwachen</l>
+					<lb/><l>Mit göttlicher Geduld.</l>
+					<lb/><l>Du eilſt, ſie ſtark zu machen</l>
+					<lb/><l>Und milderſt ihre Schuld.</l>
+					<lb/><l>Erbarmend ſprichſt du: Freunde, wacht!</l>
+					<lb/><l>O wacht mit mir und betet!</l>
+					<lb/><l>Nah iſt des Feindes Macht.</l>
 				</lg>
 				<lg>
-					<l>Du Tröſter ſchwacher Brüder,</l>
-					<l><rs type="person" key="J0001">Herr</rs>, nimm dich meiner an.</l>
-					<l>Wie leicht ſink ich darnieder,</l>
-					<l>Verführt durch ſtolzen Wahn!</l>
-					<l>Ach, ofte ſchlummr’ ich ſorglos ein,</l>
-					<l>Bin ruhig bei Gefahren,</l>
-					<l>Die meiner Seele dräun.</l>
+					<lb/><l>Du Tröſter ſchwacher Brüder,</l>
+					<lb/><l><rs type="person" key="J0001">Herr</rs>, nimm dich meiner an.</l>
+					<lb/><l>Wie leicht ſink ich darnieder,</l>
+					<lb/><l>Verführt durch ſtolzen Wahn!</l>
+					<lb/><l>Ach, ofte ſchlummr’ ich ſorglos ein,</l>
+					<lb/><l>Bin ruhig bei Gefahren,</l>
+					<lb/><l>Die meiner Seele dräun.</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="J0001">Herr</rs>, rette du mich Schwachen,</l>
-					<l>Wenn Stolz und Sicherheit</l>
-					<l>Den Geiſt verdroſsen machen:</l>
-					<l>Gieb Muth und Kraft im Streit.</l>
-					<l>Flöß meiner Seele Tröſtung ein:</l>
-					<l>Sprich zu ihr: Wach und bete!</l>
-					<l>Bald iſt die Krone dein.</l>
+					<lb/><l><rs type="person" key="J0001">Herr</rs>, rette du mich Schwachen,</l>
+					<lb/><l>Wenn Stolz und Sicherheit</l>
+					<lb/><l>Den Geiſt verdroſsen machen:</l>
+					<lb/><l>Gieb Muth und Kraft im Streit.</l>
+					<lb/><l>Flöß meiner Seele Tröſtung ein:</l>
+					<lb/><l>Sprich zu ihr: Wach und bete!</l>
+					<lb/><l>Bald iſt die Krone dein.</l>
 				</lg>
 			</div>
 		</body>

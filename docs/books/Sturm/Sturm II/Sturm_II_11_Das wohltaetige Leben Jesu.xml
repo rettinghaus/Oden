@@ -7,7 +7,7 @@
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
-            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+            <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -76,7 +76,6 @@
                   <occupation>Komponist</occupation>
                   <note type="bioSummary"/>
                   <idno type="GND">118505505</idno>
-                  <idno type="WeGA"/>
                   <persName type="sigla" subtype="Kast"/>
                   <persName type="sigla" subtype="Blechschmidt"/>
                   <persName type="sigla" subtype="Dürr"/>
@@ -189,90 +188,90 @@
          <pb n="11" ed="CPEB1792"/>
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
-            <head type="title">Das wohltäthige Leben Jeſu.</head>
+            <head><title>Das wohltäthige Leben Jeſu.</title></head>
             <lg>
-               <l>Zu dir erhebt ſich mein Gemüthe,</l>
-               <l>Du Freund der Menſchen, <rs type="person" key="J0001">Jeſu Chriſt</rs>!</l>
-               <l>Der du durch Wohlthun und durch Güte</l>
-               <l>Der Welt ein Beyſpiel worden biſt.</l>
-               <l>Du lebteſt Sündern nur zum Beſten;</l>
-               <l>Sie zu befreyen und zu tröſten,</l>
-               <l>Entſagteſt du der Herrlichkeit.</l>
-               <l>Nur wohlzuthun, war dein Beſtreben:</l>
-               <l>Der Zweck von deinem ganzen Leben</l>
-               <l>War deiner Menſchen Seligkeit.</l>
+               <lb/><l>Zu dir erhebt ſich mein Gemüthe,</l>
+               <lb/><l>Du Freund der Menſchen, <rs type="person" key="J0001">Jeſu Chriſt</rs>!</l>
+               <lb/><l>Der du durch Wohlthun und durch Güte</l>
+               <lb/><l>Der Welt ein Beyſpiel worden biſt.</l>
+               <lb/><l>Du lebteſt Sündern nur zum Beſten;</l>
+               <lb/><l>Sie zu befreyen und zu tröſten,</l>
+               <lb/><l>Entſagteſt du der Herrlichkeit.</l>
+               <lb/><l>Nur wohlzuthun, war dein Beſtreben:</l>
+               <lb/><l>Der Zweck von deinem ganzen Leben</l>
+               <lb/><l>War deiner Menſchen Seligkeit.</l>
             </lg>
             <lg>
-               <l>Nicht ſchrecklich waren deine Werke</l>
-               <l>Und nicht den Sündern zum Gericht.</l>
-               <l>Du warſt der blöden Seelen Stärke</l>
-               <l>Und der Bedrängten Zuverſicht.</l>
-               <l>Dein Blick war, wie dein Herz, voll Güte:</l>
-               <l>Dein Mund verhieß den Sündern Friede</l>
-               <l>Und deine Hand gab Armen Brod.</l>
-               <l>Du ſahſt die Thränen der Betrübten,</l>
-               <l>Die Sehnſucht derer, die dich liebten:</l>
-               <l>Auf deinen Wink entfloh der Tod.</l>
+               <lb/><l>Nicht ſchrecklich waren deine Werke</l>
+               <lb/><l>Und nicht den Sündern zum Gericht.</l>
+               <lb/><l>Du warſt der blöden Seelen Stärke</l>
+               <lb/><l>Und der Bedrängten Zuverſicht.</l>
+               <lb/><l>Dein Blick war, wie dein Herz, voll Güte:</l>
+               <lb/><l>Dein Mund verhieß den Sündern Friede</l>
+               <lb/><l>Und deine Hand gab Armen Brod.</l>
+               <lb/><l>Du ſahſt die Thränen der Betrübten,</l>
+               <lb/><l>Die Sehnſucht derer, die dich liebten:</l>
+               <lb/><l>Auf deinen Wink entfloh der Tod.</l>
             </lg>
             <lg>
-               <l>Du fühlteſt deiner Freunde Leiden</l>
-               <l>Mehr, als du deine Noth empfandſt.</l>
-               <l>Du ſchmeckteſt nichts von Ruh und Freuden,</l>
-               <l>So oft du Menſchen leidend fandſt.</l>
-               <l>Auch ſelbſt mit Schwächung deiner Kräfte,</l>
-               <l>War es dein tägliches Geſchäfte,</l>
-               <l>Als Menſchenfreund umher zu ziehn.</l>
-               <l>Eh noch ein Leidender es wagte,</l>
-               <l>Und dir ſein Elend thränend klagte,</l>
-               <l>Erquickte ſchon dein Beyſtand ihn.</l>
+               <lb/><l>Du fühlteſt deiner Freunde Leiden</l>
+               <lb/><l>Mehr, als du deine Noth empfandſt.</l>
+               <lb/><l>Du ſchmeckteſt nichts von Ruh und Freuden,</l>
+               <lb/><l>So oft du Menſchen leidend fandſt.</l>
+               <lb/><l>Auch ſelbſt mit Schwächung deiner Kräfte,</l>
+               <lb/><l>War es dein tägliches Geſchäfte,</l>
+               <lb/><l>Als Menſchenfreund umher zu ziehn.</l>
+               <lb/><l>Eh noch ein Leidender es wagte,</l>
+               <lb/><l>Und dir ſein Elend thränend klagte,</l>
+               <lb/><l>Erquickte ſchon dein Beyſtand ihn.</l>
             </lg>
             <lg>
-               <l>Errettung, Nachſicht und Erbarmen</l>
-               <l>Fand jeder, der ſich dir genaht.</l>
-               <l>Mitleidig ſchenkteſt du den Armen</l>
-               <l>Die Hülfe, die er ſich erbath.</l>
-               <l>Dem Lahmen ſtärkteſt du die Glieder:</l>
-               <l>Dem Stummen kam die Sprache wieder,</l>
-               <l>Dir dankten Blinde das Geſicht.</l>
-               <l>Nie wurdeſt du des Wohlthuns müde:</l>
-               <l>Die Sünder fühlten Ruh und Friede</l>
-               <l>Und glaubten und verzagten nicht.</l>
+               <lb/><l>Errettung, Nachſicht und Erbarmen</l>
+               <lb/><l>Fand jeder, der ſich dir genaht.</l>
+               <lb/><l>Mitleidig ſchenkteſt du den Armen</l>
+               <lb/><l>Die Hülfe, die er ſich erbath.</l>
+               <lb/><l>Dem Lahmen ſtärkteſt du die Glieder:</l>
+               <lb/><l>Dem Stummen kam die Sprache wieder,</l>
+               <lb/><l>Dir dankten Blinde das Geſicht.</l>
+               <lb/><l>Nie wurdeſt du des Wohlthuns müde:</l>
+               <lb/><l>Die Sünder fühlten Ruh und Friede</l>
+               <lb/><l>Und glaubten und verzagten nicht.</l>
             </lg>
             <lg>
-               <l>Herr, wo du giengſt, auf jedem Schritte</l>
-               <l>Da folgten Lieb und Mitleid nach.</l>
-               <l>Sie folgten in des Reichen Hütte</l>
-               <l>Und unter der Verlaßnen Dach.</l>
-               <l>Der Tempel, wie die öden Wälder,</l>
-               <l>Die Städte, wie die freyen Felder,</l>
-               <l>Empfand deine Gütigkeit.</l>
-               <l>Wo Kummer war, warſt du zugegen;</l>
-               <l>Dein holder Zuſpruch und dein Segen</l>
-               <l>Vertrieb des Leidens Bitterkeit.</l>
+               <lb/><l>Herr, wo du giengſt, auf jedem Schritte</l>
+               <lb/><l>Da folgten Lieb und Mitleid nach.</l>
+               <lb/><l>Sie folgten in des Reichen Hütte</l>
+               <lb/><l>Und unter der Verlaßnen Dach.</l>
+               <lb/><l>Der Tempel, wie die öden Wälder,</l>
+               <lb/><l>Die Städte, wie die freyen Felder,</l>
+               <lb/><l>Empfand deine Gütigkeit.</l>
+               <lb/><l>Wo Kummer war, warſt du zugegen;</l>
+               <lb/><l>Dein holder Zuſpruch und dein Segen</l>
+               <lb/><l>Vertrieb des Leidens Bitterkeit.</l>
             </lg>
             <lg>
-               <l>So giengſt du ſtille auf deinem Pfade</l>
-               <l>Dem dir beſtimmten Tode zu.</l>
-               <l>Noch war in deinen Blicken Gnade,</l>
-               <l>In deiner Seele Himmelſruh.</l>
-               <l>Auch dann, als Schrecken und Gefahren</l>
-               <l>Von allen Seiten nahe waren,</l>
-               <l>Verließ dich nicht dein Edelmuth.</l>
-               <l>Du bliebſt ein Schutzgott deiner Freunde,</l>
-               <l>Bliebſt ein Erbarmer deiner Feinde</l>
-               <l>Und liebteſt ſie bey ihrer Wuth.</l>
+               <lb/><l>So giengſt du ſtille auf deinem Pfade</l>
+               <lb/><l>Dem dir beſtimmten Tode zu.</l>
+               <lb/><l>Noch war in deinen Blicken Gnade,</l>
+               <lb/><l>In deiner Seele Himmelſruh.</l>
+               <lb/><l>Auch dann, als Schrecken und Gefahren</l>
+               <lb/><l>Von allen Seiten nahe waren,</l>
+               <lb/><l>Verließ dich nicht dein Edelmuth.</l>
+               <lb/><l>Du bliebſt ein Schutzgott deiner Freunde,</l>
+               <lb/><l>Bliebſt ein Erbarmer deiner Feinde</l>
+               <lb/><l>Und liebteſt ſie bey ihrer Wuth.</l>
             </lg>
             <lg>
-               <l>O <rs type="person" key="J0001">Jeſu</rs>! wäre doch mein Leben</l>
-               <l>Dem deinen gleich! Wär ich, wie du,</l>
-               <l>So ganz der Menſchenlieb ergeben,</l>
-               <l>So ſanft, ſo mitleidvoll, wie du!</l>
-               <l>O pflanz in mich die holden Triebe</l>
-               <l>Des Mitleids und der Menſchenliebe,</l>
-               <l>Und gieb mir deinen edlen Sinn.</l>
-               <l>So zier ich, <rs type="person" key="J0001">Jeſu</rs>, deine Lehre:</l>
-               <l>So krönet mich dereinſt die Ehre,</l>
-               <l>Daß ich dein Kind und Erbe bin.</l>
+               <lb/><l>O <rs type="person" key="J0001">Jeſu</rs>! wäre doch mein Leben</l>
+               <lb/><l>Dem deinen gleich! Wär ich, wie du,</l>
+               <lb/><l>So ganz der Menſchenlieb ergeben,</l>
+               <lb/><l>So ſanft, ſo mitleidvoll, wie du!</l>
+               <lb/><l>O pflanz in mich die holden Triebe</l>
+               <lb/><l>Des Mitleids und der Menſchenliebe,</l>
+               <lb/><l>Und gieb mir deinen edlen Sinn.</l>
+               <lb/><l>So zier ich, <rs type="person" key="J0001">Jeſu</rs>, deine Lehre:</l>
+               <lb/><l>So krönet mich dereinſt die Ehre,</l>
+               <lb/><l>Daß ich dein Kind und Erbe bin.</l>
             </lg>
          </div>
       </body>

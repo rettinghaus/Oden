@@ -7,7 +7,7 @@
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
-            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+            <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -76,7 +76,6 @@
                   <occupation>Komponist</occupation>
                   <note type="bioSummary"/>
                   <idno type="GND">118505505</idno>
-                  <idno type="WeGA"/>
                   <persName type="sigla" subtype="Kast"/>
                   <persName type="sigla" subtype="Blechschmidt"/>
                   <persName type="sigla" subtype="Dürr"/>
@@ -189,48 +188,48 @@
          <pb n="22" ed="CPEB1792"/>
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
-            <head type="title">Nach dem Gewitter.</head>
+            <head><title>Nach dem Gewitter.</title></head>
             <lg>
-               <l>Dir, des Donners Schöpfer, dir,</l>
-               <l>Unſerm <rs type="person" key="G0001">Vater</rs> danken wir.</l>
-               <l>In der Kreaturen Dank</l>
-               <l>Schall auch unſer Lobgeſang.</l>
+               <lb/><l>Dir, des Donners Schöpfer, dir,</l>
+               <lb/><l>Unſerm <rs type="person" key="G0001">Vater</rs> danken wir.</l>
+               <lb/><l>In der Kreaturen Dank</l>
+               <lb/><l>Schall auch unſer Lobgeſang.</l>
             </lg>
             <lg>
-               <l>Wie der Anger, wie das Thal,</l>
-               <l>Wie die Wieſenblümchen all,</l>
-               <l>Strauch und Bäum ſo friſch und ſchön</l>
-               <l>Nach dem lieben Regen ſtehn!</l>
+               <lb/><l>Wie der Anger, wie das Thal,</l>
+               <lb/><l>Wie die Wieſenblümchen all,</l>
+               <lb/><l>Strauch und Bäum ſo friſch und ſchön</l>
+               <lb/><l>Nach dem lieben Regen ſtehn!</l>
             </lg>
             <lg>
-               <l>Und der Blumen Opferduft</l>
-               <l>Wallet lieblich durch die Luft:</l>
-               <l>Auf dem Plan und auf der Höh</l>
-               <l>Funkelt alles, was ich ſeh.</l>
+               <lb/><l>Und der Blumen Opferduft</l>
+               <lb/><l>Wallet lieblich durch die Luft:</l>
+               <lb/><l>Auf dem Plan und auf der Höh</l>
+               <lb/><l>Funkelt alles, was ich ſeh.</l>
             </lg>
             <lg>
-               <l>Und der Himmel, wie ſo hell,</l>
-               <l>Und ſo kühlend Bach und Quell!</l>
-               <l>Und die Luft ſo rein und mild</l>
-               <l>Stärkt den Wandrer und das Wild.</l>
+               <lb/><l>Und der Himmel, wie ſo hell,</l>
+               <lb/><l>Und ſo kühlend Bach und Quell!</l>
+               <lb/><l>Und die Luft ſo rein und mild</l>
+               <lb/><l>Stärkt den Wandrer und das Wild.</l>
             </lg>
             <lg>
-               <l>Aller Vögel Melodie,</l>
-               <l>Lerchen dort, und Wachtel hie,</l>
-               <l>Weckt im grünen Weizenthal</l>
-               <l>Nun der Sonne milder Strahl.</l>
+               <lb/><l>Aller Vögel Melodie,</l>
+               <lb/><l>Lerchen dort, und Wachtel hie,</l>
+               <lb/><l>Weckt im grünen Weizenthal</l>
+               <lb/><l>Nun der Sonne milder Strahl.</l>
             </lg>
             <lg>
-               <l>Bienen ſuchen Honigſeim,</l>
-               <l>Sumſen goldgeflügelt heim:</l>
-               <l>Und die Heerd am ſtillen See</l>
-               <l>weidet ſpringend in dem Klee.</l>
+               <lb/><l>Bienen ſuchen Honigſeim,</l>
+               <lb/><l>Sumſen goldgeflügelt heim:</l>
+               <lb/><l>Und die Heerd am ſtillen See</l>
+               <lb/><l>weidet ſpringend in dem Klee.</l>
             </lg>
             <lg>
-               <l>In der Kreaturen Dank</l>
-               <l>Schall auch unſer Lobgeſang.</l>
-               <l>Dir, des Donners Schöpfer, dir,</l>
-               <l>Unſer <rs type="person" key="G0001">Vater</rs>, danken wir.</l>
+               <lb/><l>In der Kreaturen Dank</l>
+               <lb/><l>Schall auch unſer Lobgeſang.</l>
+               <lb/><l>Dir, des Donners Schöpfer, dir,</l>
+               <lb/><l>Unſer <rs type="person" key="G0001">Vater</rs>, danken wir.</l>
             </lg>
          </div>
       </body>

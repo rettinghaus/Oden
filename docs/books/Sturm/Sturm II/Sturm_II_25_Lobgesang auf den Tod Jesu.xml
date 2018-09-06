@@ -7,7 +7,7 @@
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
-            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+            <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -76,7 +76,6 @@
                   <occupation>Komponist</occupation>
                   <note type="bioSummary"/>
                   <idno type="GND">118505505</idno>
-                  <idno type="WeGA"/>
                   <persName type="sigla" subtype="Kast"/>
                   <persName type="sigla" subtype="Blechschmidt"/>
                   <persName type="sigla" subtype="Dürr"/>
@@ -189,41 +188,41 @@
          <pb n="25" ed="CPEB1792"/>
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
-            <head type="title">Lobgeſang auf den Tod Jeſu.</head>
+            <head><title>Lobgeſang auf den Tod Jeſu.</title></head>
             <lg>
-               <l>Hallelujah!</l>
-               <l>Auf <placeName>Golgatha</placeName></l>
-               <l>Stirbt als ein Miſsethäter,</l>
-               <l><rs type="person" key="J0001">Jeſus</rs>, der Gerechte, ſtirbt</l>
-               <l>Für uns Uebertreter.</l>
+               <lb/><l>Hallelujah!</l>
+               <lb/><l>Auf <placeName>Golgatha</placeName></l>
+               <lb/><l>Stirbt als ein Miſsethäter,</l>
+               <lb/><l><rs type="person" key="J0001">Jeſus</rs>, der Gerechte, ſtirbt</l>
+               <lb/><l>Für uns Uebertreter.</l>
             </lg>
             <lg>
-               <l>Hallelujah!</l>
-               <l>Auf <placeName>Golgatha</placeName></l>
-               <l>Seh ich am Kreuz ihn hängen.</l>
-               <l>Seht, wie da ſich Ströme Bluts</l>
-               <l>Aus den Adern drängen.</l>
+               <lb/><l>Hallelujah!</l>
+               <lb/><l>Auf <placeName>Golgatha</placeName></l>
+               <lb/><l>Seh ich am Kreuz ihn hängen.</l>
+               <lb/><l>Seht, wie da ſich Ströme Bluts</l>
+               <lb/><l>Aus den Adern drängen.</l>
             </lg>
             <lg>
-               <l>Hallelujah!</l>
-               <l>Auf <placeName>Golgatha</placeName></l>
-               <l>Hat ihn ſein <rs type="person" key="G0001">Gott</rs> verlaſsen;</l>
-               <l>Ach, wer kann die ganze Quaal</l>
-               <l>Seiner Seele faſsen.</l>
+               <lb/><l>Hallelujah!</l>
+               <lb/><l>Auf <placeName>Golgatha</placeName></l>
+               <lb/><l>Hat ihn ſein <rs type="person" key="G0001">Gott</rs> verlaſsen;</l>
+               <lb/><l>Ach, wer kann die ganze Quaal</l>
+               <lb/><l>Seiner Seele faſsen.</l>
             </lg>
             <lg>
-               <l>Hallelujah!</l>
-               <l>Auf <placeName>Golgatha</placeName></l>
-               <l>Läßt ſich der Himmel nieder:</l>
-               <l>Aller Engel Loblied ſingt</l>
-               <l>Dem <rs type="person" key="J0001">Erwürgten</rs> Lieder.</l>
+               <lb/><l>Hallelujah!</l>
+               <lb/><l>Auf <placeName>Golgatha</placeName></l>
+               <lb/><l>Läßt ſich der Himmel nieder:</l>
+               <lb/><l>Aller Engel Loblied ſingt</l>
+               <lb/><l>Dem <rs type="person" key="J0001">Erwürgten</rs> Lieder.</l>
             </lg>
             <lg>
-               <l>Hallelujah!</l>
-               <l>Auf <placeName>Golgatha</placeName></l>
-               <l>Erwarb ſein Tod uns Leben:</l>
-               <l>Ewig, ewig wollen wir</l>
-               <l>Seinen Tod erheben.</l>
+               <lb/><l>Hallelujah!</l>
+               <lb/><l>Auf <placeName>Golgatha</placeName></l>
+               <lb/><l>Erwarb ſein Tod uns Leben:</l>
+               <lb/><l>Ewig, ewig wollen wir</l>
+               <lb/><l>Seinen Tod erheben.</l>
             </lg>
          </div>
       </body>

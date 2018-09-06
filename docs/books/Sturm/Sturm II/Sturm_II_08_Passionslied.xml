@@ -7,7 +7,7 @@
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
-            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+            <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -76,7 +76,6 @@
                   <occupation>Komponist</occupation>
                   <note type="bioSummary"/>
                   <idno type="GND">118505505</idno>
-                  <idno type="WeGA"/>
                   <persName type="sigla" subtype="Kast"/>
                   <persName type="sigla" subtype="Blechschmidt"/>
                   <persName type="sigla" subtype="Dürr"/>
@@ -189,43 +188,43 @@
          <pb n="8" ed="CPEB1792"/>
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
-            <head type="title">Paſsionſlied.</head>
+            <head><title>Paſsionſlied.</title></head>
             <lg>
-               <l>In Todesängſten hängſt du da,</l>
-               <l>O <rs type="person" key="J0001">Gotteſsohn</rs> auf
+               <lb/><l>In Todesängſten hängſt du da,</l>
+               <lb/><l>O <rs type="person" key="J0001">Gotteſsohn</rs> auf
                      <placeName>Golgatha</placeName>!</l>
-               <l>Wer kann dein Leiden faſsen?</l>
-               <l>Laut ſeufzeſt du: mein <rs type="person" key="G0001">Gott</rs>! mein <rs
+               <lb/><l>Wer kann dein Leiden faſsen?</l>
+               <lb/><l>Laut ſeufzeſt du: mein <rs type="person" key="G0001">Gott</rs>! mein <rs
                      type="person" key="G0001">Gott</rs>!</l>
-               <l>Wie haſt du mich verlaſsen!</l>
+               <lb/><l>Wie haſt du mich verlaſsen!</l>
             </lg>
             <lg>
-               <l>Die Zunge klebt am dürren Gaum:</l>
-               <l>Du athmeſt vor Verſchmachten kaum.</l>
-               <l>Doch ach! mit Bitterm Spotte</l>
-               <l>Lacht deines letzten heißen Durſts</l>
-               <l>Der Miſsethäter Rotte.</l>
+               <lb/><l>Die Zunge klebt am dürren Gaum:</l>
+               <lb/><l>Du athmeſt vor Verſchmachten kaum.</l>
+               <lb/><l>Doch ach! mit Bitterm Spotte</l>
+               <lb/><l>Lacht deines letzten heißen Durſts</l>
+               <lb/><l>Der Miſsethäter Rotte.</l>
             </lg>
             <lg>
-               <l>Du, deſsen Wort den Müden Kraft,</l>
-               <l>Erquickung Dürſtenden verſchafft,</l>
-               <l>Ach du, du willſt verſchmachten?</l>
-               <l>Mich dürſtet! rufſt du. Niemand will</l>
-               <l>Auf deine Klagen achten.</l>
+               <lb/><l>Du, deſsen Wort den Müden Kraft,</l>
+               <lb/><l>Erquickung Dürſtenden verſchafft,</l>
+               <lb/><l>Ach du, du willſt verſchmachten?</l>
+               <lb/><l>Mich dürſtet! rufſt du. Niemand will</l>
+               <lb/><l>Auf deine Klagen achten.</l>
             </lg>
             <lg>
-               <l>Dir, der des Weinſtocks Früchte ſchuf,</l>
-               <l>Dir, <rs type="person" key="J0001">Mächtiger</rs>, auf deſsen Ruf</l>
-               <l>Sich Quell und Ström' ergießen,</l>
-               <l>Dir kann des heißen Durſtes Pein</l>
-               <l>Kein Labetrunk versüßen.</l>
+               <lb/><l>Dir, der des Weinſtocks Früchte ſchuf,</l>
+               <lb/><l>Dir, <rs type="person" key="J0001">Mächtiger</rs>, auf deſsen Ruf</l>
+               <lb/><l>Sich Quell und Ström' ergießen,</l>
+               <lb/><l>Dir kann des heißen Durſtes Pein</l>
+               <lb/><l>Kein Labetrunk versüßen.</l>
             </lg>
             <lg>
-               <l>Doch <rs type="person" key="G0001">Gott</rs> hat dich im Tod erquickt,</l>
-               <l>Dich ewig aller Quaal entrückt,</l>
-               <l>Und dein Gebet erhöret.</l>
-               <l>Durch dich wird in des Todes Angſt</l>
-               <l>Erquickung mir gewähret.</l>
+               <lb/><l>Doch <rs type="person" key="G0001">Gott</rs> hat dich im Tod erquickt,</l>
+               <lb/><l>Dich ewig aller Quaal entrückt,</l>
+               <lb/><l>Und dein Gebet erhöret.</l>
+               <lb/><l>Durch dich wird in des Todes Angſt</l>
+               <lb/><l>Erquickung mir gewähret.</l>
             </lg>
          </div>
       </body>

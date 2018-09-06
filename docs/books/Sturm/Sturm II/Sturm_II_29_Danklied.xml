@@ -7,7 +7,7 @@
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
-            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+            <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -76,7 +76,6 @@
                   <occupation>Komponist</occupation>
                   <note type="bioSummary"/>
                   <idno type="GND">118505505</idno>
-                  <idno type="WeGA"/>
                   <persName type="sigla" subtype="Kast"/>
                   <persName type="sigla" subtype="Blechschmidt"/>
                   <persName type="sigla" subtype="Dürr"/>
@@ -189,45 +188,45 @@
          <pb n="29" ed="CPEB1792"/>
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
-            <head type="title">Danklied.</head>
+            <head><title>Danklied.</title></head>
             <lg>
-               <l>Preis ſey dem <rs type="person" key="G0001">Vater</rs>! Ehre ſey dem <rs
+               <lb/><l>Preis ſey dem <rs type="person" key="G0001">Vater</rs>! Ehre ſey dem <rs
                      type="person" key="J0001">Sohne</rs>!</l>
-               <l>Denn ſeine Gnad und Wahrheit währet ewig.</l>
-               <l>Laßt uns mit Danken vor ſein Antlitz kommen</l>
-               <l>Und vor ihm jauchzen.</l>
+               <lb/><l>Denn ſeine Gnad und Wahrheit währet ewig.</l>
+               <lb/><l>Laßt uns mit Danken vor ſein Antlitz kommen</l>
+               <lb/><l>Und vor ihm jauchzen.</l>
             </lg>
             <lg>
-               <l><rs type="person" key="G0001">Gott</rs> iſt die Liebe! Rühmts ihr Uebertreter!</l>
-               <l><rs type="person" key="G0001">Gott</rs> iſt die Liebe! Rühmts ihr ſeine
+               <lb/><l><rs type="person" key="G0001">Gott</rs> iſt die Liebe! Rühmts ihr Uebertreter!</l>
+               <lb/><l><rs type="person" key="G0001">Gott</rs> iſt die Liebe! Rühmts ihr ſeine
                   Kinder!</l>
-               <l>Ihn, der von Ewigkeit uns ſchon geliebt hat,</l>
-               <l>Ihn laßt uns lieben.</l>
+               <lb/><l>Ihn, der von Ewigkeit uns ſchon geliebt hat,</l>
+               <lb/><l>Ihn laßt uns lieben.</l>
             </lg>
             <lg>
-               <l>Zwar kann der Menſch nicht würdig ihn erheben;</l>
-               <l>Doch merkt <rs type="person" key="G0001">Gott</rs> hoch herab von ſeinem
+               <lb/><l>Zwar kann der Menſch nicht würdig ihn erheben;</l>
+               <lb/><l>Doch merkt <rs type="person" key="G0001">Gott</rs> hoch herab von ſeinem
                   Himmel</l>
-               <l>Auf unſern Dank und ſtärket unſre Seele,</l>
-               <l>Wenn wir ihm danken.</l>
+               <lb/><l>Auf unſern Dank und ſtärket unſre Seele,</l>
+               <lb/><l>Wenn wir ihm danken.</l>
             </lg>
             <lg>
-               <l>Singt <rs type="person" key="J0001">Jeſu Chriſto</rs> Preis und Dank und Ehre.</l>
-               <l>Er kam zur Erde, Sünd und Tod zu tilgen</l>
-               <l>Und durch ſein Opfer Heiligkeit und Leben</l>
-               <l>Wiederzubringen.</l>
+               <lb/><l>Singt <rs type="person" key="J0001">Jeſu Chriſto</rs> Preis und Dank und Ehre.</l>
+               <lb/><l>Er kam zur Erde, Sünd und Tod zu tilgen</l>
+               <lb/><l>Und durch ſein Opfer Heiligkeit und Leben</l>
+               <lb/><l>Wiederzubringen.</l>
             </lg>
             <lg>
-               <l>Schon hier auf Erden quillt aus ſeiner Gnade</l>
-               <l>Uns Freud und Leben: größre Seligkeiten</l>
-               <l>Sind denen, die ihn lieben, einſt bereitet</l>
-               <l>Vor ſeinem Throne.</l>
+               <lb/><l>Schon hier auf Erden quillt aus ſeiner Gnade</l>
+               <lb/><l>Uns Freud und Leben: größre Seligkeiten</l>
+               <lb/><l>Sind denen, die ihn lieben, einſt bereitet</l>
+               <lb/><l>Vor ſeinem Throne.</l>
             </lg>
             <lg>
-               <l>Auf, laß uns unſers <rs type="person" key="G0001">Gottes</rs> ewig freuen!</l>
-               <l>O welche Seligkeit iſts, ſein ſich freuen,</l>
-               <l>Ihm ganz ſich heiligen, und ganz ihm leben</l>
-               <l>Und einſt ihm ſterben!</l>
+               <lb/><l>Auf, laß uns unſers <rs type="person" key="G0001">Gottes</rs> ewig freuen!</l>
+               <lb/><l>O welche Seligkeit iſts, ſein ſich freuen,</l>
+               <lb/><l>Ihm ganz ſich heiligen, und ganz ihm leben</l>
+               <lb/><l>Und einſt ihm ſterben!</l>
             </lg>
          </div>
       </body>

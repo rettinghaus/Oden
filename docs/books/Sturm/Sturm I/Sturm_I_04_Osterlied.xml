@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -73,7 +73,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -185,76 +184,76 @@
 		<body>
 			<pb n="4" ed="CPEB1780"/>
 			<div type="chorale">
-				<head type="title">Oſterlied.</head>
+				<head><title>Oſterlied.</title></head>
 				<lg>
-					<l>Amen! Lob und Preis und Stärke</l>
-					<l>Sey dem Vollender ſeiner Werke!</l>
-					<l>Dem <rs type="person" key="J0001">Todesüberwinder</rs> Dank!</l>
-					<l>Singt dem auferſtandnen Helden!</l>
-					<l>Und alle Himmel, alle Welten</l>
-					<l>Und dieſer Erdkreis ſey Geſang!</l>
-					<l>Ihm, der vom Tod erſtand,</l>
-					<l>Ihm, der einſt überwand,</l>
-					<l>Hallelujah!</l>
-					<l>Sein iſt die Macht!</l>
-					<l>Er hats vollbracht!</l>
-					<l>Die Welt iſt ſeiner Ehre voll!</l>
+					<lb/><l>Amen! Lob und Preis und Stärke</l>
+					<lb/><l>Sey dem Vollender ſeiner Werke!</l>
+					<lb/><l>Dem <rs type="person" key="J0001">Todesüberwinder</rs> Dank!</l>
+					<lb/><l>Singt dem auferſtandnen Helden!</l>
+					<lb/><l>Und alle Himmel, alle Welten</l>
+					<lb/><l>Und dieſer Erdkreis ſey Geſang!</l>
+					<lb/><l>Ihm, der vom Tod erſtand,</l>
+					<lb/><l>Ihm, der einſt überwand,</l>
+					<lb/><l>Hallelujah!</l>
+					<lb/><l>Sein iſt die Macht!</l>
+					<lb/><l>Er hats vollbracht!</l>
+					<lb/><l>Die Welt iſt ſeiner Ehre voll!</l>
 				</lg>
 				<lg>
-					<l>Ja, du Land der Gräber, Erde,</l>
-					<l>Empor aus deinem Staube! Werde</l>
-					<l>Ein Land des Lebens und des Lichts!</l>
-					<l>Er, der ſiegreich auferſtanden,</l>
-					<l>Befreyt dich von des Todes Banden</l>
-					<l>Und von den Quaalen des Gerichts.</l>
-					<l>Heil dir! Das Grab iſt leer!</l>
-					<l>Des Abgrunds Schreckenheer</l>
-					<l>Iſt bezwungen.</l>
-					<l>Des Todes Nacht,</l>
-					<l>Der Hölle Macht,</l>
-					<l>Der Gräber Grauen iſt beſiegt.</l>
+					<lb/><l>Ja, du Land der Gräber, Erde,</l>
+					<lb/><l>Empor aus deinem Staube! Werde</l>
+					<lb/><l>Ein Land des Lebens und des Lichts!</l>
+					<lb/><l>Er, der ſiegreich auferſtanden,</l>
+					<lb/><l>Befreyt dich von des Todes Banden</l>
+					<lb/><l>Und von den Quaalen des Gerichts.</l>
+					<lb/><l>Heil dir! Das Grab iſt leer!</l>
+					<lb/><l>Des Abgrunds Schreckenheer</l>
+					<lb/><l>Iſt bezwungen.</l>
+					<lb/><l>Des Todes Nacht,</l>
+					<lb/><l>Der Hölle Macht,</l>
+					<lb/><l>Der Gräber Grauen iſt beſiegt.</l>
 				</lg>
 				<lg>
-					<l>Was vermag, uns zu erſchüttern?</l>
-					<l>Der Hölle Sklaven müſsen zittern</l>
-					<l>Vor ihm, der ewig, ewig lebt.</l>
-					<l>Wir, des Auferſtandnen Brüder,</l>
-					<l>Wir, Chriſten, ſeines Körpers Glieder,</l>
-					<l>Wir freun uns deß, der ewig lebt.</l>
-					<l>Für uns ſank er in Tod,</l>
-					<l>Für uns entrückte Gott</l>
-					<l>Ihn dem Grabe.</l>
-					<l>Empörer bebt!</l>
-					<l>Der Sieger lebt!</l>
-					<l>Er lebt und ſtirbt hinfort nicht mehr.</l>
+					<lb/><l>Was vermag, uns zu erſchüttern?</l>
+					<lb/><l>Der Hölle Sklaven müſsen zittern</l>
+					<lb/><l>Vor ihm, der ewig, ewig lebt.</l>
+					<lb/><l>Wir, des Auferſtandnen Brüder,</l>
+					<lb/><l>Wir, Chriſten, ſeines Körpers Glieder,</l>
+					<lb/><l>Wir freun uns deß, der ewig lebt.</l>
+					<lb/><l>Für uns ſank er in Tod,</l>
+					<lb/><l>Für uns entrückte Gott</l>
+					<lb/><l>Ihn dem Grabe.</l>
+					<lb/><l>Empörer bebt!</l>
+					<lb/><l>Der Sieger lebt!</l>
+					<lb/><l>Er lebt und ſtirbt hinfort nicht mehr.</l>
 				</lg>
 				<lg>
-					<l>Unſer Herz darf nun nicht wanken,</l>
-					<l>Die bangen, zweifelnden Gedanken</l>
-					<l>Beſiegt des Glaubens Zuverſicht.</l>
-					<l>Wie ein Fels des Herrn im Meere,</l>
-					<l>Steht unerſchüttert Jeſu Lehre,</l>
-					<l>Umglänzt mit Seligkeit und Licht.</l>
-					<l>Der Himmel Bau zerfällt;</l>
-					<l>Die Herrlichkeit der Welt</l>
-					<l>Wird verſchwinden.</l>
-					<l>Doch fort und fort</l>
-					<l>Steht <rs type="person" key="J0001">Jeſu</rs> Wort,</l>
-					<l>Bleibt Troſt und Heil in Ewigkeit.</l>
+					<lb/><l>Unſer Herz darf nun nicht wanken,</l>
+					<lb/><l>Die bangen, zweifelnden Gedanken</l>
+					<lb/><l>Beſiegt des Glaubens Zuverſicht.</l>
+					<lb/><l>Wie ein Fels des Herrn im Meere,</l>
+					<lb/><l>Steht unerſchüttert Jeſu Lehre,</l>
+					<lb/><l>Umglänzt mit Seligkeit und Licht.</l>
+					<lb/><l>Der Himmel Bau zerfällt;</l>
+					<lb/><l>Die Herrlichkeit der Welt</l>
+					<lb/><l>Wird verſchwinden.</l>
+					<lb/><l>Doch fort und fort</l>
+					<lb/><l>Steht <rs type="person" key="J0001">Jeſu</rs> Wort,</l>
+					<lb/><l>Bleibt Troſt und Heil in Ewigkeit.</l>
 				</lg>
 				<lg>
-					<l>Doch auch wir, wir werden bleiben.</l>
-					<l>Mag doch des Körpers Staub zerſtäuben:</l>
-					<l>Verzehre, Moder, mein Gebein!</l>
-					<l><rs type="person" key="J0001">Jeſus</rs> lebt! Und meine Glieder</l>
-					<l>Belebt einſt ſeine Allmacht wieder;</l>
-					<l>Wie er, werd ich unſterblich ſeyn.</l>
-					<l>In der Verweſung Grab</l>
-					<l>Dringt dann ſein Ruf hinab:</l>
-					<l>Und ich lebe!</l>
-					<l>Und ich bin Sein,</l>
-					<l>Auf ewig Sein!</l>
-					<l>Wie wird mir dann, o dann, mir ſeyn!</l>
+					<lb/><l>Doch auch wir, wir werden bleiben.</l>
+					<lb/><l>Mag doch des Körpers Staub zerſtäuben:</l>
+					<lb/><l>Verzehre, Moder, mein Gebein!</l>
+					<lb/><l><rs type="person" key="J0001">Jeſus</rs> lebt! Und meine Glieder</l>
+					<lb/><l>Belebt einſt ſeine Allmacht wieder;</l>
+					<lb/><l>Wie er, werd ich unſterblich ſeyn.</l>
+					<lb/><l>In der Verweſung Grab</l>
+					<lb/><l>Dringt dann ſein Ruf hinab:</l>
+					<lb/><l>Und ich lebe!</l>
+					<lb/><l>Und ich bin Sein,</l>
+					<lb/><l>Auf ewig Sein!</l>
+					<lb/><l>Wie wird mir dann, o dann, mir ſeyn!</l>
 				</lg>
 			</div>
 		</body>

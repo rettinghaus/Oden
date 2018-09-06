@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -73,7 +73,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -185,51 +184,51 @@
 		<body>
 			<pb n="3" ed="CPEB1780"/>
 			<div type="chorale">
-				<head type="title">Loblied für das Seelenleiden Jeſu.</head>
+				<head><title>Loblied für das Seelenleiden Jeſu.</title></head>
 				<lg>
-					<l>Sieh, <rs type="person" key="J0001">Gotteſlamm</rs>, wir fallen</l>
-					<l>Anbetend vor dir nieder.</l>
-					<l>Zu deinem Himmel ſchallen</l>
-					<l>Die Jubel deiner Brüder!</l>
-					<l>Du haſt den Sieg errungen,</l>
-					<l>Für uns den Tod verſchlungen.</l>
-					<l>Preis ſey dir ewig, o <rs type="person" key="J0001">Jeſu</rs>!</l>
+					<lb/><l>Sieh, <rs type="person" key="J0001">Gotteſlamm</rs>, wir fallen</l>
+					<lb/><l>Anbetend vor dir nieder.</l>
+					<lb/><l>Zu deinem Himmel ſchallen</l>
+					<lb/><l>Die Jubel deiner Brüder!</l>
+					<lb/><l>Du haſt den Sieg errungen,</l>
+					<lb/><l>Für uns den Tod verſchlungen.</l>
+					<lb/><l>Preis ſey dir ewig, o <rs type="person" key="J0001">Jeſu</rs>!</l>
 				</lg>
 				<lg>
-					<l>Du ſahſt von fern die Bande,</l>
-					<l>Die dir die Boſheit drohte,</l>
-					<l>Gabſt vor dir Quaal und Schande</l>
-					<l>Und Martern bis zum Tode;</l>
-					<l>Doch du, voll Huld und Gnade,</l>
-					<l>Giengſt gern die Marterpfade.</l>
-					<l>Preis ſey dir ewig, o <rs type="person" key="J0001">Jeſu</rs>!</l>
+					<lb/><l>Du ſahſt von fern die Bande,</l>
+					<lb/><l>Die dir die Boſheit drohte,</l>
+					<lb/><l>Gabſt vor dir Quaal und Schande</l>
+					<lb/><l>Und Martern bis zum Tode;</l>
+					<lb/><l>Doch du, voll Huld und Gnade,</l>
+					<lb/><l>Giengſt gern die Marterpfade.</l>
+					<lb/><l>Preis ſey dir ewig, o <rs type="person" key="J0001">Jeſu</rs>!</l>
 				</lg>
 				<lg>
-					<l>Vor deinem Antlitz ſtanden</l>
-					<l>Der <rs type="person" key="A0003">Adamſkinder</rs> Schulden.</l>
-					<l>Was dieſe nie empfunden</l>
-					<l>Von Quaalen, willſt du dulden:</l>
-					<l>Gehſt hin, durch Flehn und Thränen</l>
-					<l>Die Sünder zu versöhnen.</l>
-					<l>Preis ſey dir ewig, o <rs type="person" key="J0001">Jeſu</rs>!</l>
+					<lb/><l>Vor deinem Antlitz ſtanden</l>
+					<lb/><l>Der <rs type="person" key="A0003">Adamſkinder</rs> Schulden.</l>
+					<lb/><l>Was dieſe nie empfunden</l>
+					<lb/><l>Von Quaalen, willſt du dulden:</l>
+					<lb/><l>Gehſt hin, durch Flehn und Thränen</l>
+					<lb/><l>Die Sünder zu versöhnen.</l>
+					<lb/><l>Preis ſey dir ewig, o <rs type="person" key="J0001">Jeſu</rs>!</l>
 				</lg>
 				<lg>
-					<l>Von heißer Angſt erſchüttert,</l>
-					<l>Lagſt du vor <rs type="person" key="G0001">Gott</rs> im Staube.</l>
-					<l>Wie hatteſt zu gezittert!</l>
-					<l>Doch überwand dein Glaube.</l>
-					<l>Dich faßte Todeſgrauen!</l>
-					<l>Doch bliebſt du voll Vertrauen.</l>
-					<l>Preis ſey dir ewig, o <rs type="person" key="J0001">Jeſu</rs>!</l>
+					<lb/><l>Von heißer Angſt erſchüttert,</l>
+					<lb/><l>Lagſt du vor <rs type="person" key="G0001">Gott</rs> im Staube.</l>
+					<lb/><l>Wie hatteſt zu gezittert!</l>
+					<lb/><l>Doch überwand dein Glaube.</l>
+					<lb/><l>Dich faßte Todeſgrauen!</l>
+					<lb/><l>Doch bliebſt du voll Vertrauen.</l>
+					<lb/><l>Preis ſey dir ewig, o <rs type="person" key="J0001">Jeſu</rs>!</l>
 				</lg>
 				<lg>
-					<l>Für uns hat dich der Rächer</l>
-					<l>Mit Angſt und Schmerz geſchlagen.</l>
-					<l>Für uns, für uns Verbrecher</l>
-					<l>Haſt du den Fluch getragen;</l>
-					<l>Für uns den Sieg errungen!</l>
-					<l>Dir ſingen alle Zungen</l>
-					<l>Preis, Dank und Ehre, Herr <rs type="person" key="G0001">Jeſu</rs>!</l>
+					<lb/><l>Für uns hat dich der Rächer</l>
+					<lb/><l>Mit Angſt und Schmerz geſchlagen.</l>
+					<lb/><l>Für uns, für uns Verbrecher</l>
+					<lb/><l>Haſt du den Fluch getragen;</l>
+					<lb/><l>Für uns den Sieg errungen!</l>
+					<lb/><l>Dir ſingen alle Zungen</l>
+					<lb/><l>Preis, Dank und Ehre, Herr <rs type="person" key="G0001">Jeſu</rs>!</l>
 				</lg>
 			</div>
 		</body>

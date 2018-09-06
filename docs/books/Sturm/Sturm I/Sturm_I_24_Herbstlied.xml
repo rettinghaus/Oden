@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -73,7 +73,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -185,46 +184,46 @@
 		<body>
 			<pb n="24" ed="CPEB1780"/>
 			<div type="chorale">
-				<head type="title">Herbſtlied.</head>
+				<head><title>Herbſtlied.</title></head>
 				<lg>
-					<l>So weit der Weſen Millionen,</l>
-					<l><rs type="person" key="G0001">Gott</rs>, deinen Erdenkreis bewohnen,</l>
-					<l>Wird alles ſatt durch dich.</l>
-					<l>Du gibſt mit reichem Ueberfluſse:</l>
-					<l>Und bey dem ſegnenden Genuſse</l>
-					<l>Freut jedes Weſen deiner ſich.</l>
+					<lb/><l>So weit der Weſen Millionen,</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, deinen Erdenkreis bewohnen,</l>
+					<lb/><l>Wird alles ſatt durch dich.</l>
+					<lb/><l>Du gibſt mit reichem Ueberfluſse:</l>
+					<lb/><l>Und bey dem ſegnenden Genuſse</l>
+					<lb/><l>Freut jedes Weſen deiner ſich.</l>
 				</lg>
 				<lg>
-					<l>Dein iſt das Brod! Uns zu ernähren,</l>
-					<l>Schuf deine Hand die güldnen Aehren,</l>
-					<l>Von reifen Körnern ſchwer.</l>
-					<l>Itzt, da wir fröhlich ſie genießen,</l>
-					<l>Sey deine Vaterhuld geprieſen!</l>
-					<l>Denn dein iſt unſer Brod, o <rs type="person" key="G0001">Herr</rs>!</l>
+					<lb/><l>Dein iſt das Brod! Uns zu ernähren,</l>
+					<lb/><l>Schuf deine Hand die güldnen Aehren,</l>
+					<lb/><l>Von reifen Körnern ſchwer.</l>
+					<lb/><l>Itzt, da wir fröhlich ſie genießen,</l>
+					<lb/><l>Sey deine Vaterhuld geprieſen!</l>
+					<lb/><l>Denn dein iſt unſer Brod, o <rs type="person" key="G0001">Herr</rs>!</l>
 				</lg>
 				<lg>
-					<l>Dein iſt die Frucht an Strauch und Bäumen!</l>
-					<l>Du ließſt die milde Knoſpe keimen,</l>
-					<l>Und blühen, und gedeihn.</l>
-					<l>Die reifen Früchte, die uns laben,</l>
-					<l>Was Garten, Forſt und Trift uns gaben,</l>
-					<l>Was Scheun und Tenne zollt, iſt dein!</l>
+					<lb/><l>Dein iſt die Frucht an Strauch und Bäumen!</l>
+					<lb/><l>Du ließſt die milde Knoſpe keimen,</l>
+					<lb/><l>Und blühen, und gedeihn.</l>
+					<lb/><l>Die reifen Früchte, die uns laben,</l>
+					<lb/><l>Was Garten, Forſt und Trift uns gaben,</l>
+					<lb/><l>Was Scheun und Tenne zollt, iſt dein!</l>
 				</lg>
 				<lg>
-					<l>Dein ſind die traubenvollen Reben!</l>
-					<l>Du gibſt den Beeren Saft, und Leben</l>
-					<l>Und Kraft gibſt du dem Wein.</l>
-					<l>Durch ihn ſtrömt Muth in unſre Glieder</l>
-					<l>Und Fröhlichkeit in unſre Lieder.</l>
-					<l><rs type="person" key="G0001">Herr</rs>, du ſollſt unſer Loblied ſeyn.</l>
+					<lb/><l>Dein ſind die traubenvollen Reben!</l>
+					<lb/><l>Du gibſt den Beeren Saft, und Leben</l>
+					<lb/><l>Und Kraft gibſt du dem Wein.</l>
+					<lb/><l>Durch ihn ſtrömt Muth in unſre Glieder</l>
+					<lb/><l>Und Fröhlichkeit in unſre Lieder.</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, du ſollſt unſer Loblied ſeyn.</l>
 				</lg>
 				<lg>
-					<l>Dein, <rs type="person" key="G0001">Herr</rs>, iſt alles. Du beglückeſt,</l>
-					<l>Du ſegneſt, sättigſt und erquickeſt</l>
-					<l>Dein grenzenloſes Reich.</l>
-					<l>In deinem ganzen Weltgebiete</l>
-					<l>Regiereſt du mit Vatergüte.</l>
-					<l><rs type="person" key="G0001">Allmächtiger</rs>, wer iſt dir gleich?</l>
+					<lb/><l>Dein, <rs type="person" key="G0001">Herr</rs>, iſt alles. Du beglückeſt,</l>
+					<lb/><l>Du ſegneſt, sättigſt und erquickeſt</l>
+					<lb/><l>Dein grenzenloſes Reich.</l>
+					<lb/><l>In deinem ganzen Weltgebiete</l>
+					<lb/><l>Regiereſt du mit Vatergüte.</l>
+					<lb/><l><rs type="person" key="G0001">Allmächtiger</rs>, wer iſt dir gleich?</l>
 				</lg>
 			</div>
 		</body>

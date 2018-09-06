@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -73,7 +73,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -185,60 +184,60 @@
 		<body>
 			<pb n="25" ed="CPEB1780"/>
 			<div type="chorale">
-				<head type="title">Morgenlied.</head>
+				<head><title>Morgenlied.</title></head>
 				<lg>
-					<l>Nun iſt es Tag. Mit frommen Dank</l>
-					<l>Verlaß ich Bett und Ruh.</l>
-					<l><rs type="person" key="G0001">Herr</rs>, höre meinen Lobgeſang:</l>
-					<l>Mein erſtes Wort biſt du.</l>
+					<lb/><l>Nun iſt es Tag. Mit frommen Dank</l>
+					<lb/><l>Verlaß ich Bett und Ruh.</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, höre meinen Lobgeſang:</l>
+					<lb/><l>Mein erſtes Wort biſt du.</l>
 				</lg>
 				<lg>
-					<l>Wie hat der Schlummer mich erquickt!</l>
-					<l>Ich fühle neuen Muth.</l>
-					<l>Vor Tauſenden bin ich beglückt,</l>
-					<l>Die nicht ſo ſanft geruht.</l>
+					<lb/><l>Wie hat der Schlummer mich erquickt!</l>
+					<lb/><l>Ich fühle neuen Muth.</l>
+					<lb/><l>Vor Tauſenden bin ich beglückt,</l>
+					<lb/><l>Die nicht ſo ſanft geruht.</l>
 				</lg>
 				<lg>
-					<l>Mein neues Leben dank ich dir,</l>
-					<l>Dir die verjüngte Kraft.</l>
-					<l>Denn beydes, <rs type="person" key="G0001">Vater</rs>, haſt du mir</l>
-					<l>Auf mein Gebet verſchafft.</l>
+					<lb/><l>Mein neues Leben dank ich dir,</l>
+					<lb/><l>Dir die verjüngte Kraft.</l>
+					<lb/><l>Denn beydes, <rs type="person" key="G0001">Vater</rs>, haſt du mir</l>
+					<lb/><l>Auf mein Gebet verſchafft.</l>
 				</lg>
 				<lg>
-					<l>Ich nehms aus deinen Händen hin</l>
-					<l>Mit froher Dankbarkeit.</l>
-					<l><rs type="person" key="G0001">Herr</rs>, was ich habe, was ich bin,</l>
-					<l>Sey ewig dir geweiht.</l>
+					<lb/><l>Ich nehms aus deinen Händen hin</l>
+					<lb/><l>Mit froher Dankbarkeit.</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, was ich habe, was ich bin,</l>
+					<lb/><l>Sey ewig dir geweiht.</l>
 				</lg>
 				<lg>
-					<l>Mein ganzes Leben preiſe dich!</l>
-					<l>Dein ſoll mein Herz ſich freun.</l>
-					<l>Nur, beſter <rs type="person" key="G0001">Vater</rs>, lehre mich,</l>
-					<l>Fromm und dir treu zu ſeyn.</l>
+					<lb/><l>Mein ganzes Leben preiſe dich!</l>
+					<lb/><l>Dein ſoll mein Herz ſich freun.</l>
+					<lb/><l>Nur, beſter <rs type="person" key="G0001">Vater</rs>, lehre mich,</l>
+					<lb/><l>Fromm und dir treu zu ſeyn.</l>
 				</lg>
 				<lg>
-					<l>Der Erdenlüſte Eitelkeit</l>
-					<l>Berücke nie mein Herz.</l>
-					<l>Gib Klugheit bey der Fröhlichkeit,</l>
-					<l>Und Mäßigung im Schmerz.</l>
+					<lb/><l>Der Erdenlüſte Eitelkeit</l>
+					<lb/><l>Berücke nie mein Herz.</l>
+					<lb/><l>Gib Klugheit bey der Fröhlichkeit,</l>
+					<lb/><l>Und Mäßigung im Schmerz.</l>
 				</lg>
 				<lg>
-					<l>Kurz iſt der Eitelkeit Genuß,</l>
-					<l>Die mir die Welt verſprach.</l>
-					<l>Und Reue, Marter und Verdruß</l>
-					<l>Folgt ihren Freuden nach.</l>
+					<lb/><l>Kurz iſt der Eitelkeit Genuß,</l>
+					<lb/><l>Die mir die Welt verſprach.</l>
+					<lb/><l>Und Reue, Marter und Verdruß</l>
+					<lb/><l>Folgt ihren Freuden nach.</l>
 				</lg>
 				<lg>
-					<l>Ich ſchwacher Pilger in der Zeit,</l>
-					<l>Will ihre Lüſte fliehn.</l>
-					<l>Nur um das Heil der Ewigkeit</l>
-					<l>Soll ſich mein Geiſt bemühn.</l>
+					<lb/><l>Ich ſchwacher Pilger in der Zeit,</l>
+					<lb/><l>Will ihre Lüſte fliehn.</l>
+					<lb/><l>Nur um das Heil der Ewigkeit</l>
+					<lb/><l>Soll ſich mein Geiſt bemühn.</l>
 				</lg>
 				<lg>
-					<l>Dann wird es niemals mich gereun,</l>
-					<l>Daß ich den Tag durchlebt:</l>
-					<l>Ich werde froh und ſelig ſeyn,</l>
-					<l>Wenn man mich einſt begräbt.</l>
+					<lb/><l>Dann wird es niemals mich gereun,</l>
+					<lb/><l>Daß ich den Tag durchlebt:</l>
+					<lb/><l>Ich werde froh und ſelig ſeyn,</l>
+					<lb/><l>Wenn man mich einſt begräbt.</l>
 				</lg>
 			</div>
 		</body>

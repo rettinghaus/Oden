@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -73,7 +73,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -185,36 +184,36 @@
 		<body>
 			<pb n="28" ed="CPEB1780"/>
 			<div type="chorale">
-				<head type="title">Lobgeſang.</head>
+				<head><title>Lobgeſang.</title></head>
 				<lg>
-					<l>Unzählbar, <rs type="person" key="G0001">Herr</rs>, ſind deine Werke:</l>
-					<l>Unendlich deines Reichs Gebiet.</l>
-					<l>Wenn ich auf deine Wunder merke,</l>
-					<l>Erſtaunt mein denkendes Gemüth.</l>
+					<lb/><l>Unzählbar, <rs type="person" key="G0001">Herr</rs>, ſind deine Werke:</l>
+					<lb/><l>Unendlich deines Reichs Gebiet.</l>
+					<lb/><l>Wenn ich auf deine Wunder merke,</l>
+					<lb/><l>Erſtaunt mein denkendes Gemüth.</l>
 				</lg>
 				<lg>
-					<l>Wohin ich meine Augen kehre,</l>
-					<l>Entdeck ich deiner Allmacht Spur:</l>
-					<l>Von hier bis zu dem fernſten Meere</l>
-					<l>Biſt du der <rs type="person" key="G0001">Vater</rs> der Natur.</l>
+					<lb/><l>Wohin ich meine Augen kehre,</l>
+					<lb/><l>Entdeck ich deiner Allmacht Spur:</l>
+					<lb/><l>Von hier bis zu dem fernſten Meere</l>
+					<lb/><l>Biſt du der <rs type="person" key="G0001">Vater</rs> der Natur.</l>
 				</lg>
 				<lg>
-					<l>Du ſprichſt: und Segenſquellen ſtrömen</l>
-					<l>Auf uns in jeder Jahreſzeit:</l>
-					<l>Du ſprichſt: und die Geſchöpfe nehmen</l>
-					<l>Aus deinen Händen Seligkeit.</l>
+					<lb/><l>Du ſprichſt: und Segenſquellen ſtrömen</l>
+					<lb/><l>Auf uns in jeder Jahreſzeit:</l>
+					<lb/><l>Du ſprichſt: und die Geſchöpfe nehmen</l>
+					<lb/><l>Aus deinen Händen Seligkeit.</l>
 				</lg>
 				<lg>
-					<l>Dir, <rs type="person" key="G0001">Herr</rs>, gebühret Preis und Stärke!</l>
-					<l>Dich beten Erd und Himmel an.</l>
-					<l><rs type="person" key="G0001">Gott</rs>, groß ſind deiner Hände Werke!</l>
-					<l>Wer auf ſie merkt, hat Luſt daran.</l>
+					<lb/><l>Dir, <rs type="person" key="G0001">Herr</rs>, gebühret Preis und Stärke!</l>
+					<lb/><l>Dich beten Erd und Himmel an.</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, groß ſind deiner Hände Werke!</l>
+					<lb/><l>Wer auf ſie merkt, hat Luſt daran.</l>
 				</lg>
 				<lg>
-					<l>Nie werd ich deines Lobes müde,</l>
-					<l>Und nie in deinem Dienſte matt.</l>
-					<l>Mein Herz lobſinge deiner Güte,</l>
-					<l>So lang mein Blut Bewegung hat.</l>
+					<lb/><l>Nie werd ich deines Lobes müde,</l>
+					<lb/><l>Und nie in deinem Dienſte matt.</l>
+					<lb/><l>Mein Herz lobſinge deiner Güte,</l>
+					<lb/><l>So lang mein Blut Bewegung hat.</l>
 				</lg>
 			</div>
 		</body>

@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -73,7 +73,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -185,66 +184,66 @@
 		<body>
 			<pb n="14" ed="CPEB1780"/>
 			<div type="chorale">
-				<head type="title">Der Frühling.</head>
+				<head><title>Der Frühling.</title></head>
 				<lg>
-					<l>Erwacht zum neuen Leben</l>
-					<l>Steht vor mir die Natur:</l>
-					<l>Und ſanfte Lüfte weben</l>
-					<l>Durch die beſchneite Flur.</l>
-					<l>Empor aus ſeiner Hülle</l>
-					<l>Drängt ſich der junge Halm;</l>
-					<l>Der Wälder öde Stille</l>
-					<l>Belebt der Vögel Pſalm.</l>
+					<lb/><l>Erwacht zum neuen Leben</l>
+					<lb/><l>Steht vor mir die Natur:</l>
+					<lb/><l>Und ſanfte Lüfte weben</l>
+					<lb/><l>Durch die beſchneite Flur.</l>
+					<lb/><l>Empor aus ſeiner Hülle</l>
+					<lb/><l>Drängt ſich der junge Halm;</l>
+					<lb/><l>Der Wälder öde Stille</l>
+					<lb/><l>Belebt der Vögel Pſalm.</l>
 				</lg>
 				<lg>
-					<l>O <rs type="person" key="G0001">Vater</rs>, deine Milde</l>
-					<l>Fühlt Berg und Thal und Au.</l>
-					<l>Es grünen die Gefilde,</l>
-					<l>Beperlt vom Morgenthau.</l>
-					<l>Der Blumenweid' entgegen</l>
-					<l>Blöckt ſchon die Heerd' im Thal:</l>
-					<l>Und in dem Staube regen</l>
-					<l>Sich Würmer ohne Zahl.</l>
+					<lb/><l>O <rs type="person" key="G0001">Vater</rs>, deine Milde</l>
+					<lb/><l>Fühlt Berg und Thal und Au.</l>
+					<lb/><l>Es grünen die Gefilde,</l>
+					<lb/><l>Beperlt vom Morgenthau.</l>
+					<lb/><l>Der Blumenweid' entgegen</l>
+					<lb/><l>Blöckt ſchon die Heerd' im Thal:</l>
+					<lb/><l>Und in dem Staube regen</l>
+					<lb/><l>Sich Würmer ohne Zahl.</l>
 				</lg>
 				<lg>
-					<l>Glänzt von der blauen Veſte</l>
-					<l>Die Sonn auf unſre Flur,</l>
-					<l>So weiht zum Schöpfungſfeſte</l>
-					<l>Sich jede Creatur:</l>
-					<l>Und alle Blüthen dringen</l>
-					<l>Aus ihrem Keim hervor:</l>
-					<l>Und alle Vögel ſchwingen</l>
-					<l>Sich aus dem Schlaf empor.</l>
+					<lb/><l>Glänzt von der blauen Veſte</l>
+					<lb/><l>Die Sonn auf unſre Flur,</l>
+					<lb/><l>So weiht zum Schöpfungſfeſte</l>
+					<lb/><l>Sich jede Creatur:</l>
+					<lb/><l>Und alle Blüthen dringen</l>
+					<lb/><l>Aus ihrem Keim hervor:</l>
+					<lb/><l>Und alle Vögel ſchwingen</l>
+					<lb/><l>Sich aus dem Schlaf empor.</l>
 				</lg>
 				<lg>
-					<l>Die Flur im Blumenkleide</l>
-					<l>Iſt, <rs type="person" key="G0001">Schöpfer</rs>, dein Altar:</l>
-					<l>Und Opfer reiner Freude</l>
-					<l>Weiht dir das junge Jahr.</l>
-					<l>Es bringt die erſten Düfte</l>
-					<l>Der blauen Veilchen dir,</l>
-					<l>Und ſchwebend durch die Lüfte</l>
-					<l>Lobſingt die Lerche dir.</l>
+					<lb/><l>Die Flur im Blumenkleide</l>
+					<lb/><l>Iſt, <rs type="person" key="G0001">Schöpfer</rs>, dein Altar:</l>
+					<lb/><l>Und Opfer reiner Freude</l>
+					<lb/><l>Weiht dir das junge Jahr.</l>
+					<lb/><l>Es bringt die erſten Düfte</l>
+					<lb/><l>Der blauen Veilchen dir,</l>
+					<lb/><l>Und ſchwebend durch die Lüfte</l>
+					<lb/><l>Lobſingt die Lerche dir.</l>
 				</lg>
 				<lg>
-					<l>Ich ſchau ihr nach, und ſchwinge</l>
-					<l>Voll Dank mich auf zu dir.</l>
-					<l>O <rs type="person" key="G0001">Schöpfer</rs> aller Dinge,</l>
-					<l>Geſegnet ſeyſt du mir!</l>
-					<l>Weit über ſie erhoben,</l>
-					<l>Kann ich der Fluren Pracht</l>
-					<l>Empfinden, kann dich loben,</l>
-					<l>Der du den Lenz gemacht.</l>
+					<lb/><l>Ich ſchau ihr nach, und ſchwinge</l>
+					<lb/><l>Voll Dank mich auf zu dir.</l>
+					<lb/><l>O <rs type="person" key="G0001">Schöpfer</rs> aller Dinge,</l>
+					<lb/><l>Geſegnet ſeyſt du mir!</l>
+					<lb/><l>Weit über ſie erhoben,</l>
+					<lb/><l>Kann ich der Fluren Pracht</l>
+					<lb/><l>Empfinden, kann dich loben,</l>
+					<lb/><l>Der du den Lenz gemacht.</l>
 				</lg>
 				<lg>
-					<l>Lobſing ihm, meine Seele,</l>
-					<l>Dem <rs type="person" key="G0001">Gott</rs>, der Freuden ſchafft!</l>
-					<l>Lobſing ihm und erzähle</l>
-					<l>Die Werke ſeiner Kraft!</l>
-					<l>Hier, von dem Blüthenhügel</l>
-					<l>Bis zu der Sterne Bahn,</l>
-					<l>Steig auf der Andacht Flügel</l>
-					<l>Dein Loblied himmelan.</l>
+					<lb/><l>Lobſing ihm, meine Seele,</l>
+					<lb/><l>Dem <rs type="person" key="G0001">Gott</rs>, der Freuden ſchafft!</l>
+					<lb/><l>Lobſing ihm und erzähle</l>
+					<lb/><l>Die Werke ſeiner Kraft!</l>
+					<lb/><l>Hier, von dem Blüthenhügel</l>
+					<lb/><l>Bis zu der Sterne Bahn,</l>
+					<lb/><l>Steig auf der Andacht Flügel</l>
+					<lb/><l>Dein Loblied himmelan.</l>
 				</lg>
 			</div>
 		</body>

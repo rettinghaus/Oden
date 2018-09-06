@@ -7,7 +7,7 @@
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
-            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+            <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -76,7 +76,6 @@
                   <occupation>Komponist</occupation>
                   <note type="bioSummary"/>
                   <idno type="GND">118505505</idno>
-                  <idno type="WeGA"/>
                   <persName type="sigla" subtype="Kast"/>
                   <persName type="sigla" subtype="Blechschmidt"/>
                   <persName type="sigla" subtype="Dürr"/>
@@ -189,41 +188,41 @@
          <pb n="14" ed="CPEB1792"/>
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
-            <head type="title">Andenken an den Tod.</head>
+            <head><title>Andenken an den Tod.</title></head>
             <lg>
-               <l>Wer weiß, wie nah der Tod mir iſt?</l>
-               <l>Vielleicht, eh dieſer Tag verfließt,</l>
-               <l>Bin ich verwelkt, wie dürres Laub,</l>
-               <l>Des Todes Raub,</l>
-               <l>Und mein Gebein bedeckt der Staub.</l>
+               <lb/><l>Wer weiß, wie nah der Tod mir iſt?</l>
+               <lb/><l>Vielleicht, eh dieſer Tag verfließt,</l>
+               <lb/><l>Bin ich verwelkt, wie dürres Laub,</l>
+               <lb/><l>Des Todes Raub,</l>
+               <lb/><l>Und mein Gebein bedeckt der Staub.</l>
             </lg>
             <lg>
-               <l>Ach, <rs type="person" key="G0001">Vater</rs>, meine Lebenſzeit</l>
-               <l>Eilt fliegend hin zur Ewigkeit;</l>
-               <l>Bald iſt ſie näher: jeder Scherz</l>
-               <l>Flieht dann mein Herz,</l>
-               <l>Und mich ergreift des Todes Schmerz.</l>
+               <lb/><l>Ach, <rs type="person" key="G0001">Vater</rs>, meine Lebenſzeit</l>
+               <lb/><l>Eilt fliegend hin zur Ewigkeit;</l>
+               <lb/><l>Bald iſt ſie näher: jeder Scherz</l>
+               <lb/><l>Flieht dann mein Herz,</l>
+               <lb/><l>Und mich ergreift des Todes Schmerz.</l>
             </lg>
             <lg>
-               <l>Erhalt in mir bey Scherz und Spiel,</l>
-               <l>O <rs type="person" key="G0001">Gott</rs>, der Ewigkeit Gefühl.</l>
-               <l>Wenn ich mich meines Lebens freu,</l>
-               <l>So gib dabey,</l>
-               <l>Daß ich auch klug und mäßig ſey.</l>
+               <lb/><l>Erhalt in mir bey Scherz und Spiel,</l>
+               <lb/><l>O <rs type="person" key="G0001">Gott</rs>, der Ewigkeit Gefühl.</l>
+               <lb/><l>Wenn ich mich meines Lebens freu,</l>
+               <lb/><l>So gib dabey,</l>
+               <lb/><l>Daß ich auch klug und mäßig ſey.</l>
             </lg>
             <lg>
-               <l>Wenn ich noch heut erblaſsen ſoll,</l>
-               <l>So machs mit mir im Tode wohl:</l>
-               <l>Verlaß mich nicht in meiner Noth.</l>
-               <l>Durch dich, mein <rs type="person" key="G0001">Gott</rs>,</l>
-               <l>Wird mir zum ſanften Schlaf der Tod.</l>
+               <lb/><l>Wenn ich noch heut erblaſsen ſoll,</l>
+               <lb/><l>So machs mit mir im Tode wohl:</l>
+               <lb/><l>Verlaß mich nicht in meiner Noth.</l>
+               <lb/><l>Durch dich, mein <rs type="person" key="G0001">Gott</rs>,</l>
+               <lb/><l>Wird mir zum ſanften Schlaf der Tod.</l>
             </lg>
             <lg>
-               <l>Doch ſoll mein Tod noch ferne ſeyn:</l>
-               <l>Dein Will geſcheh! <rs type="person" key="G0001">Herr</rs> ich bin dein.</l>
-               <l>Doch treuer <rs type="person" key="G0001">Gott</rs>, verleihe mir,</l>
-               <l>Daß ich nur dir</l>
-               <l>Hier lebe, und einſt ſterbe dir.</l>
+               <lb/><l>Doch ſoll mein Tod noch ferne ſeyn:</l>
+               <lb/><l>Dein Will geſcheh! <rs type="person" key="G0001">Herr</rs> ich bin dein.</l>
+               <lb/><l>Doch treuer <rs type="person" key="G0001">Gott</rs>, verleihe mir,</l>
+               <lb/><l>Daß ich nur dir</l>
+               <lb/><l>Hier lebe, und einſt ſterbe dir.</l>
             </lg>
          </div>
       </body>

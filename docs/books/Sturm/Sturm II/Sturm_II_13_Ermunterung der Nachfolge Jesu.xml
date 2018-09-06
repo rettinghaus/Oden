@@ -7,7 +7,7 @@
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
-            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+            <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -76,7 +76,6 @@
                   <occupation>Komponist</occupation>
                   <note type="bioSummary"/>
                   <idno type="GND">118505505</idno>
-                  <idno type="WeGA"/>
                   <persName type="sigla" subtype="Kast"/>
                   <persName type="sigla" subtype="Blechschmidt"/>
                   <persName type="sigla" subtype="Dürr"/>
@@ -189,70 +188,70 @@
          <pb n="13" ed="CPEB1792"/>
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
-            <head type="title">Ermunterung zur Nachfolge Jeſu.</head>
+            <head><title>Ermunterung zur Nachfolge Jeſu.</title></head>
             <lg>
-               <l>Stärke, <rs type="person" key="J0001">Jeſu</rs>, ſtärke mich</l>
-               <l>Willig alle Laſt zu tragen!</l>
-               <l>Ach, mein Fleiſch entſetzet ſich</l>
-               <l>Muthlos vor des Lebens Plagen.</l>
-               <l>Und doch ſoll ich bey der Pein</l>
-               <l>Deinem Beyſpiel ähnlich ſeyn.</l>
+               <lb/><l>Stärke, <rs type="person" key="J0001">Jeſu</rs>, ſtärke mich</l>
+               <lb/><l>Willig alle Laſt zu tragen!</l>
+               <lb/><l>Ach, mein Fleiſch entſetzet ſich</l>
+               <lb/><l>Muthlos vor des Lebens Plagen.</l>
+               <lb/><l>Und doch ſoll ich bey der Pein</l>
+               <lb/><l>Deinem Beyſpiel ähnlich ſeyn.</l>
             </lg>
             <lg>
-               <l>Wer dir nachzufolgen ſtrebt,</l>
-               <l>Muß ſich deiner Schmach nicht ſchämen,</l>
-               <l>Und wenn ſich das Fleiſch erhebt,</l>
-               <l>Sich zu ſtetem Kampf bequemen.</l>
-               <l>Wer ſein Kreuz nicht auf ſich nimmt,</l>
-               <l>Iſt zum Himmel nicht beſtimmt.</l>
+               <lb/><l>Wer dir nachzufolgen ſtrebt,</l>
+               <lb/><l>Muß ſich deiner Schmach nicht ſchämen,</l>
+               <lb/><l>Und wenn ſich das Fleiſch erhebt,</l>
+               <lb/><l>Sich zu ſtetem Kampf bequemen.</l>
+               <lb/><l>Wer ſein Kreuz nicht auf ſich nimmt,</l>
+               <lb/><l>Iſt zum Himmel nicht beſtimmt.</l>
             </lg>
             <lg>
-               <l>O wie ſanft wird mir die Laſt,</l>
-               <l>Wenn ichs zuverſichtlich wage,</l>
-               <l>Und wie du gelitten haſt,</l>
-               <l>Muthig alle Noth ertrage.</l>
-               <l>Dann wird, was mich ſchrecklich deucht,</l>
-               <l>Süß und angenehm und leicht.</l>
+               <lb/><l>O wie ſanft wird mir die Laſt,</l>
+               <lb/><l>Wenn ichs zuverſichtlich wage,</l>
+               <lb/><l>Und wie du gelitten haſt,</l>
+               <lb/><l>Muthig alle Noth ertrage.</l>
+               <lb/><l>Dann wird, was mich ſchrecklich deucht,</l>
+               <lb/><l>Süß und angenehm und leicht.</l>
             </lg>
             <lg>
-               <l>Ach! viel mehr, unendlich mehr,</l>
-               <l>Als ich je von Noth empfinde,</l>
-               <l>Littſt du, <rs type="person" key="J0001">Allerheiligſter</rs>,</l>
-               <l>Für die Welt, für meine Sünde.</l>
-               <l>Unzählbar war deine Noth,</l>
-               <l>Unauſsprechlich ſchwer dein Tod.</l>
+               <lb/><l>Ach! viel mehr, unendlich mehr,</l>
+               <lb/><l>Als ich je von Noth empfinde,</l>
+               <lb/><l>Littſt du, <rs type="person" key="J0001">Allerheiligſter</rs>,</l>
+               <lb/><l>Für die Welt, für meine Sünde.</l>
+               <lb/><l>Unzählbar war deine Noth,</l>
+               <lb/><l>Unauſsprechlich ſchwer dein Tod.</l>
             </lg>
             <lg>
-               <l>Durch dein Kreuz erwarbſt du mir</l>
-               <l>Kraft und Muth in meinen Leiden.</l>
-               <l>Nun kann, <rs type="person" key="J0001">Jeſu</rs>, mich von dir</l>
-               <l>Keine Pein, kein Tod nicht ſcheiden.</l>
-               <l>Werd ich muthlos, dann ſtärkt ſich</l>
-               <l>Mein erſchrocknes Herz durch dich.</l>
+               <lb/><l>Durch dein Kreuz erwarbſt du mir</l>
+               <lb/><l>Kraft und Muth in meinen Leiden.</l>
+               <lb/><l>Nun kann, <rs type="person" key="J0001">Jeſu</rs>, mich von dir</l>
+               <lb/><l>Keine Pein, kein Tod nicht ſcheiden.</l>
+               <lb/><l>Werd ich muthlos, dann ſtärkt ſich</l>
+               <lb/><l>Mein erſchrocknes Herz durch dich.</l>
             </lg>
             <lg>
-               <l>Endlich wirſt du mich der Not</l>
-               <l>Dieſes Lebens ganz entrücken;</l>
-               <l>Endlich wird ein ſanfter Tod</l>
-               <l>Den zerſchlagnen Geiſt erquicken.</l>
-               <l>Und in der Verweſung Haus</l>
-               <l>Ruh ich von der Arbeit aus.</l>
+               <lb/><l>Endlich wirſt du mich der Not</l>
+               <lb/><l>Dieſes Lebens ganz entrücken;</l>
+               <lb/><l>Endlich wird ein ſanfter Tod</l>
+               <lb/><l>Den zerſchlagnen Geiſt erquicken.</l>
+               <lb/><l>Und in der Verweſung Haus</l>
+               <lb/><l>Ruh ich von der Arbeit aus.</l>
             </lg>
             <lg>
-               <l>Dort, wohin du nach dem Streit</l>
-               <l>Triumphierend dich geſchwungen,</l>
-               <l>Giebſt du mir die Herrlichkeit,</l>
-               <l>Die du durch dein Kreuz errungen.</l>
-               <l>Und bey dir wird jede Pein</l>
-               <l>Mir ein neuer Segen ſeyn.</l>
+               <lb/><l>Dort, wohin du nach dem Streit</l>
+               <lb/><l>Triumphierend dich geſchwungen,</l>
+               <lb/><l>Giebſt du mir die Herrlichkeit,</l>
+               <lb/><l>Die du durch dein Kreuz errungen.</l>
+               <lb/><l>Und bey dir wird jede Pein</l>
+               <lb/><l>Mir ein neuer Segen ſeyn.</l>
             </lg>
             <lg>
-               <l>Nun, ich fliehe nicht dein Kreuz;</l>
-               <l>Sieh, ich nehms aus deinen Händen.</l>
-               <l>Nie ſoll mich der Lüſte Reiz,</l>
-               <l>Nie Verſuchung von dir wenden.</l>
-               <l>Gern trag ich, wiewohl noch ſchwach,</l>
-               <l>Dir dein Kreuz, mein <rs type="person" key="J0001">Jeſu</rs>, nach.</l>
+               <lb/><l>Nun, ich fliehe nicht dein Kreuz;</l>
+               <lb/><l>Sieh, ich nehms aus deinen Händen.</l>
+               <lb/><l>Nie ſoll mich der Lüſte Reiz,</l>
+               <lb/><l>Nie Verſuchung von dir wenden.</l>
+               <lb/><l>Gern trag ich, wiewohl noch ſchwach,</l>
+               <lb/><l>Dir dein Kreuz, mein <rs type="person" key="J0001">Jeſu</rs>, nach.</l>
             </lg>
          </div>
       </body>

@@ -7,7 +7,7 @@
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
-            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+            <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -76,7 +76,6 @@
                   <occupation>Komponist</occupation>
                   <note type="bioSummary"/>
                   <idno type="GND">118505505</idno>
-                  <idno type="WeGA"/>
                   <persName type="sigla" subtype="Kast"/>
                   <persName type="sigla" subtype="Blechschmidt"/>
                   <persName type="sigla" subtype="Dürr"/>
@@ -189,42 +188,42 @@
          <pb n="27" ed="CPEB1792"/>
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
-            <head type="title">Vorzüge des Menſchen.</head>
+            <head><title>Vorzüge des Menſchen.</title></head>
             <lg>
-               <l>Ihn preiſt die Sonn am hohen Himmel,</l>
-               <l>Und ihn verkündigt jeder Stern:</l>
-               <l>Doch unbeſeelt ſind Sonn und Sterne,</l>
-               <l>Sie kennen nicht der Welten <rs type="person" key="G0001">Herrn</rs>.</l>
+               <lb/><l>Ihn preiſt die Sonn am hohen Himmel,</l>
+               <lb/><l>Und ihn verkündigt jeder Stern:</l>
+               <lb/><l>Doch unbeſeelt ſind Sonn und Sterne,</l>
+               <lb/><l>Sie kennen nicht der Welten <rs type="person" key="G0001">Herrn</rs>.</l>
             </lg>
             <lg>
-               <l>Im Luftmeer fleugt der Vögel König</l>
-               <l>Zur Sonne hin, und trinkt ihr Licht:</l>
-               <l>Doch er kennt nicht der Sonne <rs type="person" key="G0001">Schöpfer</rs>:</l>
-               <l>Kennt ſeines Auges <rs type="person" key="G0001">Schöpfer</rs> nicht.</l>
+               <lb/><l>Im Luftmeer fleugt der Vögel König</l>
+               <lb/><l>Zur Sonne hin, und trinkt ihr Licht:</l>
+               <lb/><l>Doch er kennt nicht der Sonne <rs type="person" key="G0001">Schöpfer</rs>:</l>
+               <lb/><l>Kennt ſeines Auges <rs type="person" key="G0001">Schöpfer</rs> nicht.</l>
             </lg>
             <lg>
-               <l>Empor zum Frühlingſhimmel ſchallet</l>
-               <l>Der frühen Lerche Lobgeſang:</l>
-               <l>Doch iſt ihr Lied im Morgenſchimmer</l>
-               <l>Ein süß Gefühl nur, und kein Dank.</l>
+               <lb/><l>Empor zum Frühlingſhimmel ſchallet</l>
+               <lb/><l>Der frühen Lerche Lobgeſang:</l>
+               <lb/><l>Doch iſt ihr Lied im Morgenſchimmer</l>
+               <lb/><l>Ein süß Gefühl nur, und kein Dank.</l>
             </lg>
             <lg>
-               <l>In <rs type="person" key="G0001">Gottes</rs> Wohlgefallen hauchen</l>
-               <l>Die Blumen ihren Balſamduft:</l>
-               <l>Sie trinken ohne Dank vom Regen,</l>
-               <l>Und bitten nicht um Thau noch Luft.</l>
+               <lb/><l>In <rs type="person" key="G0001">Gottes</rs> Wohlgefallen hauchen</l>
+               <lb/><l>Die Blumen ihren Balſamduft:</l>
+               <lb/><l>Sie trinken ohne Dank vom Regen,</l>
+               <lb/><l>Und bitten nicht um Thau noch Luft.</l>
             </lg>
             <lg>
-               <l>In ſeinem Wohlgefallen weidet</l>
-               <l>Das frohe Lamm am Berg herab:</l>
-               <l>Es kennt die Süßigkeit der Blumen:</l>
-               <l>Es kennet den nicht, der ſie gab.</l>
+               <lb/><l>In ſeinem Wohlgefallen weidet</l>
+               <lb/><l>Das frohe Lamm am Berg herab:</l>
+               <lb/><l>Es kennt die Süßigkeit der Blumen:</l>
+               <lb/><l>Es kennet den nicht, der ſie gab.</l>
             </lg>
             <lg>
-               <l>Ich aber kenne dich: ich ſchaue</l>
-               <l>In jedem deiner Werke dich.</l>
-               <l><rs type="person" key="G0001">Gott</rs>, deiner freut ſich meine Seele:</l>
-               <l>Und meines Daſeyns freu ich mich.</l>
+               <lb/><l>Ich aber kenne dich: ich ſchaue</l>
+               <lb/><l>In jedem deiner Werke dich.</l>
+               <lb/><l><rs type="person" key="G0001">Gott</rs>, deiner freut ſich meine Seele:</l>
+               <lb/><l>Und meines Daſeyns freu ich mich.</l>
             </lg>
          </div>
       </body>

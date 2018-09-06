@@ -7,7 +7,7 @@
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
-            <authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+            <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -76,7 +76,6 @@
                   <occupation>Komponist</occupation>
                   <note type="bioSummary"/>
                   <idno type="GND">118505505</idno>
-                  <idno type="WeGA"/>
                   <persName type="sigla" subtype="Kast"/>
                   <persName type="sigla" subtype="Blechschmidt"/>
                   <persName type="sigla" subtype="Dürr"/>
@@ -189,63 +188,63 @@
          <pb n="26" ed="CPEB1792"/>
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
-            <head type="title">Bitte um Beyſtand des heiligen Geiſtes.</head>
+            <head><title>Bitte um Beyſtand des heiligen Geiſtes.</title></head>
             <lg>
-               <l>Komm, o Geiſt, von <rs type="person" key="G0001">Gott</rs> gegeben,</l>
-               <l>Heilige und beßre mich!</l>
-               <l>Weiſe, fromm und gut zu leben,</l>
-               <l>Dies vermag ich nur durch dich.</l>
-               <l>Mache täglich Ernſt und Treu,</l>
-               <l>Mich zu beſsern, in mir neu.</l>
+               <lb/><l>Komm, o Geiſt, von <rs type="person" key="G0001">Gott</rs> gegeben,</l>
+               <lb/><l>Heilige und beßre mich!</l>
+               <lb/><l>Weiſe, fromm und gut zu leben,</l>
+               <lb/><l>Dies vermag ich nur durch dich.</l>
+               <lb/><l>Mache täglich Ernſt und Treu,</l>
+               <lb/><l>Mich zu beſsern, in mir neu.</l>
             </lg>
             <lg>
-               <l>Fern vom Ziel, wornach ich ringe,</l>
-               <l>Ruf ich: lindre mir die Laſt,</l>
-               <l>Daß ich jenes Werk vollbringe,</l>
-               <l>Das du angefangen haſt.</l>
-               <l>Fühl ich deine Kraft nicht mehr,</l>
-               <l>Dann wird mir die Laſt zu ſchwer.</l>
+               <lb/><l>Fern vom Ziel, wornach ich ringe,</l>
+               <lb/><l>Ruf ich: lindre mir die Laſt,</l>
+               <lb/><l>Daß ich jenes Werk vollbringe,</l>
+               <lb/><l>Das du angefangen haſt.</l>
+               <lb/><l>Fühl ich deine Kraft nicht mehr,</l>
+               <lb/><l>Dann wird mir die Laſt zu ſchwer.</l>
             </lg>
             <lg>
-               <l>Ach, ich irr in Finſterniſsen,</l>
-               <l>Geiſt der Wahrheit, ohne dich:</l>
-               <l>Von Begierden hingeriſsen</l>
-               <l>Täuſcht die trunkne Seele ſich,</l>
-               <l>Sucht die Ruh, und findet ſie</l>
-               <l>In der Erde Gütern nie.</l>
+               <lb/><l>Ach, ich irr in Finſterniſsen,</l>
+               <lb/><l>Geiſt der Wahrheit, ohne dich:</l>
+               <lb/><l>Von Begierden hingeriſsen</l>
+               <lb/><l>Täuſcht die trunkne Seele ſich,</l>
+               <lb/><l>Sucht die Ruh, und findet ſie</l>
+               <lb/><l>In der Erde Gütern nie.</l>
             </lg>
             <lg>
-               <l>Hilf mir nach dem Himmel ſtreben,</l>
-               <l>Der den Lohn mir aufbehält:</l>
-               <l><rs type="person" key="G0001">Gott</rs> und <rs type="person" key="J0001"
+               <lb/><l>Hilf mir nach dem Himmel ſtreben,</l>
+               <lb/><l>Der den Lohn mir aufbehält:</l>
+               <lb/><l><rs type="person" key="G0001">Gott</rs> und <rs type="person" key="J0001"
                      >Jeſu</rs> laß mich leben,</l>
-               <l>Nicht den Lüſten dieſer Welt;</l>
-               <l>Lehre mich, von Sünden rein,</l>
-               <l>Heilig, wie mein <rs type="person" key="G0001">Gott</rs>, zu ſeyn.</l>
+               <lb/><l>Nicht den Lüſten dieſer Welt;</l>
+               <lb/><l>Lehre mich, von Sünden rein,</l>
+               <lb/><l>Heilig, wie mein <rs type="person" key="G0001">Gott</rs>, zu ſeyn.</l>
             </lg>
             <lg>
-               <l>Leite du mich auf dem Pfade</l>
-               <l>Deines Lichts zum Leben hin:</l>
-               <l>Und mich ſtärke deine Gnade,</l>
-               <l>Wenn ich ſchwach und muthlos bin:</l>
-               <l>Daß ich näher jeden Tag</l>
-               <l>Meinem Kleinod kommen mag.</l>
+               <lb/><l>Leite du mich auf dem Pfade</l>
+               <lb/><l>Deines Lichts zum Leben hin:</l>
+               <lb/><l>Und mich ſtärke deine Gnade,</l>
+               <lb/><l>Wenn ich ſchwach und muthlos bin:</l>
+               <lb/><l>Daß ich näher jeden Tag</l>
+               <lb/><l>Meinem Kleinod kommen mag.</l>
             </lg>
             <lg>
-               <l>Gib zu jedem guten Werke</l>
-               <l>Meiner Seele Kraft und Luſt:</l>
-               <l>Und im Kampfe flöße Stärke</l>
-               <l>Mir in meine ſchwache Bruſt;</l>
-               <l>Gib mir Troſt in jeder Noth:</l>
-               <l>Hilf mir treu ſeyn bis in Tod.</l>
+               <lb/><l>Gib zu jedem guten Werke</l>
+               <lb/><l>Meiner Seele Kraft und Luſt:</l>
+               <lb/><l>Und im Kampfe flöße Stärke</l>
+               <lb/><l>Mir in meine ſchwache Bruſt;</l>
+               <lb/><l>Gib mir Troſt in jeder Noth:</l>
+               <lb/><l>Hilf mir treu ſeyn bis in Tod.</l>
             </lg>
             <lg>
-               <l>Sey mein Beyſtand, wenn ich ſterbe;</l>
-               <l>Zeige meinem Geiſt von fern</l>
-               <l>Das mir aufbehaltne Erbe</l>
-               <l>In der Herrlichkeit des <rs type="person" key="G0001">Herrn</rs>.</l>
-               <l>Dann, geſtärkt durch deine Kraft,</l>
-               <l>End ich froh die Pilgerſchaft.</l>
+               <lb/><l>Sey mein Beyſtand, wenn ich ſterbe;</l>
+               <lb/><l>Zeige meinem Geiſt von fern</l>
+               <lb/><l>Das mir aufbehaltne Erbe</l>
+               <lb/><l>In der Herrlichkeit des <rs type="person" key="G0001">Herrn</rs>.</l>
+               <lb/><l>Dann, geſtärkt durch deine Kraft,</l>
+               <lb/><l>End ich froh die Pilgerſchaft.</l>
             </lg>
          </div>
       </body>
