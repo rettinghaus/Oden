@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -70,7 +70,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -182,55 +181,55 @@
 		<body>
 			<pb n="21" ed="CPEB1774"/>
 			<div type="chorale">
-				<head type="title">Der ſieben und vierzigſte Pſalm.</head>
+				<head><title>Der ſieben und vierzigſte Pſalm.</title></head>
 				<lg>
-					<l>Frohlocket, ihr Völker, frohlocket mit Händen</l>
-					<l>Und jauchzet <rs type="person" key="G0001">Gott</rs> mit fröhlichem
+					<lb/><l>Frohlocket, ihr Völker, frohlocket mit Händen</l>
+					<lb/><l>Und jauchzet <rs type="person" key="G0001">Gott</rs> mit fröhlichem
 						Schall.</l>
-					<l>Hoch iſt er, und herrlich an aller Welt Enden,</l>
-					<l>Ein großer König überall.</l>
+					<lb/><l>Hoch iſt er, und herrlich an aller Welt Enden,</l>
+					<lb/><l>Ein großer König überall.</l>
 				</lg>
 				<lg>
-					<l>Er, er wird der Erde Volk unter uns zwingen</l>
-					<l>Und unter unſre Füße die Welt.</l>
-					<l>Er wählt uns zum Erbe! Laßt, laſset uns ſingen,</l>
-					<l>Daß Jacob unſerm <rs type="person" key="G0001">Gott</rs> gefällt.</l>
+					<lb/><l>Er, er wird der Erde Volk unter uns zwingen</l>
+					<lb/><l>Und unter unſre Füße die Welt.</l>
+					<lb/><l>Er wählt uns zum Erbe! Laßt, laſset uns ſingen,</l>
+					<lb/><l>Daß Jacob unſerm <rs type="person" key="G0001">Gott</rs> gefällt.</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Gott</rs> machet ihn herrlich. Der Erdkreis
+					<lb/><l><rs type="person" key="G0001">Gott</rs> machet ihn herrlich. Der Erdkreis
 						erſtaune!</l>
-					<l><rs type="person" key="G0001">Gott</rs> fährt mit lautem Jauchzen hinauf!</l>
-					<l>Es fährt, mit hochtönender heller Poſaune,</l>
-					<l>Er <rs type="person" key="G0001">Herr</rs> in ſeine Himmel auf!</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> fährt mit lautem Jauchzen hinauf!</l>
+					<lb/><l>Es fährt, mit hochtönender heller Poſaune,</l>
+					<lb/><l>Er <rs type="person" key="G0001">Herr</rs> in ſeine Himmel auf!</l>
 				</lg>
 				<lg>
-					<l>Lobſinget, damit er verherrlichet werde!</l>
-					<l>Singt, ſinget unſerm König, dem <rs type="person" key="G0001">Herrn</rs>!</l>
-					<l>Denn er iſt der <rs type="person" key="G0001">Herr</rs> der erretteten
+					<lb/><l>Lobſinget, damit er verherrlichet werde!</l>
+					<lb/><l>Singt, ſinget unſerm König, dem <rs type="person" key="G0001">Herrn</rs>!</l>
+					<lb/><l>Denn er iſt der <rs type="person" key="G0001">Herr</rs> der erretteten
 						Erde;</l>
-					<l>Lobſingt ihm klüglich! Singt ihm gern!</l>
+					<lb/><l>Lobſingt ihm klüglich! Singt ihm gern!</l>
 				</lg>
 				<lg>
-					<l>Lobſinget; frohlocket voll heiliger Freuden,</l>
-					<l>Stimmt an ein Lied im höheren Ton!</l>
-					<l>Der <rs type="person" key="G0001">Herr</rs> iſt der Herr der anbetenden
+					<lb/><l>Lobſinget; frohlocket voll heiliger Freuden,</l>
+					<lb/><l>Stimmt an ein Lied im höheren Ton!</l>
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> iſt der Herr der anbetenden
 						Heiden;</l>
-					<l><rs type="person" key="G0001">Gott</rs> ſitzt auf ſeinem hohen Thron!</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> ſitzt auf ſeinem hohen Thron!</l>
 				</lg>
 				<lg>
-					<l>Die Fürſten, die über die Erde regieren,</l>
-					<l>Sind wider <rs type="person" key="G0001">Gott</rs> vergeblich empört.</l>
-					<l>Er weiß ſie, <rs type="person" key="G0001">Gott</rs> weiß ſie zuſammen zu
+					<lb/><l>Die Fürſten, die über die Erde regieren,</l>
+					<lb/><l>Sind wider <rs type="person" key="G0001">Gott</rs> vergeblich empört.</l>
+					<lb/><l>Er weiß ſie, <rs type="person" key="G0001">Gott</rs> weiß ſie zuſammen zu
 						führen,</l>
-					<l>Zu einem Volke, das ihn ehrt.</l>
+					<lb/><l>Zu einem Volke, das ihn ehrt.</l>
 				</lg>
 				<lg>
-					<l>Sie ſollen geſegnet in <rs type="person" key="A0002">Abraham</rs> werden,</l>
-					<l>Sprach <rs type="person" key="G0001">Gott</rs>, der, was er redet, uns
+					<lb/><l>Sie ſollen geſegnet in <rs type="person" key="A0002">Abraham</rs> werden,</l>
+					<lb/><l>Sprach <rs type="person" key="G0001">Gott</rs>, der, was er redet, uns
 						hält!</l>
-					<l>Der <rs type="person" key="G0001">Herr</rs> iſt erhöht bey den Schilden auf
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> iſt erhöht bey den Schilden auf
 						Erden!</l>
-					<l><rs type="person" key="G0001">Gott</rs> iſt erhöhet in der Welt!</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> iſt erhöhet in der Welt!</l>
 				</lg>
 			</div>
 		</body>

@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -70,7 +70,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -182,70 +181,70 @@
 		<body>
 			<pb n="15" ed="CPEB1774"/>
 			<div type="chorale">
-				<head type="title">Der zwey und dreyßigſte Pſalm.</head>
+				<head><title>Der zwey und dreyßigſte Pſalm.</title></head>
 				<lg>
-					<l>Heil dem, den nicht die Furcht, geſtraft zu werden, quälet,</l>
-					<l>Weil ihm der <rs type="person" key="G0001">Herr</rs> vergiebt und ſeine
+					<lb/><l>Heil dem, den nicht die Furcht, geſtraft zu werden, quälet,</l>
+					<lb/><l>Weil ihm der <rs type="person" key="G0001">Herr</rs> vergiebt und ſeine
 						Schuld verzeiht!</l>
-					<l>Heil ihm, wenn <rs type="person" key="G0001">Gott</rs> ihn frey von ſeinen
+					<lb/><l>Heil ihm, wenn <rs type="person" key="G0001">Gott</rs> ihn frey von ſeinen
 						Laſtern zählet,</l>
-					<l>Wenn ihn kein Selbſtbetrug erfreut!</l>
+					<lb/><l>Wenn ihn kein Selbſtbetrug erfreut!</l>
 				</lg>
 				<lg>
-					<l>Ich ſchwieg; mein Schweigen ward bald eine laute Klage.</l>
-					<l>Mein tägliches Geſchrey verzehrte mein Gebein.</l>
-					<l>Wie fiel dein Arm auf mich, die Nacht durch und am Tage,</l>
-					<l>Mir eine ſchwere Laſt zu ſeyn.</l>
+					<lb/><l>Ich ſchwieg; mein Schweigen ward bald eine laute Klage.</l>
+					<lb/><l>Mein tägliches Geſchrey verzehrte mein Gebein.</l>
+					<lb/><l>Wie fiel dein Arm auf mich, die Nacht durch und am Tage,</l>
+					<lb/><l>Mir eine ſchwere Laſt zu ſeyn.</l>
 				</lg>
 				<lg>
-					<l>Da fühlt ich meine Kraft vor deinem Zorn verſchwinden,</l>
-					<l>Wie eine grüne Flur im Sommer dürre wird.</l>
-					<l>Da, da bekannt ich dir, <rs type="person" key="G0001">Gott</rs>, alle meine
+					<lb/><l>Da fühlt ich meine Kraft vor deinem Zorn verſchwinden,</l>
+					<lb/><l>Wie eine grüne Flur im Sommer dürre wird.</l>
+					<lb/><l>Da, da bekannt ich dir, <rs type="person" key="G0001">Gott</rs>, alle meine
 						Sünden,</l>
-					<l>Verſchwieg nicht, daß ich mich verirrt.</l>
+					<lb/><l>Verſchwieg nicht, daß ich mich verirrt.</l>
 				</lg>
 				<lg>
-					<l>Ich ſprach: Ich will zum <rs type="person" key="G0001">Herrn</rs> und ſeiner
+					<lb/><l>Ich ſprach: Ich will zum <rs type="person" key="G0001">Herrn</rs> und ſeiner
 						Gnade fliehen,</l>
-					<l>Und meinem <rs type="person" key="G0001">Gott</rs> geſtehn: Ich sündigte vor
+					<lb/><l>Und meinem <rs type="person" key="G0001">Gott</rs> geſtehn: Ich sündigte vor
 						dir!</l>
-					<l>Das that ich, und mir ward mein Unrecht gleich verziehen,</l>
-					<l>Gleich nahmſt du meine Schuld von mir.</l>
+					<lb/><l>Das that ich, und mir ward mein Unrecht gleich verziehen,</l>
+					<lb/><l>Gleich nahmſt du meine Schuld von mir.</l>
 				</lg>
 				<lg>
-					<l>Das wird zu ſeiner Zeit, <rs type="person" key="G0001">Gott</rs>, jeder
+					<lb/><l>Das wird zu ſeiner Zeit, <rs type="person" key="G0001">Gott</rs>, jeder
 						Fromme loben;</l>
-					<l>Wenn auch ein Ocean aus ſeinen Ufern bricht,</l>
-					<l>Er bleibt getroſt; die Flut mag noch ſo mächtig toben,</l>
-					<l>An die Gerechten reicht ſie nicht.</l>
+					<lb/><l>Wenn auch ein Ocean aus ſeinen Ufern bricht,</l>
+					<lb/><l>Er bleibt getroſt; die Flut mag noch ſo mächtig toben,</l>
+					<lb/><l>An die Gerechten reicht ſie nicht.</l>
 				</lg>
 				<lg>
-					<l>Wenn dräuende Gefahr und Angſt mich überfallen,</l>
-					<l>So biſt du, <rs type="person" key="G0001">Gott</rs>, mein Schirm, und zu dir
+					<lb/><l>Wenn dräuende Gefahr und Angſt mich überfallen,</l>
+					<lb/><l>So biſt du, <rs type="person" key="G0001">Gott</rs>, mein Schirm, und zu dir
 						flieh ich hin.</l>
-					<l>Dann werden um mich her Triumphgesäng' erſchallen,</l>
-					<l>Daß ich befreyt und ſicher bin.</l>
+					<lb/><l>Dann werden um mich her Triumphgesäng' erſchallen,</l>
+					<lb/><l>Daß ich befreyt und ſicher bin.</l>
 				</lg>
 				<lg>
-					<l>Du rufſt voll Huld mir zu: Ich will dich unterrichten,</l>
-					<l>Zu deinem Wandel dir Verſtand und Rath verleihn:</l>
-					<l>Ich ſelber lehre dich die Wege deiner Pflichten:</l>
-					<l>Mein Auge ſoll dein Führer ſeyn.</l>
+					<lb/><l>Du rufſt voll Huld mir zu: Ich will dich unterrichten,</l>
+					<lb/><l>Zu deinem Wandel dir Verſtand und Rath verleihn:</l>
+					<lb/><l>Ich ſelber lehre dich die Wege deiner Pflichten:</l>
+					<lb/><l>Mein Auge ſoll dein Führer ſeyn.</l>
 				</lg>
 				<lg>
-					<l>Wie ſelig ſind nicht die, die gern gehorchen wollen!</l>
-					<l>O nehmt mit Freuden <rs type="person" key="G0001">Gott</rs> zu euerm Führer
+					<lb/><l>Wie ſelig ſind nicht die, die gern gehorchen wollen!</l>
+					<lb/><l>O nehmt mit Freuden <rs type="person" key="G0001">Gott</rs> zu euerm Führer
 						an!</l>
-					<l>Seyd nicht, wie Roß und Maul, die, wenn ſie folgen ſollen,</l>
-					<l>Gebiß und Zaum nur zwingen kann!</l>
+					<lb/><l>Seyd nicht, wie Roß und Maul, die, wenn ſie folgen ſollen,</l>
+					<lb/><l>Gebiß und Zaum nur zwingen kann!</l>
 				</lg>
 				<lg>
-					<l>Preiſt nicht des Sünders Glück! Der Frevler hat viel Leiden!</l>
-					<l>Die aber <rs type="person" key="G0001">Gott</rs> vertraun, die wird die Güt
+					<lb/><l>Preiſt nicht des Sünders Glück! Der Frevler hat viel Leiden!</l>
+					<lb/><l>Die aber <rs type="person" key="G0001">Gott</rs> vertraun, die wird die Güt
 						umfahn!</l>
-					<l>Jauchzt ihm, ihr Heiligen, jauchzt über <rs type="person" key="G0001"
+					<lb/><l>Jauchzt ihm, ihr Heiligen, jauchzt über <rs type="person" key="G0001"
 							>Gott</rs> voll Freuden!</l>
-					<l>Stimmt <rs type="person" key="G0001">Gottes</rs> Lob, ihr Frommen, an!</l>
+					<lb/><l>Stimmt <rs type="person" key="G0001">Gottes</rs> Lob, ihr Frommen, an!</l>
 				</lg>
 			</div>
 		</body>

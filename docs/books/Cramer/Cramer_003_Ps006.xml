@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -70,7 +70,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -182,56 +181,56 @@
 		<body>
 			<pb n="3" ed="CPEB1774"/>
 			<div type="chorale">
-				<head type="title">Der ſechſte Pſalm.</head>
+				<head><title>Der ſechſte Pſalm.</title></head>
 				<lg>
-					<l>Führe, <rs type="person" key="G0001">Herr</rs>, mich nicht im Grimme</l>
-					<l>In dein heiliges Gericht!</l>
-					<l>Deines Zornes Richterſtimme</l>
-					<l>Schone mich, und donnre nicht!</l>
-					<l>Ich bin kraftlos. Mit Erbarmen</l>
-					<l>Heile, <rs type="person" key="G0001">Herr,</rs> mich Armen!</l>
-					<l>Noch erzittert mein Gebein</l>
-					<l>Vor deinem Dräun.</l>
+					<lb/><l>Führe, <rs type="person" key="G0001">Herr</rs>, mich nicht im Grimme</l>
+					<lb/><l>In dein heiliges Gericht!</l>
+					<lb/><l>Deines Zornes Richterſtimme</l>
+					<lb/><l>Schone mich, und donnre nicht!</l>
+					<lb/><l>Ich bin kraftlos. Mit Erbarmen</l>
+					<lb/><l>Heile, <rs type="person" key="G0001">Herr,</rs> mich Armen!</l>
+					<lb/><l>Noch erzittert mein Gebein</l>
+					<lb/><l>Vor deinem Dräun.</l>
 				</lg>
 				<lg>
-					<l>Deine Schrecken, <rs type="person" key="G0001">Gott</rs>, durchſchüttern</l>
-					<l>Die betäubte Seele noch.</l>
-					<l>Ach wie lange ſoll ſie zittern!</l>
-					<l>Wenn erfreueſt du mich doch?</l>
-					<l>Hör, um deiner Güte willen;</l>
-					<l>Laß den Sturm ſich ſtillen!</l>
-					<l><rs type="person" key="G0001">Gott</rs>, erbarme meiner dich</l>
-					<l>Und rette mich!</l>
+					<lb/><l>Deine Schrecken, <rs type="person" key="G0001">Gott</rs>, durchſchüttern</l>
+					<lb/><l>Die betäubte Seele noch.</l>
+					<lb/><l>Ach wie lange ſoll ſie zittern!</l>
+					<lb/><l>Wenn erfreueſt du mich doch?</l>
+					<lb/><l>Hör, um deiner Güte willen;</l>
+					<lb/><l>Laß den Sturm ſich ſtillen!</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, erbarme meiner dich</l>
+					<lb/><l>Und rette mich!</l>
 				</lg>
 				<lg>
-					<l>Weil ich noch mein Leben habe,</l>
-					<l>Wende, <rs type="person" key="G0001">Tröſter</rs>, dich zu mir!</l>
-					<l>Denn dein Ruhm wohnt nicht im Grabe:</l>
-					<l>Und wer dankt im Staube dir?</l>
-					<l>Ach ich bin vom Seufzen müde!</l>
-					<l>Gieb mir, gieb mir Friede!</l>
-					<l>Doch mein tränenvoll Geſicht</l>
-					<l>Bemerkſt du nicht!</l>
+					<lb/><l>Weil ich noch mein Leben habe,</l>
+					<lb/><l>Wende, <rs type="person" key="G0001">Tröſter</rs>, dich zu mir!</l>
+					<lb/><l>Denn dein Ruhm wohnt nicht im Grabe:</l>
+					<lb/><l>Und wer dankt im Staube dir?</l>
+					<lb/><l>Ach ich bin vom Seufzen müde!</l>
+					<lb/><l>Gieb mir, gieb mir Friede!</l>
+					<lb/><l>Doch mein tränenvoll Geſicht</l>
+					<lb/><l>Bemerkſt du nicht!</l>
 				</lg>
 				<lg>
-					<l>Ungezählte Thränen quellen,</l>
-					<l>Wo ich Armer ruhen ſoll;</l>
-					<l>Täglich ſtrömen ſie und ſchwellen</l>
-					<l>Jede Nacht mein Lager voll.</l>
-					<l>In der Nacht, die mich umziehet,</l>
-					<l>Hat mein Lenz verblühet.</l>
-					<l>Elend durch des Grams Gewalt</l>
-					<l>Klag ich mich alt.</l>
+					<lb/><l>Ungezählte Thränen quellen,</l>
+					<lb/><l>Wo ich Armer ruhen ſoll;</l>
+					<lb/><l>Täglich ſtrömen ſie und ſchwellen</l>
+					<lb/><l>Jede Nacht mein Lager voll.</l>
+					<lb/><l>In der Nacht, die mich umziehet,</l>
+					<lb/><l>Hat mein Lenz verblühet.</l>
+					<lb/><l>Elend durch des Grams Gewalt</l>
+					<lb/><l>Klag ich mich alt.</l>
 				</lg>
 				<lg>
-					<l>Weicht von mir, ihr Uebelthäter,</l>
-					<l>Denn mein Weinen dringt zum <rs type="person" key="G0001">Herrn</rs>.</l>
-					<l>Thränen ſind zu ſtarke Beter;</l>
-					<l>Meine Seufzer hört er gern.</l>
-					<l>Schmach und Schrecken müſse faſsen</l>
-					<l>Alle, die mich haſsen.</l>
-					<l>Plötzlich breche Schmach und Pein</l>
-					<l>Auf ſie herein!</l>
+					<lb/><l>Weicht von mir, ihr Uebelthäter,</l>
+					<lb/><l>Denn mein Weinen dringt zum <rs type="person" key="G0001">Herrn</rs>.</l>
+					<lb/><l>Thränen ſind zu ſtarke Beter;</l>
+					<lb/><l>Meine Seufzer hört er gern.</l>
+					<lb/><l>Schmach und Schrecken müſse faſsen</l>
+					<lb/><l>Alle, die mich haſsen.</l>
+					<lb/><l>Plötzlich breche Schmach und Pein</l>
+					<lb/><l>Auf ſie herein!</l>
 				</lg>
 			</div>
 		</body>

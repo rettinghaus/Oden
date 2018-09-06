@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -70,7 +70,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -182,86 +181,86 @@
 		<body>
 			<pb n="27" ed="CPEB1774"/>
 			<div type="chorale">
-				<head type="title">Der acht und achtzigſte Pſalm.</head>
+				<head><title>Der acht und achtzigſte Pſalm.</title></head>
 				<lg>
-					<l>Tag und Nacht, du Heil der Frommen,</l>
-					<l>Seufz ich, <rs type="person" key="G0001">Herr</rs>, mein Hort, zu dir.</l>
-					<l>Laß mein Seufzen vor dich kommen;</l>
-					<l>Neige, <rs type="person" key="G0001">Gott</rs>, dein Ohr zu mir!</l>
-					<l>Laß mich nicht vergebens klagen;</l>
-					<l>Zahllos, <rs type="person" key="G0001">Herr</rs>, ſind meine Plagen,</l>
-					<l>Und ich ſinke bald ins Grab,</l>
-					<l>Wo du mir nicht hilfſt, hinab!</l>
+					<lb/><l>Tag und Nacht, du Heil der Frommen,</l>
+					<lb/><l>Seufz ich, <rs type="person" key="G0001">Herr</rs>, mein Hort, zu dir.</l>
+					<lb/><l>Laß mein Seufzen vor dich kommen;</l>
+					<lb/><l>Neige, <rs type="person" key="G0001">Gott</rs>, dein Ohr zu mir!</l>
+					<lb/><l>Laß mich nicht vergebens klagen;</l>
+					<lb/><l>Zahllos, <rs type="person" key="G0001">Herr</rs>, ſind meine Plagen,</l>
+					<lb/><l>Und ich ſinke bald ins Grab,</l>
+					<lb/><l>Wo du mir nicht hilfſt, hinab!</l>
 				</lg>
 				<lg>
-					<l>Denen, die zur Grube fahren,</l>
-					<l>Aehnlich, aller Leiden Raub,</l>
-					<l>Sink ich zu der Toten Schaaren</l>
-					<l>Hülflos hin und werde Staub.</l>
-					<l>Gleich den Streitern, die nicht ſiegen,</l>
-					<l>Unberühmt im Grabe liegen,</l>
-					<l>Weggetilgt auf dein Gebot,</l>
-					<l>Und von dir vergeſsen, <rs type="person" key="G0001">Gott</rs>!</l>
+					<lb/><l>Denen, die zur Grube fahren,</l>
+					<lb/><l>Aehnlich, aller Leiden Raub,</l>
+					<lb/><l>Sink ich zu der Toten Schaaren</l>
+					<lb/><l>Hülflos hin und werde Staub.</l>
+					<lb/><l>Gleich den Streitern, die nicht ſiegen,</l>
+					<lb/><l>Unberühmt im Grabe liegen,</l>
+					<lb/><l>Weggetilgt auf dein Gebot,</l>
+					<lb/><l>Und von dir vergeſsen, <rs type="person" key="G0001">Gott</rs>!</l>
 				</lg>
 				<lg>
-					<l>In die Grube hin entrücket,</l>
-					<l>In die Tief und in die Nacht,</l>
-					<l>Fühl ich, wie dein Grimm mich drücket,</l>
-					<l>Fühl ich deines Zornes Macht.</l>
-					<l>Alle deine Tiefen ſchwellen</l>
-					<l>Hoch empor, und ihre Wellen</l>
-					<l>Strömen, rauſchen, ſtürzen ſich</l>
-					<l>Unaufhaltbar über mich!</l>
+					<lb/><l>In die Grube hin entrücket,</l>
+					<lb/><l>In die Tief und in die Nacht,</l>
+					<lb/><l>Fühl ich, wie dein Grimm mich drücket,</l>
+					<lb/><l>Fühl ich deines Zornes Macht.</l>
+					<lb/><l>Alle deine Tiefen ſchwellen</l>
+					<lb/><l>Hoch empor, und ihre Wellen</l>
+					<lb/><l>Strömen, rauſchen, ſtürzen ſich</l>
+					<lb/><l>Unaufhaltbar über mich!</l>
 				</lg>
 				<lg>
-					<l>Meine treueſten Verwandten</l>
-					<l>Scheuen mich, erſchreckt von dir,</l>
-					<l>Treten fern, wie vor Verbannten</l>
-					<l>Fliehen ſie, o <rs type="person" key="G0001">Gott</rs>, vor mir.</l>
-					<l>Um und um mit Angſt umfangen,</l>
-					<l>Kann ich keine Hülf erlangen;</l>
-					<l>Kraftlos, durch des Elends Macht,</l>
-					<l>Weint mein Auge Tag und Nacht.</l>
+					<lb/><l>Meine treueſten Verwandten</l>
+					<lb/><l>Scheuen mich, erſchreckt von dir,</l>
+					<lb/><l>Treten fern, wie vor Verbannten</l>
+					<lb/><l>Fliehen ſie, o <rs type="person" key="G0001">Gott</rs>, vor mir.</l>
+					<lb/><l>Um und um mit Angſt umfangen,</l>
+					<lb/><l>Kann ich keine Hülf erlangen;</l>
+					<lb/><l>Kraftlos, durch des Elends Macht,</l>
+					<lb/><l>Weint mein Auge Tag und Nacht.</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Herr</rs>, ich breite meine Hände</l>
-					<l>Zu dir, täglich fleh ich dir!</l>
-					<l>Hat nun deine Güt ein Ende?</l>
-					<l>Zürnſt du ewig, <rs type="person" key="G0001">Gott</rs>, mit mir?</l>
-					<l>Werden der Verſtorbnen Schaaren</l>
-					<l>Deiner Allmacht Ruhm erfahren?</l>
-					<l>Werden ſie vom Staub erſtehn,</l>
-					<l>Deine Wunder zu erhöhn?</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, ich breite meine Hände</l>
+					<lb/><l>Zu dir, täglich fleh ich dir!</l>
+					<lb/><l>Hat nun deine Güt ein Ende?</l>
+					<lb/><l>Zürnſt du ewig, <rs type="person" key="G0001">Gott</rs>, mit mir?</l>
+					<lb/><l>Werden der Verſtorbnen Schaaren</l>
+					<lb/><l>Deiner Allmacht Ruhm erfahren?</l>
+					<lb/><l>Werden ſie vom Staub erſtehn,</l>
+					<lb/><l>Deine Wunder zu erhöhn?</l>
 				</lg>
 				<lg>
-					<l>Können deiner Güte Werke</l>
-					<l>Kund auch in den Gräbern ſeyn?</l>
-					<l>Kann der Staub ſich deiner Stärke,</l>
-					<l>Deiner Treue noch erfreun?</l>
-					<l>Kann er in den Finſterniſsen</l>
-					<l>Deine Wunder, <rs type="person" key="G0001">Gott</rs>, noch wiſsen?</l>
-					<l>Rühmt auch die Vergeſsenheit</l>
-					<l>Deine Huld und Heiligkeit?</l>
+					<lb/><l>Können deiner Güte Werke</l>
+					<lb/><l>Kund auch in den Gräbern ſeyn?</l>
+					<lb/><l>Kann der Staub ſich deiner Stärke,</l>
+					<lb/><l>Deiner Treue noch erfreun?</l>
+					<lb/><l>Kann er in den Finſterniſsen</l>
+					<lb/><l>Deine Wunder, <rs type="person" key="G0001">Gott</rs>, noch wiſsen?</l>
+					<lb/><l>Rühmt auch die Vergeſsenheit</l>
+					<lb/><l>Deine Huld und Heiligkeit?</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Gott</rs>, dir fleh ich, früh am Morgen,</l>
-					<l>Und du hältſt dein Angeſicht</l>
-					<l>Immer noch vor mir verborgen,</l>
-					<l>Achteſt meiner Seele nicht!</l>
-					<l>Ach warum ſoll ich, zerſchlagen,</l>
-					<l><rs type="person" key="G0001">Herr</rs>, durch deinen Grimm, verzagen?</l>
-					<l>Sieh, wie jammervoll ich bin!</l>
-					<l>Ganz iſt meine Kraft dahin!</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, dir fleh ich, früh am Morgen,</l>
+					<lb/><l>Und du hältſt dein Angeſicht</l>
+					<lb/><l>Immer noch vor mir verborgen,</l>
+					<lb/><l>Achteſt meiner Seele nicht!</l>
+					<lb/><l>Ach warum ſoll ich, zerſchlagen,</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, durch deinen Grimm, verzagen?</l>
+					<lb/><l>Sieh, wie jammervoll ich bin!</l>
+					<lb/><l>Ganz iſt meine Kraft dahin!</l>
 				</lg>
 				<lg>
-					<l>Ach mich drücken deine Schrecken,</l>
-					<l>Denn dein Grimm entzündet ſich;</l>
-					<l>Deine Fluten, <rs type="person" key="G0001">Gott</rs>, bedecken,</l>
-					<l>Ueberſtrömen täglich mich,</l>
-					<l>Daſs die Nachbarn und Bekannten,</l>
-					<l>Meine Freund' und Anverwandten,</l>
-					<l>Mich des Jammers wegen fliehn,</l>
-					<l>Und ihr Mitleid mir entziehn!</l>
+					<lb/><l>Ach mich drücken deine Schrecken,</l>
+					<lb/><l>Denn dein Grimm entzündet ſich;</l>
+					<lb/><l>Deine Fluten, <rs type="person" key="G0001">Gott</rs>, bedecken,</l>
+					<lb/><l>Ueberſtrömen täglich mich,</l>
+					<lb/><l>Daſs die Nachbarn und Bekannten,</l>
+					<lb/><l>Meine Freund' und Anverwandten,</l>
+					<lb/><l>Mich des Jammers wegen fliehn,</l>
+					<lb/><l>Und ihr Mitleid mir entziehn!</l>
 				</lg>
 			</div>
 		</body>

@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -70,7 +70,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -183,48 +182,48 @@
 			<pb n="1" ed="CPEB1774"/>
 			<!-- Seitenzahl Quelle eins-->
 			<div type="chorale">
-				<head type="title">Der erſte Pſalm.</head>
+				<head><title>Der erſte Pſalm.</title></head>
 				<lg>
-					<l>Heil, Heil dem Manne, der dem Rath</l>
-					<l>Der Frevler ſich entzieht;</l>
-					<l>Dem Manne, der den krummen Pfad</l>
-					<l>Der Uebertreter flieht!</l>
+					<lb/><l>Heil, Heil dem Manne, der dem Rath</l>
+					<lb/><l>Der Frevler ſich entzieht;</l>
+					<lb/><l>Dem Manne, der den krummen Pfad</l>
+					<lb/><l>Der Uebertreter flieht!</l>
 				</lg>
 				<lg>
-					<l>Der, wo der Gottheit Spötter lacht,</l>
-					<l>Die fromme Seel entfernt,</l>
-					<l>Sich <rs type="person" key="G0001">Gottes</rs> Recht zur Freude macht</l>
-					<l>Und Tag und Nacht es lernt!</l>
+					<lb/><l>Der, wo der Gottheit Spötter lacht,</l>
+					<lb/><l>Die fromme Seel entfernt,</l>
+					<lb/><l>Sich <rs type="person" key="G0001">Gottes</rs> Recht zur Freude macht</l>
+					<lb/><l>Und Tag und Nacht es lernt!</l>
 				</lg>
 				<lg>
-					<l>Er grünet, wie am Bach ein Baum</l>
-					<l>Von ſeinem Segen ſchwillt,</l>
-					<l>Sich hebt, und einen weiten Raum</l>
-					<l>Mit ſeinem Wipfel füllt.</l>
+					<lb/><l>Er grünet, wie am Bach ein Baum</l>
+					<lb/><l>Von ſeinem Segen ſchwillt,</l>
+					<lb/><l>Sich hebt, und einen weiten Raum</l>
+					<lb/><l>Mit ſeinem Wipfel füllt.</l>
 				</lg>
 				<lg>
-					<l>Er trägt, wenn ſeine Zeit kömmt, Frucht,</l>
-					<l>Stets unentlaubt und grün;</l>
-					<l>Er tröſtet den, der Schatten ſucht;</l>
-					<l>der Wandrer ſegnet ihn.</l>
+					<lb/><l>Er trägt, wenn ſeine Zeit kömmt, Frucht,</l>
+					<lb/><l>Stets unentlaubt und grün;</l>
+					<lb/><l>Er tröſtet den, der Schatten ſucht;</l>
+					<lb/><l>der Wandrer ſegnet ihn.</l>
 				</lg>
 				<lg>
-					<l>Das iſt der Fromme! Was er macht,</l>
-					<l>Wird Segen und erfreut.</l>
-					<l>Der Sünder iſt, der ſeiner lacht,</l>
-					<l>Spreu, die der Wind zerſtreut.</l>
+					<lb/><l>Das iſt der Fromme! Was er macht,</l>
+					<lb/><l>Wird Segen und erfreut.</l>
+					<lb/><l>Der Sünder iſt, der ſeiner lacht,</l>
+					<lb/><l>Spreu, die der Wind zerſtreut.</l>
 				</lg>
 				<lg>
-					<l>Der, der ſich gegen <rs type="person" key="G0001">Gott</rs> empört,</l>
-					<l>Beſteht nicht im Gericht.</l>
-					<l>Und wo ein Volk iſt, das <rs type="person" key="G0001">Gott</rs> ehrt,</l>
-					<l>Blühn die Verbrecher nicht.</l>
+					<lb/><l>Der, der ſich gegen <rs type="person" key="G0001">Gott</rs> empört,</l>
+					<lb/><l>Beſteht nicht im Gericht.</l>
+					<lb/><l>Und wo ein Volk iſt, das <rs type="person" key="G0001">Gott</rs> ehrt,</l>
+					<lb/><l>Blühn die Verbrecher nicht.</l>
 				</lg>
 				<lg>
-					<l>Der <rs type="person" key="G0001">Herr</rs> verklärt die edle Bahn,</l>
-					<l>Die der Gerechte geht.</l>
-					<l>Er ſchaut im Zorn den Sünder an:</l>
-					<l>Des Sünders Weg vergeht!</l>
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> verklärt die edle Bahn,</l>
+					<lb/><l>Die der Gerechte geht.</l>
+					<lb/><l>Er ſchaut im Zorn den Sünder an:</l>
+					<lb/><l>Des Sünders Weg vergeht!</l>
 				</lg>
 			</div>
 		</body>

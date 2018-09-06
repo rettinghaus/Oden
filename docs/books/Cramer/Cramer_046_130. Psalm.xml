@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -70,7 +70,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -182,50 +181,50 @@
 		<body>
 			<pb n="46" ed="CPEB1774"/>
 			<div type="chorale">
-				<head type="title">Der hundert und dreyßigſte Pſalm.</head>
+				<head><title>Der hundert und dreyßigſte Pſalm.</title></head>
 				<lg>
-					<l>Aus der Tiefe ruf ich dir,</l>
-					<l>Höre, <rs type="person" key="G0001">Gott</rs>, in deinen Höhen;</l>
-					<l>Merk auf meiner Stimme Flehen,</l>
-					<l>Neige, <rs type="person" key="G0001">Herr</rs>, dein Ohr zu mir!</l>
+					<lb/><l>Aus der Tiefe ruf ich dir,</l>
+					<lb/><l>Höre, <rs type="person" key="G0001">Gott</rs>, in deinen Höhen;</l>
+					<lb/><l>Merk auf meiner Stimme Flehen,</l>
+					<lb/><l>Neige, <rs type="person" key="G0001">Herr</rs>, dein Ohr zu mir!</l>
 				</lg>
 				<lg>
-					<l>Rechneſt du uns Sünde zu;</l>
-					<l>Willſt du richten: Wer kann leben?</l>
-					<l>Doch du kannſt, o <rs type="person" key="G0001">Herr</rs>, vergeben;</l>
-					<l>Wer iſt gnädiger, als du?</l>
+					<lb/><l>Rechneſt du uns Sünde zu;</l>
+					<lb/><l>Willſt du richten: Wer kann leben?</l>
+					<lb/><l>Doch du kannſt, o <rs type="person" key="G0001">Herr</rs>, vergeben;</l>
+					<lb/><l>Wer iſt gnädiger, als du?</l>
 				</lg>
 				<lg>
-					<l>Deine Hoheit iſt Verzeihn,</l>
-					<l>Daß man deiner, <rs type="person" key="G0001">Gott</rs>, ſich freue,</l>
-					<l>Ganz ſich deinem Dienſte weihe,</l>
-					<l>Willig, Gott, dein Knecht zu ſeyn.</l>
+					<lb/><l>Deine Hoheit iſt Verzeihn,</l>
+					<lb/><l>Daß man deiner, <rs type="person" key="G0001">Gott</rs>, ſich freue,</l>
+					<lb/><l>Ganz ſich deinem Dienſte weihe,</l>
+					<lb/><l>Willig, Gott, dein Knecht zu ſeyn.</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Gottes</rs> harr ich, und mein Geiſt</l>
-					<l>Harrt, wie jammernd ich auch weine,</l>
-					<l>Ob er mir nicht bald erſcheine,</l>
-					<l>Wie ſein heilig Wort verheißt.</l>
+					<lb/><l><rs type="person" key="G0001">Gottes</rs> harr ich, und mein Geiſt</l>
+					<lb/><l>Harrt, wie jammernd ich auch weine,</l>
+					<lb/><l>Ob er mir nicht bald erſcheine,</l>
+					<lb/><l>Wie ſein heilig Wort verheißt.</l>
 				</lg>
 				<lg>
-					<l>Meine Seele harret ſein,</l>
-					<l>Harrt von einer Morgenwache</l>
-					<l>Bis zur andern Morgenwache</l>
-					<l>Auf das Ende meiner Pein.</l>
+					<lb/><l>Meine Seele harret ſein,</l>
+					<lb/><l>Harrt von einer Morgenwache</l>
+					<lb/><l>Bis zur andern Morgenwache</l>
+					<lb/><l>Auf das Ende meiner Pein.</l>
 				</lg>
 				<lg>
-					<l>Hoffe, <rs type="person" key="J0002">Jacob</rs>, auf den <rs type="person"
+					<lb/><l>Hoffe, <rs type="person" key="J0002">Jacob</rs>, auf den <rs type="person"
 							key="G0001">Herrn</rs>;</l>
-					<l>Denn bey ihm iſt Heil und Gnade;</l>
-					<l>Selbſt im Dunkeln weiß er Pfade,</l>
-					<l>Und ſein Arm errettet gern.</l>
+					<lb/><l>Denn bey ihm iſt Heil und Gnade;</l>
+					<lb/><l>Selbſt im Dunkeln weiß er Pfade,</l>
+					<lb/><l>Und ſein Arm errettet gern.</l>
 				</lg>
 				<lg>
-					<l><placeName>Iſrael</placeName>, vertrau dem <rs type="person" key="G0001"
+					<lb/><l><placeName>Iſrael</placeName>, vertrau dem <rs type="person" key="G0001"
 							>Herrn</rs>,</l>
-					<l>Denn er wird von allen Sünden</l>
-					<l>Dich erlöſen und entbinden;</l>
-					<l><rs type="person" key="G0001">Gott</rs> verzeiht und rettet gern.</l>
+					<lb/><l>Denn er wird von allen Sünden</l>
+					<lb/><l>Dich erlöſen und entbinden;</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> verzeiht und rettet gern.</l>
 				</lg>
 			</div>
 		</body>

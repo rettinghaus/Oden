@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -70,7 +70,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -182,51 +181,51 @@
 		<body>
 			<pb n="9" ed="CPEB1774"/>
 			<div type="chorale">
-				<head type="title">Der ſiebzehnte Pſalm.</head>
+				<head><title>Der ſiebzehnte Pſalm.</title></head>
 				<lg>
-					<l>Erhöre, <rs type="person" key="G0001">Gott</rs>, wenn ich dir flehe,</l>
-					<l>Die Stimme der Gerechtigkeit!</l>
-					<l>Gedenke meiner, und verſchmähe</l>
-					<l>Nicht mein Gebet, das zu dir ſchreyt!</l>
-					<l>Denn, <rs type="person" key="G0001">Gott</rs>, auf meinen Lippen iſt</l>
-					<l>Nicht Ungerechtigkeit, nicht Täuſcherey und Liſt.</l>
+					<lb/><l>Erhöre, <rs type="person" key="G0001">Gott</rs>, wenn ich dir flehe,</l>
+					<lb/><l>Die Stimme der Gerechtigkeit!</l>
+					<lb/><l>Gedenke meiner, und verſchmähe</l>
+					<lb/><l>Nicht mein Gebet, das zu dir ſchreyt!</l>
+					<lb/><l>Denn, <rs type="person" key="G0001">Gott</rs>, auf meinen Lippen iſt</l>
+					<lb/><l>Nicht Ungerechtigkeit, nicht Täuſcherey und Liſt.</l>
 				</lg>
 				<lg>
-					<l>Du biſt’s, den ich zum Richter wähle,</l>
-					<l>Wenn niemand meine Klage hört;</l>
-					<l>Du unterſucheſt meine Seele,</l>
-					<l>Und prüfſt durch Leiden meinen Werth.</l>
-					<l>Du ſchauſt mich durch, o <rs type="person" key="G0001">Gott</rs> des
+					<lb/><l>Du biſt’s, den ich zum Richter wähle,</l>
+					<lb/><l>Wenn niemand meine Klage hört;</l>
+					<lb/><l>Du unterſucheſt meine Seele,</l>
+					<lb/><l>Und prüfſt durch Leiden meinen Werth.</l>
+					<lb/><l>Du ſchauſt mich durch, o <rs type="person" key="G0001">Gott</rs> des
 						Lichts,</l>
-					<l>Durchläuterſt mich wie Gold, du ſuchſt, und findeſt nichts.</l>
+					<lb/><l>Durchläuterſt mich wie Gold, du ſuchſt, und findeſt nichts.</l>
 				</lg>
 				<lg>
-					<l>Ich habe feſt mir vorgenommen,</l>
-					<l>Wenn trotzig wider dein Gericht</l>
-					<l>Der Sünder ſchmäht und deinen Frommen</l>
-					<l>Ein Gräuel iſt, und Boſheit ſpricht,</l>
-					<l>Daß dann mein Mund, von dir nur voll,</l>
-					<l>Nie wider dich, mein <rs type="person" key="G0001">Gott</rs>, gleich ihnen
+					<lb/><l>Ich habe feſt mir vorgenommen,</l>
+					<lb/><l>Wenn trotzig wider dein Gericht</l>
+					<lb/><l>Der Sünder ſchmäht und deinen Frommen</l>
+					<lb/><l>Ein Gräuel iſt, und Boſheit ſpricht,</l>
+					<lb/><l>Daß dann mein Mund, von dir nur voll,</l>
+					<lb/><l>Nie wider dich, mein <rs type="person" key="G0001">Gott</rs>, gleich ihnen
 						freveln ſoll.</l>
 				</lg>
 				<lg>
-					<l>Bereit, auf deinen Mund zu merken,</l>
-					<l>Zu üben, was er mir gebeut,</l>
-					<l>Bewahr ich mich vor Menſchenwerken,</l>
-					<l>Vor dem, der dein Geſetz <choice>
+					<lb/><l>Bereit, auf deinen Mund zu merken,</l>
+					<lb/><l>Zu üben, was er mir gebeut,</l>
+					<lb/><l>Bewahr ich mich vor Menſchenwerken,</l>
+					<lb/><l>Vor dem, der dein Geſetz <choice>
 							<sic>entweit.</sic>
 							<corr>entzweiht.</corr>
 						</choice></l>
-					<l>Aus deinem Worte kenn ich ihn,</l>
-					<l>Und lerne gern den Weg der Uebertretung fliehn.</l>
+					<lb/><l>Aus deinem Worte kenn ich ihn,</l>
+					<lb/><l>Und lerne gern den Weg der Uebertretung fliehn.</l>
 				</lg>
 				<lg>
-					<l>Du wolleſt meine Füße leiten!</l>
-					<l>Erhalte mich auf deiner Bahn,</l>
-					<l>Daß meine Tritte nimmer gleiten:</l>
-					<l>Erhöre mich! Dich ruf ich an!</l>
-					<l>Ich ſeufze, <rs type="person" key="G0001">Gott</rs>, zu dir empor:</l>
-					<l>Vernimm, Erbarmer, mich, und neige mir dein Ohr!</l>
+					<lb/><l>Du wolleſt meine Füße leiten!</l>
+					<lb/><l>Erhalte mich auf deiner Bahn,</l>
+					<lb/><l>Daß meine Tritte nimmer gleiten:</l>
+					<lb/><l>Erhöre mich! Dich ruf ich an!</l>
+					<lb/><l>Ich ſeufze, <rs type="person" key="G0001">Gott</rs>, zu dir empor:</l>
+					<lb/><l>Vernimm, Erbarmer, mich, und neige mir dein Ohr!</l>
 				</lg>
 			</div>
 		</body>

@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -70,7 +70,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -182,78 +181,78 @@
 		<body>
 			<pb n="26" ed="CPEB1774"/>
 			<div type="chorale">
-				<head type="title">Der ſechs und achtzigſte Pſalm.</head>
+				<head><title>Der ſechs und achtzigſte Pſalm.</title></head>
 				<lg>
-					<l><rs type="person" key="G0001">Herr</rs>, erhöre meine Klagen!</l>
-					<l>Schaue her auf meine Plagen,</l>
-					<l>Elend bin ich, arm bin ich.</l>
-					<l>Ich bin dir allein ergeben;</l>
-					<l>Rette deines Knechtes Leben;</l>
-					<l>Hilf mir, denn ich trau auf dich!</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, erhöre meine Klagen!</l>
+					<lb/><l>Schaue her auf meine Plagen,</l>
+					<lb/><l>Elend bin ich, arm bin ich.</l>
+					<lb/><l>Ich bin dir allein ergeben;</l>
+					<lb/><l>Rette deines Knechtes Leben;</l>
+					<lb/><l>Hilf mir, denn ich trau auf dich!</l>
 				</lg>
 				<lg>
-					<l>Ach es leucht ein Strahl des Lichtes</l>
-					<l>deines Vaterangeſichtes</l>
-					<l>dem, den du gebeugt haſt, mir!</l>
-					<l>Täglich ruf ich: Hilf dem Knechte</l>
-					<l>Deiner Wahl, mit deiner Rechte:</l>
-					<l>Denn mein Herz verlangt nach dir!</l>
+					<lb/><l>Ach es leucht ein Strahl des Lichtes</l>
+					<lb/><l>deines Vaterangeſichtes</l>
+					<lb/><l>dem, den du gebeugt haſt, mir!</l>
+					<lb/><l>Täglich ruf ich: Hilf dem Knechte</l>
+					<lb/><l>Deiner Wahl, mit deiner Rechte:</l>
+					<lb/><l>Denn mein Herz verlangt nach dir!</l>
 				</lg>
 				<lg>
-					<l>Du biſt gnädig, zeigſt an allen,</l>
-					<l>Die dir flehn, dein Wohlgefallen;</l>
-					<l>Ach vernimm, <rs type="person" key="G0001">Gott</rs>, mein Gebet!</l>
-					<l>Lange hab ich ſchon gelitten!</l>
-					<l>Merk auf meiner Stimme Bitten;</l>
-					<l>Höre, wie mein Herz dir fleht!</l>
+					<lb/><l>Du biſt gnädig, zeigſt an allen,</l>
+					<lb/><l>Die dir flehn, dein Wohlgefallen;</l>
+					<lb/><l>Ach vernimm, <rs type="person" key="G0001">Gott</rs>, mein Gebet!</l>
+					<lb/><l>Lange hab ich ſchon gelitten!</l>
+					<lb/><l>Merk auf meiner Stimme Bitten;</l>
+					<lb/><l>Höre, wie mein Herz dir fleht!</l>
 				</lg>
 				<lg>
-					<l>Eitel iſt die Macht der Götter,</l>
-					<l>Du allein biſt ein Erretter;</l>
-					<l>Wer kann Wunder thun, als du?</l>
-					<l>Alle Völker, deine Werke,</l>
-					<l>Kommen, preiſen deine Stärke,</l>
-					<l>Jauchzen deinem Namen zu!</l>
+					<lb/><l>Eitel iſt die Macht der Götter,</l>
+					<lb/><l>Du allein biſt ein Erretter;</l>
+					<lb/><l>Wer kann Wunder thun, als du?</l>
+					<lb/><l>Alle Völker, deine Werke,</l>
+					<lb/><l>Kommen, preiſen deine Stärke,</l>
+					<lb/><l>Jauchzen deinem Namen zu!</l>
 				</lg>
 				<lg>
-					<l>Dir iſt niemand zu vergleichen;</l>
-					<l>Du biſt groß, und du thuſt Zeichen,</l>
-					<l>Du, o <rs type="person" key="G0001">Herr</rs>, biſt Gott allein!</l>
-					<l>Weiſe, <rs type="person" key="G0001">Herr</rs>, mir deine Wege,</l>
-					<l>Daß ich richtig wandeln möge;</l>
-					<l>Laß mich treu der Wahrheit ſeyn!</l>
+					<lb/><l>Dir iſt niemand zu vergleichen;</l>
+					<lb/><l>Du biſt groß, und du thuſt Zeichen,</l>
+					<lb/><l>Du, o <rs type="person" key="G0001">Herr</rs>, biſt Gott allein!</l>
+					<lb/><l>Weiſe, <rs type="person" key="G0001">Herr</rs>, mir deine Wege,</l>
+					<lb/><l>Daß ich richtig wandeln möge;</l>
+					<lb/><l>Laß mich treu der Wahrheit ſeyn!</l>
 				</lg>
 				<lg>
-					<l>Eins mit dir laß deinen Willen</l>
-					<l>Mich mit frommer Luſt erfüllen;</l>
-					<l>Herzlich dank ich dir, mein <rs type="person" key="G0001">Gott</rs>.</l>
-					<l>Ewig dankt dir mein Gemüthe;</l>
-					<l>Denn wir groß iſt deine Güte,</l>
-					<l>Deine Hülf in meiner Noth!</l>
+					<lb/><l>Eins mit dir laß deinen Willen</l>
+					<lb/><l>Mich mit frommer Luſt erfüllen;</l>
+					<lb/><l>Herzlich dank ich dir, mein <rs type="person" key="G0001">Gott</rs>.</l>
+					<lb/><l>Ewig dankt dir mein Gemüthe;</l>
+					<lb/><l>Denn wir groß iſt deine Güte,</l>
+					<lb/><l>Deine Hülf in meiner Noth!</l>
 				</lg>
 				<lg>
-					<l>Nahe war ich ſchon dem Grabe,</l>
-					<l>Du befreyteſt mich vom Grabe,</l>
-					<l>Aus der Tiefe halffſt du mir!</l>
-					<l>Stolze haben mich umgeben;</l>
-					<l>Plagen dräuen meinem Leben,</l>
-					<l>Und erzittern nicht vor dir!</l>
+					<lb/><l>Nahe war ich ſchon dem Grabe,</l>
+					<lb/><l>Du befreyteſt mich vom Grabe,</l>
+					<lb/><l>Aus der Tiefe halffſt du mir!</l>
+					<lb/><l>Stolze haben mich umgeben;</l>
+					<lb/><l>Plagen dräuen meinem Leben,</l>
+					<lb/><l>Und erzittern nicht vor dir!</l>
 				</lg>
 				<lg>
-					<l>Aber du biſt ganz Erbarmen,</l>
-					<l>Ein Verſchoner, mild dem Armen,</l>
-					<l>Treu dem Frommen, der dir klagt.</l>
-					<l>Sey mir gnädig! Hilf dem Knechte</l>
-					<l>Deiner Wahl mit deiner Rechte.</l>
-					<l>Hilf dem Sohne deiner Magd!</l>
+					<lb/><l>Aber du biſt ganz Erbarmen,</l>
+					<lb/><l>Ein Verſchoner, mild dem Armen,</l>
+					<lb/><l>Treu dem Frommen, der dir klagt.</l>
+					<lb/><l>Sey mir gnädig! Hilf dem Knechte</l>
+					<lb/><l>Deiner Wahl mit deiner Rechte.</l>
+					<lb/><l>Hilf dem Sohne deiner Magd!</l>
 				</lg>
 				<lg>
-					<l>Laß ein Zeichen, <rs type="person" key="G0001">Herr</rs>, geſchehen,</l>
-					<l>Mir zum Heil, und laß, <rs type="person" key="G0001">Gott</rs>, ſehen,</l>
-					<l>Daß dein Knecht dir theuer iſt!</l>
-					<l>Laß ſich meine Haſser ſchämen,</l>
-					<l>Sich, daß ſie mir feind ſind, grämen,</l>
-					<l><rs type="person" key="G0001">Gott</rs>, der du mein Heiland biſt!</l>
+					<lb/><l>Laß ein Zeichen, <rs type="person" key="G0001">Herr</rs>, geſchehen,</l>
+					<lb/><l>Mir zum Heil, und laß, <rs type="person" key="G0001">Gott</rs>, ſehen,</l>
+					<lb/><l>Daß dein Knecht dir theuer iſt!</l>
+					<lb/><l>Laß ſich meine Haſser ſchämen,</l>
+					<lb/><l>Sich, daß ſie mir feind ſind, grämen,</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, der du mein Heiland biſt!</l>
 				</lg>
 			</div>
 		</body>

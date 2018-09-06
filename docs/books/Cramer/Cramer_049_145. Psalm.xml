@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -70,7 +70,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -182,113 +181,113 @@
 		<body>
 			<pb n="49" ed="CPEB1774"/>
 			<div type="chorale">
-				<head type="title">Der hundert und fünf und vierzigſte Pſalm.</head>
+				<head><title>Der hundert und fünf und vierzigſte Pſalm.</title></head>
 				<lg>
-					<l>Ich will, mein <rs type="person" key="G0001">Gott</rs>, du <rs type="person"
+					<lb/><l>Ich will, mein <rs type="person" key="G0001">Gott</rs>, du <rs type="person"
 							key="G0001">König</rs>, dir lobſingen</l>
-					<l>Und ewig Ehre deinem Namen bringen,</l>
-					<l>Sey täglich, ewig ſey von mir erhoben!</l>
-					<l>Dich will ich loben!</l>
+					<lb/><l>Und ewig Ehre deinem Namen bringen,</l>
+					<lb/><l>Sey täglich, ewig ſey von mir erhoben!</l>
+					<lb/><l>Dich will ich loben!</l>
 				</lg>
 				<lg>
-					<l>Der <rs type="person" key="G0001">Herr</rs> iſt groß. Wer kann ihn gnug
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> iſt groß. Wer kann ihn gnug
 						erheben;</l>
-					<l>Wer kann mit ſeinem feurigſten Beſtreben,</l>
-					<l>Wie groß er iſt, begreifen und empfinden,</l>
-					<l>Wer <rs type="person" key="G0001">Gott</rs> ergründen?</l>
+					<lb/><l>Wer kann mit ſeinem feurigſten Beſtreben,</l>
+					<lb/><l>Wie groß er iſt, begreifen und empfinden,</l>
+					<lb/><l>Wer <rs type="person" key="G0001">Gott</rs> ergründen?</l>
 				</lg>
 				<lg>
-					<l>Von unſern Vätern wurdeſt du erhoben;</l>
-					<l>Dich werden unſrer Kinder Kinder loben,</l>
-					<l>Und deine Macht beſingen, deiner Stärke</l>
-					<l>Preiſvolle Werke.</l>
+					<lb/><l>Von unſern Vätern wurdeſt du erhoben;</l>
+					<lb/><l>Dich werden unſrer Kinder Kinder loben,</l>
+					<lb/><l>Und deine Macht beſingen, deiner Stärke</l>
+					<lb/><l>Preiſvolle Werke.</l>
 				</lg>
 				<lg>
-					<l>Wie herrlich biſt du, <rs type="person" key="G0001">Gott</rs>, wie ſchön und
+					<lb/><l>Wie herrlich biſt du, <rs type="person" key="G0001">Gott</rs>, wie ſchön und
 						prächtig,</l>
-					<l>Wie groß in deinen Wundern, <rs type="person" key="G0001">Herr</rs>, wie
+					<lb/><l>Wie groß in deinen Wundern, <rs type="person" key="G0001">Herr</rs>, wie
 						mächtig!</l>
-					<l>Das preiß ich, daß dein Nam erhoben werde,</l>
-					<l>Der ganzen Erde;</l>
+					<lb/><l>Das preiß ich, daß dein Nam erhoben werde,</l>
+					<lb/><l>Der ganzen Erde;</l>
 				</lg>
 				<lg>
-					<l>Daß deiner Wunder Ruhm umher erſchalle,</l>
-					<l>Die Welt von deinen Thaten wiederhalle</l>
-					<l>Und deine Wahrheit, deine Huld beſinge,</l>
-					<l>Und Preis dir bringe!</l>
+					<lb/><l>Daß deiner Wunder Ruhm umher erſchalle,</l>
+					<lb/><l>Die Welt von deinen Thaten wiederhalle</l>
+					<lb/><l>Und deine Wahrheit, deine Huld beſinge,</l>
+					<lb/><l>Und Preis dir bringe!</l>
 				</lg>
 				<lg>
-					<l>Der <rs type="person" key="G0001">Herr</rs> iſt mild, von duldendem
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> iſt mild, von duldendem
 						Gemüthe,</l>
-					<l>Barmherzig, gnädig, und von großer Güte;</l>
-					<l>Erbarmt ſich ſeiner Werke, hat an allen</l>
-					<l>Sein Wohlgefallen.</l>
+					<lb/><l>Barmherzig, gnädig, und von großer Güte;</l>
+					<lb/><l>Erbarmt ſich ſeiner Werke, hat an allen</l>
+					<lb/><l>Sein Wohlgefallen.</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Jehova</rs>, alle deine Werke ſollen</l>
-					<l>Dir jauchzend danken; deine Frommen wollen</l>
-					<l>Aus allen ihren Kräften ſich beſtreben,</l>
-					<l>Dich zu erheben!</l>
+					<lb/><l><rs type="person" key="G0001">Jehova</rs>, alle deine Werke ſollen</l>
+					<lb/><l>Dir jauchzend danken; deine Frommen wollen</l>
+					<lb/><l>Aus allen ihren Kräften ſich beſtreben,</l>
+					<lb/><l>Dich zu erheben!</l>
 				</lg>
 				<lg>
-					<l>Sie breiten aus den Ruhm von deinem Reiche,</l>
-					<l>Daß keine Macht, <rs type="person" key="G0001">Jehova</rs>, deiner
+					<lb/><l>Sie breiten aus den Ruhm von deinem Reiche,</l>
+					<lb/><l>Daß keine Macht, <rs type="person" key="G0001">Jehova</rs>, deiner
 						gleiche,</l>
-					<l>Das rühmen ſie, damit ſie auf der Erde</l>
-					<l>Bewundert werde.</l>
+					<lb/><l>Das rühmen ſie, damit ſie auf der Erde</l>
+					<lb/><l>Bewundert werde.</l>
 				</lg>
 				<lg>
-					<l>Dein Reich, o <rs type="person" key="G0001">Gott</rs>, iſt herrlich; ewig
+					<lb/><l>Dein Reich, o <rs type="person" key="G0001">Gott</rs>, iſt herrlich; ewig
 						währen</l>
-					<l>Dein Reich und deine Macht, die wir verehren,</l>
-					<l>Und ewig wird von allen Völkern Zungen</l>
-					<l>Dein Lob beſungen.</l>
+					<lb/><l>Dein Reich und deine Macht, die wir verehren,</l>
+					<lb/><l>Und ewig wird von allen Völkern Zungen</l>
+					<lb/><l>Dein Lob beſungen.</l>
 				</lg>
 				<lg>
-					<l>Der <rs type="person" key="G0001">Herr</rs> bewahret alle, welche fallen;</l>
-					<l><rs type="person" key="G0001">Jehova</rs> hilft den Unterdrückten allen,</l>
-					<l>Und eilt, mit Heil die, die um Heil ihn bitten,</l>
-					<l>Zu überſchütten.</l>
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> bewahret alle, welche fallen;</l>
+					<lb/><l><rs type="person" key="G0001">Jehova</rs> hilft den Unterdrückten allen,</l>
+					<lb/><l>Und eilt, mit Heil die, die um Heil ihn bitten,</l>
+					<lb/><l>Zu überſchütten.</l>
 				</lg>
 				<lg>
-					<l>Nach dir, <rs type="person" key="G0001">Gott</rs>, ſchauen aller Weſen
+					<lb/><l>Nach dir, <rs type="person" key="G0001">Gott</rs>, ſchauen aller Weſen
 						Blicke,</l>
-					<l>Daß deine Hand ſie väterlich erquicke;</l>
-					<l>Du giebſt auch einem jeden ſeine Speiſe,</l>
-					<l>Daß er dich preiſe.</l>
+					<lb/><l>Daß deine Hand ſie väterlich erquicke;</l>
+					<lb/><l>Du giebſt auch einem jeden ſeine Speiſe,</l>
+					<lb/><l>Daß er dich preiſe.</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Herr</rs>, du erhältſt mit deinem
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, du erhältſt mit deinem
 						Wohlgefallen,</l>
-					<l>Was lebt, thuſt deine Hand auf und giebſt allen,</l>
-					<l>Was ſie bedürfen; keiner ſucht vergebens</l>
-					<l>Dich, Quell des Lebens!</l>
+					<lb/><l>Was lebt, thuſt deine Hand auf und giebſt allen,</l>
+					<lb/><l>Was ſie bedürfen; keiner ſucht vergebens</l>
+					<lb/><l>Dich, Quell des Lebens!</l>
 				</lg>
 				<lg>
-					<l>In allen Wegen <rs type="person" key="G0001">Gottes</rs> ſtralet Gnade,</l>
-					<l>Untadelhaft ſind alle ſeine Pfade,</l>
-					<l>Und was er thut, gereicht zu ſeinem Preiſe,</l>
-					<l>Iſt gut und weiſe.</l>
+					<lb/><l>In allen Wegen <rs type="person" key="G0001">Gottes</rs> ſtralet Gnade,</l>
+					<lb/><l>Untadelhaft ſind alle ſeine Pfade,</l>
+					<lb/><l>Und was er thut, gereicht zu ſeinem Preiſe,</l>
+					<lb/><l>Iſt gut und weiſe.</l>
 				</lg>
 				<lg>
-					<l>Der <rs type="person" key="G0001">Herr</rs> iſt nahe denen, die ihn
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> iſt nahe denen, die ihn
 						bitten,</l>
-					<l>Die ernſtlich ihn um ſeine Hülfe bitten,</l>
-					<l>Er thut, was die Gerechten, die ihn ehren,</l>
-					<l>Von ihm begehren.</l>
+					<lb/><l>Die ernſtlich ihn um ſeine Hülfe bitten,</l>
+					<lb/><l>Er thut, was die Gerechten, die ihn ehren,</l>
+					<lb/><l>Von ihm begehren.</l>
 				</lg>
 				<lg>
-					<l>Der <rs type="person" key="G0001">Herr</rs> behütet alle, die ihn lieben;</l>
-					<l>Die aber, die Gewalt und Frevel üben,</l>
-					<l>Verfolgt er, daß er ſie zum Fluche mache,</l>
-					<l>Mit ſeiner Rache.</l>
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> behütet alle, die ihn lieben;</l>
+					<lb/><l>Die aber, die Gewalt und Frevel üben,</l>
+					<lb/><l>Verfolgt er, daß er ſie zum Fluche mache,</l>
+					<lb/><l>Mit ſeiner Rache.</l>
 				</lg>
 				<lg>
-					<l>Ja, ewig will ich ſeinen Namen loben!</l>
-					<l>Von allen Menſchen werde <rs type="person" key="G0001">Gott</rs> erhoben!</l>
-					<l>Was lebet, müſse, <rs type="person" key="G0001">Herr</rs>, zu allen
+					<lb/><l>Ja, ewig will ich ſeinen Namen loben!</l>
+					<lb/><l>Von allen Menſchen werde <rs type="person" key="G0001">Gott</rs> erhoben!</l>
+					<lb/><l>Was lebet, müſse, <rs type="person" key="G0001">Herr</rs>, zu allen
 						Zeiten</l>
-					<l>Dein Lob verbreiten! </l>
+					<lb/><l>Dein Lob verbreiten! </l>
 				</lg>
 			</div>
 		</body>

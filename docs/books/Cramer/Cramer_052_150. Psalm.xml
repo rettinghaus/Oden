@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -70,7 +70,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -182,35 +181,35 @@
 		<body>
 			<pb n="52" ed="CPEB1774"/>
 			<div type="chorale">
-				<head type="title">Der hundert und funfzigſte Pſalm.</head>
+				<head><title>Der hundert und funfzigſte Pſalm.</title></head>
 				<lg>
-					<l>Erhebt, erhebet den <rs type="person" key="G0001">Herrn</rs> in ſeinem
+					<lb/><l>Erhebt, erhebet den <rs type="person" key="G0001">Herrn</rs> in ſeinem
 						Heiligthume,</l>
-					<l>Und in der Veſte ſeiner Kraft!</l>
-					<l>Erzählt die Thaten des <rs type="person" key="G0001">Herrn</rs> zu ſeines
+					<lb/><l>Und in der Veſte ſeiner Kraft!</l>
+					<lb/><l>Erzählt die Thaten des <rs type="person" key="G0001">Herrn</rs> zu ſeines
 						Namens Ruhme,</l>
-					<l>Denn wundervoll iſt, was er ſchafft.</l>
+					<lb/><l>Denn wundervoll iſt, was er ſchafft.</l>
 				</lg>
 				<lg>
-					<l>Wer iſt dem Mächtigen gleich? Wir jauchzen, wir erſtaunen</l>
-					<l>Vor ſeiner großen Herrlichkeit.</l>
-					<l>Ihm töne der Lauten Geſang; frohlockt ihm mit Poſaunen!</l>
-					<l>Ihm ſei der Harfen Spiel geweiht!</l>
+					<lb/><l>Wer iſt dem Mächtigen gleich? Wir jauchzen, wir erſtaunen</l>
+					<lb/><l>Vor ſeiner großen Herrlichkeit.</l>
+					<lb/><l>Ihm töne der Lauten Geſang; frohlockt ihm mit Poſaunen!</l>
+					<lb/><l>Ihm ſei der Harfen Spiel geweiht!</l>
 				</lg>
 				<lg>
-					<l>Lobt ihn mit Pauken und Tanz, und die Trommet erſchalle</l>
-					<l>In eurer Saiten Harmonie,</l>
-					<l>Daß von den Thaten des <rs type="person" key="G0001">Herrn</rs> der Erdkreis
+					<lb/><l>Lobt ihn mit Pauken und Tanz, und die Trommet erſchalle</l>
+					<lb/><l>In eurer Saiten Harmonie,</l>
+					<lb/><l>Daß von den Thaten des <rs type="person" key="G0001">Herrn</rs> der Erdkreis
 						wiederhalle;</l>
-					<l>Er hör es und verbreite ſie!</l>
+					<lb/><l>Er hör es und verbreite ſie!</l>
 				</lg>
 				<lg>
 
-					<l>Ihr hellen Cymbeln tönt ihm! Du, liedervoller Pſalter,</l>
-					<l>Erkling ihm! Preiſt ihn! Preiſt ihn gern!</l>
-					<l>Es lobe, was Odem hat, <rs type="person" key="G0001">Gott, den Schöpfer, den
+					<lb/><l>Ihr hellen Cymbeln tönt ihm! Du, liedervoller Pſalter,</l>
+					<lb/><l>Erkling ihm! Preiſt ihn! Preiſt ihn gern!</l>
+					<lb/><l>Es lobe, was Odem hat, <rs type="person" key="G0001">Gott, den Schöpfer, den
 							Erhalter</rs>;</l>
-					<l>Lob, Preis und Jubel ſey dem <rs type="person" key="G0001">Herrn</rs>!</l>
+					<lb/><l>Lob, Preis und Jubel ſey dem <rs type="person" key="G0001">Herrn</rs>!</l>
 				</lg>
 			</div>
 		</body>

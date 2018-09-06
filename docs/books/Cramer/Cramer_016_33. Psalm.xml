@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -70,7 +70,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -182,100 +181,100 @@
 		<body>
 			<pb n="16" ed="CPEB1774"/>
 			<div type="chorale">
-				<head type="title">Der drey und dreyßigſte Pſalm.</head>
+				<head><title>Der drey und dreyßigſte Pſalm.</title></head>
 				<pb n="17"/>
 				<lg>
-					<l>Jauchzt, ihr Gerechten, dem <rs type="person" key="G0001">Herrn</rs>, und
+					<lb/><l>Jauchzt, ihr Gerechten, dem <rs type="person" key="G0001">Herrn</rs>, und
 						laſset, ihn zu ehren,</l>
-					<l>Die Welt den lauten Geſang von ſeinem Namen hören:</l>
-					<l>Den <rs type="person" key="G0001">Herrn</rs> erheben iſt edel und ſchön!</l>
-					<l>Euch, Fromme, ziemt es, ſein Lob frohlockend auſzubreiten.</l>
-					<l>Dankt ihm mit Harfen! Ergreift den Pſalter mit zehn Saiten,</l>
-					<l>Voll Freud und Dank ihn zu erhöhn!</l>
-					<l>Singt neue Lieder von <rs type="person" key="G0001">Gott</rs>! Ihr werdet ihm
+					<lb/><l>Die Welt den lauten Geſang von ſeinem Namen hören:</l>
+					<lb/><l>Den <rs type="person" key="G0001">Herrn</rs> erheben iſt edel und ſchön!</l>
+					<lb/><l>Euch, Fromme, ziemt es, ſein Lob frohlockend auſzubreiten.</l>
+					<lb/><l>Dankt ihm mit Harfen! Ergreift den Pſalter mit zehn Saiten,</l>
+					<lb/><l>Voll Freud und Dank ihn zu erhöhn!</l>
+					<lb/><l>Singt neue Lieder von <rs type="person" key="G0001">Gott</rs>! Ihr werdet ihm
 						gefallen!</l>
-					<l>Laßt euer Saitenſpiel laut von ſeinem Ruhme ſchallen!</l>
-					<l>Den <rs type="person" key="G0001">Herrn</rs> erheben iſt edel und ſchön!</l>
+					<lb/><l>Laßt euer Saitenſpiel laut von ſeinem Ruhme ſchallen!</l>
+					<lb/><l>Den <rs type="person" key="G0001">Herrn</rs> erheben iſt edel und ſchön!</l>
 				</lg>
 				<lg>
-					<l>Gut und untadelhaft ſind die Wunder ſeiner Stärke;</l>
-					<l>Bey ihm iſt Weiſheit und Rath, den er durch ſeine Werke,</l>
-					<l>Durch ſeine Herrſchaft uns beweiſt.</l>
-					<l>Sie iſt vollkommen, wie er, daß er verherrlicht werde;</l>
-					<l>Mit Huld erfüllet der Herr die Himmel und die Erde,</l>
-					<l>Die fröhlich ſeine Wunder preiſt.</l>
-					<l>Durch ſein gewaltiges Wort erſchuf er alle Sphären</l>
-					<l>Und rief und bildete ſie mit allen ihren Heeren</l>
-					<l>Durch ſeines Mundes erſchaffenden Geiſt.</l>
+					<lb/><l>Gut und untadelhaft ſind die Wunder ſeiner Stärke;</l>
+					<lb/><l>Bey ihm iſt Weiſheit und Rath, den er durch ſeine Werke,</l>
+					<lb/><l>Durch ſeine Herrſchaft uns beweiſt.</l>
+					<lb/><l>Sie iſt vollkommen, wie er, daß er verherrlicht werde;</l>
+					<lb/><l>Mit Huld erfüllet der Herr die Himmel und die Erde,</l>
+					<lb/><l>Die fröhlich ſeine Wunder preiſt.</l>
+					<lb/><l>Durch ſein gewaltiges Wort erſchuf er alle Sphären</l>
+					<lb/><l>Und rief und bildete ſie mit allen ihren Heeren</l>
+					<lb/><l>Durch ſeines Mundes erſchaffenden Geiſt.</l>
 				</lg>
 				<lg>
-					<l>Damit der Ocean nicht aus ſeinen Ufern weiche,</l>
-					<l>Faßt er die Waſser des Meeres zuſammen als in Schläuche:</l>
-					<l>Die Flut erhebt ſich; = = er ſchilt ſie; = = ſie ſteht!</l>
-					<l>Die Tiefen ſammelt ſein Arm in ſeine Waſserſchätze.</l>
-					<l>Die Welt erhebe den <rs type="person" key="G0001">Herrn</rs>! Wer ſie
+					<lb/><l>Damit der Ocean nicht aus ſeinen Ufern weiche,</l>
+					<lb/><l>Faßt er die Waſser des Meeres zuſammen als in Schläuche:</l>
+					<lb/><l>Die Flut erhebt ſich; = = er ſchilt ſie; = = ſie ſteht!</l>
+					<lb/><l>Die Tiefen ſammelt ſein Arm in ſeine Waſserſchätze.</l>
+					<lb/><l>Die Welt erhebe den <rs type="person" key="G0001">Herrn</rs>! Wer ſie
 						bewohnt, entſetze</l>
-					<l>Sich über ſeine Majeſtät!</l>
-					<l>Frohlockt ihm! Betet ihn an! Der ganze Kreis der Erde</l>
-					<l>Erhöhe ſeine Gewalt! <rs type="person" key="G0001">Jehova</rs> rufet:
+					<lb/><l>Sich über ſeine Majeſtät!</l>
+					<lb/><l>Frohlockt ihm! Betet ihn an! Der ganze Kreis der Erde</l>
+					<lb/><l>Erhöhe ſeine Gewalt! <rs type="person" key="G0001">Jehova</rs> rufet:
 						Werde!</l>
-					<l>Sie iſt; ſein Wille gebeut ihr; ſie ſteht!</l>
+					<lb/><l>Sie iſt; ſein Wille gebeut ihr; ſie ſteht!</l>
 				</lg>
 				<lg>
-					<l>Der <rs type="person" key="G0001">Herr</rs> zerſtöret den Rath der Völker,
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> zerſtöret den Rath der Völker,
 						die ihn ſpotten.</l>
-					<l>Was ſie beſchließen, das weiß <rs type="person" key="G0001">Jehova</rs>
+					<lb/><l>Was ſie beſchließen, das weiß <rs type="person" key="G0001">Jehova</rs>
 						auſzurotten;</l>
-					<l>Sie ſelbſt vergehen, ſo bald er gebeut.</l>
-					<l>O was für Zeiten ſind nicht, ſeit <rs type="person" key="G0001">Gott</rs>
+					<lb/><l>Sie ſelbſt vergehen, ſo bald er gebeut.</l>
+					<lb/><l>O was für Zeiten ſind nicht, ſeit <rs type="person" key="G0001">Gott</rs>
 						iſt, weggefloſsen;</l>
-					<l>Noch ſteht ſein ewiger Rath und was ſein Herz beſchloſsen,</l>
-					<l>Das bleibet feſt von Zeit auf Zeit.</l>
-					<l>Heil, Heil dem Volke, deß Gott der <rs type="person" key="G0001">Herr</rs>
+					<lb/><l>Noch ſteht ſein ewiger Rath und was ſein Herz beſchloſsen,</l>
+					<lb/><l>Das bleibet feſt von Zeit auf Zeit.</l>
+					<lb/><l>Heil, Heil dem Volke, deß Gott der <rs type="person" key="G0001">Herr</rs>
 						iſt! Heil den Frommen,</l>
-					<l>Die ſeine heilige Wahl zu Kindern angenommen,</l>
-					<l>Und er zum ewigen Erbe ſich weiht!</l>
+					<lb/><l>Die ſeine heilige Wahl zu Kindern angenommen,</l>
+					<lb/><l>Und er zum ewigen Erbe ſich weiht!</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Gott</rs> ſieht vom Himmel herab die Menſchen
+					<lb/><l><rs type="person" key="G0001">Gott</rs> ſieht vom Himmel herab die Menſchen
 						an, und keiner</l>
-					<l>Vom ganzen Menſchengeſchlecht entflieht ihm; auch nicht einer</l>
-					<l>Kann ſeinen forſchenden Augen entfliehn.</l>
-					<l>Vom unerſchütterten Sitz, auf dem <rs type="person" key="G0001">Jehova</rs>
+					<lb/><l>Vom ganzen Menſchengeſchlecht entflieht ihm; auch nicht einer</l>
+					<lb/><l>Kann ſeinen forſchenden Augen entfliehn.</l>
+					<lb/><l>Vom unerſchütterten Sitz, auf dem <rs type="person" key="G0001">Jehova</rs>
 						thronet,</l>
-					<l>Sieht er auf jeden herab, der ſeine Welt bewohnet,</l>
-					<l>Und kennet und durchforſchet ihn.</l>
-					<l><rs type="person" key="G0001">Gott</rs> bildet jegliches Herz; er giebt den
+					<lb/><l>Sieht er auf jeden herab, der ſeine Welt bewohnet,</l>
+					<lb/><l>Und kennet und durchforſchet ihn.</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> bildet jegliches Herz; er giebt den
 						Starken Stärke,</l>
-					<l>Und den Verſtändigen Rath. Er merkt auf aller Werke,</l>
-					<l>Und macht ſie zittern und machet ſie kühn.</l>
+					<lb/><l>Und den Verſtändigen Rath. Er merkt auf aller Werke,</l>
+					<lb/><l>Und macht ſie zittern und machet ſie kühn.</l>
 				</lg>
 				<lg>
-					<l>Kein König findet ſein Heil in ſeinen ſtarken Heeren;</l>
-					<l>Kein Held in ſeiner Gewalt. Der <rs type="person" key="G0001">Herr</rs> kann
+					<lb/><l>Kein König findet ſein Heil in ſeinen ſtarken Heeren;</l>
+					<lb/><l>Kein Held in ſeiner Gewalt. Der <rs type="person" key="G0001">Herr</rs> kann
 						ſie zerſtören;</l>
-					<l>Dich, König, dich, o gewaltiger Held!</l>
-					<l>Auch hilft das mutigſte Roß dem Streiter nicht zum Siege,</l>
-					<l>Und ſeine furchtbarſte Kraft errettet nicht im Kriege;</l>
-					<l>Der <rs type="person" key="G0001">Herr</rs> allein behält das Feld.</l>
-					<l>Seht! Seht! Das Auge des <rs type="person" key="G0001">Herrn</rs> ſteht über
+					<lb/><l>Dich, König, dich, o gewaltiger Held!</l>
+					<lb/><l>Auch hilft das mutigſte Roß dem Streiter nicht zum Siege,</l>
+					<lb/><l>Und ſeine furchtbarſte Kraft errettet nicht im Kriege;</l>
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> allein behält das Feld.</l>
+					<lb/><l>Seht! Seht! Das Auge des <rs type="person" key="G0001">Herrn</rs> ſteht über
 						denen offen,</l>
-					<l>Die ehrerbietig und fromm auf ſeine Güte hoffen,</l>
-					<l>Die jeden, der ihr vertrauet, erhält.</l>
+					<lb/><l>Die ehrerbietig und fromm auf ſeine Güte hoffen,</l>
+					<lb/><l>Die jeden, der ihr vertrauet, erhält.</l>
 				</lg>
 				<lg>
-					<l>Sein Auge ſchauet auf ſie, ihr Leben zu befreyen.</l>
-					<l>Wenn ihnen Trübſal und Angſt und Tod und Mangel dräuen,</l>
-					<l>So hilft und rettet und sättigt ſie <rs type="person" key="G0001"
+					<lb/><l>Sein Auge ſchauet auf ſie, ihr Leben zu befreyen.</l>
+					<lb/><l>Wenn ihnen Trübſal und Angſt und Tod und Mangel dräuen,</l>
+					<lb/><l>So hilft und rettet und sättigt ſie <rs type="person" key="G0001"
 						>Gott</rs>.</l>
-					<l><rs type="person" key="G0001">Gott</rs>, unſer mächtiger Schild, auf den wir
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, unſer mächtiger Schild, auf den wir
 						uns verlaſsen,</l>
-					<l>Bedeckt und ſchützt uns gewiß vor denen, die uns haſsen,</l>
-					<l>Und wir, wir werden nie ihr Spott.</l>
-					<l>In dir, <rs type="person" key="G0001">Herr</rs>, freuen wir uns! Dein Name,
+					<lb/><l>Bedeckt und ſchützt uns gewiß vor denen, die uns haſsen,</l>
+					<lb/><l>Und wir, wir werden nie ihr Spott.</l>
+					<lb/><l>In dir, <rs type="person" key="G0001">Herr</rs>, freuen wir uns! Dein Name,
 							<rs type="person" key="G0001">Gott</rs>, behüte</l>
-					<l>Die, die dir, Heiliger, traun! Mit uns ſey deine Güte,</l>
-					<l>Wie wir uns deiner getröſten, o <rs type="person" key="G0001">Gott</rs>!</l>
+					<lb/><l>Die, die dir, Heiliger, traun! Mit uns ſey deine Güte,</l>
+					<lb/><l>Wie wir uns deiner getröſten, o <rs type="person" key="G0001">Gott</rs>!</l>
 				</lg>
 			</div>
 		</body>

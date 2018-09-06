@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -70,7 +70,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -182,203 +181,203 @@
 		<body>
 			<pb n="38" ed="CPEB1774"/>
 			<div type="chorale">
-				<head type="title">Der hundert und vierte Pſalm.</head>
+				<head><title>Der hundert und vierte Pſalm.</title></head>
 				<lg>
-					<l>Erheb, erheb, o meine Seele,</l>
-					<l><rs type="person" key="G0001">Gott</rs>, meinen <rs type="person" key="G0001"
+					<lb/><l>Erheb, erheb, o meine Seele,</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, meinen <rs type="person" key="G0001"
 							>Schöpfer</rs>, und erzähle,</l>
-					<l>Verkündige ſein Lob der Welt!</l>
-					<l>Ihm ſinge deine Jubellieder;</l>
-					<l>Der Fromme halle ſie ihm wieder,</l>
-					<l>Ihm, der uns ſchuf und uns erhält!</l>
-					<l>Frohlockt ihm, alle ſeine Heere!</l>
-					<l>Ihm weihet euern Lobgeſang!</l>
-					<l>Der <rs type="person" key="G0001">Herr</rs> iſt würdig, Preis und Ehre</l>
-					<l>Zu nehmen, Lob und Ruhm und Dank.</l>
+					<lb/><l>Verkündige ſein Lob der Welt!</l>
+					<lb/><l>Ihm ſinge deine Jubellieder;</l>
+					<lb/><l>Der Fromme halle ſie ihm wieder,</l>
+					<lb/><l>Ihm, der uns ſchuf und uns erhält!</l>
+					<lb/><l>Frohlockt ihm, alle ſeine Heere!</l>
+					<lb/><l>Ihm weihet euern Lobgeſang!</l>
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> iſt würdig, Preis und Ehre</l>
+					<lb/><l>Zu nehmen, Lob und Ruhm und Dank.</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Herr</rs>, dir iſt niemand zu vergleichen;</l>
-					<l>Kein Lob kann deine Größ erreichen,</l>
-					<l>Kein noch ſo feuriger Verſtand.</l>
-					<l>Pracht, Majeſtät und Ruhm umgeben</l>
-					<l>Dich, aller Weſen Quell und Leben,</l>
-					<l>Licht iſt dein ſtrahlenvoll Gewand.</l>
-					<l>Du bauſt in unermeßne Höhen,</l>
-					<l>Allgegenwärtiger, dein Haus,</l>
-					<l>Und wölbſt mit dichten Waſserſeen</l>
-					<l>Die glanzerfüllte Wohnung aus.</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, dir iſt niemand zu vergleichen;</l>
+					<lb/><l>Kein Lob kann deine Größ erreichen,</l>
+					<lb/><l>Kein noch ſo feuriger Verſtand.</l>
+					<lb/><l>Pracht, Majeſtät und Ruhm umgeben</l>
+					<lb/><l>Dich, aller Weſen Quell und Leben,</l>
+					<lb/><l>Licht iſt dein ſtrahlenvoll Gewand.</l>
+					<lb/><l>Du bauſt in unermeßne Höhen,</l>
+					<lb/><l>Allgegenwärtiger, dein Haus,</l>
+					<lb/><l>Und wölbſt mit dichten Waſserſeen</l>
+					<lb/><l>Die glanzerfüllte Wohnung aus.</l>
 				</lg>
 				<lg>
-					<l>Wie biſt du, wenn du, <rs type="person" key="G0001">Gott der Götter</rs>,</l>
-					<l>Herabfährſt, wenn du in dem Wetter</l>
-					<l>Einhergehſt, uns ſo fürchterlich!</l>
-					<l>Du willſt, und Wolken ſind dein Wagen,</l>
-					<l>Dein Wagen donnert; willig tragen</l>
-					<l>Die Fittiche des Sturmes dich.</l>
-					<l>Die Engel fliegen, gleich den Winden,</l>
-					<l>Vor dir voran, Herr Zebaoth;</l>
-					<l>Wie Flammen, die ſich ſchnell entzünden,</l>
-					<l>Sind deiner Allmacht Diener, <rs type="person" key="G0001">Gott</rs>.</l>
+					<lb/><l>Wie biſt du, wenn du, <rs type="person" key="G0001">Gott der Götter</rs>,</l>
+					<lb/><l>Herabfährſt, wenn du in dem Wetter</l>
+					<lb/><l>Einhergehſt, uns ſo fürchterlich!</l>
+					<lb/><l>Du willſt, und Wolken ſind dein Wagen,</l>
+					<lb/><l>Dein Wagen donnert; willig tragen</l>
+					<lb/><l>Die Fittiche des Sturmes dich.</l>
+					<lb/><l>Die Engel fliegen, gleich den Winden,</l>
+					<lb/><l>Vor dir voran, Herr Zebaoth;</l>
+					<lb/><l>Wie Flammen, die ſich ſchnell entzünden,</l>
+					<lb/><l>Sind deiner Allmacht Diener, <rs type="person" key="G0001">Gott</rs>.</l>
 				</lg>
 				<lg>
-					<l>Du haſt der Erde Grund geleget;</l>
-					<l>Nun ſteht ſie ewig unbeweget;</l>
-					<l>Vor Alters war die Tief ihr Kleid.</l>
-					<l>Auf allen Bergen ſtanden Waſser;</l>
-					<l>Du ſchaltſt ſie; da entflohn die Waſser,</l>
-					<l>Durch deines Donners Kraft zerſtreut.</l>
-					<l>Der Berge Gipfel, <rs type="person" key="G0001">Herr</rs>, erſchienen,</l>
-					<l>Erhoben durch dein mächtig Wort;</l>
-					<l>Die Thäler ſanken unter ihnen</l>
-					<l>An den für ſie beſtimmten Ort.</l>
+					<lb/><l>Du haſt der Erde Grund geleget;</l>
+					<lb/><l>Nun ſteht ſie ewig unbeweget;</l>
+					<lb/><l>Vor Alters war die Tief ihr Kleid.</l>
+					<lb/><l>Auf allen Bergen ſtanden Waſser;</l>
+					<lb/><l>Du ſchaltſt ſie; da entflohn die Waſser,</l>
+					<lb/><l>Durch deines Donners Kraft zerſtreut.</l>
+					<lb/><l>Der Berge Gipfel, <rs type="person" key="G0001">Herr</rs>, erſchienen,</l>
+					<lb/><l>Erhoben durch dein mächtig Wort;</l>
+					<lb/><l>Die Thäler ſanken unter ihnen</l>
+					<lb/><l>An den für ſie beſtimmten Ort.</l>
 				</lg>
 				<pb n="39" ed="CPEB1774"/>
 				<lg>
-					<l>Nun ſteht der Waſser Wut umdämmet,</l>
-					<l>Daß ſie, durch deinen Arm gehemmet,</l>
-					<l>Die Erde nicht verwüſten kann.</l>
-					<l>Du ſprichſt; der Berge Schooß' entquellen</l>
-					<l>Die Brunnen, werden Bäch' und ſchwellen</l>
-					<l>Zu Strömen und zu Seen an.</l>
-					<l>Aus ihnen ſchöpft das Volk der Felder</l>
-					<l>Erquickung, bis ſein Durſt ſich ſtillt;</l>
-					<l>Auch rieſeln Waſser durch die Wälder,</l>
-					<l>Erfriſchen und erfreun das Wild.</l>
+					<lb/><l>Nun ſteht der Waſser Wut umdämmet,</l>
+					<lb/><l>Daß ſie, durch deinen Arm gehemmet,</l>
+					<lb/><l>Die Erde nicht verwüſten kann.</l>
+					<lb/><l>Du ſprichſt; der Berge Schooß' entquellen</l>
+					<lb/><l>Die Brunnen, werden Bäch' und ſchwellen</l>
+					<lb/><l>Zu Strömen und zu Seen an.</l>
+					<lb/><l>Aus ihnen ſchöpft das Volk der Felder</l>
+					<lb/><l>Erquickung, bis ſein Durſt ſich ſtillt;</l>
+					<lb/><l>Auch rieſeln Waſser durch die Wälder,</l>
+					<lb/><l>Erfriſchen und erfreun das Wild.</l>
 				</lg>
 				<lg>
-					<l>Viel ſchattenvolle Bäume grünen</l>
-					<l>An deinen Waſsern, und aus ihnen</l>
-					<l>Ertönt der Vögel Luſt und Dank.</l>
-					<l>In ihrer Zweige Schutz verborgen,</l>
-					<l>Frohlocken ſie dir jeden Morgen,</l>
-					<l>Tönt dir des Abends ihr Geſang.</l>
-					<l>Mit deinem ſegenvollen Thaue</l>
-					<l>Wird jeder ſteile Berg erquickt.</l>
-					<l>Auch grünen fröhlich Feld und Aue,</l>
-					<l>Mit deinen Früchten, <rs type="person" key="G0001">Gott</rs>, geſchmückt.</l>
+					<lb/><l>Viel ſchattenvolle Bäume grünen</l>
+					<lb/><l>An deinen Waſsern, und aus ihnen</l>
+					<lb/><l>Ertönt der Vögel Luſt und Dank.</l>
+					<lb/><l>In ihrer Zweige Schutz verborgen,</l>
+					<lb/><l>Frohlocken ſie dir jeden Morgen,</l>
+					<lb/><l>Tönt dir des Abends ihr Geſang.</l>
+					<lb/><l>Mit deinem ſegenvollen Thaue</l>
+					<lb/><l>Wird jeder ſteile Berg erquickt.</l>
+					<lb/><l>Auch grünen fröhlich Feld und Aue,</l>
+					<lb/><l>Mit deinen Früchten, <rs type="person" key="G0001">Gott</rs>, geſchmückt.</l>
 				</lg>
 				<lg>
-					<l>Durch dich entſprießt, damit die Heerden</l>
-					<l>Der ſichern Flur gesättigt werden,</l>
-					<l>Das Gras und kleidet, <rs type="person" key="G0001">Gott</rs>, das Land.</l>
-					<l>Uns blühn die Kräuter, und der Seegen</l>
-					<l>Der Saaten reifet uns entgegen,</l>
-					<l>Und füllt des frohen Schnitters Hand.</l>
-					<l>Brot giebſt du für des Menſchen Leben;</l>
-					<l>Und unſre Herzen zu erfreun,</l>
-					<l>Giebſt du den traubenvollen Reben</l>
-					<l>Mit milder, reicher Hand den Wein.</l>
+					<lb/><l>Durch dich entſprießt, damit die Heerden</l>
+					<lb/><l>Der ſichern Flur gesättigt werden,</l>
+					<lb/><l>Das Gras und kleidet, <rs type="person" key="G0001">Gott</rs>, das Land.</l>
+					<lb/><l>Uns blühn die Kräuter, und der Seegen</l>
+					<lb/><l>Der Saaten reifet uns entgegen,</l>
+					<lb/><l>Und füllt des frohen Schnitters Hand.</l>
+					<lb/><l>Brot giebſt du für des Menſchen Leben;</l>
+					<lb/><l>Und unſre Herzen zu erfreun,</l>
+					<lb/><l>Giebſt du den traubenvollen Reben</l>
+					<lb/><l>Mit milder, reicher Hand den Wein.</l>
 				</lg>
 				<lg>
-					<l>Du ſchaffſt das Oel, uns zu erquicken,</l>
-					<l>Des Menſchen Angeſicht zu ſchmücken;</l>
-					<l>Und heiter glänzt ſein Angeſicht.</l>
-					<l>Wem giebſt du, <rs type="person" key="G0001">Gott</rs>, nicht Brot die
+					<lb/><l>Du ſchaffſt das Oel, uns zu erquicken,</l>
+					<lb/><l>Des Menſchen Angeſicht zu ſchmücken;</l>
+					<lb/><l>Und heiter glänzt ſein Angeſicht.</l>
+					<lb/><l>Wem giebſt du, <rs type="person" key="G0001">Gott</rs>, nicht Brot die
 						Fülle,</l>
-					<l>Daß jeder ſeinen Hunger ſtille?</l>
-					<l>Wen ſtärkt du, wen erfreuſt du nicht?</l>
-					<l>Die Bäume leben und empfangen</l>
-					<l>Von dir des Obſtes Ueberfluß;</l>
-					<l>Gepflanzt von deinen Händen prangen</l>
-					<l>Die Zedern auf dem Libanus.</l>
+					<lb/><l>Daß jeder ſeinen Hunger ſtille?</l>
+					<lb/><l>Wen ſtärkt du, wen erfreuſt du nicht?</l>
+					<lb/><l>Die Bäume leben und empfangen</l>
+					<lb/><l>Von dir des Obſtes Ueberfluß;</l>
+					<lb/><l>Gepflanzt von deinen Händen prangen</l>
+					<lb/><l>Die Zedern auf dem Libanus.</l>
 				</lg>
 				<lg>
-					<l>Die Vögeln baun in ihren Wipfeln,</l>
-					<l>Die Störch in hoher Tannen Gipfeln,</l>
-					<l>Gebildet und ernährt durch dich.</l>
-					<l>Die Gemſe liebt der Felſen Spitzen,</l>
-					<l>Den jähen Berg; in ihren Ritzen</l>
-					<l>Verbergen die Caninchen ſich.</l>
-					<l>Den Mond erſchuf uns deine Gnade,</l>
-					<l>Er leuchtet uns und theilt die Zeit;</l>
-					<l>Die Sonne kennt und eilt die Pfade,</l>
-					<l>Die ihr dein Wink zu gehn gebeut.</l>
+					<lb/><l>Die Vögeln baun in ihren Wipfeln,</l>
+					<lb/><l>Die Störch in hoher Tannen Gipfeln,</l>
+					<lb/><l>Gebildet und ernährt durch dich.</l>
+					<lb/><l>Die Gemſe liebt der Felſen Spitzen,</l>
+					<lb/><l>Den jähen Berg; in ihren Ritzen</l>
+					<lb/><l>Verbergen die Caninchen ſich.</l>
+					<lb/><l>Den Mond erſchuf uns deine Gnade,</l>
+					<lb/><l>Er leuchtet uns und theilt die Zeit;</l>
+					<lb/><l>Die Sonne kennt und eilt die Pfade,</l>
+					<lb/><l>Die ihr dein Wink zu gehn gebeut.</l>
 				</lg>
 				<lg>
-					<l>Der Menſch, von ſeinem Fleiß ermattet,</l>
-					<l>Ruht, von der Finſterni? umſchattet,</l>
-					<l>Und nur das Volk der Wüſte wacht.</l>
-					<l>Dann gehn die Thier aus ihren Wäldern,</l>
-					<l>Und ſuchen auf bethauten Feldern</l>
-					<l>Sich ihre Nahrung in der Nacht.</l>
-					<l>Des jungen Löwen laut Gebrülle</l>
-					<l>Begehret ſeinen Raub von dir;</l>
-					<l>Du nährſt es, <rs type="person" key="G0001">Gott</rs>, aus deiner Fülle,</l>
-					<l>Du sättigſt jedes wilde Thier.</l>
+					<lb/><l>Der Menſch, von ſeinem Fleiß ermattet,</l>
+					<lb/><l>Ruht, von der Finſterni? umſchattet,</l>
+					<lb/><l>Und nur das Volk der Wüſte wacht.</l>
+					<lb/><l>Dann gehn die Thier aus ihren Wäldern,</l>
+					<lb/><l>Und ſuchen auf bethauten Feldern</l>
+					<lb/><l>Sich ihre Nahrung in der Nacht.</l>
+					<lb/><l>Des jungen Löwen laut Gebrülle</l>
+					<lb/><l>Begehret ſeinen Raub von dir;</l>
+					<lb/><l>Du nährſt es, <rs type="person" key="G0001">Gott</rs>, aus deiner Fülle,</l>
+					<lb/><l>Du sättigſt jedes wilde Thier.</l>
 				</lg>
 				<lg>
-					<l>Die Morgenröthe kömmt; ſchon glühen</l>
-					<l>Des Tages Strahlen; ſchnell entfliehen</l>
-					<l>Die Thier in ihre Höhlen hin.</l>
-					<l>Der Menſch erwacht und pflanzt und säet;</l>
-					<l>Dein Seegen folgt ihm, wo er gehet,</l>
-					<l>Und jeder Fleiß wird ſein Gewinn.</l>
-					<l>Wie zahllos, <rs type="person" key="G0001">Gott</rs>, ſind deine Werke!</l>
-					<l>Die Welt iſt deiner Güte voll.</l>
-					<l>Du giebſt ſie, daß man deine Stärke</l>
-					<l>Und Huld und Weiſheit rühmen ſoll.</l>
+					<lb/><l>Die Morgenröthe kömmt; ſchon glühen</l>
+					<lb/><l>Des Tages Strahlen; ſchnell entfliehen</l>
+					<lb/><l>Die Thier in ihre Höhlen hin.</l>
+					<lb/><l>Der Menſch erwacht und pflanzt und säet;</l>
+					<lb/><l>Dein Seegen folgt ihm, wo er gehet,</l>
+					<lb/><l>Und jeder Fleiß wird ſein Gewinn.</l>
+					<lb/><l>Wie zahllos, <rs type="person" key="G0001">Gott</rs>, ſind deine Werke!</l>
+					<lb/><l>Die Welt iſt deiner Güte voll.</l>
+					<lb/><l>Du giebſt ſie, daß man deine Stärke</l>
+					<lb/><l>Und Huld und Weiſheit rühmen ſoll.</l>
 				</lg>
 				<lg>
-					<l>Wie wimmelts in den weiten Meeren</l>
-					<l>Von größern und von kleinern Heeren;</l>
-					<l>Dein Leviathan ſpielet hier.</l>
-					<l>Die Schiffe finden ſichre Bahnen</l>
-					<l>Selbſt auf den wilden Oceanen,</l>
-					<l>Geführt, erhalten, <rs type="person" key="G0001">Gott</rs>, von dir.</l>
-					<l><rs type="person" key="G0001">Herr</rs>, alles wartet auf der Erde,</l>
-					<l>Im Meer und in der Luft, auf dich,</l>
-					<l>Daß es von dir gesättigt werde;</l>
-					<l>Du ſeegneſt; ſie erquicken ſich.</l>
+					<lb/><l>Wie wimmelts in den weiten Meeren</l>
+					<lb/><l>Von größern und von kleinern Heeren;</l>
+					<lb/><l>Dein Leviathan ſpielet hier.</l>
+					<lb/><l>Die Schiffe finden ſichre Bahnen</l>
+					<lb/><l>Selbſt auf den wilden Oceanen,</l>
+					<lb/><l>Geführt, erhalten, <rs type="person" key="G0001">Gott</rs>, von dir.</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, alles wartet auf der Erde,</l>
+					<lb/><l>Im Meer und in der Luft, auf dich,</l>
+					<lb/><l>Daß es von dir gesättigt werde;</l>
+					<lb/><l>Du ſeegneſt; ſie erquicken ſich.</l>
 				</lg>
 				<lg>
-					<l>Du giebſt; ſie ſammeln; was ſie haben,</l>
-					<l>Sind deiner milden Hände Gaben;</l>
-					<l>Du sättigſt ſie mit Freundlichkeit.</l>
-					<l>Dein Angeſicht iſt Heil und Leben;</l>
-					<l><rs type="person" key="G0001">Herr</rs>, du verbirgſt es, ſie erbeben;</l>
-					<l>Ihr Odem fliehet, weil es dräut.</l>
-					<l>Du zürneſt, <rs type="person" key="G0001">Gott</rs>, und das Verderben</l>
-					<l>Ergreift begierig ſeinen Raub;</l>
-					<l>Still ſteht das Leben, und ſie ſterben,</l>
-					<l>Und werden, was ſie waren, Staub.</l>
+					<lb/><l>Du giebſt; ſie ſammeln; was ſie haben,</l>
+					<lb/><l>Sind deiner milden Hände Gaben;</l>
+					<lb/><l>Du sättigſt ſie mit Freundlichkeit.</l>
+					<lb/><l>Dein Angeſicht iſt Heil und Leben;</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, du verbirgſt es, ſie erbeben;</l>
+					<lb/><l>Ihr Odem fliehet, weil es dräut.</l>
+					<lb/><l>Du zürneſt, <rs type="person" key="G0001">Gott</rs>, und das Verderben</l>
+					<lb/><l>Ergreift begierig ſeinen Raub;</l>
+					<lb/><l>Still ſteht das Leben, und ſie ſterben,</l>
+					<lb/><l>Und werden, was ſie waren, Staub.</l>
 				</lg>
 				<lg>
-					<l>Dein Odem tödtet und beſeelet;</l>
-					<l>Die Welt, die deine Huld erzählet,</l>
-					<l>Erneuert ſich auf dein Gebot.</l>
-					<l>Dein Ruhm iſt ewig; deine Stärke</l>
-					<l>Schuf und bewahret deine Werke;</l>
-					<l>Sie ſind dein Wohlgefallen, Gott.</l>
-					<l>Du ſchauſt die Erd an, ſie erzittert;</l>
-					<l>Du taſteſt an der Berge Höhn;</l>
-					<l>Und Berg und Fels, durch dich zerſplittert,</l>
-					<l>Sind Flammen, dampfen und vergehn.</l>
+					<lb/><l>Dein Odem tödtet und beſeelet;</l>
+					<lb/><l>Die Welt, die deine Huld erzählet,</l>
+					<lb/><l>Erneuert ſich auf dein Gebot.</l>
+					<lb/><l>Dein Ruhm iſt ewig; deine Stärke</l>
+					<lb/><l>Schuf und bewahret deine Werke;</l>
+					<lb/><l>Sie ſind dein Wohlgefallen, Gott.</l>
+					<lb/><l>Du ſchauſt die Erd an, ſie erzittert;</l>
+					<lb/><l>Du taſteſt an der Berge Höhn;</l>
+					<lb/><l>Und Berg und Fels, durch dich zerſplittert,</l>
+					<lb/><l>Sind Flammen, dampfen und vergehn.</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Gott</rs>, meinem <rs type="person" key="G0001"
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, meinem <rs type="person" key="G0001"
 							>Gott</rs>, will ich lobſingen;</l>
-					<l>Ihm will ich Dank und Ehre bringen,</l>
-					<l>Ihm, weil ich athme, Lieder weyhn!</l>
-					<l>Die frommen Lieder, die ihn ehren,</l>
-					<l>Wird er mit Wohlgefallen hören;</l>
-					<l>Ich will mich in dem <rs type="person" key="G0001">Herrn</rs> erfreun!</l>
-					<l>Die Erde trägt zwar viel Verbrecher,</l>
-					<l>Doch bald vertilget <rs type="person" key="G0001">Gott</rs> ihr Heer:</l>
-					<l>Er ſchaut ſie an, der Laſter Rächer;</l>
-					<l>Und alle Frevler ſind nicht mehr.</l>
+					<lb/><l>Ihm will ich Dank und Ehre bringen,</l>
+					<lb/><l>Ihm, weil ich athme, Lieder weyhn!</l>
+					<lb/><l>Die frommen Lieder, die ihn ehren,</l>
+					<lb/><l>Wird er mit Wohlgefallen hören;</l>
+					<lb/><l>Ich will mich in dem <rs type="person" key="G0001">Herrn</rs> erfreun!</l>
+					<lb/><l>Die Erde trägt zwar viel Verbrecher,</l>
+					<lb/><l>Doch bald vertilget <rs type="person" key="G0001">Gott</rs> ihr Heer:</l>
+					<lb/><l>Er ſchaut ſie an, der Laſter Rächer;</l>
+					<lb/><l>Und alle Frevler ſind nicht mehr.</l>
 				</lg>
 				<lg>
-					<l>Erheb, erheb, o meine Seele,</l>
-					<l><rs type="person" key="G0001">Gott</rs>, meinen <rs type="person" key="G0001"
+					<lb/><l>Erheb, erheb, o meine Seele,</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, meinen <rs type="person" key="G0001"
 							>Schöpfer</rs>, und erzähle,</l>
-					<l>Verkündige ſein Lob der Welt!</l>
-					<l>Ihm ſinge deine Jubellieder;</l>
-					<l>Der Fromme halle ſie ihm wieder,</l>
-					<l>Ihm, der uns bildet und erhält!</l>
-					<l>Frohlockt ihm, alle ſeine Heere!</l>
-					<l>Ihm weihet euern Lobgeſang!</l>
-					<l>Der <rs type="person" key="G0001">Herr</rs> iſt würdig, Preis und Ehre</l>
-					<l>Zu nehmen, Lob und Ruhm und Dank.</l>
+					<lb/><l>Verkündige ſein Lob der Welt!</l>
+					<lb/><l>Ihm ſinge deine Jubellieder;</l>
+					<lb/><l>Der Fromme halle ſie ihm wieder,</l>
+					<lb/><l>Ihm, der uns bildet und erhält!</l>
+					<lb/><l>Frohlockt ihm, alle ſeine Heere!</l>
+					<lb/><l>Ihm weihet euern Lobgeſang!</l>
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> iſt würdig, Preis und Ehre</l>
+					<lb/><l>Zu nehmen, Lob und Ruhm und Dank.</l>
 				</lg>
 			</div>
 		</body>

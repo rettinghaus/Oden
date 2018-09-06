@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -70,7 +70,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -182,54 +181,54 @@
 		<body>
 			<pb n="48" ed="CPEB1774"/>
 			<div type="chorale">
-				<head type="title">Der hundert und zwey und vierzigſte Pſalm.</head>
+				<head><title>Der hundert und zwey und vierzigſte Pſalm.</title></head>
 				<lg>
-					<l><rs type="person" key="G0001">Gott</rs>, es ſeufzet meine Stimme,</l>
-					<l>Traurig fleht dir meine Stimme,</l>
-					<l>O <rs type="person" key="G0001">Jehova Zebaoth</rs>!</l>
-					<l>Dir, <rs type="person" key="G0001">Gott meines Heils</rs>, entdecket'</l>
-					<l>Meine Rede, was mich ſchrecket;</l>
-					<l>Herr, dir klag ich meine Noth!</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, es ſeufzet meine Stimme,</l>
+					<lb/><l>Traurig fleht dir meine Stimme,</l>
+					<lb/><l>O <rs type="person" key="G0001">Jehova Zebaoth</rs>!</l>
+					<lb/><l>Dir, <rs type="person" key="G0001">Gott meines Heils</rs>, entdecket'</l>
+					<lb/><l>Meine Rede, was mich ſchrecket;</l>
+					<lb/><l>Herr, dir klag ich meine Noth!</l>
 				</lg>
 				<lg>
-					<l>Wenn vor Angſt ich faſt vergehe,</l>
-					<l>Wenn ich keinen Weg mehr ſehe,</l>
-					<l>Bahnſt du, Helfer, meinen Pfad.</l>
-					<l>Heimlich legt der Feind mir Stricke,</l>
-					<l>Daß er meinen Fuß berücke,</l>
-					<l>Rings um mich her iſt Verrath!</l>
+					<lb/><l>Wenn vor Angſt ich faſt vergehe,</l>
+					<lb/><l>Wenn ich keinen Weg mehr ſehe,</l>
+					<lb/><l>Bahnſt du, Helfer, meinen Pfad.</l>
+					<lb/><l>Heimlich legt der Feind mir Stricke,</l>
+					<lb/><l>Daß er meinen Fuß berücke,</l>
+					<lb/><l>Rings um mich her iſt Verrath!</l>
 				</lg>
 				<lg>
-					<l>Schaue her zur Rechten, ſiehe,</l>
-					<l>Niemand kennet mich! Ich fliehe;</l>
-					<l>Doch umſonſt iſts, daß ich flieh!</l>
-					<l>Keiner rettet meine Seele,</l>
-					<l>Welch ein Elend ſie auch quäle;</l>
-					<l>Sonder Hülfe jammert ſie.</l>
+					<lb/><l>Schaue her zur Rechten, ſiehe,</l>
+					<lb/><l>Niemand kennet mich! Ich fliehe;</l>
+					<lb/><l>Doch umſonſt iſts, daß ich flieh!</l>
+					<lb/><l>Keiner rettet meine Seele,</l>
+					<lb/><l>Welch ein Elend ſie auch quäle;</l>
+					<lb/><l>Sonder Hülfe jammert ſie.</l>
 				</lg>
 				<lg>
-					<l>Sollt ich ſtets verlaſsen werden?</l>
-					<l>Nein, o <rs type="person" key="G0001">Gott</rs>, mein Theil auf Erden,</l>
-					<l>Du biſt meine Zuverſicht.</l>
-					<l>Merke, <rs type="person" key="G0001">Herr</rs>, auf meine Klage,</l>
-					<l>Groß iſt deines Knechtes Plage,</l>
-					<l><rs type="person" key="G0001">Gott</rs>, entzeuch dein Heil mir nicht!</l>
+					<lb/><l>Sollt ich ſtets verlaſsen werden?</l>
+					<lb/><l>Nein, o <rs type="person" key="G0001">Gott</rs>, mein Theil auf Erden,</l>
+					<lb/><l>Du biſt meine Zuverſicht.</l>
+					<lb/><l>Merke, <rs type="person" key="G0001">Herr</rs>, auf meine Klage,</l>
+					<lb/><l>Groß iſt deines Knechtes Plage,</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, entzeuch dein Heil mir nicht!</l>
 				</lg>
 				<lg>
-					<l>Hab ich, <rs type="person" key="G0001">Herr</rs>, nicht dich zum Freunde,</l>
-					<l>Ach, ſo ſiegen meine Feinde,</l>
-					<l>Haben ſie zu viel Gewalt!</l>
-					<l>O du wolleſt in den Stürmen</l>
-					<l>Ihres Grimmes mich beſchirmen,</l>
-					<l>Eile, <rs type="person" key="G0001">Herr</rs>, und hilf mir bald!</l>
+					<lb/><l>Hab ich, <rs type="person" key="G0001">Herr</rs>, nicht dich zum Freunde,</l>
+					<lb/><l>Ach, ſo ſiegen meine Feinde,</l>
+					<lb/><l>Haben ſie zu viel Gewalt!</l>
+					<lb/><l>O du wolleſt in den Stürmen</l>
+					<lb/><l>Ihres Grimmes mich beſchirmen,</l>
+					<lb/><l>Eile, <rs type="person" key="G0001">Herr</rs>, und hilf mir bald!</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Gott</rs>, entfeßle meine Seele,</l>
-					<l>Daß ich deinen Preis erzähle,</l>
-					<l>Wer gerecht iſt, dankt mit mir.</l>
-					<l>Jeder ſingt, mit mir vereinet,</l>
-					<l>Daß mir deine Hülf erſcheinet,</l>
-					<l>Deinen Ruhm, und jauchzet dir.</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, entfeßle meine Seele,</l>
+					<lb/><l>Daß ich deinen Preis erzähle,</l>
+					<lb/><l>Wer gerecht iſt, dankt mit mir.</l>
+					<lb/><l>Jeder ſingt, mit mir vereinet,</l>
+					<lb/><l>Daß mir deine Hülf erſcheinet,</l>
+					<lb/><l>Deinen Ruhm, und jauchzet dir.</l>
 				</lg>
 			</div>
 		</body>

@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -70,7 +70,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -182,77 +181,77 @@
 		<body>
 			<pb n="32" ed="CPEB1774"/>
 			<div type="chorale">
-				<head type="title">Der ſechs und neunzigſte Pſalm.</head>
+				<head><title>Der ſechs und neunzigſte Pſalm.</title></head>
 				<lg>
-					<l>Erhebet <rs type="person" key="G0001">Gott</rs> durch neue Lieder,</l>
-					<l>voll ungehörter Harmonie!</l>
-					<l>Stimmt ein, ihr Welten, ſchallt ſie wieder,</l>
-					<l>Verſtärket und verbreitet ſie!</l>
-					<l>Beſingt den <rs type="person" key="G0001">Höchſten</rs>! Jeder ehre</l>
-					<l>Den Namen <rs type="person" key="G0001">Gottes</rs>! Jeder lehre</l>
-					<l>Und wiederhole Tag auf Tag,</l>
-					<l>Wie viel der Herr für uns vermag!</l>
+					<lb/><l>Erhebet <rs type="person" key="G0001">Gott</rs> durch neue Lieder,</l>
+					<lb/><l>voll ungehörter Harmonie!</l>
+					<lb/><l>Stimmt ein, ihr Welten, ſchallt ſie wieder,</l>
+					<lb/><l>Verſtärket und verbreitet ſie!</l>
+					<lb/><l>Beſingt den <rs type="person" key="G0001">Höchſten</rs>! Jeder ehre</l>
+					<lb/><l>Den Namen <rs type="person" key="G0001">Gottes</rs>! Jeder lehre</l>
+					<lb/><l>Und wiederhole Tag auf Tag,</l>
+					<lb/><l>Wie viel der Herr für uns vermag!</l>
 				</lg>
 				<lg>
-					<l>Groß iſt ſein Heil. O ſagt mit Freuden</l>
-					<l>Sein Lob der Erde Völkern an!</l>
-					<l>Verkündigt unter allen Heiden</l>
-					<l>Die Wunder, die der <rs type="person" key="G0001">Herr</rs> gethan!</l>
-					<l>Wer hat ihn je genug erhoben?</l>
-					<l>Der <rs type="person" key="G0001">Herr</rs> iſt groß und hoch zu loben;</l>
-					<l>Erhebt vor ſeinem Angeſicht;</l>
-					<l>Nur vor den Göttern zittert nicht!</l>
+					<lb/><l>Groß iſt ſein Heil. O ſagt mit Freuden</l>
+					<lb/><l>Sein Lob der Erde Völkern an!</l>
+					<lb/><l>Verkündigt unter allen Heiden</l>
+					<lb/><l>Die Wunder, die der <rs type="person" key="G0001">Herr</rs> gethan!</l>
+					<lb/><l>Wer hat ihn je genug erhoben?</l>
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> iſt groß und hoch zu loben;</l>
+					<lb/><l>Erhebt vor ſeinem Angeſicht;</l>
+					<lb/><l>Nur vor den Göttern zittert nicht!</l>
 				</lg>
 				<lg>
-					<l>Die Götter, die die Völker ehren,</l>
-					<l>Sind Götzen, ohne Seyn und Kraft.</l>
-					<l><rs type="person" key="G0001">Gott</rs> aber, den die Himmel lehren,</l>
-					<l><rs type="person" key="G0001">Gott</rs> iſt es, der die Himmel ſchafft.</l>
-					<l>Ihn preiſen ſeiner Allmacht Werke;</l>
-					<l>Vor ihm iſt Majeſtät und Stärke,</l>
-					<l>Und durch ſein herrlich Heiligthum</l>
-					<l>Erſchallet ſeines Namens Ruhm!</l>
+					<lb/><l>Die Götter, die die Völker ehren,</l>
+					<lb/><l>Sind Götzen, ohne Seyn und Kraft.</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> aber, den die Himmel lehren,</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> iſt es, der die Himmel ſchafft.</l>
+					<lb/><l>Ihn preiſen ſeiner Allmacht Werke;</l>
+					<lb/><l>Vor ihm iſt Majeſtät und Stärke,</l>
+					<lb/><l>Und durch ſein herrlich Heiligthum</l>
+					<lb/><l>Erſchallet ſeines Namens Ruhm!</l>
 				</lg>
 				<lg>
-					<l>Bringt, bringt ihr Völker, kommt und bringet</l>
-					<l><rs type="person" key="G0001">Jehova</rs> Ruhm und Ehr und Macht!</l>
-					<l>Erhebt ihn, dankt ihm, jauchzt ihm, ſinget</l>
-					<l>Von ſeines hohen Namens Pracht!</l>
-					<l>Bringt Opfer, welche <rs type="person" key="G0001">Gott</rs> gefallen;</l>
-					<l>Fallt hin in ſeines Tempels Hallen</l>
-					<l>Im Schmucke, welcher ihm gefällt;</l>
-					<l>Es fürcht, es fürcht ihn alle Welt!</l>
+					<lb/><l>Bringt, bringt ihr Völker, kommt und bringet</l>
+					<lb/><l><rs type="person" key="G0001">Jehova</rs> Ruhm und Ehr und Macht!</l>
+					<lb/><l>Erhebt ihn, dankt ihm, jauchzt ihm, ſinget</l>
+					<lb/><l>Von ſeines hohen Namens Pracht!</l>
+					<lb/><l>Bringt Opfer, welche <rs type="person" key="G0001">Gott</rs> gefallen;</l>
+					<lb/><l>Fallt hin in ſeines Tempels Hallen</l>
+					<lb/><l>Im Schmucke, welcher ihm gefällt;</l>
+					<lb/><l>Es fürcht, es fürcht ihn alle Welt!</l>
 				</lg>
 				<lg>
-					<l>Der <rs type="person" key="G0001">Herr</rs> iſt König! Sagts der Erde!</l>
-					<l>Sagt, daß die Völker ihn erhöhn:</l>
-					<l>Sein Reich in ſeinen Welten werde,</l>
-					<l>Von ihm gegründet, ewig ſtehn.</l>
-					<l>Er richtet, ein gerechter Rächer</l>
-					<l>Der ihn nicht fürchtenden Verbrecher;</l>
-					<l>Er richtet mit Gerechtigkeit</l>
-					<l>Den, der ihn haßt, den, der ihn ſcheut.</l>
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> iſt König! Sagts der Erde!</l>
+					<lb/><l>Sagt, daß die Völker ihn erhöhn:</l>
+					<lb/><l>Sein Reich in ſeinen Welten werde,</l>
+					<lb/><l>Von ihm gegründet, ewig ſtehn.</l>
+					<lb/><l>Er richtet, ein gerechter Rächer</l>
+					<lb/><l>Der ihn nicht fürchtenden Verbrecher;</l>
+					<lb/><l>Er richtet mit Gerechtigkeit</l>
+					<lb/><l>Den, der ihn haßt, den, der ihn ſcheut.</l>
 				</lg>
 				<lg>
-					<l>Es jauchze dir, <rs type="person" key="G0001">Herr</rs>, <rs type="person"
+					<lb/><l>Es jauchze dir, <rs type="person" key="G0001">Herr</rs>, <rs type="person"
 							key="G0001">Herr</rs>, dein Himmel,</l>
-					<l>Die Erde dank und freue ſich!</l>
-					<l>Der Oceane froh Getümmel</l>
-					<l>Und ſein Bewohner preiſe dich!</l>
-					<l>Laßt alle Felder, laßt die Heerden</l>
-					<l>Aufhüpfen und voll Jauchzens werden!</l>
-					<l>Laßt jeden Baum durch jeden Hain</l>
-					<l>Sein Lob ertönen, ſein ſich freun!</l>
+					<lb/><l>Die Erde dank und freue ſich!</l>
+					<lb/><l>Der Oceane froh Getümmel</l>
+					<lb/><l>Und ſein Bewohner preiſe dich!</l>
+					<lb/><l>Laßt alle Felder, laßt die Heerden</l>
+					<lb/><l>Aufhüpfen und voll Jauchzens werden!</l>
+					<lb/><l>Laßt jeden Baum durch jeden Hain</l>
+					<lb/><l>Sein Lob ertönen, ſein ſich freun!</l>
 				</lg>
 				<lg>
-					<l>Vor unſers Gottes Angeſichte</l>
-					<l>Geht Freude, Lob und Jubel her.</l>
-					<l>Der <rs type="person" key="G0001">Herr</rs> erſcheinet, daß er richte;</l>
-					<l>Den ganzen Erdkreis richtet er.</l>
-					<l>Er richtet, ein gerechter Rächer</l>
-					<l>Der ihn nicht fürchtenden Verbrecher,</l>
-					<l>Nach Wahrheit und Gerechtigkeit,</l>
-					<l>Den, der ihn haßt, den, der ihn ſcheut.</l>
+					<lb/><l>Vor unſers Gottes Angeſichte</l>
+					<lb/><l>Geht Freude, Lob und Jubel her.</l>
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> erſcheinet, daß er richte;</l>
+					<lb/><l>Den ganzen Erdkreis richtet er.</l>
+					<lb/><l>Er richtet, ein gerechter Rächer</l>
+					<lb/><l>Der ihn nicht fürchtenden Verbrecher,</l>
+					<lb/><l>Nach Wahrheit und Gerechtigkeit,</l>
+					<lb/><l>Den, der ihn haßt, den, der ihn ſcheut.</l>
 				</lg>
 			</div>
 		</body>

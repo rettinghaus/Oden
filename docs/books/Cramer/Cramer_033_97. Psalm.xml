@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -70,7 +70,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -182,73 +181,73 @@
 		<body>
 			<pb n="33" ed="CPEB1774"/>
 			<div type="chorale">
-				<head type="title">Der ſieben und neunzigſte Pſalm.</head>
+				<head><title>Der ſieben und neunzigſte Pſalm.</title></head>
 				<lg>
-					<l><rs type="person" key="G0001">Jehova</rs> regieret: Es jauchze die Erde!</l>
-					<l>Ihr Inſeln, frohlockt, verherrlichet werde</l>
-					<l>Der Name <rs type="person" key="G0001">Gottes</rs> in der Welt!</l>
-					<l>Wolken ſind unter des Ewigen Füßen.</l>
-					<l>In undurchdringbarn Finſterniſsen</l>
-					<l>Steht ſein gefürchtetes Gezelt!</l>
+					<lb/><l><rs type="person" key="G0001">Jehova</rs> regieret: Es jauchze die Erde!</l>
+					<lb/><l>Ihr Inſeln, frohlockt, verherrlichet werde</l>
+					<lb/><l>Der Name <rs type="person" key="G0001">Gottes</rs> in der Welt!</l>
+					<lb/><l>Wolken ſind unter des Ewigen Füßen.</l>
+					<lb/><l>In undurchdringbarn Finſterniſsen</l>
+					<lb/><l>Steht ſein gefürchtetes Gezelt!</l>
 				</lg>
 				<lg>
-					<l>Gerecht iſt der Herrſcher, und Rach iſt die Stütze</l>
-					<l>Von ſeinem in Nacht verhülleten Sitze,</l>
-					<l>Den keine Wut erſchüttern kann.</l>
-					<l>Tötendes Feuer entflammet den Rächer,</l>
-					<l>Und zündet frevelnde Verbrecher,</l>
-					<l>Die Feinde ſeines Namens, an.</l>
+					<lb/><l>Gerecht iſt der Herrſcher, und Rach iſt die Stütze</l>
+					<lb/><l>Von ſeinem in Nacht verhülleten Sitze,</l>
+					<lb/><l>Den keine Wut erſchüttern kann.</l>
+					<lb/><l>Tötendes Feuer entflammet den Rächer,</l>
+					<lb/><l>Und zündet frevelnde Verbrecher,</l>
+					<lb/><l>Die Feinde ſeines Namens, an.</l>
 				</lg>
 				<lg>
-					<l>Die Blitze des <rs type="person" key="G0001">Richters</rs> durchſtrahlen die
+					<lb/><l>Die Blitze des <rs type="person" key="G0001">Richters</rs> durchſtrahlen die
 						Erde,</l>
-					<l>Da wanket der Kreis der zitternden Erde,</l>
-					<l>Die er mit ſeinem Finger hält.</l>
-					<l>Himmelbedräuende Berge zerfließen,</l>
-					<l>Wie Wachs, <rs type="person" key="G0001">Gott</rs>, unter deinen Füßen,</l>
-					<l>Vor dir, dem Könige der Welt.</l>
+					<lb/><l>Da wanket der Kreis der zitternden Erde,</l>
+					<lb/><l>Die er mit ſeinem Finger hält.</l>
+					<lb/><l>Himmelbedräuende Berge zerfließen,</l>
+					<lb/><l>Wie Wachs, <rs type="person" key="G0001">Gott</rs>, unter deinen Füßen,</l>
+					<lb/><l>Vor dir, dem Könige der Welt.</l>
 				</lg>
 				<lg>
-					<l>Er herrſchet gewaltig; die Welten erbeben</l>
-					<l>Und beten ihn an; die Himmel erheben</l>
-					<l>Den <rs type="person" key="G0001">Herrn</rs>, daſs er gerecht regiert.</l>
-					<l>Alle bewundernde Völker lobſingen,</l>
-					<l>Ihm Preis und Dank und Macht zu bringen,</l>
-					<l>Ihm, welchem alles Lob gebührt.</l>
+					<lb/><l>Er herrſchet gewaltig; die Welten erbeben</l>
+					<lb/><l>Und beten ihn an; die Himmel erheben</l>
+					<lb/><l>Den <rs type="person" key="G0001">Herrn</rs>, daſs er gerecht regiert.</l>
+					<lb/><l>Alle bewundernde Völker lobſingen,</l>
+					<lb/><l>Ihm Preis und Dank und Macht zu bringen,</l>
+					<lb/><l>Ihm, welchem alles Lob gebührt.</l>
 				</lg>
 				<lg>
-					<l>Schmach treffe den Bilderanbeter! Entſetzen</l>
-					<l>Ergreife den Knecht der nichtigen Götzen!</l>
-					<l>Mit Schande werd er angethan!</l>
-					<l>Bringet, o Engel, ihr himmliſchen Heere,</l>
-					<l>Ihr Götter unter <rs type="person" key="G0001">Gott</rs>, ihm Ehre,</l>
-					<l>Und betet den Beherrſcher an!</l>
+					<lb/><l>Schmach treffe den Bilderanbeter! Entſetzen</l>
+					<lb/><l>Ergreife den Knecht der nichtigen Götzen!</l>
+					<lb/><l>Mit Schande werd er angethan!</l>
+					<lb/><l>Bringet, o Engel, ihr himmliſchen Heere,</l>
+					<lb/><l>Ihr Götter unter <rs type="person" key="G0001">Gott</rs>, ihm Ehre,</l>
+					<lb/><l>Und betet den Beherrſcher an!</l>
 				</lg>
 				<lg>
-					<l><placeName>Jeruſalem</placeName> hört es, iſt Dank, iſt Entzücken.</l>
-					<l>Die Töcher <placeName>Judäa</placeName> freun ſich und ſchmücken</l>
-					<l>Zum Feſte deines Lobes ſich.</l>
-					<l><rs type="person" key="G0001">Höchſter</rs>, dich rühmen ſie, ihren
+					<lb/><l><placeName>Jeruſalem</placeName> hört es, iſt Dank, iſt Entzücken.</l>
+					<lb/><l>Die Töcher <placeName>Judäa</placeName> freun ſich und ſchmücken</l>
+					<lb/><l>Zum Feſte deines Lobes ſich.</l>
+					<lb/><l><rs type="person" key="G0001">Höchſter</rs>, dich rühmen ſie, ihren
 						Erretter;</l>
-					<l>Sie preiſen, o du <rs type="person" key="G0001">Gott der Götter</rs>,</l>
-					<l>O <rs type="person" key="G0001">Beſter der Beherrſcher</rs>, dich!</l>
+					<lb/><l>Sie preiſen, o du <rs type="person" key="G0001">Gott der Götter</rs>,</l>
+					<lb/><l>O <rs type="person" key="G0001">Beſter der Beherrſcher</rs>, dich!</l>
 				</lg>
 				<lg>
-					<l>Ihr, die ihr ihn liebet, haßt, was ihn beleidigt!</l>
-					<l>Die Frommen liebt <rs type="person" key="G0001">Gott</rs>, und mächtig
+					<lb/><l>Ihr, die ihr ihn liebet, haßt, was ihn beleidigt!</l>
+					<lb/><l>Die Frommen liebt <rs type="person" key="G0001">Gott</rs>, und mächtig
 						vertheidigt</l>
-					<l>Er den, der ſeinen Namen ehrt.</l>
-					<l>Theuer ſind vor ihm der Heiligen Seelen,</l>
-					<l>Der Frevler, der ſie wünſcht zu quälen,</l>
-					<l>Wird ſchnell durch ſeinen Zorn verzehrt.</l>
+					<lb/><l>Er den, der ſeinen Namen ehrt.</l>
+					<lb/><l>Theuer ſind vor ihm der Heiligen Seelen,</l>
+					<lb/><l>Der Frevler, der ſie wünſcht zu quälen,</l>
+					<lb/><l>Wird ſchnell durch ſeinen Zorn verzehrt.</l>
 				</lg>
 				<lg>
-					<l>Oft weinen die Frommen in ſchreckenden Nächten;</l>
-					<l>Doch plötzlich entfliehn ſie; ſeine Gerechten</l>
-					<l>Sehn Licht, und Freude wird ihr Theil.</l>
-					<l>Freut euch des Höchſten, ihr Frommen, und preiſet</l>
-					<l>Den <rs type="person" key="G0001">Herrn</rs>, der heilig ſich beweiſet;</l>
-					<l>Erhebt ihn! Dankt ihm für ſein Heil!</l>
+					<lb/><l>Oft weinen die Frommen in ſchreckenden Nächten;</l>
+					<lb/><l>Doch plötzlich entfliehn ſie; ſeine Gerechten</l>
+					<lb/><l>Sehn Licht, und Freude wird ihr Theil.</l>
+					<lb/><l>Freut euch des Höchſten, ihr Frommen, und preiſet</l>
+					<lb/><l>Den <rs type="person" key="G0001">Herrn</rs>, der heilig ſich beweiſet;</l>
+					<lb/><l>Erhebt ihn! Dankt ihm für ſein Heil!</l>
 				</lg>
 			</div>
 		</body>

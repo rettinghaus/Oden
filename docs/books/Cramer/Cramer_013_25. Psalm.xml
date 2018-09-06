@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -70,7 +70,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -182,141 +181,141 @@
 		<body>
 			<pb n="13" ed="CPEB1774"/>
 			<div type="chorale">
-				<head type="title">Der fünf und zwanzigſte Pſalm.</head>
+				<head><title>Der fünf und zwanzigſte Pſalm.</title></head>
 				<lg>
-					<l><rs type="person" key="G0001">Herr</rs>, mein einziges Verlangen,</l>
-					<l><rs type="person" key="G0001">Gott</rs>, zu dir erheb ich mich!</l>
-					<l>Ich vertraue nur auf dich!</l>
-					<l>Laß mich keine Schmach umfangen!</l>
-					<l>Damit nicht mein ſtolzer Feind,</l>
-					<l>Wenn mir keine Hülf erſcheint,</l>
-					<l>Jauchze, daß ſein Frevel ſiege.</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, mein einziges Verlangen,</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, zu dir erheb ich mich!</l>
+					<lb/><l>Ich vertraue nur auf dich!</l>
+					<lb/><l>Laß mich keine Schmach umfangen!</l>
+					<lb/><l>Damit nicht mein ſtolzer Feind,</l>
+					<lb/><l>Wenn mir keine Hülf erſcheint,</l>
+					<lb/><l>Jauchze, daß ſein Frevel ſiege.</l>
 				</lg>
 				<lg>
-					<l>Keiner wird ſich ſchämen dürfen,</l>
-					<l>Welcher dich zum Schilde nimmt,</l>
-					<l>Wenn ihn auch die Feind ergrimmt</l>
-					<l>Tage lang danieder würfen.</l>
-					<l>Aber Schande fällt auf den,</l>
-					<l>Welcher, Fromme zu verſchmähn,</l>
-					<l>Ohne Furcht vor <rs type="person" key="G0001">Gott</rs> ſich waget.</l>
+					<lb/><l>Keiner wird ſich ſchämen dürfen,</l>
+					<lb/><l>Welcher dich zum Schilde nimmt,</l>
+					<lb/><l>Wenn ihn auch die Feind ergrimmt</l>
+					<lb/><l>Tage lang danieder würfen.</l>
+					<lb/><l>Aber Schande fällt auf den,</l>
+					<lb/><l>Welcher, Fromme zu verſchmähn,</l>
+					<lb/><l>Ohne Furcht vor <rs type="person" key="G0001">Gott</rs> ſich waget.</l>
 				</lg>
 				<lg>
-					<l>Zeige du mir deine Wege!</l>
-					<l>Bringe ſelbſt durch deinen Rath</l>
-					<l>Mich auf deinen ſichern Pfad,</l>
-					<l>Daß ich heilig wandeln möge!</l>
-					<l>Leicht verirret ſich mein Fuß,</l>
-					<l>Wenn ich Wege wandeln muß,</l>
-					<l>Die ich, mir gelaſsen, wähle.</l>
+					<lb/><l>Zeige du mir deine Wege!</l>
+					<lb/><l>Bringe ſelbſt durch deinen Rath</l>
+					<lb/><l>Mich auf deinen ſichern Pfad,</l>
+					<lb/><l>Daß ich heilig wandeln möge!</l>
+					<lb/><l>Leicht verirret ſich mein Fuß,</l>
+					<lb/><l>Wenn ich Wege wandeln muß,</l>
+					<lb/><l>Die ich, mir gelaſsen, wähle.</l>
 				</lg>
 				<lg>
-					<l>Führe mich nach deinem Willen!</l>
-					<l>Laß mich deine Wahrheit ſehn!</l>
-					<l>Dankbar will ich dich erhöhn,</l>
-					<l>Freudig dein Gebot erfüllen.</l>
-					<l><rs type="person" key="G0001">Gott</rs>, du hilfſt mir! Du biſt mein!</l>
-					<l>Täglich, täglich harr ich dein,</l>
-					<l>Daß du Hülfe ſenden werdeſt.</l>
+					<lb/><l>Führe mich nach deinem Willen!</l>
+					<lb/><l>Laß mich deine Wahrheit ſehn!</l>
+					<lb/><l>Dankbar will ich dich erhöhn,</l>
+					<lb/><l>Freudig dein Gebot erfüllen.</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, du hilfſt mir! Du biſt mein!</l>
+					<lb/><l>Täglich, täglich harr ich dein,</l>
+					<lb/><l>Daß du Hülfe ſenden werdeſt.</l>
 				</lg>
 				<lg>
-					<l>Habe Mitleid mit mir Armen!</l>
-					<l>Eh dein Weltgebäu noch ſtand,</l>
-					<l><rs type="person" key="G0001">Vater, Vater</rs>, da empfand</l>
-					<l>Schon dein Herz für mich Erbarmen.</l>
-					<l>Ach, gedenk an deine Huld</l>
-					<l>Und vergieb, vergiß die Schuld</l>
-					<l>Der Verbrechen meiner Jugend!</l>
+					<lb/><l>Habe Mitleid mit mir Armen!</l>
+					<lb/><l>Eh dein Weltgebäu noch ſtand,</l>
+					<lb/><l><rs type="person" key="G0001">Vater, Vater</rs>, da empfand</l>
+					<lb/><l>Schon dein Herz für mich Erbarmen.</l>
+					<lb/><l>Ach, gedenk an deine Huld</l>
+					<lb/><l>Und vergieb, vergiß die Schuld</l>
+					<lb/><l>Der Verbrechen meiner Jugend!</l>
 				</lg>
 				<lg>
-					<l>Ich bereue meine Sünde,</l>
-					<l>Die ich wider dich gethan.</l>
-					<l><rs type="person" key="G0001">Gott</rs>, gedenke nicht daran,</l>
-					<l>Daß ſich nicht dein Zorn entzünde!</l>
-					<l>Als Erbarmer denke mein!</l>
-					<l>Laß mich deine Huld erfreun,</l>
-					<l>Herr, um deiner Güte willen!</l>
+					<lb/><l>Ich bereue meine Sünde,</l>
+					<lb/><l>Die ich wider dich gethan.</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, gedenke nicht daran,</l>
+					<lb/><l>Daß ſich nicht dein Zorn entzünde!</l>
+					<lb/><l>Als Erbarmer denke mein!</l>
+					<lb/><l>Laß mich deine Huld erfreun,</l>
+					<lb/><l>Herr, um deiner Güte willen!</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Gott</rs> iſt gütig und vollkommen!</l>
-					<l>Darum führet ſeine Huld</l>
-					<l>Irre Sünder, voll Geduld,</l>
-					<l>Auf die Wege ſeiner Frommen.</l>
-					<l>Und er unterweiſt ſie früh,</l>
-					<l>Noch im Leben, ehe ſie</l>
-					<l>Blind in ihren Abgrund ſtürzen.</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> iſt gütig und vollkommen!</l>
+					<lb/><l>Darum führet ſeine Huld</l>
+					<lb/><l>Irre Sünder, voll Geduld,</l>
+					<lb/><l>Auf die Wege ſeiner Frommen.</l>
+					<lb/><l>Und er unterweiſt ſie früh,</l>
+					<lb/><l>Noch im Leben, ehe ſie</l>
+					<lb/><l>Blind in ihren Abgrund ſtürzen.</l>
 				</lg>
 				<lg>
-					<l>Arme, die vor ihm ſich beugen,</l>
-					<l>Führt er, und ſie ſtraucheln nicht.</l>
-					<l>Frommen Armen ſtralt ſein Licht,</l>
-					<l>Ihnen ſeinen Weg zu zeigen.</l>
-					<l>Güt und Wahrheit iſt ſein Pfad,</l>
-					<l>Dem, der ſich geheiligt hat,</l>
-					<l><rs type="person" key="G0001">Gottes</rs> Bund und Recht zu halten.</l>
+					<lb/><l>Arme, die vor ihm ſich beugen,</l>
+					<lb/><l>Führt er, und ſie ſtraucheln nicht.</l>
+					<lb/><l>Frommen Armen ſtralt ſein Licht,</l>
+					<lb/><l>Ihnen ſeinen Weg zu zeigen.</l>
+					<lb/><l>Güt und Wahrheit iſt ſein Pfad,</l>
+					<lb/><l>Dem, der ſich geheiligt hat,</l>
+					<lb/><l><rs type="person" key="G0001">Gottes</rs> Bund und Recht zu halten.</l>
 				</lg>
 				<lg>
-					<l>Ach um deiner Güte willen</l>
-					<l>Wolleſt du mir, <rs type="person" key="G0001">Herr</rs>, verzeihn,</l>
-					<l>Wolleſt du mir gnädig ſeyn,</l>
-					<l>Und mich nun mit Troſt erfüllen!</l>
-					<l>Groß iſt meine Miſsethat,</l>
-					<l>Welche dich beleidigt hat;</l>
-					<l>Größer noch iſt deine Güte.</l>
+					<lb/><l>Ach um deiner Güte willen</l>
+					<lb/><l>Wolleſt du mir, <rs type="person" key="G0001">Herr</rs>, verzeihn,</l>
+					<lb/><l>Wolleſt du mir gnädig ſeyn,</l>
+					<lb/><l>Und mich nun mit Troſt erfüllen!</l>
+					<lb/><l>Groß iſt meine Miſsethat,</l>
+					<lb/><l>Welche dich beleidigt hat;</l>
+					<lb/><l>Größer noch iſt deine Güte.</l>
 				</lg>
 				<lg>
-					<l>Wer iſt willig, <rs type="person" key="G0001">Gott</rs> zu ehren?</l>
-					<l>Seelig, ſeelig iſt der Mann;</l>
-					<l>Denn <rs type="person" key="G0001">Gott</rs> nimmt ſich ſeiner an,</l>
-					<l>Ihn den beſten Weg zu lehren.</l>
-					<l>Welch ein Glück wird ihn erfreun!</l>
-					<l>Welche süße Ruh iſt ſein,</l>
-					<l>Ewig iſt des Frommen Freude!</l>
+					<lb/><l>Wer iſt willig, <rs type="person" key="G0001">Gott</rs> zu ehren?</l>
+					<lb/><l>Seelig, ſeelig iſt der Mann;</l>
+					<lb/><l>Denn <rs type="person" key="G0001">Gott</rs> nimmt ſich ſeiner an,</l>
+					<lb/><l>Ihn den beſten Weg zu lehren.</l>
+					<lb/><l>Welch ein Glück wird ihn erfreun!</l>
+					<lb/><l>Welche süße Ruh iſt ſein,</l>
+					<lb/><l>Ewig iſt des Frommen Freude!</l>
 				</lg>
 				<lg>
-					<l>Seinen Saamen wird <rs type="person" key="G0001">Gott</rs> ſchützen;</l>
-					<l>Unter ſeiner ſtarken Hand</l>
-					<l>Wird er das verheißne Land</l>
-					<l>Ewig ungeſtört beſitzen.</l>
-					<l>Fromme ſchützt ſein weiſer Rath;</l>
-					<l>Dem, der ihn vor Augen hat,</l>
-					<l>Hält er ewig Bund und Treue.</l>
+					<lb/><l>Seinen Saamen wird <rs type="person" key="G0001">Gott</rs> ſchützen;</l>
+					<lb/><l>Unter ſeiner ſtarken Hand</l>
+					<lb/><l>Wird er das verheißne Land</l>
+					<lb/><l>Ewig ungeſtört beſitzen.</l>
+					<lb/><l>Fromme ſchützt ſein weiſer Rath;</l>
+					<lb/><l>Dem, der ihn vor Augen hat,</l>
+					<lb/><l>Hält er ewig Bund und Treue.</l>
 				</lg>
 				<lg>
-					<l>Immer heb ich meine Blicke</l>
-					<l>Hin zu <rs type="person" key="G0001">Gott</rs>; denn er entreißt</l>
-					<l>Aus den Leiden meinen Geiſt,</l>
-					<l>Meinen Fuß aus jedem Stricke.</l>
-					<l>Wende gnädig dich zu mir!</l>
-					<l>Ich erwarte Schutz von dir,</l>
-					<l>Denn ich bin allein und elend.</l>
+					<lb/><l>Immer heb ich meine Blicke</l>
+					<lb/><l>Hin zu <rs type="person" key="G0001">Gott</rs>; denn er entreißt</l>
+					<lb/><l>Aus den Leiden meinen Geiſt,</l>
+					<lb/><l>Meinen Fuß aus jedem Stricke.</l>
+					<lb/><l>Wende gnädig dich zu mir!</l>
+					<lb/><l>Ich erwarte Schutz von dir,</l>
+					<lb/><l>Denn ich bin allein und elend.</l>
 				</lg>
 				<lg>
-					<l>Groß ſind die Beängſtigungen</l>
-					<l>Meiner Seele! <rs type="person" key="G0001">Gott</rs>, wie groß!</l>
-					<l>Reiß mich aus den Banden los,</l>
-					<l>Welche meine Seel umſchlungen!</l>
-					<l>Schaue her auf meine Laſt!</l>
-					<l>Hilf mir! Ich erliege faſt!</l>
-					<l>Tilge jede meiner Sünden!</l>
+					<lb/><l>Groß ſind die Beängſtigungen</l>
+					<lb/><l>Meiner Seele! <rs type="person" key="G0001">Gott</rs>, wie groß!</l>
+					<lb/><l>Reiß mich aus den Banden los,</l>
+					<lb/><l>Welche meine Seel umſchlungen!</l>
+					<lb/><l>Schaue her auf meine Laſt!</l>
+					<lb/><l>Hilf mir! Ich erliege faſt!</l>
+					<lb/><l>Tilge jede meiner Sünden!</l>
 				</lg>
 				<lg>
-					<l>Schaue doch, wie viele Mengen</l>
-					<l>Meiner Widerſacher ſind;</l>
-					<l>Wie ſie, <rs type="person" key="G0001">Vater</rs>, mich, dein Kind,</l>
-					<l>Haſsen und tyranniſch drängen!</l>
-					<l>Rette mich! Ich bin zu ſchwach!</l>
-					<l>Hilf mir! Reiß mich aus der Schmach:</l>
-					<l>Denn du haſt mein ganz Vertrauen!</l>
+					<lb/><l>Schaue doch, wie viele Mengen</l>
+					<lb/><l>Meiner Widerſacher ſind;</l>
+					<lb/><l>Wie ſie, <rs type="person" key="G0001">Vater</rs>, mich, dein Kind,</l>
+					<lb/><l>Haſsen und tyranniſch drängen!</l>
+					<lb/><l>Rette mich! Ich bin zu ſchwach!</l>
+					<lb/><l>Hilf mir! Reiß mich aus der Schmach:</l>
+					<lb/><l>Denn du haſt mein ganz Vertrauen!</l>
 				</lg>
 				<lg>
-					<l>Deine Güte, <rs type="person" key="G0001">Herr</rs>, erfreue,</l>
-					<l><rs type="person" key="G0001">Gott</rs>, dein Heil beglücke mich;</l>
-					<l>Denn ich hoffe feſt auf dich,</l>
-					<l>Und vertraue deiner Treue!</l>
-					<l>Eile, <rs type="person" key="G0001">Gott</rs>, erſcheine bald,</l>
-					<l><placeName>Iſrael</placeName> aus der Gewalt</l>
-					<l>Aller ſeiner Angſt zu reißen!</l>
+					<lb/><l>Deine Güte, <rs type="person" key="G0001">Herr</rs>, erfreue,</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, dein Heil beglücke mich;</l>
+					<lb/><l>Denn ich hoffe feſt auf dich,</l>
+					<lb/><l>Und vertraue deiner Treue!</l>
+					<lb/><l>Eile, <rs type="person" key="G0001">Gott</rs>, erſcheine bald,</l>
+					<lb/><l><placeName>Iſrael</placeName> aus der Gewalt</l>
+					<lb/><l>Aller ſeiner Angſt zu reißen!</l>
 				</lg>
 			</div>
 		</body>

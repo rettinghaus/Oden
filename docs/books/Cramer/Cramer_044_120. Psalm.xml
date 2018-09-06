@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -70,7 +70,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -182,54 +181,54 @@
 		<body>
 			<pb n="44" ed="CPEB1774"/>
 			<div type="chorale">
-				<head type="title">Der hundert und ein und zwanzigſte Pſalm.</head>
+				<head><title>Der hundert und ein und zwanzigſte Pſalm.</title></head>
 				<lg>
-					<l>Sieh, mein Auge, nach den Bergen</l>
-					<l><placeName>Zions</placeName> unverwandt hinauf!</l>
-					<l>Denn auf den geliebten Bergen</l>
-					<l>Geht mein Heil mir auf.</l>
+					<lb/><l>Sieh, mein Auge, nach den Bergen</l>
+					<lb/><l><placeName>Zions</placeName> unverwandt hinauf!</l>
+					<lb/><l>Denn auf den geliebten Bergen</l>
+					<lb/><l>Geht mein Heil mir auf.</l>
 				</lg>
 				<lg>
-					<l>Mir, wenn ich geängſtigt werde,</l>
-					<l>Hilft <rs type="person" key="G0001">Jehova Zebaoth</rs>,</l>
-					<l>Der dem Himmel und der Erde</l>
-					<l>Zu entſtehn gebot.</l>
+					<lb/><l>Mir, wenn ich geängſtigt werde,</l>
+					<lb/><l>Hilft <rs type="person" key="G0001">Jehova Zebaoth</rs>,</l>
+					<lb/><l>Der dem Himmel und der Erde</l>
+					<lb/><l>Zu entſtehn gebot.</l>
 				</lg>
 				<lg>
-					<l>Er läßt deinen Fuß nicht gleiten,</l>
-					<l>Auch nicht in der Finſterniß.</l>
-					<l>Wenn dich <rs type="person" key="G0001">Gottes</rs> Augen leiten,</l>
-					<l>Wandelſt du gewiß.</l>
+					<lb/><l>Er läßt deinen Fuß nicht gleiten,</l>
+					<lb/><l>Auch nicht in der Finſterniß.</l>
+					<lb/><l>Wenn dich <rs type="person" key="G0001">Gottes</rs> Augen leiten,</l>
+					<lb/><l>Wandelſt du gewiß.</l>
 				</lg>
 				<lg>
-					<l>Siehe der, der dich behütet,</l>
-					<l>Wachet, und entſchlummert nie,</l>
-					<l>Der, der <placeName>Iſrael</placeName> behütet,</l>
-					<l>Schläft und ſchlummert nie.</l>
+					<lb/><l>Siehe der, der dich behütet,</l>
+					<lb/><l>Wachet, und entſchlummert nie,</l>
+					<lb/><l>Der, der <placeName>Iſrael</placeName> behütet,</l>
+					<lb/><l>Schläft und ſchlummert nie.</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Gott</rs> beſchirmt dich; ſeinen Knechten</l>
-					<l>Iſt kein Uebel fürchterlich.</l>
-					<l>Er iſt ſelbſt zu deiner Rechten</l>
-					<l>Und beſchattet dich.</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> beſchirmt dich; ſeinen Knechten</l>
+					<lb/><l>Iſt kein Uebel fürchterlich.</l>
+					<lb/><l>Er iſt ſelbſt zu deiner Rechten</l>
+					<lb/><l>Und beſchattet dich.</l>
 				</lg>
 				<lg>
-					<l>Er bewahrt mit ſeiner Gnade</l>
-					<l>Dich, daß keines Übels Macht,</l>
-					<l>Nicht der Sonne Glut dir ſchade,</l>
-					<l>Nicht der Mond bey Nacht.</l>
+					<lb/><l>Er bewahrt mit ſeiner Gnade</l>
+					<lb/><l>Dich, daß keines Übels Macht,</l>
+					<lb/><l>Nicht der Sonne Glut dir ſchade,</l>
+					<lb/><l>Nicht der Mond bey Nacht.</l>
 				</lg>
 				<lg>
-					<l>Er umfah dich! Nimmer fehle</l>
-					<l>Dir zur Zeit der Angſt ſein Schutz!</l>
-					<l>Er behüte deine Seele;</l>
-					<l>Sey dein Schirm und Trutz!</l>
+					<lb/><l>Er umfah dich! Nimmer fehle</l>
+					<lb/><l>Dir zur Zeit der Angſt ſein Schutz!</l>
+					<lb/><l>Er behüte deine Seele;</l>
+					<lb/><l>Sey dein Schirm und Trutz!</l>
 				</lg>
 				<lg>
-					<l>Wo du hingehſt, da begegne</l>
-					<l>Dir <rs type="person" key="G0001">Jehova Zebaoth</rs>!</l>
-					<l>Ewig leite dich und ſegne</l>
-					<l>Deinen Eingang <rs type="person" key="G0001">Gotty</rs>! </l>
+					<lb/><l>Wo du hingehſt, da begegne</l>
+					<lb/><l>Dir <rs type="person" key="G0001">Jehova Zebaoth</rs>!</l>
+					<lb/><l>Ewig leite dich und ſegne</l>
+					<lb/><l>Deinen Eingang <rs type="person" key="G0001">Gotty</rs>! </l>
 				</lg>
 			</div>
 		</body>

@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -70,7 +70,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -182,65 +181,65 @@
 		<body>
 			<pb n="34" ed="CPEB1774"/>
 			<div type="chorale">
-				<head type="title">Der neun und neunzigſte Pſalm.</head>
+				<head><title>Der neun und neunzigſte Pſalm.</title></head>
 				<lg>
-					<l>Der <rs type="person" key="G0001">Herr</rs> regiert; die Völker zittern;</l>
-					<l>Sein Wagen iſt in Ungewittern;</l>
-					<l>Die Welten beben, die ihn ſehn.</l>
-					<l>Denn er iſt groß auf <placeName>Zions</placeName> Höhn,</l>
-					<l>Erhaben über alle Völker.</l>
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> regiert; die Völker zittern;</l>
+					<lb/><l>Sein Wagen iſt in Ungewittern;</l>
+					<lb/><l>Die Welten beben, die ihn ſehn.</l>
+					<lb/><l>Denn er iſt groß auf <placeName>Zions</placeName> Höhn,</l>
+					<lb/><l>Erhaben über alle Völker.</l>
 				</lg>
 				<lg>
-					<l>Erhebt ihn, rühmt ihn, o ihr Frommen;</l>
-					<l>Sein Nam iſt heilig und vollkommen;</l>
-					<l>Im Reiche dieſes Königs liebt</l>
-					<l>Der Unterthan das Recht, und übt</l>
-					<l>Mit Freuden ſich, ihm zu gehorchen.</l>
+					<lb/><l>Erhebt ihn, rühmt ihn, o ihr Frommen;</l>
+					<lb/><l>Sein Nam iſt heilig und vollkommen;</l>
+					<lb/><l>Im Reiche dieſes Königs liebt</l>
+					<lb/><l>Der Unterthan das Recht, und übt</l>
+					<lb/><l>Mit Freuden ſich, ihm zu gehorchen.</l>
 				</lg>
 				<lg>
-					<l>Kommt, fallt zu ſeinen Füßen nieder,</l>
-					<l>Und betet an, und ſingt ihm Lieder!</l>
-					<l>Es tön ihm unſer Lobgeſang,</l>
-					<l>Der Harfen feierlicher Dank;</l>
-					<l>Denn unſer <rs type="person" key="G0001">Gott</rs>, der <rs type="person"
+					<lb/><l>Kommt, fallt zu ſeinen Füßen nieder,</l>
+					<lb/><l>Und betet an, und ſingt ihm Lieder!</l>
+					<lb/><l>Es tön ihm unſer Lobgeſang,</l>
+					<lb/><l>Der Harfen feierlicher Dank;</l>
+					<lb/><l>Denn unſer <rs type="person" key="G0001">Gott</rs>, der <rs type="person"
 							key="G0001">Herr</rs>, iſt heilig.</l>
 				</lg>
 				<lg>
-					<l>Aus <rs type="person" key="L0001">Levis</rs> prieſterlichem Saamen</l>
-					<l>Verklärte <rs type="person" key="M0002">Moſes</rs> ſeinen Namen,</l>
-					<l>Und <rs type="person" key="A0001">Aron</rs> lehrt' und <rs type="person"
+					<lb/><l>Aus <rs type="person" key="L0001">Levis</rs> prieſterlichem Saamen</l>
+					<lb/><l>Verklärte <rs type="person" key="M0002">Moſes</rs> ſeinen Namen,</l>
+					<lb/><l>Und <rs type="person" key="A0001">Aron</rs> lehrt' und <rs type="person"
 							key="S0001">Samuel</rs></l>
-					<l>Dich <rs type="person" key="G0001">Gottes</rs> Recht, o
+					<lb/><l>Dich <rs type="person" key="G0001">Gottes</rs> Recht, o
 							<placeName>Iſrael</placeName>,</l>
-					<l>Und dienten ihm in ſeiner Hütte.</l>
+					<lb/><l>Und dienten ihm in ſeiner Hütte.</l>
 				</lg>
 				<lg>
-					<l>Wenn ſie, belagert von Gefahren,</l>
-					<l>Verlaſsen, hülflos, angſtvoll waren,</l>
-					<l>Da ſeufzten ſie zu <rs type="person" key="G0001">Gott</rs> empor,</l>
-					<l>Und ihr Gebet vernahm ſein Ohr,</l>
-					<l>Und ihre Bitte ward erfüllet.</l>
+					<lb/><l>Wenn ſie, belagert von Gefahren,</l>
+					<lb/><l>Verlaſsen, hülflos, angſtvoll waren,</l>
+					<lb/><l>Da ſeufzten ſie zu <rs type="person" key="G0001">Gott</rs> empor,</l>
+					<lb/><l>Und ihr Gebet vernahm ſein Ohr,</l>
+					<lb/><l>Und ihre Bitte ward erfüllet.</l>
 				</lg>
 				<lg>
-					<l>Er ſprach durch eine Wolkensäule</l>
-					<l>Mit ihnen oft von ſeinem Heile;</l>
-					<l>Er lehrte ſeine Rechte ſie,</l>
-					<l>Und ſeine Knechte wichen nie</l>
-					<l>Mit Vorſatz aus der Bahn des Rechtes.</l>
+					<lb/><l>Er ſprach durch eine Wolkensäule</l>
+					<lb/><l>Mit ihnen oft von ſeinem Heile;</l>
+					<lb/><l>Er lehrte ſeine Rechte ſie,</l>
+					<lb/><l>Und ſeine Knechte wichen nie</l>
+					<lb/><l>Mit Vorſatz aus der Bahn des Rechtes.</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Herr</rs>, du erhörteſt ihre Bitten;</l>
-					<l>Wenn einmal ihre Füße glitten,</l>
-					<l>Beſtrafteſt du, was ſie gethan;</l>
-					<l>Doch nahmſt du ihre Reu auch an,</l>
-					<l>Vergabſt und ſeegneteſt ſie wieder.</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, du erhörteſt ihre Bitten;</l>
+					<lb/><l>Wenn einmal ihre Füße glitten,</l>
+					<lb/><l>Beſtrafteſt du, was ſie gethan;</l>
+					<lb/><l>Doch nahmſt du ihre Reu auch an,</l>
+					<lb/><l>Vergabſt und ſeegneteſt ſie wieder.</l>
 				</lg>
 				<lg>
-					<l>Singt, ſingt von unſers <rs type="person" key="G0001">Gottes</rs> Ruhme,</l>
-					<l>Verehret ihn im Heiligthume!</l>
-					<l>Mit Ehrfurcht laßt zu <rs type="person" key="G0001">Gott</rs> uns nahn;</l>
-					<l>Zu <placeName>Zion</placeName> betet vor ihm an;</l>
-					<l>Denn unſer <rs type="person" key="G0001">Gott</rs>, der <rs type="person"
+					<lb/><l>Singt, ſingt von unſers <rs type="person" key="G0001">Gottes</rs> Ruhme,</l>
+					<lb/><l>Verehret ihn im Heiligthume!</l>
+					<lb/><l>Mit Ehrfurcht laßt zu <rs type="person" key="G0001">Gott</rs> uns nahn;</l>
+					<lb/><l>Zu <placeName>Zion</placeName> betet vor ihm an;</l>
+					<lb/><l>Denn unſer <rs type="person" key="G0001">Gott</rs>, der <rs type="person"
 							key="G0001">Herr</rs>, iſt heilig!</l>
 				</lg>
 			</div>

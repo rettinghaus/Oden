@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -70,7 +70,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -182,49 +181,49 @@
 		<body>
 			<pb n="30" ed="CPEB1774"/>
 			<div type="chorale">
-				<head type="title">Der drey und neunzigſte Pſalm.</head>
+				<head><title>Der drey und neunzigſte Pſalm.</title></head>
 				<pb n="31" ed="CPEB1774"/>
 				<lg>
-					<l><rs type="person" key="G0001">Jehova</rs> herrſcht, ein König über alle,</l>
-					<l>Geſchmücket mit Majeſtät und Pracht.</l>
-					<l>Damit ſein Name die Welten durchſchalle,</l>
-					<l>Bewaffnet ſich der <rs type="person" key="G0001">Herr</rs> mit Macht.</l>
-					<l>Der Herrſcher, umgürtet mit Hoheit und Stärke,</l>
-					<l>Hat große herrliche Wunder gethan.</l>
-					<l>Er baute die Welten, gewaltige Werke,</l>
-					<l>Davon nicht eins erſchüttert werden kann.</l>
+					<lb/><l><rs type="person" key="G0001">Jehova</rs> herrſcht, ein König über alle,</l>
+					<lb/><l>Geſchmücket mit Majeſtät und Pracht.</l>
+					<lb/><l>Damit ſein Name die Welten durchſchalle,</l>
+					<lb/><l>Bewaffnet ſich der <rs type="person" key="G0001">Herr</rs> mit Macht.</l>
+					<lb/><l>Der Herrſcher, umgürtet mit Hoheit und Stärke,</l>
+					<lb/><l>Hat große herrliche Wunder gethan.</l>
+					<lb/><l>Er baute die Welten, gewaltige Werke,</l>
+					<lb/><l>Davon nicht eins erſchüttert werden kann.</l>
 				</lg>
 				<lg>
-					<l>Feſt ſteht dein Stuhl ſeit deinen Ewigkeiten;</l>
-					<l><rs type="person" key="G0001">Herr</rs>, die Unendlichkeit iſt dein!</l>
-					<l><rs type="person" key="G0001">Herr</rs>, du biſt ewig, unnennbare Zeiten</l>
-					<l>Sind keine Grenzen für dein Seyn.</l>
-					<l>Die Fluten erheben ſich, ſchäumen und ſchwellen</l>
-					<l>Aus aufgewiegelten Strömen hervor,</l>
-					<l>Sie brauſen und toben und werfen die Wellen</l>
-					<l>Aus ihrer Flut wie hohe Berg empor.</l>
+					<lb/><l>Feſt ſteht dein Stuhl ſeit deinen Ewigkeiten;</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, die Unendlichkeit iſt dein!</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, du biſt ewig, unnennbare Zeiten</l>
+					<lb/><l>Sind keine Grenzen für dein Seyn.</l>
+					<lb/><l>Die Fluten erheben ſich, ſchäumen und ſchwellen</l>
+					<lb/><l>Aus aufgewiegelten Strömen hervor,</l>
+					<lb/><l>Sie brauſen und toben und werfen die Wellen</l>
+					<lb/><l>Aus ihrer Flut wie hohe Berg empor.</l>
 				</lg>
 				<lg>
-					<l>Das Weltmeer tobt; vor ſeinem Grimme</l>
-					<l>Entſetzen Erd und Himmel ſich;</l>
-					<l>Und ſeiner Wogen gewaltige Stimme</l>
-					<l>Brauſt aus den Tiefen fürchterlich.</l>
-					<l>Gefürchteter aber, als alles Getümmel</l>
-					<l>Der lauten Fluten, der brauſenden See,</l>
-					<l>Gefürchteter iſt der Erſchaffer im Himmel,</l>
-					<l>Der <rs type="person" key="G0001">Gott</rs> des Meers, der Herrſcher in der
+					<lb/><l>Das Weltmeer tobt; vor ſeinem Grimme</l>
+					<lb/><l>Entſetzen Erd und Himmel ſich;</l>
+					<lb/><l>Und ſeiner Wogen gewaltige Stimme</l>
+					<lb/><l>Brauſt aus den Tiefen fürchterlich.</l>
+					<lb/><l>Gefürchteter aber, als alles Getümmel</l>
+					<lb/><l>Der lauten Fluten, der brauſenden See,</l>
+					<lb/><l>Gefürchteter iſt der Erſchaffer im Himmel,</l>
+					<lb/><l>Der <rs type="person" key="G0001">Gott</rs> des Meers, der Herrſcher in der
 						Höh.</l>
 				</lg>
 				<lg>
-					<l>Gewiß iſt, <rs type="person" key="G0001">Gott</rs>, was dein Wort
+					<lb/><l>Gewiß iſt, <rs type="person" key="G0001">Gott</rs>, was dein Wort
 						offenbaret,</l>
-					<l>Und Wahrheit, was dein Mund verſpricht;</l>
-					<l>Wer deine Zeugniſse heilig bewahret,</l>
-					<l>Der irrt in ſeinem Gange nicht.</l>
-					<l>Dein Stuhl iſt der Himmel, auf welchem du throneſt;</l>
-					<l>Doch auch auf Erden erbauſt du dein Haus,</l>
-					<l>Und ſchmückeſt den Tempel, worinnen du wohneſt,</l>
-					<l>Mit Heiligkeit, die ewig währet, aus.</l>
+					<lb/><l>Und Wahrheit, was dein Mund verſpricht;</l>
+					<lb/><l>Wer deine Zeugniſse heilig bewahret,</l>
+					<lb/><l>Der irrt in ſeinem Gange nicht.</l>
+					<lb/><l>Dein Stuhl iſt der Himmel, auf welchem du throneſt;</l>
+					<lb/><l>Doch auch auf Erden erbauſt du dein Haus,</l>
+					<lb/><l>Und ſchmückeſt den Tempel, worinnen du wohneſt,</l>
+					<lb/><l>Mit Heiligkeit, die ewig währet, aus.</l>
 				</lg>
 			</div>
 		</body>

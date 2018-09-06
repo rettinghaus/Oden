@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -70,7 +70,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -182,50 +181,50 @@
 		<body>
 			<pb n="45" ed="CPEB1774"/>
 			<div type="chorale">
-				<head type="title">Der hundert und acht und zwanzigſte Pſalm.</head>
+				<head><title>Der hundert und acht und zwanzigſte Pſalm.</title></head>
 				<lg>
-					<l>Die Gnade <rs type="person" key="G0001">Gottes</rs> ſey mit allen,</l>
-					<l>Die willig ſeine Pfade wallen;</l>
-					<l>Mit allen, die voll Freudigkeit</l>
-					<l>Erfüllen, was ſein Wort gebeut!</l>
+					<lb/><l>Die Gnade <rs type="person" key="G0001">Gottes</rs> ſey mit allen,</l>
+					<lb/><l>Die willig ſeine Pfade wallen;</l>
+					<lb/><l>Mit allen, die voll Freudigkeit</l>
+					<lb/><l>Erfüllen, was ſein Wort gebeut!</l>
 				</lg>
 				<lg>
-					<l>O du, der du den <rs type="person" key="G0001">Herrn</rs> verehreſt,</l>
-					<l>Mit deiner Hände Fleiße nähreſt</l>
-					<l>Du dich, dein Haus; und Luſt und Heil</l>
-					<l>Wird, Frommer, deiner Tugend Theil.</l>
+					<lb/><l>O du, der du den <rs type="person" key="G0001">Herrn</rs> verehreſt,</l>
+					<lb/><l>Mit deiner Hände Fleiße nähreſt</l>
+					<lb/><l>Du dich, dein Haus; und Luſt und Heil</l>
+					<lb/><l>Wird, Frommer, deiner Tugend Theil.</l>
 				</lg>
 				<lg>
-					<l>In Sonnenglanze ſtrahlt dein Leben;</l>
-					<l>Dein Weib, ein Weinſtock voller Reben,</l>
-					<l>Grünt dir und breitet um dein Haus</l>
-					<l>Umher viel edle Ranken aus.</l>
+					<lb/><l>In Sonnenglanze ſtrahlt dein Leben;</l>
+					<lb/><l>Dein Weib, ein Weinſtock voller Reben,</l>
+					<lb/><l>Grünt dir und breitet um dein Haus</l>
+					<lb/><l>Umher viel edle Ranken aus.</l>
 				</lg>
 				<lg>
-					<l>Die Kinder, welche dich umtanzen,</l>
-					<l>Erheben ſich, wie Palmenpflanzen.</l>
-					<l>Wie grün, wie Blättervoll und friſch</l>
-					<l>Umſchatten ſie nicht deinen Tiſch!</l>
+					<lb/><l>Die Kinder, welche dich umtanzen,</l>
+					<lb/><l>Erheben ſich, wie Palmenpflanzen.</l>
+					<lb/><l>Wie grün, wie Blättervoll und friſch</l>
+					<lb/><l>Umſchatten ſie nicht deinen Tiſch!</l>
 				</lg>
 				<lg>
-					<l>Sieh, alſo wird von <rs type="person" key="G0001">Gottes</rs> Segen</l>
-					<l>Der Mann beglückt, der auf den Wegen</l>
-					<l>Der Furcht des <rs type="person" key="G0001">Herrn</rs> mit Luſt und Muth</l>
-					<l>Einhergeht und kein Uebels thut!</l>
+					<lb/><l>Sieh, alſo wird von <rs type="person" key="G0001">Gottes</rs> Segen</l>
+					<lb/><l>Der Mann beglückt, der auf den Wegen</l>
+					<lb/><l>Der Furcht des <rs type="person" key="G0001">Herrn</rs> mit Luſt und Muth</l>
+					<lb/><l>Einhergeht und kein Uebels thut!</l>
 				</lg>
 				<lg>
-					<l>Aus <placeName>Zion</placeName> wird dich <rs type="person" key="G0001"
+					<lb/><l>Aus <placeName>Zion</placeName> wird dich <rs type="person" key="G0001"
 							>Gott</rs> beglücken;</l>
-					<l>Du ſchauſt mit wonnevollen Blicken</l>
-					<l><placeName>Jeruſalem</placeName>, des <rs type="person" key="G0001"
+					<lb/><l>Du ſchauſt mit wonnevollen Blicken</l>
+					<lb/><l><placeName>Jeruſalem</placeName>, des <rs type="person" key="G0001"
 							>Höchſten</rs> Stadt,</l>
-					<l>Die er ſich ſelbſt erbauet hat.</l>
+					<lb/><l>Die er ſich ſelbſt erbauet hat.</l>
 				</lg>
 				<lg>
-					<l>Entfernt vom Elend frecher Sünder</l>
-					<l>Erblickſt du deiner Kinder Kinder,</l>
-					<l>Genüßeſt, von dem Herrn belohnt,</l>
-					<l>Den Frieden, der in <rs type="person" key="J0002">Jacob</rs> wohnt.</l>
+					<lb/><l>Entfernt vom Elend frecher Sünder</l>
+					<lb/><l>Erblickſt du deiner Kinder Kinder,</l>
+					<lb/><l>Genüßeſt, von dem Herrn belohnt,</l>
+					<lb/><l>Den Frieden, der in <rs type="person" key="J0002">Jacob</rs> wohnt.</l>
 				</lg>
 			</div>
 		</body>

@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -70,7 +70,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -182,118 +181,118 @@
 		<body>
 			<pb n="22" ed="CPEB1774"/>
 			<div type="chorale">
-				<head type="title">Der fünf und ſechzigſte Pſalm.</head>
+				<head><title>Der fünf und ſechzigſte Pſalm.</title></head>
 				<lg>
-					<l>Dich, <rs type="person" key="G0001">Gott</rs> zu <placeName>Zion</placeName>,
+					<lb/><l>Dich, <rs type="person" key="G0001">Gott</rs> zu <placeName>Zion</placeName>,
 						lobt man in der Stille,</l>
-					<l>Daß man ſein heiliges Gelübd erfülle,</l>
-					<l>Und <placeName>Salems</placeName> Pſalter und Gesäng erſchallen,</l>
-					<l>Dir zu gefallen!</l>
+					<lb/><l>Daß man ſein heiliges Gelübd erfülle,</l>
+					<lb/><l>Und <placeName>Salems</placeName> Pſalter und Gesäng erſchallen,</l>
+					<lb/><l>Dir zu gefallen!</l>
 				</lg>
 				<lg>
-					<l>Wo betet ein Geſchöpf auf deiner Erde,</l>
-					<l>Das nicht von deiner Huld erhöret werde?</l>
-					<l>Das wiſsen alle Weſen, alle treten</l>
-					<l>Zu dir und beten.</l>
+					<lb/><l>Wo betet ein Geſchöpf auf deiner Erde,</l>
+					<lb/><l>Das nicht von deiner Huld erhöret werde?</l>
+					<lb/><l>Das wiſsen alle Weſen, alle treten</l>
+					<lb/><l>Zu dir und beten.</l>
 				</lg>
 				<lg>
-					<l>Uns drückt die Laſt von allen unſern Sünden;</l>
-					<l>Bedecke ſie und laß uns Gnade finden,</l>
-					<l>Von deiner Strafe, weil ſie, <rs type="person" key="G0001">Gott</rs>, uns
+					<lb/><l>Uns drückt die Laſt von allen unſern Sünden;</l>
+					<lb/><l>Bedecke ſie und laß uns Gnade finden,</l>
+					<lb/><l>Von deiner Strafe, weil ſie, <rs type="person" key="G0001">Gott</rs>, uns
 						reuen,</l>
-					<l>Uns zu befreyen!</l>
+					<lb/><l>Uns zu befreyen!</l>
 				</lg>
 				<lg>
-					<l>Dem, den du wähltſt, daß er zu deinem Throne</l>
-					<l>Sich nahen mög, und in den Höfen wohne,</l>
-					<l>Die du verherrlichſt: Welch ein ſelig Leben</l>
-					<l>Iſt ihm gegeben!</l>
+					<lb/><l>Dem, den du wähltſt, daß er zu deinem Throne</l>
+					<lb/><l>Sich nahen mög, und in den Höfen wohne,</l>
+					<lb/><l>Die du verherrlichſt: Welch ein ſelig Leben</l>
+					<lb/><l>Iſt ihm gegeben!</l>
 				</lg>
 				<lg>
-					<l>Dem giebſt du aus dem Sitze deines Ruhmes</l>
-					<l>Den reichen Ueberfluß des Heiligthumes,</l>
-					<l>In ſeinem Mangel Sättigung, und Freude</l>
-					<l>In ſeinem Leide.</l>
+					<lb/><l>Dem giebſt du aus dem Sitze deines Ruhmes</l>
+					<lb/><l>Den reichen Ueberfluß des Heiligthumes,</l>
+					<lb/><l>In ſeinem Mangel Sättigung, und Freude</l>
+					<lb/><l>In ſeinem Leide.</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Herr</rs>, du biſt heilig! <rs type="person"
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, du biſt heilig! <rs type="person"
 							key="G0001">Herr</rs>, vor deinem Schelten</l>
-					<l>Entſetzen ſich und zittern alle Welten.</l>
-					<l><rs type="person" key="G0001">Gott</rs> unſers Heils, erhör uns, wenn wir
+					<lb/><l>Entſetzen ſich und zittern alle Welten.</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> unſers Heils, erhör uns, wenn wir
 						flehen,</l>
-					<l>Aus deinen Höhen!</l>
+					<lb/><l>Aus deinen Höhen!</l>
 				</lg>
 				<pb n="23" ed="CPEB1774"/>
 				<lg>
-					<l>So weit nur Menſchen deine Welt bewohnen,</l>
-					<l>Biſt du die Hoffnung aller Nationen,</l>
-					<l>Die Zuflucht aller, die an fernen Meeren</l>
-					<l>Dein Heil begehren.</l>
+					<lb/><l>So weit nur Menſchen deine Welt bewohnen,</l>
+					<lb/><l>Biſt du die Hoffnung aller Nationen,</l>
+					<lb/><l>Die Zuflucht aller, die an fernen Meeren</l>
+					<lb/><l>Dein Heil begehren.</l>
 				</lg>
 				<lg>
-					<l>Er hat durch ſeine Kraft die Berge erhöhet,</l>
-					<l>Daß jeder, wie ein Pfeiler <rs type="person" key="G0001">Gottes</rs>,
+					<lb/><l>Er hat durch ſeine Kraft die Berge erhöhet,</l>
+					<lb/><l>Daß jeder, wie ein Pfeiler <rs type="person" key="G0001">Gottes</rs>,
 						ſtehet,</l>
-					<l>Er iſt umgürtet, er, der Herr der Heere,</l>
-					<l>Mit Stärk und Ehre.</l>
+					<lb/><l>Er iſt umgürtet, er, der Herr der Heere,</l>
+					<lb/><l>Mit Stärk und Ehre.</l>
 				</lg>
 				<lg>
-					<l>Er ſtillt der Meere Brauſen, wenn ſie ſchwellen;</l>
-					<l>Er ſtillt das Brauſen ihrer ſtolzen Wellen,</l>
-					<l>Und den Tumult und die Rebellionen</l>
-					<l>Der Nationen.</l>
+					<lb/><l>Er ſtillt der Meere Brauſen, wenn ſie ſchwellen;</l>
+					<lb/><l>Er ſtillt das Brauſen ihrer ſtolzen Wellen,</l>
+					<lb/><l>Und den Tumult und die Rebellionen</l>
+					<lb/><l>Der Nationen.</l>
 				</lg>
 				<lg>
-					<l>Ein frommer ehrfurchtvoller Schauer bebet</l>
-					<l>Durch alle Völker; jedes Volk erhebet</l>
-					<l>Die Wunder deines Arms und deiner Stärke;</l>
-					<l>Ruhmvolle Werke!</l>
+					<lb/><l>Ein frommer ehrfurchtvoller Schauer bebet</l>
+					<lb/><l>Durch alle Völker; jedes Volk erhebet</l>
+					<lb/><l>Die Wunder deines Arms und deiner Stärke;</l>
+					<lb/><l>Ruhmvolle Werke!</l>
 				</lg>
 				<lg>
-					<l>Sie jauchzen, wenn ſie deine Sonne ſehen</l>
-					<l>In ihrem Morgenglanze dich erhöhen,</l>
-					<l>Und wenn die weſtlichen verborgnen Erden</l>
-					<l>Erleuchtet werden.</l>
+					<lb/><l>Sie jauchzen, wenn ſie deine Sonne ſehen</l>
+					<lb/><l>In ihrem Morgenglanze dich erhöhen,</l>
+					<lb/><l>Und wenn die weſtlichen verborgnen Erden</l>
+					<lb/><l>Erleuchtet werden.</l>
 				</lg>
 				<lg>
-					<l>Du ſuchſt das Land heim, die Gefilde lachen;</l>
-					<l>Du wäſserſt ſie mit Thau, ſie reich zu machen;</l>
-					<l>Dein Strom iſt voll; durch dich reift das <choice>
+					<lb/><l>Du ſuchſt das Land heim, die Gefilde lachen;</l>
+					<lb/><l>Du wäſserſt ſie mit Thau, ſie reich zu machen;</l>
+					<lb/><l>Dein Strom iſt voll; durch dich reift das <choice>
 							<sic>Getraide</sic>
 							<corr>Getreide</corr>
 						</choice></l>
-					<l>Zu unſrer Freude.</l>
+					<lb/><l>Zu unſrer Freude.</l>
 				</lg>
 				<lg>
-					<l>Die tiefgepflügten Furchen füllt dein Segen</l>
-					<l>Und das zerlechzte Land erfriſcht dein Regen;</l>
-					<l>Du machſt es weich, und ſegneſt ſeine Saaten,</l>
-					<l>Daß ſie gerathen.</l>
+					<lb/><l>Die tiefgepflügten Furchen füllt dein Segen</l>
+					<lb/><l>Und das zerlechzte Land erfriſcht dein Regen;</l>
+					<lb/><l>Du machſt es weich, und ſegneſt ſeine Saaten,</l>
+					<lb/><l>Daß ſie gerathen.</l>
 				</lg>
 				<lg>
-					<l>Du krönſt das Jahr mit deiner milden Gnade;</l>
-					<l>Gedeihn und Wachſthum folgen deinem Pfade</l>
-					<l>Und träufeln, wo du wandelſt, daß die Erde</l>
-					<l>Befruchtet werde.</l>
+					<lb/><l>Du krönſt das Jahr mit deiner milden Gnade;</l>
+					<lb/><l>Gedeihn und Wachſthum folgen deinem Pfade</l>
+					<lb/><l>Und träufeln, wo du wandelſt, daß die Erde</l>
+					<lb/><l>Befruchtet werde.</l>
 				</lg>
 				<lg>
-					<l>Sie träufeln, deine Tritte, daß von ihnen</l>
-					<l>Die frohen Auen in der Wüſte grünen;</l>
-					<l>Die Hügel hüpfen, <rs type="person" key="G0001">Gott</rs>, im
+					<lb/><l>Sie träufeln, deine Tritte, daß von ihnen</l>
+					<lb/><l>Die frohen Auen in der Wüſte grünen;</l>
+					<lb/><l>Die Hügel hüpfen, <rs type="person" key="G0001">Gott</rs>, im
 						Feyerkleide,</l>
-					<l>Vor Dank und Freude.</l>
+					<lb/><l>Vor Dank und Freude.</l>
 				</lg>
 				<lg>
-					<l>Du ſchmückſt und kleideſt das Gefild mit Heerden,</l>
-					<l>Und ſchaffeſt Gras, daß ſie gesättigt werden;</l>
-					<l>Dem Schnitter rauſcht der vollen Felder Segen</l>
-					<l>Zur Erndt entgegen.</l>
+					<lb/><l>Du ſchmückſt und kleideſt das Gefild mit Heerden,</l>
+					<lb/><l>Und ſchaffeſt Gras, daß ſie gesättigt werden;</l>
+					<lb/><l>Dem Schnitter rauſcht der vollen Felder Segen</l>
+					<lb/><l>Zur Erndt entgegen.</l>
 				</lg>
 				<lg>
-					<l>Und Dank und Freud und Jubel jauchzt aus allen,</l>
-					<l>Und Hain und Auen und Gefild erſchallen</l>
-					<l>Von lautem, dir frohlockenden Getümmel</l>
-					<l>Bis in die Himmel!</l>
+					<lb/><l>Und Dank und Freud und Jubel jauchzt aus allen,</l>
+					<lb/><l>Und Hain und Auen und Gefild erſchallen</l>
+					<lb/><l>Von lautem, dir frohlockenden Getümmel</l>
+					<lb/><l>Bis in die Himmel!</l>
 				</lg>
 			</div>
 		</body>

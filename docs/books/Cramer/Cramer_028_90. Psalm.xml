@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig</authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig</publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -70,7 +70,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -182,107 +181,107 @@
 		<body>
 			<pb n="28" ed="CPEB1774"/>
 			<div type="chorale">
-				<head type="title">Der neunzigſte Pſalm.</head>
+				<head><title>Der neunzigſte Pſalm.</title></head>
 				<lg>
-					<l><rs type="person" key="G0001">Herr</rs>, unſer <rs type="person" key="G0001"
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, unſer <rs type="person" key="G0001"
 							>Gott</rs>, du warſt, du biſt zu allen Zeiten</l>
-					<l>Der Frommen Zuverſicht, ihr einziges Vertraun.</l>
-					<l>Sie werden auch ihr Heil in allen Ewigkeiten</l>
-					<l>Auf dieſen ſichern Felſen bauen.</l>
+					<lb/><l>Der Frommen Zuverſicht, ihr einziges Vertraun.</l>
+					<lb/><l>Sie werden auch ihr Heil in allen Ewigkeiten</l>
+					<lb/><l>Auf dieſen ſichern Felſen bauen.</l>
 				</lg>
 				<lg>
-					<l>Du warſt vor der Geburt der Berge; vor der Erde,</l>
-					<l>Die durch dein ſchaffend Wort voll deiner Wunder iſt;</l>
-					<l>Du warſt, eh du dem Heer der Sterne zuriefſt: Werde!</l>
-					<l>Und ewig biſt du, der du biſt.</l>
+					<lb/><l>Du warſt vor der Geburt der Berge; vor der Erde,</l>
+					<lb/><l>Die durch dein ſchaffend Wort voll deiner Wunder iſt;</l>
+					<lb/><l>Du warſt, eh du dem Heer der Sterne zuriefſt: Werde!</l>
+					<lb/><l>Und ewig biſt du, der du biſt.</l>
 				</lg>
 				<lg>
-					<l>Du willſt: Wir ſind. Dein Hauch beſeelet unſre Glieder;</l>
-					<l>Wie ſchnell erſtarren ſie, des Todes leichter Raub,</l>
-					<l>Wenn du gebieteſt: Sterbt! Kommt, Menſchenkinder, wieder,</l>
-					<l>Und werdet, was ihr waret, Staub.</l>
+					<lb/><l>Du willſt: Wir ſind. Dein Hauch beſeelet unſre Glieder;</l>
+					<lb/><l>Wie ſchnell erſtarren ſie, des Todes leichter Raub,</l>
+					<lb/><l>Wenn du gebieteſt: Sterbt! Kommt, Menſchenkinder, wieder,</l>
+					<lb/><l>Und werdet, was ihr waret, Staub.</l>
 				</lg>
 				<lg>
-					<l>Weltalter ſind vor dir, du <rs type="person" key="G0001">Herr</rs> der
+					<lb/><l>Weltalter ſind vor dir, du <rs type="person" key="G0001">Herr</rs> der
 						Ewigkeiten,</l>
-					<l>Ein Tag, der geſtern war. Nachtwachen gleich entfliehn</l>
-					<l>Jahrtauſende (für uns ſo grenzenloſe Zeiten!)</l>
-					<l>Vor dir, wie Augenblicke, hin.</l>
+					<lb/><l>Ein Tag, der geſtern war. Nachtwachen gleich entfliehn</l>
+					<lb/><l>Jahrtauſende (für uns ſo grenzenloſe Zeiten!)</l>
+					<lb/><l>Vor dir, wie Augenblicke, hin.</l>
 				</lg>
 				<lg>
-					<l>Du ſtrömſt die Menſchen weg; ihr Leben, <rs type="person" key="G0001"
+					<lb/><l>Du ſtrömſt die Menſchen weg; ihr Leben, <rs type="person" key="G0001"
 							>Herr</rs>, vergehet</l>
-					<l>Schnell, wie ein leichter Schlaf. Gras, das am Morgen blüht,</l>
-					<l>Schießt fröhlich auf und grünt; am Abend wirds gemähet</l>
-					<l>Und welket, wie der Menſch verblüht.</l>
+					<lb/><l>Schnell, wie ein leichter Schlaf. Gras, das am Morgen blüht,</l>
+					<lb/><l>Schießt fröhlich auf und grünt; am Abend wirds gemähet</l>
+					<lb/><l>Und welket, wie der Menſch verblüht.</l>
 				</lg>
 				<lg>
-					<l>Dein ſtrenger Eifer ſchilt, und wir, o <rs type="person" key="G0001"
+					<lb/><l>Dein ſtrenger Eifer ſchilt, und wir, o <rs type="person" key="G0001"
 							>Gott</rs>, verderben:</l>
-					<l>Wie könnte, wenn du ſchiltſt, der Staub vor dir beſtehn?</l>
-					<l>Dein aufgebrachter Grimm gebietet uns zu ſterben,</l>
-					<l>Du dräueſt nur, und wir vergehn.</l>
+					<lb/><l>Wie könnte, wenn du ſchiltſt, der Staub vor dir beſtehn?</l>
+					<lb/><l>Dein aufgebrachter Grimm gebietet uns zu ſterben,</l>
+					<lb/><l>Du dräueſt nur, und wir vergehn.</l>
 				</lg>
 				<lg>
-					<l>Vor dir, <rs type="person" key="G0001">Allwiſsender</rs>, erſcheinen unſre
+					<lb/><l>Vor dir, <rs type="person" key="G0001">Allwiſsender</rs>, erſcheinen unſre
 						Sünden,</l>
-					<l>Du ziehſt, was wir in Nacht verhüllten, vors Gericht;</l>
-					<l>Vergebens wähnten wir, du würdeſt ſie nicht finden;</l>
-					<l>Du ſiehſt und ſtelleſt ſie ans Licht.</l>
+					<lb/><l>Du ziehſt, was wir in Nacht verhüllten, vors Gericht;</l>
+					<lb/><l>Vergebens wähnten wir, du würdeſt ſie nicht finden;</l>
+					<lb/><l>Du ſiehſt und ſtelleſt ſie ans Licht.</l>
 				</lg>
 				<lg>
-					<l>Geſchwinder, als ein Bach, verfließen unſre Tage,</l>
-					<l>Wie ein Gedank ſo ſchnell, weil du ein Eifrer biſt;</l>
-					<l>Und unſre Jahre ſind vor dir wie ein Sage,</l>
-					<l>Die man kaum anhört und vergißt.</l>
+					<lb/><l>Geſchwinder, als ein Bach, verfließen unſre Tage,</l>
+					<lb/><l>Wie ein Gedank ſo ſchnell, weil du ein Eifrer biſt;</l>
+					<lb/><l>Und unſre Jahre ſind vor dir wie ein Sage,</l>
+					<lb/><l>Die man kaum anhört und vergißt.</l>
 				</lg>
 				<lg>
-					<l>Nur ſiebzig Jahre währt das Leben; achtzig Sonnen,</l>
-					<l>Wie ſelten ſehn wir die! Und wenn es köſtlich war,</l>
-					<l>Was haben wir als Müh und Eitelkeit gewonnen,</l>
-					<l>Als Unruh, Kummer und Gefahr?</l>
+					<lb/><l>Nur ſiebzig Jahre währt das Leben; achtzig Sonnen,</l>
+					<lb/><l>Wie ſelten ſehn wir die! Und wenn es köſtlich war,</l>
+					<lb/><l>Was haben wir als Müh und Eitelkeit gewonnen,</l>
+					<lb/><l>Als Unruh, Kummer und Gefahr?</l>
 				</lg>
 				<lg>
-					<l>So ſchnell verſchwindet uns die eitle Zeit des Lebens,</l>
-					<l>Als flögen wir davon! Wir fühlen dein Gericht,</l>
-					<l>Und sündigen doch mehr! Du zürnſt für uns vergebens;</l>
-					<l>Du rächſt dich, und wir zittern nicht!</l>
+					<lb/><l>So ſchnell verſchwindet uns die eitle Zeit des Lebens,</l>
+					<lb/><l>Als flögen wir davon! Wir fühlen dein Gericht,</l>
+					<lb/><l>Und sündigen doch mehr! Du zürnſt für uns vergebens;</l>
+					<lb/><l>Du rächſt dich, und wir zittern nicht!</l>
 				</lg>
 				<lg>
-					<l>Ach, <rs type="person" key="G0001">Herr</rs>, erinnre du uns, daß wir ſterben
+					<lb/><l>Ach, <rs type="person" key="G0001">Herr</rs>, erinnre du uns, daß wir ſterben
 						müſsen,</l>
-					<l>Und laß uns für das Grab der Klugheit Schule ſeyn!</l>
-					<l>Laß deine Gegenwart uns endlich noch genießen,</l>
-					<l>Und wieder deine Knecht erfreun!</l>
+					<lb/><l>Und laß uns für das Grab der Klugheit Schule ſeyn!</l>
+					<lb/><l>Laß deine Gegenwart uns endlich noch genießen,</l>
+					<lb/><l>Und wieder deine Knecht erfreun!</l>
 				</lg>
 				<lg>
-					<l>Ach frühe ſeegn' uns, <rs type="person" key="G0001">Gott</rs>, mit deiner
+					<lb/><l>Ach frühe ſeegn' uns, <rs type="person" key="G0001">Gott</rs>, mit deiner
 						Vatergüte;</l>
-					<l>Gesättigt werden wir, wenn du uns gnädig biſt.</l>
-					<l>Und wir frohlocken dir mit jauchzendem Gemüthe,</l>
-					<l>So lang in uns ein Hauch noch iſt.</l>
+					<lb/><l>Gesättigt werden wir, wenn du uns gnädig biſt.</l>
+					<lb/><l>Und wir frohlocken dir mit jauchzendem Gemüthe,</l>
+					<lb/><l>So lang in uns ein Hauch noch iſt.</l>
 				</lg>
 				<lg>
-					<l>Erquicke, tröſt uns, <rs type="person" key="G0001">Herr</rs>, nach ſo viel
+					<lb/><l>Erquicke, tröſt uns, <rs type="person" key="G0001">Herr</rs>, nach ſo viel
 						trüben Tagen.</l>
-					<l>Ach allzu lange drückt uns unſrer Leiden Laſt!</l>
-					<l>Erbarmer, ende nun ſo vieler Jahre Plagen,</l>
-					<l>Womit du uns gezüchtigt haſt.</l>
+					<lb/><l>Ach allzu lange drückt uns unſrer Leiden Laſt!</l>
+					<lb/><l>Erbarmer, ende nun ſo vieler Jahre Plagen,</l>
+					<lb/><l>Womit du uns gezüchtigt haſt.</l>
 				</lg>
 				<lg>
-					<l>Verherrliche dich nun an denen, die dir dienen,</l>
-					<l>Durch deine Wunder, <rs type="person" key="G0001">Gott</rs>; denn du kannſt
+					<lb/><l>Verherrliche dich nun an denen, die dir dienen,</l>
+					<lb/><l>Durch deine Wunder, <rs type="person" key="G0001">Gott</rs>; denn du kannſt
 						Wunder thun!</l>
-					<l>Laß deine Herrlichkeit und deinen Ruhm auf ihnen</l>
-					<l>Und auch auf ihren Kindern ruhn!</l>
+					<lb/><l>Laß deine Herrlichkeit und deinen Ruhm auf ihnen</l>
+					<lb/><l>Und auch auf ihren Kindern ruhn!</l>
 				</lg>
 				<lg>
-					<l>Sey wieder freundlich, <rs type="person" key="G0001">Gott</rs>! Laß unſer
+					<lb/><l>Sey wieder freundlich, <rs type="person" key="G0001">Gott</rs>! Laß unſer
 						Werk gelingen!</l>
-					<l>Heil uns, wenn über uns dein Vaterauge wacht!</l>
-					<l><rs type="person" key="G0001">Herr</rs>, födre, was wir thun, und laß uns,
+					<lb/><l>Heil uns, wenn über uns dein Vaterauge wacht!</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, födre, was wir thun, und laß uns,
 						laß gelingen</l>
-					<l>Uns unſer Werk durch deine Macht!</l>
+					<lb/><l>Uns unſer Werk durch deine Macht!</l>
 				</lg>
 			</div>
 		</body>

@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -70,7 +70,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -182,146 +181,146 @@
 		<body>
 			<pb n="47" ed="CPEB1774"/>
 			<div type="chorale">
-				<head type="title">Der hundert und neun und dreißigſte Pſalm.</head>
+				<head><title>Der hundert und neun und dreißigſte Pſalm.</title></head>
 				<lg>
-					<l><rs type="person" key="G0001">Herr</rs>, du erforſcheſt mich! Du kennſt mich!
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, du erforſcheſt mich! Du kennſt mich!
 						Unverborgen</l>
-					<l>Bin ich, wo ich mich lege, dir,</l>
-					<l>Und nie ermüdet ſieht dein Auge, wenn am Morgen</l>
-					<l>Ich wieder aufſteh, <rs type="person" key="G0001">Gott</rs>, nach mir.</l>
+					<lb/><l>Bin ich, wo ich mich lege, dir,</l>
+					<lb/><l>Und nie ermüdet ſieht dein Auge, wenn am Morgen</l>
+					<lb/><l>Ich wieder aufſteh, <rs type="person" key="G0001">Gott</rs>, nach mir.</l>
 				</lg>
 				<lg>
-					<l>Du kannteſt, was ich denk, Erforſcher meiner Seele,</l>
-					<l>Eh ein Gedank in mir entſtand;</l>
-					<l>Ich geh, ich lege mich, ich überleg und wähle,</l>
-					<l>Und, was ich thu, iſt dir bekannt.</l>
+					<lb/><l>Du kannteſt, was ich denk, Erforſcher meiner Seele,</l>
+					<lb/><l>Eh ein Gedank in mir entſtand;</l>
+					<lb/><l>Ich geh, ich lege mich, ich überleg und wähle,</l>
+					<lb/><l>Und, was ich thu, iſt dir bekannt.</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Herr</rs>, ohne Grenzen iſt dein Weſen; du
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, ohne Grenzen iſt dein Weſen; du
 						umſchließeſt</l>
-					<l>Mich ganz, <rs type="person" key="G0001">Unendlicher</rs>, mit dir.</l>
-					<l>Was kann ich reden, <rs type="person" key="G0001">Gott</rs>, das du nicht
+					<lb/><l>Mich ganz, <rs type="person" key="G0001">Unendlicher</rs>, mit dir.</l>
+					<lb/><l>Was kann ich reden, <rs type="person" key="G0001">Gott</rs>, das du nicht
 						alles wiſseſt,</l>
-					<l>Wer iſt ſo nah, als du, bei mir?</l>
+					<lb/><l>Wer iſt ſo nah, als du, bei mir?</l>
 				</lg>
 				<lg>
-					<l>Wo find ich, <rs type="person" key="G0001">Gott</rs>, nicht dich? Du biſt an
+					<lb/><l>Wo find ich, <rs type="person" key="G0001">Gott</rs>, nicht dich? Du biſt an
 						allen Enden,</l>
-					<l>Ich ſeh zurück und vor mir hin;</l>
-					<l>Und überall ſeh ich, daß ich von deinen Händen,</l>
-					<l><rs type="person" key="G0001">Unendlicher</rs>, umſchloſsen bin.</l>
+					<lb/><l>Ich ſeh zurück und vor mir hin;</l>
+					<lb/><l>Und überall ſeh ich, daß ich von deinen Händen,</l>
+					<lb/><l><rs type="person" key="G0001">Unendlicher</rs>, umſchloſsen bin.</l>
 				</lg>
 				<lg>
-					<l>Welch ein Verſtand, o <rs type="person" key="G0001">Gott</rs>? Wer darf ſich
+					<lb/><l>Welch ein Verſtand, o <rs type="person" key="G0001">Gott</rs>? Wer darf ſich
 						dir vergleichen?</l>
-					<l><rs type="person" key="G0001">Herr</rs>, wie erſtaun ich über dich!</l>
-					<l>Ich ſchwinge mich empor und kann ihn nicht erreichen;</l>
-					<l>Er iſt zu wunderbar für mich!</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, wie erſtaun ich über dich!</l>
+					<lb/><l>Ich ſchwinge mich empor und kann ihn nicht erreichen;</l>
+					<lb/><l>Er iſt zu wunderbar für mich!</l>
 				</lg>
 				<lg>
-					<l>Wohin, wohin kann ich vor deinem Geiſt entfliehen?</l>
-					<l>Wo iſt, wo findet er mich nicht?</l>
-					<l>Wo könnte, <rs type="person" key="G0001">Höchſter</rs>, ich mich deinem Aug
+					<lb/><l>Wohin, wohin kann ich vor deinem Geiſt entfliehen?</l>
+					<lb/><l>Wo iſt, wo findet er mich nicht?</l>
+					<lb/><l>Wo könnte, <rs type="person" key="G0001">Höchſter</rs>, ich mich deinem Aug
 						entziehen?</l>
-					<l>Wo ſtralet nicht dein Angeſicht?</l>
+					<lb/><l>Wo ſtralet nicht dein Angeſicht?</l>
 				</lg>
 				<lg>
-					<l>Wenn ich zum Himmel auch mich aufgeſchwungen hätte,</l>
-					<l>In allen Himmeln biſt du, <rs type="person" key="G0001">Gott</rs>.</l>
-					<l>Spräch ich, dir zu entfliehn, zur Tiefe: Sey mein Bette!</l>
-					<l>Auch in der Tiefe biſt du, <rs type="person" key="G0001">Gott</rs>!</l>
+					<lb/><l>Wenn ich zum Himmel auch mich aufgeſchwungen hätte,</l>
+					<lb/><l>In allen Himmeln biſt du, <rs type="person" key="G0001">Gott</rs>.</l>
+					<lb/><l>Spräch ich, dir zu entfliehn, zur Tiefe: Sey mein Bette!</l>
+					<lb/><l>Auch in der Tiefe biſt du, <rs type="person" key="G0001">Gott</rs>!</l>
 				</lg>
 				<lg>
-					<l>Und nähm ich, ſchnell zu fliehn, die Fittiche vom Morgen:</l>
-					<l>Am fernſten Meere fänd ich dich;</l>
-					<l>Ich wär in deiner Hand auch da; dir nicht verborgen,</l>
-					<l>Und deine Rechte hielte mich.</l>
+					<lb/><l>Und nähm ich, ſchnell zu fliehn, die Fittiche vom Morgen:</l>
+					<lb/><l>Am fernſten Meere fänd ich dich;</l>
+					<lb/><l>Ich wär in deiner Hand auch da; dir nicht verborgen,</l>
+					<lb/><l>Und deine Rechte hielte mich.</l>
 				</lg>
 				<lg>
-					<l>Und ſpräch ich, decket mich, verbergt mich, Finſterniſse!</l>
-					<l>Licht wäre dann um mich die Nacht.</l>
-					<l>Denn finſter ſind vor dir auch nicht die Finſterniſse;</l>
-					<l>Dir leuchtet, wie der Tag, die Nacht.</l>
+					<lb/><l>Und ſpräch ich, decket mich, verbergt mich, Finſterniſse!</l>
+					<lb/><l>Licht wäre dann um mich die Nacht.</l>
+					<lb/><l>Denn finſter ſind vor dir auch nicht die Finſterniſse;</l>
+					<lb/><l>Dir leuchtet, wie der Tag, die Nacht.</l>
 				</lg>
 				<lg>
-					<l>Das Dunkel iſt von dir; aus deinem Lichte floſsen</l>
-					<l>Der Glanz des Morgens und der Tag;</l>
-					<l>Du bildeteſt mein Herz; ich ward von dir umſchloſsen,</l>
-					<l>Als ich im Mutterleibe lag.</l>
+					<lb/><l>Das Dunkel iſt von dir; aus deinem Lichte floſsen</l>
+					<lb/><l>Der Glanz des Morgens und der Tag;</l>
+					<lb/><l>Du bildeteſt mein Herz; ich ward von dir umſchloſsen,</l>
+					<lb/><l>Als ich im Mutterleibe lag.</l>
 				</lg>
 				<lg>
-					<l>Dich preis ich, daß du mich, o <rs type="person" key="G0001">Herr</rs>, durch
+					<lb/><l>Dich preis ich, daß du mich, o <rs type="person" key="G0001">Herr</rs>, durch
 						deine Stärke</l>
-					<l>So wundervoll gebildet haſt.</l>
-					<l>Mein Geiſt erſtaunt und rühmt die Weiſheit deiner Werke,</l>
-					<l>Die keines Weſens Einſicht faßt.</l>
+					<lb/><l>So wundervoll gebildet haſt.</l>
+					<lb/><l>Mein Geiſt erſtaunt und rühmt die Weiſheit deiner Werke,</l>
+					<lb/><l>Die keines Weſens Einſicht faßt.</l>
 				</lg>
 				<lg>
-					<l>Als aus den Tiefen ich heraufgerufen wurde,</l>
-					<l>Ein Wunder deiner Macht zu ſeyn;</l>
-					<l>Als im Verborgnen ich ein Menſch gebildet wurde,</l>
-					<l>Durchdrang dein Auge mein Gebein.</l>
+					<lb/><l>Als aus den Tiefen ich heraufgerufen wurde,</l>
+					<lb/><l>Ein Wunder deiner Macht zu ſeyn;</l>
+					<lb/><l>Als im Verborgnen ich ein Menſch gebildet wurde,</l>
+					<lb/><l>Durchdrang dein Auge mein Gebein.</l>
 				</lg>
 				<lg>
-					<l>Du ſahſt mich, eh du noch den künſtlichen Geweben</l>
-					<l>Der Nerven Harmonie und Macht,</l>
-					<l>Und Blut den Adern gabſt, und meinem Herzen Leben;</l>
-					<l>Da haſt du meiner ſchon gedacht!</l>
+					<lb/><l>Du ſahſt mich, eh du noch den künſtlichen Geweben</l>
+					<lb/><l>Der Nerven Harmonie und Macht,</l>
+					<lb/><l>Und Blut den Adern gabſt, und meinem Herzen Leben;</l>
+					<lb/><l>Da haſt du meiner ſchon gedacht!</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Herr</rs>, deine Macht, dein Rath erkennet
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, deine Macht, dein Rath erkennet
 						keine Schranken;</l>
-					<l>Wer faſset dich? Wer gleichet dir?</l>
-					<l>Was für Erkenntniſse, für köſtliche Gedanken!</l>
-					<l>Unnennbar iſt die Summe mir!</l>
+					<lb/><l>Wer faſset dich? Wer gleichet dir?</l>
+					<lb/><l>Was für Erkenntniſse, für köſtliche Gedanken!</l>
+					<lb/><l>Unnennbar iſt die Summe mir!</l>
 				</lg>
 				<lg>
-					<l>Erſtaunen kann ich nur. Sollt ich ſie alle zählen,</l>
-					<l>Eh zählt ich aller Meere Sand;</l>
-					<l>Doch will ich dich allein zu meinem Liede wählen,</l>
-					<l>Erhöhn die Wunder deiner Hand.</l>
+					<lb/><l>Erſtaunen kann ich nur. Sollt ich ſie alle zählen,</l>
+					<lb/><l>Eh zählt ich aller Meere Sand;</l>
+					<lb/><l>Doch will ich dich allein zu meinem Liede wählen,</l>
+					<lb/><l>Erhöhn die Wunder deiner Hand.</l>
 				</lg>
 				<lg>
-					<l>Leg ich zur Ruhe mich auf meinem Lager nieder,</l>
-					<l>So freu ich deiner Güte mich;</l>
-					<l>Im Traume denk ich dein; erwach ich frühe wieder,</l>
-					<l>So denk ich immer noch an dich.</l>
+					<lb/><l>Leg ich zur Ruhe mich auf meinem Lager nieder,</l>
+					<lb/><l>So freu ich deiner Güte mich;</l>
+					<lb/><l>Im Traume denk ich dein; erwach ich frühe wieder,</l>
+					<lb/><l>So denk ich immer noch an dich.</l>
 				</lg>
 				<lg>
-					<l>Du biſt allwiſsend, <rs type="person" key="G0001">Herr</rs>, und heilig und
+					<lb/><l>Du biſt allwiſsend, <rs type="person" key="G0001">Herr</rs>, und heilig und
 						ein Rächer,</l>
-					<l>Die Frevler wirſt du töten, <rs type="person" key="G0001">Gott</rs>!</l>
-					<l>Entweicht, entweicht von mir, blutgierige Verbrecher;</l>
-					<l>Euch haßt <rs type="person" key="G0001">Jehova Zebaoth</rs>!</l>
+					<lb/><l>Die Frevler wirſt du töten, <rs type="person" key="G0001">Gott</rs>!</l>
+					<lb/><l>Entweicht, entweicht von mir, blutgierige Verbrecher;</l>
+					<lb/><l>Euch haßt <rs type="person" key="G0001">Jehova Zebaoth</rs>!</l>
 				</lg>
 				<lg>
-					<l>Sieh, wie ſie mit Betrug und Lügen dich entehren,</l>
-					<l>Nicht deinen hohen Namen ſcheun,</l>
-					<l>Verrätheriſch und falſch bei deinen Städten ſchwören,</l>
-					<l>Vermeſsen dein Geſetz entweihn!</l>
+					<lb/><l>Sieh, wie ſie mit Betrug und Lügen dich entehren,</l>
+					<lb/><l>Nicht deinen hohen Namen ſcheun,</l>
+					<lb/><l>Verrätheriſch und falſch bei deinen Städten ſchwören,</l>
+					<lb/><l>Vermeſsen dein Geſetz entweihn!</l>
 				</lg>
 				<lg>
-					<l>Sollt ich nicht haſsen, <rs type="person" key="G0001">Gott</rs>, die deinen
+					<lb/><l>Sollt ich nicht haſsen, <rs type="person" key="G0001">Gott</rs>, die deinen
 						Namen haſsen?</l>
-					<l>Und könnt ich ohne Zorn es ſehn,</l>
-					<l>Daß ſo vermeſsen, <rs type="person" key="G0001">Gott</rs>, ſie deinen Pfad
+					<lb/><l>Und könnt ich ohne Zorn es ſehn,</l>
+					<lb/><l>Daß ſo vermeſsen, <rs type="person" key="G0001">Gott</rs>, ſie deinen Pfad
 						verlaſsen,</l>
-					<l>So frevelhaft dir widerſtehn?</l>
+					<lb/><l>So frevelhaft dir widerſtehn?</l>
 				</lg>
 				<lg>
-					<l>Ja nimmer zähl ich die, <rs type="person" key="G0001">Gott</rs>, unter meine
+					<lb/><l>Ja nimmer zähl ich die, <rs type="person" key="G0001">Gott</rs>, unter meine
 						Freunde,</l>
-					<l>Die dein Geſetz und Recht entweihn;</l>
-					<l>Von Herzen haß ich ſie; ſtets ſollen deine Feinde</l>
-					<l>Mein Abſcheu, meine Feinde ſein.</l>
+					<lb/><l>Die dein Geſetz und Recht entweihn;</l>
+					<lb/><l>Von Herzen haß ich ſie; ſtets ſollen deine Feinde</l>
+					<lb/><l>Mein Abſcheu, meine Feinde ſein.</l>
 				</lg>
 				<lg>
-					<l>Erforſche mich, o <rs type="person" key="G0001">Gott</rs>, daß ich nichts
+					<lb/><l>Erforſche mich, o <rs type="person" key="G0001">Gott</rs>, daß ich nichts
 						wählen möge,</l>
-					<l>Was Sünd iſt; prüfe meinen Sinn,</l>
-					<l>Sieh, ob ich irre, <rs type="person" key="G0001">Herr</rs>, und führe mich
+					<lb/><l>Was Sünd iſt; prüfe meinen Sinn,</l>
+					<lb/><l>Sieh, ob ich irre, <rs type="person" key="G0001">Herr</rs>, und führe mich
 						auf Wege,</l>
-					<l>Die ewig dir gefallen, hin.</l>
+					<lb/><l>Die ewig dir gefallen, hin.</l>
 				</lg>
 			</div>
 		</body>

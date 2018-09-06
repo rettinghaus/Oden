@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -70,7 +70,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -182,96 +181,96 @@
 		<body>
 			<pb n="29" ed="CPEB1774"/>
 			<div type="chorale">
-				<head type="title">Der ein und neunzigſte Pſalm.</head>
+				<head><title>Der ein und neunzigſte Pſalm.</title></head>
 				<lg>
-					<l>Wie ſelig iſt, der <rs type="person" key="G0001">Gott</rs> vertraut,</l>
-					<l>Der in des <rs type="person" key="G0001">Höchſten</rs> Zelte ſitzet;</l>
-					<l>Der, dem vor keinem Wetter graut,</l>
-					<l>Von ihm umſchattet und beſchützet!</l>
-					<l>Der freudig zu dem Höchſten ſpricht:</l>
-					<l><rs type="person" key="G0001">Herr</rs>, meine Burg und Zuverſicht;</l>
-					<l>Mein <rs type="person" key="G0001">Gott</rs>, auf den ich hoffe!</l>
+					<lb/><l>Wie ſelig iſt, der <rs type="person" key="G0001">Gott</rs> vertraut,</l>
+					<lb/><l>Der in des <rs type="person" key="G0001">Höchſten</rs> Zelte ſitzet;</l>
+					<lb/><l>Der, dem vor keinem Wetter graut,</l>
+					<lb/><l>Von ihm umſchattet und beſchützet!</l>
+					<lb/><l>Der freudig zu dem Höchſten ſpricht:</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, meine Burg und Zuverſicht;</l>
+					<lb/><l>Mein <rs type="person" key="G0001">Gott</rs>, auf den ich hoffe!</l>
 				</lg>
 				<lg>
-					<l>Er weiß mich, wenn ein Sturm mir dräut,</l>
-					<l>Dem Untergange zu entrücken;</l>
-					<l>Der <rs type="person" key="G0001">Herr</rs> bewahrt mich, und befreyt</l>
-					<l>Mein Leben von des Jägers Stricken.</l>
-					<l>Weil ſich mein Herz auf ihn verläßt,</l>
-					<l>Errettet <rs type="person" key="G0001">Gott</rs> mich von der Peſt</l>
-					<l>Weitwürgendem Verderben.</l>
+					<lb/><l>Er weiß mich, wenn ein Sturm mir dräut,</l>
+					<lb/><l>Dem Untergange zu entrücken;</l>
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> bewahrt mich, und befreyt</l>
+					<lb/><l>Mein Leben von des Jägers Stricken.</l>
+					<lb/><l>Weil ſich mein Herz auf ihn verläßt,</l>
+					<lb/><l>Errettet <rs type="person" key="G0001">Gott</rs> mich von der Peſt</l>
+					<lb/><l>Weitwürgendem Verderben.</l>
 				</lg>
 				<lg>
-					<l>Dich wird der Schutz des <rs type="person" key="G0001">Herrn</rs> umfahn;</l>
-					<l>Dich werden ſeine Flügel decken.</l>
-					<l>Vertrau' ihm nur; kein Unfall kann</l>
-					<l>Dich unter ſeinem Fittich ſchrecken.</l>
-					<l>Er kann nicht lügen; er erfüllt,</l>
-					<l>Was er verheißt; dein Helm und Schild</l>
-					<l>Iſt deines <rs type="person" key="G0001">Gottes</rs> Treue.</l>
+					<lb/><l>Dich wird der Schutz des <rs type="person" key="G0001">Herrn</rs> umfahn;</l>
+					<lb/><l>Dich werden ſeine Flügel decken.</l>
+					<lb/><l>Vertrau' ihm nur; kein Unfall kann</l>
+					<lb/><l>Dich unter ſeinem Fittich ſchrecken.</l>
+					<lb/><l>Er kann nicht lügen; er erfüllt,</l>
+					<lb/><l>Was er verheißt; dein Helm und Schild</l>
+					<lb/><l>Iſt deines <rs type="person" key="G0001">Gottes</rs> Treue.</l>
 				</lg>
 				<lg>
-					<l>Du wirſt voll Muth und Zuverſicht</l>
-					<l>Das Graun der Mitternacht beſiegen;</l>
-					<l>Dich ſchrecken, dich verwunden nicht</l>
-					<l>Die Pfeile, die des Tages fliegen.</l>
-					<l>Die Seuche, die im Mittag würgt,</l>
-					<l>Die, die ſich in die Nacht verbirgt,</l>
-					<l>Wird dich nicht töten können.</l>
+					<lb/><l>Du wirſt voll Muth und Zuverſicht</l>
+					<lb/><l>Das Graun der Mitternacht beſiegen;</l>
+					<lb/><l>Dich ſchrecken, dich verwunden nicht</l>
+					<lb/><l>Die Pfeile, die des Tages fliegen.</l>
+					<lb/><l>Die Seuche, die im Mittag würgt,</l>
+					<lb/><l>Die, die ſich in die Nacht verbirgt,</l>
+					<lb/><l>Wird dich nicht töten können.</l>
 				</lg>
 				<lg>
-					<l>Ob dir zur Linken Tauſend auch,</l>
-					<l>Zehntauſend dir zur Rechten ſterben,</l>
-					<l>So ſoll ihr gifterfüllter Hauch</l>
-					<l>Doch dich nicht treffen und verderben.</l>
-					<l>Mit Luſt und Freude wirſt du ſehn,</l>
-					<l>Wie <rs type="person" key="G0001">Gott</rs> an denen, die ihn ſchmähn,</l>
-					<l>Der Sünde Frevel räche.</l>
+					<lb/><l>Ob dir zur Linken Tauſend auch,</l>
+					<lb/><l>Zehntauſend dir zur Rechten ſterben,</l>
+					<lb/><l>So ſoll ihr gifterfüllter Hauch</l>
+					<lb/><l>Doch dich nicht treffen und verderben.</l>
+					<lb/><l>Mit Luſt und Freude wirſt du ſehn,</l>
+					<lb/><l>Wie <rs type="person" key="G0001">Gott</rs> an denen, die ihn ſchmähn,</l>
+					<lb/><l>Der Sünde Frevel räche.</l>
 				</lg>
 				<lg>
-					<l>Denn deine fromme Seele ſpricht:</l>
-					<l>Mich wird der Arm des <rs type="person" key="G0001">Herrn</rs> bewahren;</l>
-					<l>Der Höchſt' iſt meine Zuverſicht,</l>
-					<l>Und meine Zuflucht in Gefahren.</l>
-					<l>Kein Unfall überwältigt dich,</l>
-					<l>Und keine Plage nahet ſich</l>
-					<l>Zu deiner ſichern Hütte.</l>
+					<lb/><l>Denn deine fromme Seele ſpricht:</l>
+					<lb/><l>Mich wird der Arm des <rs type="person" key="G0001">Herrn</rs> bewahren;</l>
+					<lb/><l>Der Höchſt' iſt meine Zuverſicht,</l>
+					<lb/><l>Und meine Zuflucht in Gefahren.</l>
+					<lb/><l>Kein Unfall überwältigt dich,</l>
+					<lb/><l>Und keine Plage nahet ſich</l>
+					<lb/><l>Zu deiner ſichern Hütte.</l>
 				</lg>
 				<lg>
-					<l>Der <rs type="person" key="G0001">Herr</rs> wird ſeiner Engel Schaar</l>
-					<l>Vom Himmel ſenden und gebieten,</l>
-					<l>Daß ſie vor Unfall und Gefahr</l>
-					<l>Auf deinen Wegen dich behüten.</l>
-					<l>Kein Stein verwundet deinen Fuß;</l>
-					<l>Du gleiteſt nicht; ſein Engel muß</l>
-					<l>Dich auf den Händen tragen.</l>
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> wird ſeiner Engel Schaar</l>
+					<lb/><l>Vom Himmel ſenden und gebieten,</l>
+					<lb/><l>Daß ſie vor Unfall und Gefahr</l>
+					<lb/><l>Auf deinen Wegen dich behüten.</l>
+					<lb/><l>Kein Stein verwundet deinen Fuß;</l>
+					<lb/><l>Du gleiteſt nicht; ſein Engel muß</l>
+					<lb/><l>Dich auf den Händen tragen.</l>
 				</lg>
 				<lg>
-					<l>Und Löwen trittſt du unter dich,</l>
-					<l>Zermalmeſt ſie auf deinen Pfaden;</l>
-					<l>Zertretne Nattern krümmen ſich,</l>
-					<l>Und ziſchen, ohne dir zu ſchaden.</l>
-					<l>Der junge Löwe brüllt nach Raub;</l>
-					<l>Du aber trittſt ihn in den Staub,</l>
-					<l>Zertrittſt den Kopf des Drachen.</l>
+					<lb/><l>Und Löwen trittſt du unter dich,</l>
+					<lb/><l>Zermalmeſt ſie auf deinen Pfaden;</l>
+					<lb/><l>Zertretne Nattern krümmen ſich,</l>
+					<lb/><l>Und ziſchen, ohne dir zu ſchaden.</l>
+					<lb/><l>Der junge Löwe brüllt nach Raub;</l>
+					<lb/><l>Du aber trittſt ihn in den Staub,</l>
+					<lb/><l>Zertrittſt den Kopf des Drachen.</l>
 				</lg>
 				<lg>
-					<l>Er, ſpricht der <rs type="person" key="G0001">Herr</rs>, begehret mein,</l>
-					<l>Und darum will ich ihn bewahren;</l>
-					<l>Er dient mir; ich will mit ihm ſeyn,</l>
-					<l>Sein Schutz in dräuenden Gefahren.</l>
-					<l>Er ruft mich an, ich hör ihn, <rs type="person" key="G0001">Gott</rs>;</l>
-					<l>Ich bin bey ihm in ſeiner Noth,</l>
-					<l>Um ihn herauſzureißen.</l>
+					<lb/><l>Er, ſpricht der <rs type="person" key="G0001">Herr</rs>, begehret mein,</l>
+					<lb/><l>Und darum will ich ihn bewahren;</l>
+					<lb/><l>Er dient mir; ich will mit ihm ſeyn,</l>
+					<lb/><l>Sein Schutz in dräuenden Gefahren.</l>
+					<lb/><l>Er ruft mich an, ich hör ihn, <rs type="person" key="G0001">Gott</rs>;</l>
+					<lb/><l>Ich bin bey ihm in ſeiner Noth,</l>
+					<lb/><l>Um ihn herauſzureißen.</l>
 				</lg>
 				<lg>
-					<l>Ihn, weil er mir vertrauet hat,</l>
-					<l>Will ich empor zu Ehren heben;</l>
-					<l>Ich bin ſein <rs type="person" key="G0001">Gott</rs>; ich mach ihn ſatt</l>
-					<l>Mit Gnad und Heil und langem Leben.</l>
-					<l>Ich zeig ihm, daß ich helfen kann;</l>
-					<l>Dann betet er mich dankbar an</l>
-					<l>Und preiſet meine Hülfe.</l>
+					<lb/><l>Ihn, weil er mir vertrauet hat,</l>
+					<lb/><l>Will ich empor zu Ehren heben;</l>
+					<lb/><l>Ich bin ſein <rs type="person" key="G0001">Gott</rs>; ich mach ihn ſatt</l>
+					<lb/><l>Mit Gnad und Heil und langem Leben.</l>
+					<lb/><l>Ich zeig ihm, daß ich helfen kann;</l>
+					<lb/><l>Dann betet er mich dankbar an</l>
+					<lb/><l>Und preiſet meine Hülfe.</l>
 				</lg>
 			</div>
 		</body>

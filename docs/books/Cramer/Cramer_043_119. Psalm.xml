@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -70,7 +70,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -182,69 +181,69 @@
 		<body>
 			<pb n="43" ed="CPEB1774"/>
 			<div type="chorale">
-				<head type="title">Der hundert und neunzehnte Pſalm.</head>
+				<head><title>Der hundert und neunzehnte Pſalm.</title></head>
 				<lg>
-					<l>Heil denen, welche ſich unſträflich zu wandeln beſtreben,</l>
-					<l>Und des Geſetzes Wege gehn!</l>
-					<l>Heil denen, die mit Ernſt und <rs type="person" key="G0001">Gottes</rs>
+					<lb/><l>Heil denen, welche ſich unſträflich zu wandeln beſtreben,</l>
+					<lb/><l>Und des Geſetzes Wege gehn!</l>
+					<lb/><l>Heil denen, die mit Ernſt und <rs type="person" key="G0001">Gottes</rs>
 						Zeugniſsen leben,</l>
-					<l><rs type="person" key="G0001">Gott</rs> ſuchen und auf ihn nur ſehn!</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> ſuchen und auf ihn nur ſehn!</l>
 				</lg>
 				<lg>
-					<l>Kein Laſter ſchändet ſie. Sie wandeln, nach deinem Geheiße,</l>
-					<l>Die Wege der Gerechtigkeit.</l>
-					<l>Das iſt dein Wille, <rs type="person" key="G0001">Gott</rs>, mit eifrigem
+					<lb/><l>Kein Laſter ſchändet ſie. Sie wandeln, nach deinem Geheiße,</l>
+					<lb/><l>Die Wege der Gerechtigkeit.</l>
+					<lb/><l>Das iſt dein Wille, <rs type="person" key="G0001">Gott</rs>, mit eifrigem
 						Fleiße</l>
-					<l>Zu halten, was dein Wort gebeut.</l>
+					<lb/><l>Zu halten, was dein Wort gebeut.</l>
 				</lg>
 				<lg>
-					<l>O daß mein Herz mit Ernſt an deine Gebote gedächte,</l>
-					<l>Und willig ſie bewahrte; <rs type="person" key="G0001">Gott</rs>!</l>
-					<l>Denn, säh ich nur auf dich und deine heiligen Rechte,</l>
-					<l>So träfe meinen Ruhm kein Spott.</l>
+					<lb/><l>O daß mein Herz mit Ernſt an deine Gebote gedächte,</l>
+					<lb/><l>Und willig ſie bewahrte; <rs type="person" key="G0001">Gott</rs>!</l>
+					<lb/><l>Denn, säh ich nur auf dich und deine heiligen Rechte,</l>
+					<lb/><l>So träfe meinen Ruhm kein Spott.</l>
 				</lg>
 				<lg>
-					<l>Dir dank ich, daß dein Mund mich deine Gerechtigkeit lehret;</l>
-					<l>Mit ganzem Herzen dank ich dir!</l>
-					<l>Dir, dir gehorch es nur, von keinem Laſter entehret!</l>
-					<l>Verlaß mich nie, und ſei mit mir!</l>
+					<lb/><l>Dir dank ich, daß dein Mund mich deine Gerechtigkeit lehret;</l>
+					<lb/><l>Mit ganzem Herzen dank ich dir!</l>
+					<lb/><l>Dir, dir gehorch es nur, von keinem Laſter entehret!</l>
+					<lb/><l>Verlaß mich nie, und ſei mit mir!</l>
 				</lg>
 				<lg>
-					<l>Den Jüngling täuſchet leicht, wie ſchnell kan ein Jüngling nicht fallen?</l>
-					<l>Sein Herz, der Sünde Luſt, die Welt.</l>
-					<l>Wie wird er ſeinen Weg vor dir untadelhaft wallen?</l>
-					<l>Wenn er nach deinem Wort ſich hält.</l>
+					<lb/><l>Den Jüngling täuſchet leicht, wie ſchnell kan ein Jüngling nicht fallen?</l>
+					<lb/><l>Sein Herz, der Sünde Luſt, die Welt.</l>
+					<lb/><l>Wie wird er ſeinen Weg vor dir untadelhaft wallen?</l>
+					<lb/><l>Wenn er nach deinem Wort ſich hält.</l>
 				</lg>
 				<lg>
-					<l>Dich ſucht mein ganzes Herz. O leite die ſuchende Seele!</l>
-					<l>Entzeuch mir deine Rechte nie!</l>
-					<l>Ich pflanze ſie ins Herz, daß ich nicht wider dich fehle,</l>
-					<l>Und ewig, ewig lieb ich ſie!</l>
+					<lb/><l>Dich ſucht mein ganzes Herz. O leite die ſuchende Seele!</l>
+					<lb/><l>Entzeuch mir deine Rechte nie!</l>
+					<lb/><l>Ich pflanze ſie ins Herz, daß ich nicht wider dich fehle,</l>
+					<lb/><l>Und ewig, ewig lieb ich ſie!</l>
 				</lg>
 				<lg>
-					<l>Gelobet ſeyſt du, <rs type="person" key="G0001">Herr</rs>! <rs type="person"
+					<lb/><l>Gelobet ſeyſt du, <rs type="person" key="G0001">Herr</rs>! <rs type="person"
 							key="G0001">Herr</rs>, lehre die heiligen Rechte,</l>
-					<l>Die du gebieteſt, deinen Knecht!</l>
-					<l>Ich preiſe meiner Welt und dem noch fernen Geſchlechte</l>
-					<l>Dein Wort, und deines Mundes Recht.</l>
+					<lb/><l>Die du gebieteſt, deinen Knecht!</l>
+					<lb/><l>Ich preiſe meiner Welt und dem noch fernen Geſchlechte</l>
+					<lb/><l>Dein Wort, und deines Mundes Recht.</l>
 				</lg>
 				<lg>
-					<l>Mein Herz erfreuet ſich, als über gewaltige Schätze,</l>
-					<l>Der Wege, welche du mich führſt.</l>
-					<l>Ich ſinn auf dein Gebot und ſchau auf deine Geſetze,</l>
-					<l>Durch die du meinen Gang regierſt.</l>
+					<lb/><l>Mein Herz erfreuet ſich, als über gewaltige Schätze,</l>
+					<lb/><l>Der Wege, welche du mich führſt.</l>
+					<lb/><l>Ich ſinn auf dein Gebot und ſchau auf deine Geſetze,</l>
+					<lb/><l>Durch die du meinen Gang regierſt.</l>
 				</lg>
 				<lg>
-					<l>Welch edle Luſt iſt mir mit deinen Geboten gegeben!</l>
-					<l>Herr, deines Worts vergeß ich nie!</l>
-					<l>Sey gnädig deinem Knecht! Laß meine Seele noch leben!</l>
-					<l>Was du befiehlſt, das übe ſie.</l>
+					<lb/><l>Welch edle Luſt iſt mir mit deinen Geboten gegeben!</l>
+					<lb/><l>Herr, deines Worts vergeß ich nie!</l>
+					<lb/><l>Sey gnädig deinem Knecht! Laß meine Seele noch leben!</l>
+					<lb/><l>Was du befiehlſt, das übe ſie.</l>
 				</lg>
 				<lg>
-					<l>Entſchleuß die Augen mir und laß ſie erleuchteter werden,</l>
-					<l>Die Wunder am Geſetz zu ſehn.</l>
-					<l>Verbirg mir nicht dein Wort. Ich bin ein Pilgrim auf Erden;</l>
-					<l>Wie du mich leiteſt, will ich gehn.</l>
+					<lb/><l>Entſchleuß die Augen mir und laß ſie erleuchteter werden,</l>
+					<lb/><l>Die Wunder am Geſetz zu ſehn.</l>
+					<lb/><l>Verbirg mir nicht dein Wort. Ich bin ein Pilgrim auf Erden;</l>
+					<lb/><l>Wie du mich leiteſt, will ich gehn.</l>
 				</lg>
 			</div>
 		</body>

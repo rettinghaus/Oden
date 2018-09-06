@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -70,7 +70,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -182,60 +181,60 @@
 		<body>
 			<pb n="12" ed="CPEB1774"/>
 			<div type="chorale">
-				<head type="title">Der drey und zwanzigſte Pſalm.</head>
+				<head><title>Der drey und zwanzigſte Pſalm.</title></head>
 				<lg>
-					<l><rs type="person" key="G0001">Gott</rs> iſt mein Hirt!</l>
-					<l>Im Schatten ſeiner Güte</l>
-					<l>Singt mein lautjauchzendes Gemüthe,</l>
-					<l>Und dankt, weil mir nichts mangeln wird.</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> iſt mein Hirt!</l>
+					<lb/><l>Im Schatten ſeiner Güte</l>
+					<lb/><l>Singt mein lautjauchzendes Gemüthe,</l>
+					<lb/><l>Und dankt, weil mir nichts mangeln wird.</l>
 				</lg>
 				<lg>
-					<l>Er führet mich</l>
-					<l>Auf ewiggrüne Weiden.</l>
-					<l>Hier blühen mir die reinſten Freuden.</l>
-					<l>Und meine Seele sättigt ſich.</l>
+					<lb/><l>Er führet mich</l>
+					<lb/><l>Auf ewiggrüne Weiden.</l>
+					<lb/><l>Hier blühen mir die reinſten Freuden.</l>
+					<lb/><l>Und meine Seele sättigt ſich.</l>
 				</lg>
 				<lg>
-					<l>Er tränket ſie,</l>
-					<l>Wenn Hitz und Durſt ſie ſchwächen</l>
-					<l>Aus friſchen angenehmen Bächen,</l>
-					<l>Und meine Seel erſchöpft ſie nie.</l>
+					<lb/><l>Er tränket ſie,</l>
+					<lb/><l>Wenn Hitz und Durſt ſie ſchwächen</l>
+					<lb/><l>Aus friſchen angenehmen Bächen,</l>
+					<lb/><l>Und meine Seel erſchöpft ſie nie.</l>
 				</lg>
 				<lg>
-					<l>Wenn er gebeut,</l>
-					<l>Muß aller Sturm ſich legen.</l>
-					<l>Er führt mich, ſeines Namens wegen,</l>
-					<l>Den Fußſteig der Gerechtigkeit.</l>
+					<lb/><l>Wenn er gebeut,</l>
+					<lb/><l>Muß aller Sturm ſich legen.</l>
+					<lb/><l>Er führt mich, ſeines Namens wegen,</l>
+					<lb/><l>Den Fußſteig der Gerechtigkeit.</l>
 				</lg>
 				<lg>
-					<l>Mit dir will ich</l>
-					<l>In finſtern Thälern wallen!</l>
-					<l>Ich fürchte nichts; ich kann nicht fallen!</l>
-					<l>Du biſt mein Stab; des tröſt ich mich.</l>
+					<lb/><l>Mit dir will ich</l>
+					<lb/><l>In finſtern Thälern wallen!</l>
+					<lb/><l>Ich fürchte nichts; ich kann nicht fallen!</l>
+					<lb/><l>Du biſt mein Stab; des tröſt ich mich.</l>
 				</lg>
 				<lg>
-					<l>Du rufeſt mich,</l>
-					<l>Damit ich mich erfriſche,</l>
-					<l>Zu deinem wundervollen Tiſche;</l>
-					<l>Und meine Feinde quälen ſich.</l>
+					<lb/><l>Du rufeſt mich,</l>
+					<lb/><l>Damit ich mich erfriſche,</l>
+					<lb/><l>Zu deinem wundervollen Tiſche;</l>
+					<lb/><l>Und meine Feinde quälen ſich.</l>
 				</lg>
 				<lg>
-					<l>Herr, du biſt mein,</l>
-					<l>Und dein iſt meine Seele!</l>
-					<l>Du ſalbſt mein Haupt mit deinem Oele;</l>
-					<l>Du ſchenkſt, du ſchenkeſt mir voll ein!</l>
+					<lb/><l>Herr, du biſt mein,</l>
+					<lb/><l>Und dein iſt meine Seele!</l>
+					<lb/><l>Du ſalbſt mein Haupt mit deinem Oele;</l>
+					<lb/><l>Du ſchenkſt, du ſchenkeſt mir voll ein!</l>
 				</lg>
 				<lg>
-					<l>Mir folgt dein Heil;</l>
-					<l>So lang ich auf der Erde,</l>
-					<l>Herr, deinen Namen preiſen werde,</l>
-					<l>Sey deine Vaterhuld mein Theil!</l>
+					<lb/><l>Mir folgt dein Heil;</l>
+					<lb/><l>So lang ich auf der Erde,</l>
+					<lb/><l>Herr, deinen Namen preiſen werde,</l>
+					<lb/><l>Sey deine Vaterhuld mein Theil!</l>
 				</lg>
 				<lg>
-					<l>Hier ruh ich gern</l>
-					<l>In <rs type="person" key="G0001">Gottes</rs> Heiligthume,</l>
-					<l>Der Ruheſtatt von ſeinem Ruhme;</l>
-					<l>Einſt wohn ich ewig bey dem <rs type="person" key="G0001">Herrn</rs>!</l>
+					<lb/><l>Hier ruh ich gern</l>
+					<lb/><l>In <rs type="person" key="G0001">Gottes</rs> Heiligthume,</l>
+					<lb/><l>Der Ruheſtatt von ſeinem Ruhme;</l>
+					<lb/><l>Einſt wohn ich ewig bey dem <rs type="person" key="G0001">Herrn</rs>!</l>
 				</lg>
 			</div>
 		</body>

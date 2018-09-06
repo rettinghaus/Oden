@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -70,7 +70,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -182,103 +181,103 @@
 		<body>
 			<pb n="10" ed="CPEB1774"/>
 			<div type="chorale">
-				<head type="title">Der neunzehnte Pſalm.</head>
+				<head><title>Der neunzehnte Pſalm.</title></head>
 				<lg>
-					<l>Die Himmel rufen, jeder ehret</l>
-					<l>Die Größe <rs type="person" key="G0001">Gottes</rs>, ſeine Pracht.</l>
-					<l>Die auſgeſpannte Feſte lehret</l>
-					<l>Die Werke, die ſein Arme gemacht;</l>
-					<l>Und aller Welten Harmonie</l>
-					<l>Verkündigt und beſinget ſie.</l>
+					<lb/><l>Die Himmel rufen, jeder ehret</l>
+					<lb/><l>Die Größe <rs type="person" key="G0001">Gottes</rs>, ſeine Pracht.</l>
+					<lb/><l>Die auſgeſpannte Feſte lehret</l>
+					<lb/><l>Die Werke, die ſein Arme gemacht;</l>
+					<lb/><l>Und aller Welten Harmonie</l>
+					<lb/><l>Verkündigt und beſinget ſie.</l>
 				</lg>
 				<lg>
-					<l>Es ſtrömt von einem Tag zum andern,</l>
-					<l>Gleich Bächen, ihre Rede fort,</l>
-					<l>Und eine Nacht erzählt der andern</l>
-					<l>Laut ihr gedankenvolles Wort.</l>
-					<l>Es ſind nicht Sprachen, die ſie ſpricht;</l>
-					<l>Doch wer hört ihre Stimmen nicht?</l>
+					<lb/><l>Es ſtrömt von einem Tag zum andern,</l>
+					<lb/><l>Gleich Bächen, ihre Rede fort,</l>
+					<lb/><l>Und eine Nacht erzählt der andern</l>
+					<lb/><l>Laut ihr gedankenvolles Wort.</l>
+					<lb/><l>Es ſind nicht Sprachen, die ſie ſpricht;</l>
+					<lb/><l>Doch wer hört ihre Stimmen nicht?</l>
 				</lg>
 				<lg>
-					<l>Die Ordnung kunſterfüllter Kreiſe</l>
-					<l>Verherrlicht <rs type="person" key="G0001">Gott</rs> durch jedes Land,</l>
-					<l>Und macht, damit der Menſch ihn preiſe,</l>
-					<l>Sein Lob der fernſten Welt bekannt;</l>
-					<l>Denn wer ſieht ihre Wunderbahn,</l>
-					<l>Und betet nicht den Schöpfer an?</l>
+					<lb/><l>Die Ordnung kunſterfüllter Kreiſe</l>
+					<lb/><l>Verherrlicht <rs type="person" key="G0001">Gott</rs> durch jedes Land,</l>
+					<lb/><l>Und macht, damit der Menſch ihn preiſe,</l>
+					<lb/><l>Sein Lob der fernſten Welt bekannt;</l>
+					<lb/><l>Denn wer ſieht ihre Wunderbahn,</l>
+					<lb/><l>Und betet nicht den Schöpfer an?</l>
 				</lg>
 				<lg>
-					<l>Wer ſchuf, daß uns der Tag erwache,</l>
-					<l>Der Sonne ſtralend Zelt, als er?</l>
-					<l>Sie kömmt; ſo geht vom Brautgemache</l>
-					<l>Der heitre Bräutigam daher.</l>
-					<l>Sie eilet, wie ein Held zum Streit</l>
-					<l>Erwachet, und des Kampfs ſich freut.</l>
+					<lb/><l>Wer ſchuf, daß uns der Tag erwache,</l>
+					<lb/><l>Der Sonne ſtralend Zelt, als er?</l>
+					<lb/><l>Sie kömmt; ſo geht vom Brautgemache</l>
+					<lb/><l>Der heitre Bräutigam daher.</l>
+					<lb/><l>Sie eilet, wie ein Held zum Streit</l>
+					<lb/><l>Erwachet, und des Kampfs ſich freut.</l>
 				</lg>
 				<lg>
-					<l>Ihr hoher Aufgang iſt im Morgen,</l>
-					<l>Bis in den fernen Weſt ihr Lauf.</l>
-					<l>Nichts bleibt vor ihrer Glut verborgen;</l>
-					<l>Sie gehet allen ſegnend auf.</l>
-					<l>Ihr Glanz zerſtreut das Graun der Nacht,</l>
-					<l>Beſeelt die Welt und giebt ihr Pracht.</l>
+					<lb/><l>Ihr hoher Aufgang iſt im Morgen,</l>
+					<lb/><l>Bis in den fernen Weſt ihr Lauf.</l>
+					<lb/><l>Nichts bleibt vor ihrer Glut verborgen;</l>
+					<lb/><l>Sie gehet allen ſegnend auf.</l>
+					<lb/><l>Ihr Glanz zerſtreut das Graun der Nacht,</l>
+					<lb/><l>Beſeelt die Welt und giebt ihr Pracht.</l>
 				</lg>
 				<lg>
-					<l>Das Recht, das uns der Herr gegeben,</l>
-					<l>Iſt heilig und untadelhaft.</l>
-					<l>Es ſtärkt die Seelen, daß ſie leben,</l>
-					<l>Und giebt den kranken Herzen Kraft.</l>
-					<l>Sein Wort iſt ohne Falſch und Trug,</l>
-					<l>Erhellt und macht die Einfalt klug.</l>
+					<lb/><l>Das Recht, das uns der Herr gegeben,</l>
+					<lb/><l>Iſt heilig und untadelhaft.</l>
+					<lb/><l>Es ſtärkt die Seelen, daß ſie leben,</l>
+					<lb/><l>Und giebt den kranken Herzen Kraft.</l>
+					<lb/><l>Sein Wort iſt ohne Falſch und Trug,</l>
+					<lb/><l>Erhellt und macht die Einfalt klug.</l>
 				</lg>
 				<pb n="11" ed="CPEB1774"/>
 				<lg>
-					<l>Aus ſeinen richtigen Geſetzen</l>
-					<l>Quillt Freude für die Traurigkeit.</l>
-					<l>Sie heiligen, wenn ſie ergötzen.</l>
-					<l>Wie lauter iſt, was <rs type="person" key="G0001">Gott</rs> gebeut!</l>
-					<l>Herr, deines Wortes reines Licht</l>
-					<l>Erleuchtet jedes Angeſicht.</l>
+					<lb/><l>Aus ſeinen richtigen Geſetzen</l>
+					<lb/><l>Quillt Freude für die Traurigkeit.</l>
+					<lb/><l>Sie heiligen, wenn ſie ergötzen.</l>
+					<lb/><l>Wie lauter iſt, was <rs type="person" key="G0001">Gott</rs> gebeut!</l>
+					<lb/><l>Herr, deines Wortes reines Licht</l>
+					<lb/><l>Erleuchtet jedes Angeſicht.</l>
 				</lg>
 				<lg>
-					<l>Die Furcht vor Gott erhebt und ſchmücket</l>
-					<l>Ein folgſam Herz, und macht es rein.</l>
-					<l>Und ewig bleiben die beglücket,</l>
-					<l>Die ſich dem Dienſte <rs type="person" key="G0001">Gottes</rs> weihn.</l>
-					<l>Denn alles, was der <rs type="person" key="G0001">Herr</rs> gebeut,</l>
-					<l>Iſt Wahrheit und Gerechtigkeit.</l>
+					<lb/><l>Die Furcht vor Gott erhebt und ſchmücket</l>
+					<lb/><l>Ein folgſam Herz, und macht es rein.</l>
+					<lb/><l>Und ewig bleiben die beglücket,</l>
+					<lb/><l>Die ſich dem Dienſte <rs type="person" key="G0001">Gottes</rs> weihn.</l>
+					<lb/><l>Denn alles, was der <rs type="person" key="G0001">Herr</rs> gebeut,</l>
+					<lb/><l>Iſt Wahrheit und Gerechtigkeit.</l>
 				</lg>
 				<lg>
-					<l>Die Zeugniſse des <rs type="person" key="G0001">Herrn</rs> ſind beſser</l>
-					<l>Und mehr der Sehnſucht werth, als Gold.</l>
-					<l>Ihr Werth iſt köſtlicher und gröſser</l>
-					<l>Als alles noch ſo feine Gold.</l>
-					<l>Süß ſind ſie, wie der Honig iſt,</l>
-					<l>Und mehr, als der vom Stocke fließt.</l>
+					<lb/><l>Die Zeugniſse des <rs type="person" key="G0001">Herrn</rs> ſind beſser</l>
+					<lb/><l>Und mehr der Sehnſucht werth, als Gold.</l>
+					<lb/><l>Ihr Werth iſt köſtlicher und gröſser</l>
+					<lb/><l>Als alles noch ſo feine Gold.</l>
+					<lb/><l>Süß ſind ſie, wie der Honig iſt,</l>
+					<lb/><l>Und mehr, als der vom Stocke fließt.</l>
 				</lg>
 				<lg>
-					<l>Wie adeln ſie nicht deine Knechte!</l>
-					<l>Der hat viel Seegen, der ſie hält.</l>
-					<l>Doch oft vergißt man deine Rechte:</l>
-					<l>Wer merkt, o <rs type="person" key="G0001">Gott</rs>, wie oft er fällt?</l>
-					<l>Vergieb, das bitt ich, <rs type="person" key="G0001">Gott</rs>, von dir,</l>
-					<l>Auch die verborgnen Sünden mir!</l>
+					<lb/><l>Wie adeln ſie nicht deine Knechte!</l>
+					<lb/><l>Der hat viel Seegen, der ſie hält.</l>
+					<lb/><l>Doch oft vergißt man deine Rechte:</l>
+					<lb/><l>Wer merkt, o <rs type="person" key="G0001">Gott</rs>, wie oft er fällt?</l>
+					<lb/><l>Vergieb, das bitt ich, <rs type="person" key="G0001">Gott</rs>, von dir,</l>
+					<lb/><l>Auch die verborgnen Sünden mir!</l>
 				</lg>
 				<lg>
-					<l>Enthalte mich von frechen Sünden,</l>
-					<l>Die ein vermeßner Stolz erzeugt!</l>
-					<l>Und laß ſie den nicht überwinden,</l>
-					<l>Der willig in dein Joch ſich beugt!</l>
-					<l>Daß ich unſchuldig, rein und frey</l>
-					<l>Von großer Uebertretung ſei!</l>
+					<lb/><l>Enthalte mich von frechen Sünden,</l>
+					<lb/><l>Die ein vermeßner Stolz erzeugt!</l>
+					<lb/><l>Und laß ſie den nicht überwinden,</l>
+					<lb/><l>Der willig in dein Joch ſich beugt!</l>
+					<lb/><l>Daß ich unſchuldig, rein und frey</l>
+					<lb/><l>Von großer Uebertretung ſei!</l>
 				</lg>
 				<lg>
-					<l>Vernimm voll Huld aus meinem Munde</l>
-					<l>Die Reden, die ſich deiner freun,</l>
-					<l>Und laß, zur angenehmen Stunde,</l>
-					<l>Dir mein Gebet geſeufzet ſeyn!</l>
-					<l>Ich habe ja dein gnädig Wort,</l>
-					<l><rs type="person" key="G0001">Herr, mein Erlöſer, Gott</rs>, mein Hort!</l>
+					<lb/><l>Vernimm voll Huld aus meinem Munde</l>
+					<lb/><l>Die Reden, die ſich deiner freun,</l>
+					<lb/><l>Und laß, zur angenehmen Stunde,</l>
+					<lb/><l>Dir mein Gebet geſeufzet ſeyn!</l>
+					<lb/><l>Ich habe ja dein gnädig Wort,</l>
+					<lb/><l><rs type="person" key="G0001">Herr, mein Erlöſer, Gott</rs>, mein Hort!</l>
 				</lg>
 			</div>
 		</body>

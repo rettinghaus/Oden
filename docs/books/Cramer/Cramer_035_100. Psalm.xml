@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -70,7 +70,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -182,55 +181,55 @@
 		<body>
 			<pb n="35" ed="CPEB1774"/>
 			<div type="chorale">
-				<head type="title">Der hunderte Pſalm.</head>
+				<head><title>Der hunderte Pſalm.</title></head>
 				<lg>
-					<l>Es jauchze <rs type="person" key="G0001">Gott</rs> und preiſe</l>
-					<l><rs type="person" key="G0001">Gott</rs> alle Welt!</l>
-					<l>Und alle ſeine Welt</l>
-					<l>Lobſing ihm fröhlich und beweiſe</l>
-					<l>Dem <rs type="person" key="G0001">Herrn</rs> den Dienſt, der ihm gefällt!</l>
+					<lb/><l>Es jauchze <rs type="person" key="G0001">Gott</rs> und preiſe</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> alle Welt!</l>
+					<lb/><l>Und alle ſeine Welt</l>
+					<lb/><l>Lobſing ihm fröhlich und beweiſe</l>
+					<lb/><l>Dem <rs type="person" key="G0001">Herrn</rs> den Dienſt, der ihm gefällt!</l>
 				</lg>
 				<lg>
-					<l>Der Erdkreis komm und bete</l>
-					<l>Den <rs type="person" key="G0001">Höchſten</rs> an!</l>
-					<l>Frohlockend bet er an!</l>
-					<l>Und jeder, der ihn fürchtet, trete</l>
-					<l>Zu ſeinem Throne froh heran!</l>
+					<lb/><l>Der Erdkreis komm und bete</l>
+					<lb/><l>Den <rs type="person" key="G0001">Höchſten</rs> an!</l>
+					<lb/><l>Frohlockend bet er an!</l>
+					<lb/><l>Und jeder, der ihn fürchtet, trete</l>
+					<lb/><l>Zu ſeinem Throne froh heran!</l>
 				</lg>
 				<lg>
-					<l>Erkennt und lehrt die Spötter,</l>
-					<l>Daß er <rs type="person" key="G0001">Gott</rs> iſt,</l>
-					<l>Daß er allein <rs type="person" key="G0001">Gott</rs> iſt!</l>
-					<l>Weh dem, der thöricht andre Götter</l>
-					<l>Sich ſchaffen will und ſein vergißt!</l>
+					<lb/><l>Erkennt und lehrt die Spötter,</l>
+					<lb/><l>Daß er <rs type="person" key="G0001">Gott</rs> iſt,</l>
+					<lb/><l>Daß er allein <rs type="person" key="G0001">Gott</rs> iſt!</l>
+					<lb/><l>Weh dem, der thöricht andre Götter</l>
+					<lb/><l>Sich ſchaffen will und ſein vergißt!</l>
 				</lg>
 				<lg>
-					<l>Er rief uns, daß wir wären,</l>
-					<l>Und wir uns nicht;</l>
-					<l>Der Menſch erſchuf ſich nicht.</l>
-					<l>Des Menſchen Ehr iſts, <rs type="person" key="G0001">Gott</rs> verehren!</l>
-					<l><rs type="person" key="G0001">Gott</rs> lieben, das iſt Heil und Pflicht!</l>
+					<lb/><l>Er rief uns, daß wir wären,</l>
+					<lb/><l>Und wir uns nicht;</l>
+					<lb/><l>Der Menſch erſchuf ſich nicht.</l>
+					<lb/><l>Des Menſchen Ehr iſts, <rs type="person" key="G0001">Gott</rs> verehren!</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> lieben, das iſt Heil und Pflicht!</l>
 				</lg>
 				<lg>
-					<l>Wir, wir ſind ſeine Heerde,</l>
-					<l>Sein Eigenthum,</l>
-					<l>Durch ihn ſein Eigenthum,</l>
-					<l>Gemacht, daß ſie geweidet werde,</l>
-					<l>Doch auch gemacht für ſeinen Ruhm.</l>
+					<lb/><l>Wir, wir ſind ſeine Heerde,</l>
+					<lb/><l>Sein Eigenthum,</l>
+					<lb/><l>Durch ihn ſein Eigenthum,</l>
+					<lb/><l>Gemacht, daß ſie geweidet werde,</l>
+					<lb/><l>Doch auch gemacht für ſeinen Ruhm.</l>
 				</lg>
 				<lg>
-					<l>Geht, vor ihm hinzufallen,</l>
-					<l>Zu <rs type="person" key="G0001">Gott</rs> herein,</l>
-					<l>Zu ſeinen Thoren ein!</l>
-					<l>Kommt, kommt, in ſeines Tempels Hallen</l>
-					<l>Ihm Lob und Dank und Lob zu weihn!</l>
+					<lb/><l>Geht, vor ihm hinzufallen,</l>
+					<lb/><l>Zu <rs type="person" key="G0001">Gott</rs> herein,</l>
+					<lb/><l>Zu ſeinen Thoren ein!</l>
+					<lb/><l>Kommt, kommt, in ſeines Tempels Hallen</l>
+					<lb/><l>Ihm Lob und Dank und Lob zu weihn!</l>
 				</lg>
 				<lg>
-					<l>Dankt, dankt ihm! Sein Gemüthe</l>
-					<l>Iſt Freundlichkeit,</l>
-					<l>Nur Huld und Freundlichkeit;</l>
-					<l>Und ewig währet ſeine Güte</l>
-					<l>Und ſeine Wahrheit allezeit!</l>
+					<lb/><l>Dankt, dankt ihm! Sein Gemüthe</l>
+					<lb/><l>Iſt Freundlichkeit,</l>
+					<lb/><l>Nur Huld und Freundlichkeit;</l>
+					<lb/><l>Und ewig währet ſeine Güte</l>
+					<lb/><l>Und ſeine Wahrheit allezeit!</l>
 				</lg>
 			</div>
 		</body>
