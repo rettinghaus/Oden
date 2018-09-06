@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,61 +178,61 @@
 			<pb n="62"/>
 			<pb n="29" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Preis des Schöpfers.</head>
+				<head><title>Preis des Schöpfers.</title></head>
 				<lg>
-					<l>Wenn ich, o <rs type="person" key="G0001">Schöpfer</rs>, deine Macht,</l>
-					<l>Die Weiſheit deiner Wege,</l>
-					<l>Die Liebe, die für alle wacht,</l>
-					<l>Anbetend überlege:</l>
-					<l>So weis ich, von Bewundrung voll,</l>
-					<l>Nicht, wie ich dich erheben ſoll,</l>
-					<l>Mein <rs type="person" key="G0001">Gott, mein Herr und Vater</rs>!</l>
+					<lb/><l>Wenn ich, o <rs type="person" key="G0001">Schöpfer</rs>, deine Macht,</l>
+					<lb/><l>Die Weiſheit deiner Wege,</l>
+					<lb/><l>Die Liebe, die für alle wacht,</l>
+					<lb/><l>Anbetend überlege:</l>
+					<lb/><l>So weis ich, von Bewundrung voll,</l>
+					<lb/><l>Nicht, wie ich dich erheben ſoll,</l>
+					<lb/><l>Mein <rs type="person" key="G0001">Gott, mein Herr und Vater</rs>!</l>
 				</lg>
 				<lg>
-					<l>Mein Auge ſieht, wohin es blickt,</l>
-					<l>Die Wunder deiner Werke.</l>
-					<l>Der Himmel, prächtig auſgeſchmückt,</l>
-					<l>Preiſt dich, du <rs type="person" key="G0001">Gott</rs> der Stärke!</l>
-					<l>Wer hat die Sonn an ihm erhöht?</l>
-					<l>Wer kleidet ſie mit Majeſtät?</l>
-					<l>Wer ruft dem Heer der Sterne?</l>
+					<lb/><l>Mein Auge ſieht, wohin es blickt,</l>
+					<lb/><l>Die Wunder deiner Werke.</l>
+					<lb/><l>Der Himmel, prächtig auſgeſchmückt,</l>
+					<lb/><l>Preiſt dich, du <rs type="person" key="G0001">Gott</rs> der Stärke!</l>
+					<lb/><l>Wer hat die Sonn an ihm erhöht?</l>
+					<lb/><l>Wer kleidet ſie mit Majeſtät?</l>
+					<lb/><l>Wer ruft dem Heer der Sterne?</l>
 				</lg>
 				<lg>
-					<l>Wer mißt dem Winde ſeinen Lauf?</l>
-					<l>Wer heißt die Himmel regnen?</l>
-					<l>Wer ſchließt den Schooß der Erden auf,</l>
-					<l>Mit Vorrath uns zu ſegnen?</l>
-					<l>O <rs type="person" key="G0001">Gott</rs> der Macht und Herrlichkeit,</l>
-					<l><rs type="person" key="G0001">Gott</rs>, deine Güte reicht ſo weit,</l>
-					<l>So weit die Wolken reichen!</l>
+					<lb/><l>Wer mißt dem Winde ſeinen Lauf?</l>
+					<lb/><l>Wer heißt die Himmel regnen?</l>
+					<lb/><l>Wer ſchließt den Schooß der Erden auf,</l>
+					<lb/><l>Mit Vorrath uns zu ſegnen?</l>
+					<lb/><l>O <rs type="person" key="G0001">Gott</rs> der Macht und Herrlichkeit,</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, deine Güte reicht ſo weit,</l>
+					<lb/><l>So weit die Wolken reichen!</l>
 				</lg>
 				<pb n="63"/>
 				<lg>
-					<l>Dich predigt Sonnenſchein und Sturm,</l>
-					<l>Dich preiſt der Sand am Meere.</l>
-					<l>Bringt, ruft auch der geringſte Wurm,</l>
-					<l>Bringt meinem Schöpfer Ehre!</l>
-					<l>Mich, ruft der Baum in ſeiner Pracht,</l>
-					<l>Mich, ruft die Saat, hat <rs type="person" key="G0001">Gott</rs> gemacht;</l>
-					<l>Bringt unſerm <rs type="person" key="G0001">Schöpfer</rs> Ehre!</l>
+					<lb/><l>Dich predigt Sonnenſchein und Sturm,</l>
+					<lb/><l>Dich preiſt der Sand am Meere.</l>
+					<lb/><l>Bringt, ruft auch der geringſte Wurm,</l>
+					<lb/><l>Bringt meinem Schöpfer Ehre!</l>
+					<lb/><l>Mich, ruft der Baum in ſeiner Pracht,</l>
+					<lb/><l>Mich, ruft die Saat, hat <rs type="person" key="G0001">Gott</rs> gemacht;</l>
+					<lb/><l>Bringt unſerm <rs type="person" key="G0001">Schöpfer</rs> Ehre!</l>
 				</lg>
 				<lg>
-					<l>Der Menſch, ein Leib, den deine Hand</l>
-					<l>So wunderbar bereitet;</l>
-					<l>Der Menſch, ein Geiſt, den ſein Verſtand</l>
-					<l>Dich zu erkennen leitet.</l>
-					<l>Der Menſch, der Schöpfung Ruhm und Preis,</l>
-					<l>Iſt ſich ein täglicher Beweis</l>
-					<l>Von deiner Güt und Größe.</l>
+					<lb/><l>Der Menſch, ein Leib, den deine Hand</l>
+					<lb/><l>So wunderbar bereitet;</l>
+					<lb/><l>Der Menſch, ein Geiſt, den ſein Verſtand</l>
+					<lb/><l>Dich zu erkennen leitet.</l>
+					<lb/><l>Der Menſch, der Schöpfung Ruhm und Preis,</l>
+					<lb/><l>Iſt ſich ein täglicher Beweis</l>
+					<lb/><l>Von deiner Güt und Größe.</l>
 				</lg>
 				<lg>
-					<l>Erheb ihn ewig, o mein Geiſt,</l>
-					<l>Erhebe ſeinen Namen!</l>
-					<l><rs type="person" key="G0001">Gott</rs>, unſer Vater, ſey gepreiſt,</l>
-					<l>Und alle Welt ſag Amen!</l>
-					<l>Und alle Welt fürcht ihren <rs type="person" key="G0001">Herrn</rs>,</l>
-					<l>Und hoff auf ihn und dien ihm gern!</l>
-					<l>Wer wollte <rs type="person" key="G0001">Gott</rs> nicht dienen?</l>
+					<lb/><l>Erheb ihn ewig, o mein Geiſt,</l>
+					<lb/><l>Erhebe ſeinen Namen!</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, unſer Vater, ſey gepreiſt,</l>
+					<lb/><l>Und alle Welt ſag Amen!</l>
+					<lb/><l>Und alle Welt fürcht ihren <rs type="person" key="G0001">Herrn</rs>,</l>
+					<lb/><l>Und hoff auf ihn und dien ihm gern!</l>
+					<lb/><l>Wer wollte <rs type="person" key="G0001">Gott</rs> nicht dienen?</l>
 				</lg>
 			</div>
 		</body>

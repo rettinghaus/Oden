@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,156 +178,156 @@
 			<pb n="36"/>
 			<pb n="37" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Das natürliche Verderben des Menſchen.</head>
+				<head><title>Das natürliche Verderben des Menſchen.</title></head>
 				<lg>
-					<l>Wer bin ich von Natur, wenn ich mein Innres prüfe?</l>
-					<l>O wie viel Greul läßt mich mein Herze ſehn!</l>
-					<l>Es iſt verderbt; darum verbirgt mirs ſeine Tiefe,</l>
-					<l>Und weigert ſich, die Prüfung auſzuſtehn.</l>
+					<lb/><l>Wer bin ich von Natur, wenn ich mein Innres prüfe?</l>
+					<lb/><l>O wie viel Greul läßt mich mein Herze ſehn!</l>
+					<lb/><l>Es iſt verderbt; darum verbirgt mirs ſeine Tiefe,</l>
+					<lb/><l>Und weigert ſich, die Prüfung auſzuſtehn.</l>
 				</lg>
 				<lg>
-					<l>Der Weiſheit erſter Schritt iſt ſeine Thorheit kennen;</l>
-					<l>Und dieſen Schritt, wie oft verwehrt mirs ihn!</l>
-					<l>Voll Eigenlieb und Stolz will ſichs nicht ſtrafbar nennen,</l>
-					<l>Der Reu entgehn, doch nicht den Fehler fliehn.</l>
+					<lb/><l>Der Weiſheit erſter Schritt iſt ſeine Thorheit kennen;</l>
+					<lb/><l>Und dieſen Schritt, wie oft verwehrt mirs ihn!</l>
+					<lb/><l>Voll Eigenlieb und Stolz will ſichs nicht ſtrafbar nennen,</l>
+					<lb/><l>Der Reu entgehn, doch nicht den Fehler fliehn.</l>
 				</lg>
 				<lg>
-					<l>Wahr iſts, ich find in mir noch redendes Gewiſsen,</l>
-					<l>In der Vernunft noch Kenntniß meiner Pflicht.</l>
-					<l> Ich kann mein Auge nie der Tugend ganz <choice>
+					<lb/><l>Wahr iſts, ich find in mir noch redendes Gewiſsen,</l>
+					<lb/><l>In der Vernunft noch Kenntniß meiner Pflicht.</l>
+					<lb/><l> Ich kann mein Auge nie der Tugend ganz <choice>
 							<orig>verſchließen,</orig>
 							<reg>verſchlieſsen,</reg>
 						</choice>
 					</l>
-					<l>Und oft ſcheint mir ein Stral von ihrem Licht.</l>
+					<lb/><l>Und oft ſcheint mir ein Stral von ihrem Licht.</l>
 				</lg>
 				<lg>
-					<l>Doch ſchwaches Licht, das mir den Reiz der Tugend zeiget</l>
-					<l>Und vom Verſtand nicht bis zum Herzen dringt!</l>
-					<l>Vergebens lehret er, das Herz bleibt ungebeuget,</l>
-					<l> Hat ſein <choice>
+					<lb/><l>Doch ſchwaches Licht, das mir den Reiz der Tugend zeiget</l>
+					<lb/><l>Und vom Verſtand nicht bis zum Herzen dringt!</l>
+					<lb/><l>Vergebens lehret er, das Herz bleibt ungebeuget,</l>
+					<lb/><l> Hat ſein <choice>
 							<orig>Geſetz</orig>
 							<reg>Geſetz,</reg>
 						</choice> und folgt ihm unbedingt. </l>
 				</lg>
 				<pb n="37"/>
 				<lg>
-					<l>Ein Richter in mir ſelbſt ſtört oft des Herzens Ruhe;</l>
-					<l>Er klagt mich an. Ich ſteh erſchrocken ſtill,</l>
-					<l>Und billige nicht mehr das Böſe, das ich thue,</l>
-					<l>Und thue nicht das Gute, das ich will.</l>
+					<lb/><l>Ein Richter in mir ſelbſt ſtört oft des Herzens Ruhe;</l>
+					<lb/><l>Er klagt mich an. Ich ſteh erſchrocken ſtill,</l>
+					<lb/><l>Und billige nicht mehr das Böſe, das ich thue,</l>
+					<lb/><l>Und thue nicht das Gute, das ich will.</l>
 				</lg>
 				<lg>
-					<l>Verſtellung, die ich doch an meinem Nächſten haſse,</l>
-					<l> Erlaub <choice>
+					<lb/><l>Verſtellung, die ich doch an meinem Nächſten haſse,</l>
+					<lb/><l> Erlaub <choice>
 							<orig>ich</orig>
 							<reg>in</reg>
 						</choice> mir und halt es für Gewinn, </l>
-					<l>Wenn ich im falſchen Licht mich andern ſehen laſse,</l>
-					<l>Und ſcheinen kann, was ich mir ſelbſt nicht bin.</l>
+					<lb/><l>Wenn ich im falſchen Licht mich andern ſehen laſse,</l>
+					<lb/><l>Und ſcheinen kann, was ich mir ſelbſt nicht bin.</l>
 				</lg>
 				<lg>
-					<l>Ich weis, daß der Beſitz der Güter dieſer Erden</l>
-					<l>Der Seele nie das wahre Glück verleiht;</l>
-					<l>Doch bleiben ſie mein Wunſch; und um beglückt zu werden,</l>
-					<l>Erring ich mir die Laſt der Eitelkeit.</l>
+					<lb/><l>Ich weis, daß der Beſitz der Güter dieſer Erden</l>
+					<lb/><l>Der Seele nie das wahre Glück verleiht;</l>
+					<lb/><l>Doch bleiben ſie mein Wunſch; und um beglückt zu werden,</l>
+					<lb/><l>Erring ich mir die Laſt der Eitelkeit.</l>
 				</lg>
 				<lg>
-					<l>Ich weis, wie groß es ſei, aus Ueberlegung handeln,</l>
-					<l>Und handle doch aus ſinnlichem Gefühl.</l>
-					<l>Durch falſchen Schein getäuſcht, eil ich, ihm nachzuwandeln,</l>
-					<l>Und Leidenſchaft und Irrthum ſteckt mein Ziel.</l>
+					<lb/><l>Ich weis, wie groß es ſei, aus Ueberlegung handeln,</l>
+					<lb/><l>Und handle doch aus ſinnlichem Gefühl.</l>
+					<lb/><l>Durch falſchen Schein getäuſcht, eil ich, ihm nachzuwandeln,</l>
+					<lb/><l>Und Leidenſchaft und Irrthum ſteckt mein Ziel.</l>
 				</lg>
 				<pb n="38"/>
 				<lg>
-					<l> Ein gegenwärtig Gut versäum ich zu <choice>
+					<lb/><l> Ein gegenwärtig Gut versäum ich zu <choice>
 							<orig>genießen,</orig>
 							<reg>genieſsen,</reg>
 						</choice>
 					</l>
-					<l>Flieh, was mich ſucht, und ſuche, was mich flieht.</l>
-					<l>Im Glücke bin ich ſtolz, verzagt in Kümmerniſsen,</l>
-					<l>Und ohne Ruh um Ruhe ſtets bemüht.</l>
+					<lb/><l>Flieh, was mich ſucht, und ſuche, was mich flieht.</l>
+					<lb/><l>Im Glücke bin ich ſtolz, verzagt in Kümmerniſsen,</l>
+					<lb/><l>Und ohne Ruh um Ruhe ſtets bemüht.</l>
 				</lg>
 				<lg>
-					<l>Mein Nächſter hat ein Recht auf viele meiner Pflichten,</l>
-					<l>Doch wird dieß Recht ſo oft von mir entweiht.</l>
-					<l>Verſagt er mir die Pflicht: ſo eil ich, ihn zu richten;</l>
-					<l>Und ſein Verſehn iſt Ungerechtigkeit.</l>
+					<lb/><l>Mein Nächſter hat ein Recht auf viele meiner Pflichten,</l>
+					<lb/><l>Doch wird dieß Recht ſo oft von mir entweiht.</l>
+					<lb/><l>Verſagt er mir die Pflicht: ſo eil ich, ihn zu richten;</l>
+					<lb/><l>Und ſein Verſehn iſt Ungerechtigkeit.</l>
 				</lg>
 				<lg>
-					<l>Nicht Liebe gegen <rs type="person" key="G0001">Gott</rs> heißt mich dem
+					<lb/><l>Nicht Liebe gegen <rs type="person" key="G0001">Gott</rs> heißt mich dem
 						Nächſten dienen,</l>
-					<l>Mehr Eigenlieb und niedrer Eigennutz.</l>
-					<l>Aus ihnen fließt Betrug, Verſtellung; und in ihnen</l>
-					<l>Findt Neid und Haß, und Stolz und Härte Schutz.</l>
+					<lb/><l>Mehr Eigenlieb und niedrer Eigennutz.</l>
+					<lb/><l>Aus ihnen fließt Betrug, Verſtellung; und in ihnen</l>
+					<lb/><l>Findt Neid und Haß, und Stolz und Härte Schutz.</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Gott</rs> ehren iſt mein Ruf. Wenn ich den Ruf
+					<lb/><l><rs type="person" key="G0001">Gott</rs> ehren iſt mein Ruf. Wenn ich den Ruf
 						betrachte,</l>
-					<l>Was find ich da für Mängel meiner Pflicht!</l>
-					<l>Die Wunder der Natur, die <rs type="person" key="G0001">Gott</rs> zu Lehrern
+					<lb/><l>Was find ich da für Mängel meiner Pflicht!</l>
+					<lb/><l>Die Wunder der Natur, die <rs type="person" key="G0001">Gott</rs> zu Lehrern
 						machte,</l>
-					<l>Stehn vor mir da, und dieſe hör ich nicht.</l>
+					<lb/><l>Stehn vor mir da, und dieſe hör ich nicht.</l>
 				</lg>
 				<pb n="39"/>
 				<lg>
-					<l> Und heißt ihr Anblick mich auf ſeine Weiſheit <choice>
+					<lb/><l> Und heißt ihr Anblick mich auf ſeine Weiſheit <choice>
 							<orig>ſchließen,</orig>
 							<reg>ſchlieſsen,</reg>
 						</choice>
 					</l>
-					<l>Auf Güt und Macht: ſo ſchließt nur mein Verſtand.</l>
-					<l>Das Herz bleibt ungerührt, betäubt bleibt das Gewiſsen,</l>
-					<l>Und <rs type="person" key="G0001">Gott, mein Herr und Vater</rs>,
+					<lb/><l>Auf Güt und Macht: ſo ſchließt nur mein Verſtand.</l>
+					<lb/><l>Das Herz bleibt ungerührt, betäubt bleibt das Gewiſsen,</l>
+					<lb/><l>Und <rs type="person" key="G0001">Gott, mein Herr und Vater</rs>,
 						unerkannt.</l>
 				</lg>
 				<lg>
-					<l>Er ſchenkt mir ſo viel Glück. Gebrauch ich ſeine Güte</l>
-					<l>Zu meinem Heil; und geb ich ihr Gehör?</l>
-					<l>Nein, durch den Mißbrauch ſelbſt verſchließ ich mein Gemüthe</l>
-					<l>Der Dankbarkeit und Liebe deſtomehr.</l>
+					<lb/><l>Er ſchenkt mir ſo viel Glück. Gebrauch ich ſeine Güte</l>
+					<lb/><l>Zu meinem Heil; und geb ich ihr Gehör?</l>
+					<lb/><l>Nein, durch den Mißbrauch ſelbſt verſchließ ich mein Gemüthe</l>
+					<lb/><l>Der Dankbarkeit und Liebe deſtomehr.</l>
 				</lg>
 				<lg>
-					<l>Oft ſagt mir mein Verſtand, daß des Allmächtgen Gnade</l>
-					<l>Das größte Gut, der Troſt des Lebens iſt,</l>
-					<l>Und welche Schulden ich auf mein Gewiſsen lade,</l>
-					<l>Wenn ſie mein Herz für Menſchengunſt vergißt!</l>
+					<lb/><l>Oft ſagt mir mein Verſtand, daß des Allmächtgen Gnade</l>
+					<lb/><l>Das größte Gut, der Troſt des Lebens iſt,</l>
+					<lb/><l>Und welche Schulden ich auf mein Gewiſsen lade,</l>
+					<lb/><l>Wenn ſie mein Herz für Menſchengunſt vergißt!</l>
 				</lg>
 				<lg>
-					<l>Und doch, o <rs type="person" key="G0001">Gott</rs>, wie oft geb ich dieß
+					<lb/><l>Und doch, o <rs type="person" key="G0001">Gott</rs>, wie oft geb ich dieß
 						Glück der Seelen,</l>
-					<l>Dir werth zu ſeyn, für kindiſchen Gewinn,</l>
-					<l>Für einen Ruhm der Welt, für Lüſte, die mich quälen,</l>
-					<l>Für Eitelkeit und für ein Nichts dahin!</l>
+					<lb/><l>Dir werth zu ſeyn, für kindiſchen Gewinn,</l>
+					<lb/><l>Für einen Ruhm der Welt, für Lüſte, die mich quälen,</l>
+					<lb/><l>Für Eitelkeit und für ein Nichts dahin!</l>
 				</lg>
 				<pb n="40"/>
 				<lg>
-					<l><rs type="person" key="G0001">Gott</rs> iſt der Herr der Welt; auf ſeine
+					<lb/><l><rs type="person" key="G0001">Gott</rs> iſt der Herr der Welt; auf ſeine
 						Hülfe bauen</l>
-					<l>Iſt meine Pflicht. Doch wenn gehorch ich ihr?</l>
-					<l>Bald bebt mein Herz vor Furcht, und bald iſt das Vertrauen,</l>
-					<l>Das mich beſeelt, nur ein Vertraun zu mir.</l>
+					<lb/><l>Iſt meine Pflicht. Doch wenn gehorch ich ihr?</l>
+					<lb/><l>Bald bebt mein Herz vor Furcht, und bald iſt das Vertrauen,</l>
+					<lb/><l>Das mich beſeelt, nur ein Vertraun zu mir.</l>
 				</lg>
 				<lg>
-					<l>Dieß iſt des Menſchen Herz. Wer hat dieß Herz verheeret?</l>
-					<l>So kam es nicht, o <rs type="person" key="G0001">Gott</rs>, aus deiner
+					<lb/><l>Dieß iſt des Menſchen Herz. Wer hat dieß Herz verheeret?</l>
+					<lb/><l>So kam es nicht, o <rs type="person" key="G0001">Gott</rs>, aus deiner
 						Hand.</l>
-					<l>Der Menſch durch eigne Schuld hat ſeine Würd entehret;</l>
-					<l>Und beides fiel, ſein Herz und ſein Verſtand.</l>
+					<lb/><l>Der Menſch durch eigne Schuld hat ſeine Würd entehret;</l>
+					<lb/><l>Und beides fiel, ſein Herz und ſein Verſtand.</l>
 				</lg>
 				<lg>
-					<l>Doch ſo verderbt wir ſind, ſo ſchwach, uns ſelbſt zu heilen:</l>
-					<l>So ſteuert <rs type="person" key="G0001">Gott</rs> doch der
+					<lb/><l>Doch ſo verderbt wir ſind, ſo ſchwach, uns ſelbſt zu heilen:</l>
+					<lb/><l>So ſteuert <rs type="person" key="G0001">Gott</rs> doch der
 						Verdorbenheit,</l>
-					<l>Läßt durch ſein heilig Wort uns neue Kraft ertheilen,</l>
-					<l>Licht der Vernunft, dem Herzen Reinigkeit.</l>
+					<lb/><l>Läßt durch ſein heilig Wort uns neue Kraft ertheilen,</l>
+					<lb/><l>Licht der Vernunft, dem Herzen Reinigkeit.</l>
 				</lg>
 				<lg>
-					<l>Und du willſt dieſer Kraft, o Menſch, dich widerſetzen?</l>
-					<l>Sie beut ſich an, du aber wehreſt ihr?</l>
-					<l>Und willſt des größten Glücks dich ſelber unwerth ſchätzen?</l>
-					<l>Erkenne <rs type="person" key="G0001">Gott</rs>, noch ſteht dein Heil bey
+					<lb/><l>Und du willſt dieſer Kraft, o Menſch, dich widerſetzen?</l>
+					<lb/><l>Sie beut ſich an, du aber wehreſt ihr?</l>
+					<lb/><l>Und willſt des größten Glücks dich ſelber unwerth ſchätzen?</l>
+					<lb/><l>Erkenne <rs type="person" key="G0001">Gott</rs>, noch ſteht dein Heil bey
 						dir!</l>
 				</lg>
 			</div>

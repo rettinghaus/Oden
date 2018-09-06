@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,117 +178,117 @@
 			<pb n="78"/>
 			<pb n="17" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Gottes Macht und Vorſehung.</head>
+				<head><title>Gottes Macht und Vorſehung.</title></head>
 				<lg>
-					<l><rs type="person" key="G0001">Gott</rs> iſt mein Lied!</l>
-					<l>Er iſt der <rs type="person" key="G0001">Gott</rs> der Stärke;</l>
-					<l>Hehr iſt ſein Nam, und groß ſind ſeine Werke,</l>
-					<l>Und alle Himmel ſein Gebiet.</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> iſt mein Lied!</l>
+					<lb/><l>Er iſt der <rs type="person" key="G0001">Gott</rs> der Stärke;</l>
+					<lb/><l>Hehr iſt ſein Nam, und groß ſind ſeine Werke,</l>
+					<lb/><l>Und alle Himmel ſein Gebiet.</l>
 				</lg>
 				<lg>
-					<l>Er will und ſprichts;</l>
-					<l>So ſind und leben Welten.</l>
-					<l>Und er gebeut; ſo fallen durch ſein Schelten</l>
-					<l>Die Himmel wieder in ihr Nichts.</l>
+					<lb/><l>Er will und ſprichts;</l>
+					<lb/><l>So ſind und leben Welten.</l>
+					<lb/><l>Und er gebeut; ſo fallen durch ſein Schelten</l>
+					<lb/><l>Die Himmel wieder in ihr Nichts.</l>
 				</lg>
 				<lg>
-					<l>Licht iſt ſein Kleid,</l>
-					<l>Und ſeine Wahl das Beſte.</l>
-					<l>Er herrſcht als <rs type="person" key="G0001">Gott</rs>, und ſeines Thrones
+					<lb/><l>Licht iſt ſein Kleid,</l>
+					<lb/><l>Und ſeine Wahl das Beſte.</l>
+					<lb/><l>Er herrſcht als <rs type="person" key="G0001">Gott</rs>, und ſeines Thrones
 						Feſte</l>
-					<l>Iſt Wahrheit und Gerechtigkeit.</l>
+					<lb/><l>Iſt Wahrheit und Gerechtigkeit.</l>
 				</lg>
 				<lg>
-					<l>Unendlich reich,</l>
-					<l>Ein Meer von Seligkeiten,</l>
-					<l>Ohn Anfang <rs type="person" key="G0001">Gott</rs>, und <rs type="person"
+					<lb/><l>Unendlich reich,</l>
+					<lb/><l>Ein Meer von Seligkeiten,</l>
+					<lb/><l>Ohn Anfang <rs type="person" key="G0001">Gott</rs>, und <rs type="person"
 							key="G0001">Gott</rs> in ewgen Zeiten!</l>
-					<l><rs type="person" key="G0001">Herr</rs> aller Welt, wer iſt dir gleich?</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs> aller Welt, wer iſt dir gleich?</l>
 				</lg>
 				<lg>
-					<l>Was iſt und war,</l>
-					<l>In Himmel, Erd und Meere,</l>
-					<l>Das kennet <rs type="person" key="G0001">Gott</rs>, und ſeiner Werke
+					<lb/><l>Was iſt und war,</l>
+					<lb/><l>In Himmel, Erd und Meere,</l>
+					<lb/><l>Das kennet <rs type="person" key="G0001">Gott</rs>, und ſeiner Werke
 						Heere</l>
-					<l>Sind ewig vor ihm offenbar.</l>
+					<lb/><l>Sind ewig vor ihm offenbar.</l>
 				</lg>
 				<pb n="79"/>
 				<lg>
-					<l>Er iſt um mich,</l>
-					<l>
+					<lb/><l>Er iſt um mich,</l>
+					<lb/><l>
 						<choice>
 							<orig>Schafft,</orig>
 							<reg>Schaft,</reg>
 						</choice> daß ich ſicher ruhe; </l>
-					<l>Er ſchafft, was ich vor oder nachmals thue,</l>
-					<l>Und er erforſchet mich und dich.</l>
+					<lb/><l>Er ſchafft, was ich vor oder nachmals thue,</l>
+					<lb/><l>Und er erforſchet mich und dich.</l>
 				</lg>
 				<lg>
-					<l>Er iſt dir nah,</l>
-					<l>Du ſitzeſt oder geheſt;</l>
-					<l>Ob du ans Meer, ob du gen Himmel flöheſt:</l>
-					<l>So iſt er allenthalben da.</l>
+					<lb/><l>Er iſt dir nah,</l>
+					<lb/><l>Du ſitzeſt oder geheſt;</l>
+					<lb/><l>Ob du ans Meer, ob du gen Himmel flöheſt:</l>
+					<lb/><l>So iſt er allenthalben da.</l>
 				</lg>
 				<lg>
-					<l>Er kennt mein Flehn</l>
-					<l>Und allen Rath der Seele.</l>
-					<l>Er weiß, wie oft ich Gutes thu und fehle,</l>
-					<l>Und eilt, mir gnädig beyzuſtehn.</l>
+					<lb/><l>Er kennt mein Flehn</l>
+					<lb/><l>Und allen Rath der Seele.</l>
+					<lb/><l>Er weiß, wie oft ich Gutes thu und fehle,</l>
+					<lb/><l>Und eilt, mir gnädig beyzuſtehn.</l>
 				</lg>
 				<lg>
-					<l>Er wog mir dar,</l>
-					<l>Was er mir geben wollte,</l>
-					<l>Schrieb auf ſein Buch, wie lang ich leben ſollte,</l>
-					<l>Da ich noch unbereitet war.</l>
+					<lb/><l>Er wog mir dar,</l>
+					<lb/><l>Was er mir geben wollte,</l>
+					<lb/><l>Schrieb auf ſein Buch, wie lang ich leben ſollte,</l>
+					<lb/><l>Da ich noch unbereitet war.</l>
 				</lg>
 				<lg>
-					<l>Nichts, nichts iſt mein,</l>
-					<l>Das <rs type="person" key="G0001">Gott</rs> nicht angehöre.</l>
-					<l><rs type="person" key="G0001">Herr</rs>, immerdar ſoll deines Namens
+					<lb/><l>Nichts, nichts iſt mein,</l>
+					<lb/><l>Das <rs type="person" key="G0001">Gott</rs> nicht angehöre.</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, immerdar ſoll deines Namens
 						Ehre,</l>
-					<l>Dein Lob in meinem Munde ſeyn!</l>
+					<lb/><l>Dein Lob in meinem Munde ſeyn!</l>
 				</lg>
 				<pb n="80"/>
 				<lg>
-					<l>Wer kann die Pracht</l>
-					<l> Von deinen <choice>
+					<lb/><l>Wer kann die Pracht</l>
+					<lb/><l> Von deinen <choice>
 							<orig>Wundern</orig>
 							<reg>Wunden</reg>
 						</choice> faſsen? </l>
-					<l>Ein jeder Staub, den du haſt werden laſsen,</l>
-					<l>Verkündigt ſeines <rs type="person" key="G0001">Schöpfers</rs> Macht.</l>
+					<lb/><l>Ein jeder Staub, den du haſt werden laſsen,</l>
+					<lb/><l>Verkündigt ſeines <rs type="person" key="G0001">Schöpfers</rs> Macht.</l>
 				</lg>
 				<lg>
-					<l>Der kleinſte Halm</l>
-					<l>Iſt deiner Weiſheit Spiegel.</l>
-					<l>Du, Luft und Meer, ihr, Auen, Thal und Hügel,</l>
-					<l>Ihr ſeyd ſein Loblied und ſein Pſalm!</l>
+					<lb/><l>Der kleinſte Halm</l>
+					<lb/><l>Iſt deiner Weiſheit Spiegel.</l>
+					<lb/><l>Du, Luft und Meer, ihr, Auen, Thal und Hügel,</l>
+					<lb/><l>Ihr ſeyd ſein Loblied und ſein Pſalm!</l>
 				</lg>
 				<lg>
-					<l>Du tränkſt das Land,</l>
-					<l>Führſt uns auf grüne Weiden;</l>
-					<l> Und Nacht und Tag, und Korn und Wein und <choice>
+					<lb/><l>Du tränkſt das Land,</l>
+					<lb/><l>Führſt uns auf grüne Weiden;</l>
+					<lb/><l> Und Nacht und Tag, und Korn und Wein und <choice>
 							<orig>Freuden</orig>
 							<reg>Freude</reg>
 						</choice>
 					</l>
-					<l>Empfangen wir aus deiner Hand.</l>
+					<lb/><l>Empfangen wir aus deiner Hand.</l>
 				</lg>
 				<lg>
-					<l>Kein Sperling fällt,</l>
-					<l>Herr, ohne deinen Willen;</l>
-					<l>Sollt ich mein Herz nicht mit dem Troſte ſtillen,</l>
-					<l>Daß deine Hand mein Leben hält?</l>
+					<lb/><l>Kein Sperling fällt,</l>
+					<lb/><l>Herr, ohne deinen Willen;</l>
+					<lb/><l>Sollt ich mein Herz nicht mit dem Troſte ſtillen,</l>
+					<lb/><l>Daß deine Hand mein Leben hält?</l>
 				</lg>
 				<lg>
-					<l>Iſt <rs type="person" key="G0001">Gott</rs> mein Schutz,</l>
-					<l>Will <rs type="person" key="G0001">Gott</rs> mein Retter werden:</l>
-					<l> So frag ich nichts nach Himmel und nach <choice>
+					<lb/><l>Iſt <rs type="person" key="G0001">Gott</rs> mein Schutz,</l>
+					<lb/><l>Will <rs type="person" key="G0001">Gott</rs> mein Retter werden:</l>
+					<lb/><l> So frag ich nichts nach Himmel und nach <choice>
 							<orig>Erden,</orig>
 							<reg>Erden</reg>
 						</choice>
 					</l>
-					<l>Und biete ſelbſt der Hölle Trutz.</l>
+					<lb/><l>Und biete ſelbſt der Hölle Trutz.</l>
 				</lg>
 			</div>
 		</body>

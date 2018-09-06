@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,87 +178,87 @@
 			<pb n="106"/>
 			<pb n="52" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Demuth.</head>
+				<head><title>Demuth.</title></head>
 				<lg>
-					<l><rs type="person" key="G0001">Herr</rs>, lehre mich, wenn ich der Tugend
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, lehre mich, wenn ich der Tugend
 						diene,</l>
-					<l>Daß nicht mein Herz des Stolzes ſich erkühne,</l>
-					<l>Und nicht auf ſie vermeſsen ſey.</l>
-					<l><rs type="person" key="G0001">Herr</rs>, lehre mich, wie oft ich fehle,
+					<lb/><l>Daß nicht mein Herz des Stolzes ſich erkühne,</l>
+					<lb/><l>Und nicht auf ſie vermeſsen ſey.</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, lehre mich, wie oft ich fehle,
 						merken.</l>
-					<l>Was iſt der Menſch bey ſeinen beſten Werken?</l>
-					<l>Wenn ſind ſie von Gebrechen frey?</l>
+					<lb/><l>Was iſt der Menſch bey ſeinen beſten Werken?</l>
+					<lb/><l>Wenn ſind ſie von Gebrechen frey?</l>
 				</lg>
 				<lg>
-					<l>Wie oft fehlt mir zum Guten ſelbſt der Wille?</l>
-					<l>Wie oft, wenn ich auch dein Gebot erfülle,</l>
-					<l>Erfüll ichs minder, als ich ſoll!</l>
-					<l>Sind Lieb und Furcht ſtets die Bewegungſgründe</l>
-					<l>Der guten That, der unterlaßnen Sünde?</l>
-					<l>Und iſt mein Herz des Eifers voll?</l>
+					<lb/><l>Wie oft fehlt mir zum Guten ſelbſt der Wille?</l>
+					<lb/><l>Wie oft, wenn ich auch dein Gebot erfülle,</l>
+					<lb/><l>Erfüll ichs minder, als ich ſoll!</l>
+					<lb/><l>Sind Lieb und Furcht ſtets die Bewegungſgründe</l>
+					<lb/><l>Der guten That, der unterlaßnen Sünde?</l>
+					<lb/><l>Und iſt mein Herz des Eifers voll?</l>
 				</lg>
 				<lg>
-					<l>Gedenke nicht der Sünden meiner Jugend,</l>
-					<l>Gedenke nicht der unvollkommnen Tugend</l>
-					<l>Der reifern Jahre meiner Zeit.</l>
-					<l>Wenn ich noch oft aus Stolz nach Tugend ſtrebe,</l>
-					<l>Aus Menſchenfurcht mich Laſtern nicht ergebe;</l>
-					<l>Was iſt denn meine Frömmigkeit?</l>
+					<lb/><l>Gedenke nicht der Sünden meiner Jugend,</l>
+					<lb/><l>Gedenke nicht der unvollkommnen Tugend</l>
+					<lb/><l>Der reifern Jahre meiner Zeit.</l>
+					<lb/><l>Wenn ich noch oft aus Stolz nach Tugend ſtrebe,</l>
+					<lb/><l>Aus Menſchenfurcht mich Laſtern nicht ergebe;</l>
+					<lb/><l>Was iſt denn meine Frömmigkeit?</l>
 				</lg>
 				<pb n="107"/>
 				<lg>
-					<l>Wenn ich den Geiz aus Furcht der Schande fliehe,</l>
-					<l>Aus Weichlichkeit mich wohlzuthun bemühe,</l>
-					<l>Und mäßig bin, geſund zu ſeyn;</l>
-					<l>Wenn ich die Rach aus Eigennutze haſse,</l>
-					<l>Der Ehrfurcht Pfad aus Trägheit nur verlaſse;</l>
-					<l>Was iſt an dieſer Tugend mein?</l>
+					<lb/><l>Wenn ich den Geiz aus Furcht der Schande fliehe,</l>
+					<lb/><l>Aus Weichlichkeit mich wohlzuthun bemühe,</l>
+					<lb/><l>Und mäßig bin, geſund zu ſeyn;</l>
+					<lb/><l>Wenn ich die Rach aus Eigennutze haſse,</l>
+					<lb/><l>Der Ehrfurcht Pfad aus Trägheit nur verlaſse;</l>
+					<lb/><l>Was iſt an dieſer Tugend mein?</l>
 				</lg>
 				<lg>
-					<l>Und, <rs type="person" key="G0001">Gott</rs>, wie oft ſind unſre beſten
+					<lb/><l>Und, <rs type="person" key="G0001">Gott</rs>, wie oft ſind unſre beſten
 						Triebe</l>
-					<l>Nicht Frömmigkeit, nicht Früchte deiner Liebe,</l>
-					<l>Nur Früchte der Natur und Zeit!</l>
-					<l>Wenn fühlen wir der Tugend ganze Würde?</l>
-					<l>Wenn iſt dein Joch uns eine leichte Bürde,</l>
-					<l>Und dein Gebot Zufriedenheit?</l>
+					<lb/><l>Nicht Frömmigkeit, nicht Früchte deiner Liebe,</l>
+					<lb/><l>Nur Früchte der Natur und Zeit!</l>
+					<lb/><l>Wenn fühlen wir der Tugend ganze Würde?</l>
+					<lb/><l>Wenn iſt dein Joch uns eine leichte Bürde,</l>
+					<lb/><l>Und dein Gebot Zufriedenheit?</l>
 				</lg>
 				<lg>
-					<l>Doch, Herr mein <rs type="person" key="G0001">Gott</rs>, wenn auch zu deiner
+					<lb/><l>Doch, Herr mein <rs type="person" key="G0001">Gott</rs>, wenn auch zu deiner
 						Ehre</l>
-					<l>Mein Herze rein, rein meine Tugend wäre;</l>
-					<l>Weß iſt denn dieſes Eigenthum?</l>
-					<l>Wer ließ mich früh zur Tugend unterrichten,</l>
-					<l>Mein Glück mich ſehn in meines Lebens Pflichten,</l>
-					<l>Und im Gehorſam meinen Ruhm?</l>
+					<lb/><l>Mein Herze rein, rein meine Tugend wäre;</l>
+					<lb/><l>Weß iſt denn dieſes Eigenthum?</l>
+					<lb/><l>Wer ließ mich früh zur Tugend unterrichten,</l>
+					<lb/><l>Mein Glück mich ſehn in meines Lebens Pflichten,</l>
+					<lb/><l>Und im Gehorſam meinen Ruhm?</l>
 				</lg>
 				<lg>
-					<l>Wer gab mir Muth, <rs type="person" key="G0001">Herr</rs>, dein Gebot zu
+					<lb/><l>Wer gab mir Muth, <rs type="person" key="G0001">Herr</rs>, dein Gebot zu
 						lieben?</l>
-					<l>Wer gab mir Kraft, es freudig auſzuüben,</l>
-					<l>Und in Verſuchung Schild und Sieg?</l>
-					<l>Was iſt der Quell, der mich mit Weiſheit tränkte?</l>
-					<l>Und weß der Freund, der mich zum Guten lenkte,</l>
-					<l>Und mir den Fehler nicht verſchwieg?</l>
+					<lb/><l>Wer gab mir Kraft, es freudig auſzuüben,</l>
+					<lb/><l>Und in Verſuchung Schild und Sieg?</l>
+					<lb/><l>Was iſt der Quell, der mich mit Weiſheit tränkte?</l>
+					<lb/><l>Und weß der Freund, der mich zum Guten lenkte,</l>
+					<lb/><l>Und mir den Fehler nicht verſchwieg?</l>
 				</lg>
 				<pb n="108"/>
 				<lg>
-					<l>Du triebſt mich an, daß ich das Gute wählte,</l>
-					<l>Und riefſt mich oft, wenn ich des Wegs verfehlte,</l>
-					<l>Durch Stimmen deines Geiſts zurück;</l>
-					<l>Zogſt mich durch Kreuz, durch Wohlthat auch, von Sünden,</l>
-					<l>Ließt, wenn ich rief, mich wieder Gnade finden,</l>
-					<l>Und gabſt zu meiner Beßrung Glück.</l>
+					<lb/><l>Du triebſt mich an, daß ich das Gute wählte,</l>
+					<lb/><l>Und riefſt mich oft, wenn ich des Wegs verfehlte,</l>
+					<lb/><l>Durch Stimmen deines Geiſts zurück;</l>
+					<lb/><l>Zogſt mich durch Kreuz, durch Wohlthat auch, von Sünden,</l>
+					<lb/><l>Ließt, wenn ich rief, mich wieder Gnade finden,</l>
+					<lb/><l>Und gabſt zu meiner Beßrung Glück.</l>
 				</lg>
 				<lg>
-					<l>Was iſt der Menſch, daß du, <rs type="person" key="G0001">Gott</rs>, ſein
+					<lb/><l>Was iſt der Menſch, daß du, <rs type="person" key="G0001">Gott</rs>, ſein
 						gedenkeſt,</l>
-					<l>Gerechtigkeit in deinem <rs type="person" key="J0001">Sohn</rs> ihm
+					<lb/><l>Gerechtigkeit in deinem <rs type="person" key="J0001">Sohn</rs> ihm
 						ſchenkeſt,</l>
-					<l>Und zur Belohnung ſelbſt ein Recht?</l>
-					<l>Und wenn ich nun durch deines Geiſtes Gabe,</l>
-					<l>Des Glaubens Kraft, und alle Werke habe,</l>
-					<l>Wer bin ich? Ein unnützer Knecht.</l>
+					<lb/><l>Und zur Belohnung ſelbſt ein Recht?</l>
+					<lb/><l>Und wenn ich nun durch deines Geiſtes Gabe,</l>
+					<lb/><l>Des Glaubens Kraft, und alle Werke habe,</l>
+					<lb/><l>Wer bin ich? Ein unnützer Knecht.</l>
 				</lg>
 			</div>
 		</body>

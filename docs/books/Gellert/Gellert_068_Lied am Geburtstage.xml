@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,72 +178,72 @@
 			<pb n="68"/>
 			<pb n="42" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Lied am Geburtſtage.</head>
+				<head><title>Lied am Geburtſtage.</title></head>
 				<lg>
-					<l>Dir dank ich heute für mein Leben;</l>
-					<l>Am Tage, da du mirs gegeben,</l>
-					<l>Dank ich dir, <rs type="person" key="G0001">Gott</rs>, dafür.</l>
-					<l>Durch freye Gnad allein bewogen,</l>
-					<l>Haſt du mich aus dem Nichts gezogen;</l>
-					<l>Durch deine Güte bin ich hier.</l>
+					<lb/><l>Dir dank ich heute für mein Leben;</l>
+					<lb/><l>Am Tage, da du mirs gegeben,</l>
+					<lb/><l>Dank ich dir, <rs type="person" key="G0001">Gott</rs>, dafür.</l>
+					<lb/><l>Durch freye Gnad allein bewogen,</l>
+					<lb/><l>Haſt du mich aus dem Nichts gezogen;</l>
+					<lb/><l>Durch deine Güte bin ich hier.</l>
 				</lg>
 				<lg>
-					<l>Du haſt mich wunderbar bereitet,</l>
-					<l>An deiner Rechten mich geleitet,</l>
-					<l>Bis dieſen Augenblick.</l>
-					<l>Du gabſt mir tauſend frohe Tage,</l>
-					<l>Verwandelteſt ſelbſt meine Klage</l>
-					<l>Und meine Leiden in mein Glück.</l>
+					<lb/><l>Du haſt mich wunderbar bereitet,</l>
+					<lb/><l>An deiner Rechten mich geleitet,</l>
+					<lb/><l>Bis dieſen Augenblick.</l>
+					<lb/><l>Du gabſt mir tauſend frohe Tage,</l>
+					<lb/><l>Verwandelteſt ſelbſt meine Klage</l>
+					<lb/><l>Und meine Leiden in mein Glück.</l>
 				</lg>
 				<lg>
-					<l>Ich bin der Treue zu geringe,</l>
-					<l>Mit der du, Herrſcher aller Dinge,</l>
-					<l>Stets über mich gewacht.</l>
-					<l>O <rs type="person" key="G0001">Gott</rs>, damit ich glücklich werde,</l>
-					<l>Haſt du an mich, mich Staub und Erde,</l>
-					<l>Von Ewigkeit her ſchon gedacht!</l>
+					<lb/><l>Ich bin der Treue zu geringe,</l>
+					<lb/><l>Mit der du, Herrſcher aller Dinge,</l>
+					<lb/><l>Stets über mich gewacht.</l>
+					<lb/><l>O <rs type="person" key="G0001">Gott</rs>, damit ich glücklich werde,</l>
+					<lb/><l>Haſt du an mich, mich Staub und Erde,</l>
+					<lb/><l>Von Ewigkeit her ſchon gedacht!</l>
 				</lg>
 				<lg>
-					<l>Du ſahſt und hörteſt ſchon mein Sehnen</l>
-					<l>Und zählteſt alle meine Thränen,</l>
-					<l>Eh ich bereitet war;</l>
-					<l>Und wogſt, eh ich zu ſeyn begonnte,</l>
-					<l>Eh ich zu dir noch rufen konnte,</l>
-					<l>Mir mein beſcheiden Theil ſchon dar.</l>
+					<lb/><l>Du ſahſt und hörteſt ſchon mein Sehnen</l>
+					<lb/><l>Und zählteſt alle meine Thränen,</l>
+					<lb/><l>Eh ich bereitet war;</l>
+					<lb/><l>Und wogſt, eh ich zu ſeyn begonnte,</l>
+					<lb/><l>Eh ich zu dir noch rufen konnte,</l>
+					<lb/><l>Mir mein beſcheiden Theil ſchon dar.</l>
 				</lg>
 				<pb n="69"/>
 				<lg>
-					<l>Du ließt mich Gnade vor dir finden;</l>
-					<l>Und ſahſt doch alle meine Sünden</l>
-					<l>Vorher von Ewigkeit.</l>
-					<l>O welche Liebe, welch Erbarmen!</l>
-					<l>Der <rs type="person" key="G0001">Herr</rs> der Welt ſorgt für mich
+					<lb/><l>Du ließt mich Gnade vor dir finden;</l>
+					<lb/><l>Und ſahſt doch alle meine Sünden</l>
+					<lb/><l>Vorher von Ewigkeit.</l>
+					<lb/><l>O welche Liebe, welch Erbarmen!</l>
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> der Welt ſorgt für mich
 						Armen,</l>
-					<l>Und iſt ein <rs type="person" key="G0001">Vater</rs>, der verzeiht.</l>
+					<lb/><l>Und iſt ein <rs type="person" key="G0001">Vater</rs>, der verzeiht.</l>
 				</lg>
 				<lg>
-					<l>Für alle Wunder deiner Treue,</l>
-					<l>Für alles, deſsen ich mich freue,</l>
-					<l>Lobſinget dir mein Geiſt.</l>
-					<l>Er ſelber iſt dein größt' Geſchenke;</l>
-					<l>Dein iſts, daß ich durch ihn dich denke,</l>
-					<l>Und dein, daß er dich heute preiſt.</l>
+					<lb/><l>Für alle Wunder deiner Treue,</l>
+					<lb/><l>Für alles, deſsen ich mich freue,</l>
+					<lb/><l>Lobſinget dir mein Geiſt.</l>
+					<lb/><l>Er ſelber iſt dein größt' Geſchenke;</l>
+					<lb/><l>Dein iſts, daß ich durch ihn dich denke,</l>
+					<lb/><l>Und dein, daß er dich heute preiſt.</l>
 				</lg>
 				<lg>
-					<l>Daß du mein Leben mir gefriſtet,</l>
-					<l>Mit Stärk und Kraft mich auſgerüſtet,</l>
-					<l>Dies, <rs type="person" key="G0001">Vater</rs>, dank ich dir;</l>
-					<l>Daß du mich wunderbar geführet,</l>
-					<l>Mit deinem Geiſte mich regieret,</l>
-					<l>Dies alles, <rs type="person" key="G0001">Vater</rs>, dank ich dir.</l>
+					<lb/><l>Daß du mein Leben mir gefriſtet,</l>
+					<lb/><l>Mit Stärk und Kraft mich auſgerüſtet,</l>
+					<lb/><l>Dies, <rs type="person" key="G0001">Vater</rs>, dank ich dir;</l>
+					<lb/><l>Daß du mich wunderbar geführet,</l>
+					<lb/><l>Mit deinem Geiſte mich regieret,</l>
+					<lb/><l>Dies alles, <rs type="person" key="G0001">Vater</rs>, dank ich dir.</l>
 				</lg>
 				<lg>
-					<l>Soll ich, o <rs type="person" key="G0001">Gott</rs>, noch länger leben:</l>
-					<l>So wirſt du, was mir gut iſt, geben;</l>
-					<l>Du gibſts, ich hoff auf dich.</l>
-					<l>Dir <rs type="person" key="G0001">Gott</rs> befehl ich Leib und Seele.</l>
-					<l>Du <rs type="person" key="G0001">Herr Herr</rs>, dem ich ſie befehle,</l>
-					<l>Der ſegne und behüte mich!</l>
+					<lb/><l>Soll ich, o <rs type="person" key="G0001">Gott</rs>, noch länger leben:</l>
+					<lb/><l>So wirſt du, was mir gut iſt, geben;</l>
+					<lb/><l>Du gibſts, ich hoff auf dich.</l>
+					<lb/><l>Dir <rs type="person" key="G0001">Gott</rs> befehl ich Leib und Seele.</l>
+					<lb/><l>Du <rs type="person" key="G0001">Herr Herr</rs>, dem ich ſie befehle,</l>
+					<lb/><l>Der ſegne und behüte mich!</l>
 				</lg>
 			</div>
 		</body>

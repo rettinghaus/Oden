@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,46 +178,46 @@
 			<pb n="22"/>
 			<pb n="53" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Widen den Uebermuth.</head>
+				<head><title>Widen den Uebermuth.</title></head>
 				<lg>
-					<l>Was iſt mein Stand, mein Glück, und jede gute Gabe?</l>
-					<l>Ein unverdientes Gut.</l>
-					<l>Bewahre mich, o <rs type="person" key="G0001">Gott</rs>, von dem ich alles
+					<lb/><l>Was iſt mein Stand, mein Glück, und jede gute Gabe?</l>
+					<lb/><l>Ein unverdientes Gut.</l>
+					<lb/><l>Bewahre mich, o <rs type="person" key="G0001">Gott</rs>, von dem ich alles
 						habe,</l>
-					<l>Vor Stolz und Uebermuth.</l>
+					<lb/><l>Vor Stolz und Uebermuth.</l>
 				</lg>
 				<lg>
-					<l>Wenn ich vielleicht der Welt mehr, als mein Nächſter, nütze;</l>
-					<l>Wer gab mir Kraft dazu?</l>
-					<l>Und wenn ich mehr Verſtand, als er beſitzt, beſitze;</l>
-					<l>Wer gab mir ihn, als du?</l>
+					<lb/><l>Wenn ich vielleicht der Welt mehr, als mein Nächſter, nütze;</l>
+					<lb/><l>Wer gab mir Kraft dazu?</l>
+					<lb/><l>Und wenn ich mehr Verſtand, als er beſitzt, beſitze;</l>
+					<lb/><l>Wer gab mir ihn, als du?</l>
 				</lg>
 				<lg>
-					<l>Wenn mir ein größer Glück, als ihn erfreut, begegnet,</l>
-					<l>Bin ich dein beßrer Knecht?</l>
-					<l>Giebt deine Gütigkeit, die mich vor andern ſegnet,</l>
-					<l>Mir wohl zum Stolz ein Recht?</l>
+					<lb/><l>Wenn mir ein größer Glück, als ihn erfreut, begegnet,</l>
+					<lb/><l>Bin ich dein beßrer Knecht?</l>
+					<lb/><l>Giebt deine Gütigkeit, die mich vor andern ſegnet,</l>
+					<lb/><l>Mir wohl zum Stolz ein Recht?</l>
 				</lg>
 				<lg>
-					<l>Wenn ich, geehrt und groß, in Würden mich erblicke,</l>
-					<l><rs type="person" key="G0001">Gott</rs>, wer erhöhte mich?</l>
-					<l>Iſt nicht mein Nächſter oft, bei ſeinem kleinern Glücke,</l>
-					<l>Viel würdiger, als ich?</l>
+					<lb/><l>Wenn ich, geehrt und groß, in Würden mich erblicke,</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, wer erhöhte mich?</l>
+					<lb/><l>Iſt nicht mein Nächſter oft, bei ſeinem kleinern Glücke,</l>
+					<lb/><l>Viel würdiger, als ich?</l>
 				</lg>
 				<pb n="23"/>
 				<lg>
-					<l>Wie könnt ich mich, o <rs type="person" key="G0001">Gott</rs>, des Guten
+					<lb/><l>Wie könnt ich mich, o <rs type="person" key="G0001">Gott</rs>, des Guten
 						überheben</l>
-					<l>Und meines ſchwachen Lichts?</l>
-					<l>Was ich beſitz, iſt dein. Du ſprichſt! ſo bin ich Leben;</l>
-					<l>Du ſprichſt! ſo bin ich nichts.</l>
+					<lb/><l>Und meines ſchwachen Lichts?</l>
+					<lb/><l>Was ich beſitz, iſt dein. Du ſprichſt! ſo bin ich Leben;</l>
+					<lb/><l>Du ſprichſt! ſo bin ich nichts.</l>
 				</lg>
 				<lg>
-					<l>Von dir kömmt das Gedeyn, und jede gute Gabe</l>
-					<l>Von dir, du höchſtes Gut!</l>
-					<l>Bewahre mich, o <rs type="person" key="G0001">Gott</rs>, von dem ich alles
+					<lb/><l>Von dir kömmt das Gedeyn, und jede gute Gabe</l>
+					<lb/><l>Von dir, du höchſtes Gut!</l>
+					<lb/><l>Bewahre mich, o <rs type="person" key="G0001">Gott</rs>, von dem ich alles
 						habe,</l>
-					<l>Vor Stolz und Uebermuth.</l>
+					<lb/><l>Vor Stolz und Uebermuth.</l>
 				</lg>
 			</div>
 		</body>

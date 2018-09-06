@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,90 +178,90 @@
 			<pb n="3"/>
 			<pb n="8" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Danklied.</head>
+				<head><title>Danklied.</title></head>
 				<lg>
-					<l>Du biſts, dem Ruhm und Ehre gebühret;</l>
-					<l>Und Ruhm und Ehre bring ich dir.</l>
-					<l>Du, <rs type="person" key="G0001">Herr</rs>, haſt ſtets mein Schickſal
+					<lb/><l>Du biſts, dem Ruhm und Ehre gebühret;</l>
+					<lb/><l>Und Ruhm und Ehre bring ich dir.</l>
+					<lb/><l>Du, <rs type="person" key="G0001">Herr</rs>, haſt ſtets mein Schickſal
 						regieret,</l>
-					<l>und deine Hand war über mir.</l>
+					<lb/><l>und deine Hand war über mir.</l>
 				</lg>
 				<lg>
-					<l>Wenn Noth zu meiner Hütte ſich nahte:</l>
-					<l>So hörte <rs type="person" key="G0001">Gott, der Herr</rs>, mein Flehn,</l>
-					<l>Und ließ, nach ſeinem gnädigen Rathe,</l>
-					<l>Mich nicht in meiner Noth vergehn.</l>
+					<lb/><l>Wenn Noth zu meiner Hütte ſich nahte:</l>
+					<lb/><l>So hörte <rs type="person" key="G0001">Gott, der Herr</rs>, mein Flehn,</l>
+					<lb/><l>Und ließ, nach ſeinem gnädigen Rathe,</l>
+					<lb/><l>Mich nicht in meiner Noth vergehn.</l>
 				</lg>
 				<lg>
-					<l>Ich ſank in Schmerz und Krankheit danieder,</l>
-					<l>Und rief: O <rs type="person" key="G0001">Herr</rs>, errette mich!</l>
-					<l>Da half mir <rs type="person" key="G0001">Gott</rs>, der Mächtige,
+					<lb/><l>Ich ſank in Schmerz und Krankheit danieder,</l>
+					<lb/><l>Und rief: O <rs type="person" key="G0001">Herr</rs>, errette mich!</l>
+					<lb/><l>Da half mir <rs type="person" key="G0001">Gott</rs>, der Mächtige,
 						wieder,</l>
-					<l>Und mein Gebein erfreute ſich.</l>
+					<lb/><l>Und mein Gebein erfreute ſich.</l>
 				</lg>
 				<lg>
-					<l>Wenn mich der Haß des Feindes betrübte:</l>
-					<l>Klagt ich <rs type="person" key="G0001">Gott</rs> kindlich meinen
+					<lb/><l>Wenn mich der Haß des Feindes betrübte:</l>
+					<lb/><l>Klagt ich <rs type="person" key="G0001">Gott</rs> kindlich meinen
 						Schmerz.</l>
-					<l>Er half, daß ich nicht Rache verübte,</l>
-					<l>Und ſtärkte durch Geduld mein Herz.</l>
+					<lb/><l>Er half, daß ich nicht Rache verübte,</l>
+					<lb/><l>Und ſtärkte durch Geduld mein Herz.</l>
 				</lg>
 				<lg>
-					<l>Wenn ich, verirrt vom richtigen Pfade,</l>
-					<l>Mit Sünde mich umfangen ſah,</l>
-					<l>Rief ich zu ihm, dem <rs type="person" key="G0001">Vater der Gnade</rs>;</l>
-					<l>Und ſeine Gnade war mir nah.</l>
+					<lb/><l>Wenn ich, verirrt vom richtigen Pfade,</l>
+					<lb/><l>Mit Sünde mich umfangen ſah,</l>
+					<lb/><l>Rief ich zu ihm, dem <rs type="person" key="G0001">Vater der Gnade</rs>;</l>
+					<lb/><l>Und ſeine Gnade war mir nah.</l>
 				</lg>
 				<pb n="4"/>
 				<lg>
-					<l>Um Troſt war meiner Seele ſo bange;</l>
-					<l>Denn <rs type="person" key="G0001">Gott</rs> verbarg ſein Angeſicht.</l>
-					<l>Ich rief zu ihm: Ach <rs type="person" key="G0001">Herr</rs>, wie ſo
+					<lb/><l>Um Troſt war meiner Seele ſo bange;</l>
+					<lb/><l>Denn <rs type="person" key="G0001">Gott</rs> verbarg ſein Angeſicht.</l>
+					<lb/><l>Ich rief zu ihm: Ach <rs type="person" key="G0001">Herr</rs>, wie ſo
 						lange?</l>
-					<l>Und <rs type="person" key="G0001">Gott</rs> verließ den Schwachen nicht.</l>
+					<lb/><l>Und <rs type="person" key="G0001">Gott</rs> verließ den Schwachen nicht.</l>
 				</lg>
 				<lg>
-					<l>Er half, und wird mich ferner erlöſen.</l>
-					<l>Er hilft; der <rs type="person" key="G0001">Herr</rs> iſt fromm und gut.</l>
-					<l>Er hilft aus der Verſuchung zum Böſen,</l>
-					<l>Und gibt mir zu der Tugend Muth.</l>
+					<lb/><l>Er half, und wird mich ferner erlöſen.</l>
+					<lb/><l>Er hilft; der <rs type="person" key="G0001">Herr</rs> iſt fromm und gut.</l>
+					<lb/><l>Er hilft aus der Verſuchung zum Böſen,</l>
+					<lb/><l>Und gibt mir zu der Tugend Muth.</l>
 				</lg>
 				<lg>
-					<l>Dir dank ich für die Prüfung der Leiden,</l>
-					<l>Die du mir liebreich zugeſchickt.</l>
-					<l>Dir dank ich für die häufigern Freuden,</l>
-					<l>Womit mich deine Hand beglückt.</l>
+					<lb/><l>Dir dank ich für die Prüfung der Leiden,</l>
+					<lb/><l>Die du mir liebreich zugeſchickt.</l>
+					<lb/><l>Dir dank ich für die häufigern Freuden,</l>
+					<lb/><l>Womit mich deine Hand beglückt.</l>
 				</lg>
 				<lg>
-					<l>Dir dank ich für die Güter der Erden,</l>
-					<l>Für die Geſchenke deiner Treu.</l>
-					<l>Dir dank ich; denn du hießeſt ſie werden,</l>
-					<l>Und deine Güt iſt täglich neu.</l>
+					<lb/><l>Dir dank ich für die Güter der Erden,</l>
+					<lb/><l>Für die Geſchenke deiner Treu.</l>
+					<lb/><l>Dir dank ich; denn du hießeſt ſie werden,</l>
+					<lb/><l>Und deine Güt iſt täglich neu.</l>
 				</lg>
 				<lg>
-					<l>Dir dank ich für das Wunder der Güte;</l>
-					<l>Selbſt deinen <rs type="person" key="J0001">Sohn</rs> gabſt du für mich.</l>
-					<l>Von ganzer Seel und ganzem Gemüthe,</l>
-					<l>Von allen Kräften preis ich dich.</l>
+					<lb/><l>Dir dank ich für das Wunder der Güte;</l>
+					<lb/><l>Selbſt deinen <rs type="person" key="J0001">Sohn</rs> gabſt du für mich.</l>
+					<lb/><l>Von ganzer Seel und ganzem Gemüthe,</l>
+					<lb/><l>Von allen Kräften preis ich dich.</l>
 				</lg>
 				<pb n="5"/>
 				<lg>
-					<l>Erhebt ihn ewig, göttliche Werke!</l>
-					<l>Die Erd iſt voll der Huld des <rs type="person" key="G0001">Herrn</rs>.</l>
-					<l>Sein, ſein iſt Ruhm und Weiſheit und Stärke.</l>
-					<l>Er hilft und er errettet gern.</l>
+					<lb/><l>Erhebt ihn ewig, göttliche Werke!</l>
+					<lb/><l>Die Erd iſt voll der Huld des <rs type="person" key="G0001">Herrn</rs>.</l>
+					<lb/><l>Sein, ſein iſt Ruhm und Weiſheit und Stärke.</l>
+					<lb/><l>Er hilft und er errettet gern.</l>
 				</lg>
 				<lg>
-					<l>Er hilft. Des Abends währet die Klage,</l>
-					<l>Des Morgens die Zufriedenheit.</l>
-					<l>Nach einer Prüfung weniger Tage</l>
-					<l>Erhebt er uns zur Seligkeit.</l>
+					<lb/><l>Er hilft. Des Abends währet die Klage,</l>
+					<lb/><l>Des Morgens die Zufriedenheit.</l>
+					<lb/><l>Nach einer Prüfung weniger Tage</l>
+					<lb/><l>Erhebt er uns zur Seligkeit.</l>
 				</lg>
 				<lg>
-					<l>Vergiſs nicht deines <rs type="person" key="G0001">Gottes</rs>, o Seele!</l>
-					<l>Vergiſs nicht, was er dir gethan!</l>
-					<l>Verehr und halte ſeine Befehle,</l>
-					<l>Und bet ihn durch Gehorſam an!</l>
+					<lb/><l>Vergiſs nicht deines <rs type="person" key="G0001">Gottes</rs>, o Seele!</l>
+					<lb/><l>Vergiſs nicht, was er dir gethan!</l>
+					<lb/><l>Verehr und halte ſeine Befehle,</l>
+					<lb/><l>Und bet ihn durch Gehorſam an!</l>
 				</lg>
 			</div>
 		</body>

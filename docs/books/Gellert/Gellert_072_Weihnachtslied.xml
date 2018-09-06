@@ -6,7 +6,7 @@
 				<title> Gellert: Weihnachtslied </title>
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -68,7 +68,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -178,76 +177,76 @@
 			<pb n="72"/>
 			<pb n="47" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Weihnachtſlied.</head>
+				<head><title>Weihnachtſlied.</title></head>
 				<lg>
-					<l>Dieß iſt der Tag, den <rs type="person" key="G0001">Gott</rs> gemacht;</l>
-					<l>Sein werd in aller Welt gedacht!</l>
-					<l>Ihn preiſe, was durch <rs type="person" key="J0001">Jeſum Chriſt</rs></l>
-					<l>Im Himmel und auf Erden iſt!</l>
+					<lb/><l>Dieß iſt der Tag, den <rs type="person" key="G0001">Gott</rs> gemacht;</l>
+					<lb/><l>Sein werd in aller Welt gedacht!</l>
+					<lb/><l>Ihn preiſe, was durch <rs type="person" key="J0001">Jeſum Chriſt</rs></l>
+					<lb/><l>Im Himmel und auf Erden iſt!</l>
 				</lg>
 				<lg>
-					<l>Die Völker haben dein geharrt,</l>
-					<l>Bis daß die Zeit erfüllet ward;</l>
-					<l>Da ſandte <rs type="person" key="G0001">Gott</rs> von ſeinem Thron</l>
-					<l>das Heil der Welt, dich, ſeinen <rs type="person" key="J0001">Sohn</rs>.</l>
+					<lb/><l>Die Völker haben dein geharrt,</l>
+					<lb/><l>Bis daß die Zeit erfüllet ward;</l>
+					<lb/><l>Da ſandte <rs type="person" key="G0001">Gott</rs> von ſeinem Thron</l>
+					<lb/><l>das Heil der Welt, dich, ſeinen <rs type="person" key="J0001">Sohn</rs>.</l>
 				</lg>
 				<lg>
-					<l>Wenn ich dieß Wunder faſsen will:</l>
-					<l>So ſteht mein Geiſt vor Ehrfurcht ſtill.</l>
-					<l>Er betet an, und er ermißt,</l>
-					<l>Daß <rs type="person" key="G0001">Gottes</rs> Lieb unendlich iſt.</l>
+					<lb/><l>Wenn ich dieß Wunder faſsen will:</l>
+					<lb/><l>So ſteht mein Geiſt vor Ehrfurcht ſtill.</l>
+					<lb/><l>Er betet an, und er ermißt,</l>
+					<lb/><l>Daß <rs type="person" key="G0001">Gottes</rs> Lieb unendlich iſt.</l>
 				</lg>
 				<lg>
-					<l>Damit der Sünder Gnad erhält,</l>
-					<l>Erniedrigſt du dich, <rs type="person" key="G0001">Herr</rs> der Welt,</l>
-					<l>Nimmſt ſelbſt an unſrer Menſchheit Theil,</l>
-					<l>Erſcheinſt im Fleiſch, und wirſt uns Heil.</l>
+					<lb/><l>Damit der Sünder Gnad erhält,</l>
+					<lb/><l>Erniedrigſt du dich, <rs type="person" key="G0001">Herr</rs> der Welt,</l>
+					<lb/><l>Nimmſt ſelbſt an unſrer Menſchheit Theil,</l>
+					<lb/><l>Erſcheinſt im Fleiſch, und wirſt uns Heil.</l>
 				</lg>
 				<lg>
-					<l>Dein <rs type="person" key="J0001">König</rs>, <placeName>Zion</placeName>,
+					<lb/><l>Dein <rs type="person" key="J0001">König</rs>, <placeName>Zion</placeName>,
 						kömmt zu dir.</l>
-					<l>"Ich komm, im Buche ſteht von mir;</l>
-					<l>"<rs type="person" key="G0001">Gott</rs>, deinen Willen thu ich gern.</l>
-					<l>Gelobt ſey, der da kömmt im <rs type="person" key="G0001">Herrn</rs>!</l>
+					<lb/><l>"Ich komm, im Buche ſteht von mir;</l>
+					<lb/><l>"<rs type="person" key="G0001">Gott</rs>, deinen Willen thu ich gern.</l>
+					<lb/><l>Gelobt ſey, der da kömmt im <rs type="person" key="G0001">Herrn</rs>!</l>
 				</lg>
 				<pb n="73"/>
 				<lg>
-					<l><rs type="person" key="J0001">Herr</rs>, der du Menſch gebohren wirſt,</l>
-					<l><rs type="person" key="J0001">Immanuel</rs> und <rs type="person" key="J0001"
+					<lb/><l><rs type="person" key="J0001">Herr</rs>, der du Menſch gebohren wirſt,</l>
+					<lb/><l><rs type="person" key="J0001">Immanuel</rs> und <rs type="person" key="J0001"
 							>Friedefürſt</rs>,</l>
-					<l>Auf den die Väter hoffend ſahn,</l>
-					<l>Dich, <rs type="person" key="J0001">Gott Meſsias</rs>, bet ich an.</l>
+					<lb/><l>Auf den die Väter hoffend ſahn,</l>
+					<lb/><l>Dich, <rs type="person" key="J0001">Gott Meſsias</rs>, bet ich an.</l>
 				</lg>
 				<lg>
-					<l>Du, unſer Heil und höchſtes Gut,</l>
-					<l>Vereineſt dich mit Fleiſch und Blut,</l>
-					<l>Wirſt unſer Freund und Bruder hier,</l>
-					<l>Und <rs type="person" key="G0001">Gottes</rs> Kinder werden wir.</l>
+					<lb/><l>Du, unſer Heil und höchſtes Gut,</l>
+					<lb/><l>Vereineſt dich mit Fleiſch und Blut,</l>
+					<lb/><l>Wirſt unſer Freund und Bruder hier,</l>
+					<lb/><l>Und <rs type="person" key="G0001">Gottes</rs> Kinder werden wir.</l>
 				</lg>
 				<lg>
-					<l>Gedanke voller Majeſtät!</l>
-					<l>Du biſt es, der das Herz erhöht.</l>
-					<l>Gedanke voller Seligkeit!</l>
-					<l>Du biſt es, der das Herz erfreut.</l>
+					<lb/><l>Gedanke voller Majeſtät!</l>
+					<lb/><l>Du biſt es, der das Herz erhöht.</l>
+					<lb/><l>Gedanke voller Seligkeit!</l>
+					<lb/><l>Du biſt es, der das Herz erfreut.</l>
 				</lg>
 				<lg>
-					<l>Durch Eines Sünde fiel die Welt.</l>
-					<l>Ein Mittler iſts, der ſie erhält.</l>
-					<l>Was zagt der Menſch, wenn der ihn ſchützt,</l>
-					<l>Der in des <rs type="person" key="G0001">Vaters</rs> Schooße ſitzt?</l>
+					<lb/><l>Durch Eines Sünde fiel die Welt.</l>
+					<lb/><l>Ein Mittler iſts, der ſie erhält.</l>
+					<lb/><l>Was zagt der Menſch, wenn der ihn ſchützt,</l>
+					<lb/><l>Der in des <rs type="person" key="G0001">Vaters</rs> Schooße ſitzt?</l>
 				</lg>
 				<lg>
-					<l>Jauchzt, Himmel, die ihr ihn erfuhrt,</l>
-					<l>Den Tag der heiligſten Geburt;</l>
-					<l>Und Erde, die ihn heute ſieht,</l>
-					<l>Sing ihm, dem <rs type="person" key="G0001">Herrn</rs>, ein neues Lied!</l>
+					<lb/><l>Jauchzt, Himmel, die ihr ihn erfuhrt,</l>
+					<lb/><l>Den Tag der heiligſten Geburt;</l>
+					<lb/><l>Und Erde, die ihn heute ſieht,</l>
+					<lb/><l>Sing ihm, dem <rs type="person" key="G0001">Herrn</rs>, ein neues Lied!</l>
 				</lg>
 				<pb n="74"/>
 				<lg>
-					<l>Dieß iſt der Tag, den <rs type="person" key="G0001">Gott</rs> gemacht;</l>
-					<l>Sein werd in aller Welt gedacht!</l>
-					<l>Ihn preiſe, was durch <rs type="person" key="G0001">Jeſum Chriſt</rs></l>
-					<l>Im Himmel und auf Erden iſt!</l>
+					<lb/><l>Dieß iſt der Tag, den <rs type="person" key="G0001">Gott</rs> gemacht;</l>
+					<lb/><l>Sein werd in aller Welt gedacht!</l>
+					<lb/><l>Ihn preiſe, was durch <rs type="person" key="G0001">Jeſum Chriſt</rs></l>
+					<lb/><l>Im Himmel und auf Erden iſt!</l>
 				</lg>
 			</div>
 		</body>

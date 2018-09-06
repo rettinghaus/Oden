@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,72 +178,72 @@
 			<pb n="41"/>
 			<pb n="39" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Der Weg des Frommen.</head>
+				<head><title>Der Weg des Frommen.</title></head>
 				<lg>
-					<l>Wer <rs type="person" key="G0001">Gottes</rs> Wege geht, nur der hat großen
+					<lb/><l>Wer <rs type="person" key="G0001">Gottes</rs> Wege geht, nur der hat großen
 						Frieden,</l>
-					<l>Er widerſteht der böſen Luſt;</l>
-					<l>Er kämpft, und iſt des Lohns, den <rs type="person" key="G0001">Gott</rs> dem
+					<lb/><l>Er widerſteht der böſen Luſt;</l>
+					<lb/><l>Er kämpft, und iſt des Lohns, den <rs type="person" key="G0001">Gott</rs> dem
 						Kampf beſchieden,</l>
-					<l>Iſt ſeiner Tugend ſich bewußt.</l>
+					<lb/><l>Iſt ſeiner Tugend ſich bewußt.</l>
 				</lg>
 				<lg>
-					<l>Er merkt auf ſeinen Gang, geht ihn mit heilgem Muthe,</l>
-					<l>Wächſt an Erkenntniß und an Kraft,</l>
-					<l>Wird aus der Schwachheit ſtark, und liebt und ſchmeckt das Gute,</l>
-					<l>Das <rs type="person" key="G0001">Gott</rs> in ſeiner Seele ſchafft.</l>
+					<lb/><l>Er merkt auf ſeinen Gang, geht ihn mit heilgem Muthe,</l>
+					<lb/><l>Wächſt an Erkenntniß und an Kraft,</l>
+					<lb/><l>Wird aus der Schwachheit ſtark, und liebt und ſchmeckt das Gute,</l>
+					<lb/><l>Das <rs type="person" key="G0001">Gott</rs> in ſeiner Seele ſchafft.</l>
 				</lg>
 				<lg>
-					<l>Ihn hat er allezeit vor Augen und im Herzen,</l>
-					<l>Prüft täglich ſich vor ſeinem Thron,</l>
-					<l>Bereut der Fehler Zahl, und tilgt der Sünden Schmerzen</l>
-					<l>Durch <rs type="person" key="J0001">JEſum Chriſtum</rs>, ſeinen Sohn.</l>
+					<lb/><l>Ihn hat er allezeit vor Augen und im Herzen,</l>
+					<lb/><l>Prüft täglich ſich vor ſeinem Thron,</l>
+					<lb/><l>Bereut der Fehler Zahl, und tilgt der Sünden Schmerzen</l>
+					<lb/><l>Durch <rs type="person" key="J0001">JEſum Chriſtum</rs>, ſeinen Sohn.</l>
 				</lg>
 				<lg>
-					<l>Getreu in ſeinem Stand, genießt er <rs type="person" key="G0001">Gottes</rs>
+					<lb/><l>Getreu in ſeinem Stand, genießt er <rs type="person" key="G0001">Gottes</rs>
 						Gaben,</l>
-					<l>Wehrt ſeiner Seele Geiz und Neid,</l>
-					<l>Und iſt, wenn andre gleich viel Weins und Kornes haben,</l>
-					<l>In <rs type="person" key="G0001">Gott</rs> bei wenigem erfreut.</l>
+					<lb/><l>Wehrt ſeiner Seele Geiz und Neid,</l>
+					<lb/><l>Und iſt, wenn andre gleich viel Weins und Kornes haben,</l>
+					<lb/><l>In <rs type="person" key="G0001">Gott</rs> bei wenigem erfreut.</l>
 				</lg>
 				<pb n="42"/>
 				<lg>
-					<l>Schenkt ſeine Hand ihm viel: ſo wird er vielen nützen,</l>
-					<l>Und, wie ſein <rs type="person" key="G0001">Gotta</rs>, gutthätig ſeyn;</l>
-					<l>Des Freundes Glück erhöhn, verlaßne Tugend ſchützen,</l>
-					<l>Und ſelbſt den Feind in Noth erfreun.</l>
+					<lb/><l>Schenkt ſeine Hand ihm viel: ſo wird er vielen nützen,</l>
+					<lb/><l>Und, wie ſein <rs type="person" key="G0001">Gotta</rs>, gutthätig ſeyn;</l>
+					<lb/><l>Des Freundes Glück erhöhn, verlaßne Tugend ſchützen,</l>
+					<lb/><l>Und ſelbſt den Feind in Noth erfreun.</l>
 				</lg>
 				<lg>
-					<l>Ihm iſt es leichte Laſt, die Pflichten <choice>
+					<lb/><l>Ihm iſt es leichte Laſt, die Pflichten <choice>
 							<orig>auſzuüben,</orig>
 							<reg>auſzuüben;</reg>
 						</choice></l>
-					<l>Die er dem Nächſten ſchuldig iſt;</l>
-					<l>Die Liebe gegen <rs type="person" key="G0001">Gott</rs> heißt ihn die
+					<lb/><l>Die er dem Nächſten ſchuldig iſt;</l>
+					<lb/><l>Die Liebe gegen <rs type="person" key="G0001">Gott</rs> heißt ihn die
 						Menſchen lieben;</l>
-					<l>Und durch die Liebe ſiegt der Chriſt.</l>
+					<lb/><l>Und durch die Liebe ſiegt der Chriſt.</l>
 				</lg>
 				<lg>
-					<l>Er kränket nie dein Glück, ſchützt deinen Ruhm, dein Leben;</l>
-					<l>Denn er ehrt <rs type="person" key="G0001">Gottes</rs> Bild in dir.</l>
-					<l>Er trägt dich mit Geduld, iſt willig zum Vergeben;</l>
-					<l>Denn <rs type="person" key="G0001">Gott</rs>, denkt er, vergiebt auch
+					<lb/><l>Er kränket nie dein Glück, ſchützt deinen Ruhm, dein Leben;</l>
+					<lb/><l>Denn er ehrt <rs type="person" key="G0001">Gottes</rs> Bild in dir.</l>
+					<lb/><l>Er trägt dich mit Geduld, iſt willig zum Vergeben;</l>
+					<lb/><l>Denn <rs type="person" key="G0001">Gott</rs>, denkt er, vergiebt auch
 						mir.</l>
 				</lg>
 				<lg>
-					<l>Sein Beyſpiel ſucht dein Herz im Guten zu beſtärken,</l>
-					<l>Er nimmt an deiner Tugend Theil;</l>
-					<l>Denn alle ſind von <rs type="person" key="G0001">Gott</rs> gezeugt zu guten
+					<lb/><l>Sein Beyſpiel ſucht dein Herz im Guten zu beſtärken,</l>
+					<lb/><l>Er nimmt an deiner Tugend Theil;</l>
+					<lb/><l>Denn alle ſind von <rs type="person" key="G0001">Gott</rs> gezeugt zu guten
 						Werken,</l>
-					<l>Und haben einen Herrn, ein Heil.</l>
+					<lb/><l>Und haben einen Herrn, ein Heil.</l>
 				</lg>
 				<pb n="43"/>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Dieß Heil der Ewigkeit, das hier
+					<lb/><l><anchor subtype="death_start" type="death"/>Dieß Heil der Ewigkeit, das hier
 						der Fromme ſchmecket,</l>
-					<l>Erhöht ſein Glück, ſtillt ſeinen Schmerz,</l>
-					<l>Giebt ihm Geduld und Muth. Kein Tod, der ihn erſchrecket!</l>
-					<l>Im Tode noch freut ſich ſein Herz.<anchor subtype="death_end" type="death"
+					<lb/><l>Erhöht ſein Glück, ſtillt ſeinen Schmerz,</l>
+					<lb/><l>Giebt ihm Geduld und Muth. Kein Tod, der ihn erſchrecket!</l>
+					<lb/><l>Im Tode noch freut ſich ſein Herz.<anchor subtype="death_end" type="death"
 						/></l>
 				</lg>
 			</div>

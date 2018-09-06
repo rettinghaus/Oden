@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,56 +178,56 @@
 			<pb n="121"/>
 			<pb n="36" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Abendlied.</head>
+				<head><title>Abendlied.</title></head>
 				<lg>
-					<l>
+					<lb/><l>
 						<rs type="person" key="G0001">Herr</rs>, der du mir das <choice>
 							<orig>Leben</orig>
 							<reg>Leben,</reg>
 						</choice>
 					</l>
-					<l>Bis dieſen Tag gegeben,</l>
-					<l>Dich bet ich kindlich an!</l>
-					<l>Ich bin viel zu geringe</l>
-					<l>Der Treue, die ich ſinge</l>
-					<l>Und die du heut an mir gethan.</l>
+					<lb/><l>Bis dieſen Tag gegeben,</l>
+					<lb/><l>Dich bet ich kindlich an!</l>
+					<lb/><l>Ich bin viel zu geringe</l>
+					<lb/><l>Der Treue, die ich ſinge</l>
+					<lb/><l>Und die du heut an mir gethan.</l>
 				</lg>
 				<lg>
-					<l>Mit dankendem Gemüte</l>
-					<l>Freu ich mich deiner Güte;</l>
-					<l>Ich freue mich in dir.</l>
-					<l>Du giebſt mir Kraft und Stärke,</l>
-					<l>Gedeyn zu meinem Werke,</l>
-					<l>Und ſchaffſt ein reines Herz in mir.</l>
+					<lb/><l>Mit dankendem Gemüte</l>
+					<lb/><l>Freu ich mich deiner Güte;</l>
+					<lb/><l>Ich freue mich in dir.</l>
+					<lb/><l>Du giebſt mir Kraft und Stärke,</l>
+					<lb/><l>Gedeyn zu meinem Werke,</l>
+					<lb/><l>Und ſchaffſt ein reines Herz in mir.</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Gott</rs>, welche Ruh der Seelen,</l>
-					<l>Nach deines Worts Befehlen</l>
-					<l>Einher im Leben gehn;</l>
-					<l>Auf deine Güte hoffen,</l>
-					<l>Im Geiſt den Himmel offen,</l>
-					<l>Und dort den Preis des Glaubens ſehn!</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, welche Ruh der Seelen,</l>
+					<lb/><l>Nach deines Worts Befehlen</l>
+					<lb/><l>Einher im Leben gehn;</l>
+					<lb/><l>Auf deine Güte hoffen,</l>
+					<lb/><l>Im Geiſt den Himmel offen,</l>
+					<lb/><l>Und dort den Preis des Glaubens ſehn!</l>
 				</lg>
 				<pb n="122"/>
 				<lg>
-					<l>Ich weiß, an wen ich glaube,</l>
-					<l>Und nahe mich im Staube</l>
-					<l>Zu dir, o <rs type="person" key="G0001">Gott</rs>, mein Heil.</l>
-					<l>Ich bin der Schuld entladen,</l>
-					<l>Ich bin bey dir in Gnaden,</l>
-					<l>Und in dem Himmel iſt mein Theil.</l>
+					<lb/><l>Ich weiß, an wen ich glaube,</l>
+					<lb/><l>Und nahe mich im Staube</l>
+					<lb/><l>Zu dir, o <rs type="person" key="G0001">Gott</rs>, mein Heil.</l>
+					<lb/><l>Ich bin der Schuld entladen,</l>
+					<lb/><l>Ich bin bey dir in Gnaden,</l>
+					<lb/><l>Und in dem Himmel iſt mein Theil.</l>
 				</lg>
 				<lg>
-					<l> Bedeckt mit deinem <choice>
+					<lb/><l> Bedeckt mit deinem <choice>
 							<orig>Seegen,</orig>
 							<reg>Segen,</reg>
 						</choice>
 					</l>
-					<l>Eil ich der Ruh entgegen;</l>
-					<l>Dein Name ſey gepreiſt!</l>
-					<l>Mein Leben und mein Ende</l>
-					<l>Iſt dein; in deine Hände</l>
-					<l>Befehl ich, <rs type="person" key="G0001">Vater</rs>, meinen Geiſt.</l>
+					<lb/><l>Eil ich der Ruh entgegen;</l>
+					<lb/><l>Dein Name ſey gepreiſt!</l>
+					<lb/><l>Mein Leben und mein Ende</l>
+					<lb/><l>Iſt dein; in deine Hände</l>
+					<lb/><l>Befehl ich, <rs type="person" key="G0001">Vater</rs>, meinen Geiſt.</l>
 				</lg>
 			</div>
 		</body>

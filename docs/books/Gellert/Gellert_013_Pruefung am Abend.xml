@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,89 +178,89 @@
 			<pb n="13"/>
 			<pb n="7" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Prüfung am Abend.</head>
+				<head><title>Prüfung am Abend.</title></head>
 				<lg>
-					<l>Der Tag iſt wieder hin, und dieſen Theil des Lebens,</l>
-					<l>Wie hab ich ihn verbrächt? Verſtrich er mir vergebens?</l>
-					<l>Hab ich mit allem Ernſt dem Guten nachgeſtrebt?</l>
-					<l>Hab ich villeicht nur mir, nicht meiner Pflicht gelebt?</l>
+					<lb/><l>Der Tag iſt wieder hin, und dieſen Theil des Lebens,</l>
+					<lb/><l>Wie hab ich ihn verbrächt? Verſtrich er mir vergebens?</l>
+					<lb/><l>Hab ich mit allem Ernſt dem Guten nachgeſtrebt?</l>
+					<lb/><l>Hab ich villeicht nur mir, nicht meiner Pflicht gelebt?</l>
 				</lg>
 				<lg>
-					<l>Wars in der Furcht des <rs type="person" key="G0001">Herrn</rs>, daß ich ihn
+					<lb/><l>Wars in der Furcht des <rs type="person" key="G0001">Herrn</rs>, daß ich ihn
 						angefangen?</l>
-					<l>Mit Dank und mit Gebet, mit eifrigem Verlangen,</l>
-					<l>Als ein Geſchöpf von <rs type="person" key="G0001">Gott</rs> der Tugend mich
+					<lb/><l>Mit Dank und mit Gebet, mit eifrigem Verlangen,</l>
+					<lb/><l>Als ein Geſchöpf von <rs type="person" key="G0001">Gott</rs> der Tugend mich
 						zu weihn,</l>
-					<l>Und züchtig, und gerecht, und <rs type="person" key="G0001">Gottes</rs>
+					<lb/><l>Und züchtig, und gerecht, und <rs type="person" key="G0001">Gottes</rs>
 						Freund zu ſeyn?</l>
 				</lg>
 				<lg>
-					<l>Hab ich in dem Beruf, den <rs type="person" key="G0001">Gott</rs> mir
+					<lb/><l>Hab ich in dem Beruf, den <rs type="person" key="G0001">Gott</rs> mir
 						angewieſen,</l>
-					<l>Durch Eifer und durch Fleiß ihn, dieſen <rs type="person" key="G0001"
+					<lb/><l>Durch Eifer und durch Fleiß ihn, dieſen <rs type="person" key="G0001"
 							>Gott</rs>, geprieſen;</l>
-					<l>Mir und der Welt genützt, und jeden Dienſt gethan,</l>
-					<l>Weil ihn der <rs type="person" key="G0001">Herr</rs> gebot, nicht weil mich
+					<lb/><l>Mir und der Welt genützt, und jeden Dienſt gethan,</l>
+					<lb/><l>Weil ihn der <rs type="person" key="G0001">Herr</rs> gebot, nicht weil mich
 						Menſchen ſahn?</l>
 				</lg>
 				<pb n="14"/>
 				<lg>
-					<l>Wie hab ich dieſen Tag mein eigen Herz regieret?</l>
-					<l>Hat mich im Stillen oft ein Blick auf <rs type="person" key="G0001">Gott</rs>
+					<lb/><l>Wie hab ich dieſen Tag mein eigen Herz regieret?</l>
+					<lb/><l>Hat mich im Stillen oft ein Blick auf <rs type="person" key="G0001">Gott</rs>
 						gerühret?</l>
-					<l>Erfreut ich mich des <rs type="person" key="G0001">Herrn</rs>, der unſer
+					<lb/><l>Erfreut ich mich des <rs type="person" key="G0001">Herrn</rs>, der unſer
 						Flehn bemerkt?</l>
-					<l>Und hab ich im Vertraun auf ihn mein Herz geſtärkt?</l>
+					<lb/><l>Und hab ich im Vertraun auf ihn mein Herz geſtärkt?</l>
 				</lg>
 				<lg>
-					<l>Dacht ich bei dem Genuß der Güter dieſer Erden</l>
-					<l>An den <rs type="person" key="G0001">Allmächtigen</rs>, durch den ſie ſind
+					<lb/><l>Dacht ich bei dem Genuß der Güter dieſer Erden</l>
+					<lb/><l>An den <rs type="person" key="G0001">Allmächtigen</rs>, durch den ſie ſind
 						und werden?</l>
-					<l>Verehrt ich ihn im Staub? Empfand ich ſeine Huld?</l>
-					<l>Trug ich das Glück mit Dank, den Unfall mit Geduld?</l>
+					<lb/><l>Verehrt ich ihn im Staub? Empfand ich ſeine Huld?</l>
+					<lb/><l>Trug ich das Glück mit Dank, den Unfall mit Geduld?</l>
 				</lg>
 				<lg>
-					<l> Und wie genoß mein Herz des Umgangs <choice>
+					<lb/><l> Und wie genoß mein Herz des Umgangs <choice>
 							<orig>süſse</orig>
 							<reg>süße</reg>
 						</choice> Stunden? </l>
-					<l>Fühlt ich der Freundſchaft Glück, ſprach ich, was ich empfunden? </l>
-					<l> War auch mein Ernſt noch ſanft, mein <choice>
+					<lb/><l>Fühlt ich der Freundſchaft Glück, ſprach ich, was ich empfunden? </l>
+					<lb/><l> War auch mein Ernſt noch ſanft, mein <choice>
 							<orig>Scherz</orig>
 							<reg>Herz</reg>
 						</choice> noch unſchuldſvoll? </l>
-					<l>Und hab ich nichts geredt, das ich bereuen ſoll?</l>
+					<lb/><l>Und hab ich nichts geredt, das ich bereuen ſoll?</l>
 				</lg>
 				<pb n="15"/>
 				<lg>
-					<l>Hab ich die Meinigen durch Sorgfalt mir verpflichtet,</l>
-					<l>Sie durch mein Beyſpiel ſtill zum Guten unterrichtet?</l>
-					<l>War zu des Mitleids Pflicht mein Herz nicht zu bequem?</l>
-					<l>Ein Glück, das andre traf, war dieß mir angenehm?</l>
+					<lb/><l>Hab ich die Meinigen durch Sorgfalt mir verpflichtet,</l>
+					<lb/><l>Sie durch mein Beyſpiel ſtill zum Guten unterrichtet?</l>
+					<lb/><l>War zu des Mitleids Pflicht mein Herz nicht zu bequem?</l>
+					<lb/><l>Ein Glück, das andre traf, war dieß mir angenehm?</l>
 				</lg>
 				<lg>
-					<l>War mir der Fehltritt leid, ſo bald ich ihn begangen?</l>
-					<l>Beſtritt ich auch in mir ein unerlaubt Verlangen?</l>
-					<l><anchor subtype="death_start" type="death"/>Und wenn in dieſer Nacht <rs
+					<lb/><l>War mir der Fehltritt leid, ſo bald ich ihn begangen?</l>
+					<lb/><l>Beſtritt ich auch in mir ein unerlaubt Verlangen?</l>
+					<lb/><l><anchor subtype="death_start" type="death"/>Und wenn in dieſer Nacht <rs
 							type="person" key="G0001">Gott</rs> über mich gebeut,</l>
-					<l>Bin ich, vor ihm zu ſtehn, auch willig und bereit?<anchor subtype="death_end"
+					<lb/><l>Bin ich, vor ihm zu ſtehn, auch willig und bereit?<anchor subtype="death_end"
 							type="death"/></l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Gott</rs>, der du alles weißt, was könnt ich
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, der du alles weißt, was könnt ich
 						dir verheelen?</l>
-					<l>Ich fühle täglich noch die Schwachheit meiner Seelen.</l>
-					<l>Vergieb durch <rs type="person" key="J0001">Chriſti</rs> Blut mir die
+					<lb/><l>Ich fühle täglich noch die Schwachheit meiner Seelen.</l>
+					<lb/><l>Vergieb durch <rs type="person" key="J0001">Chriſti</rs> Blut mir die
 						verletzte Pflicht;</l>
-					<l>vergieb, und <anchor subtype="death_start" type="death"/>gehe du nicht mit
+					<lb/><l>vergieb, und <anchor subtype="death_start" type="death"/>gehe du nicht mit
 						mir ins Gericht<anchor subtype="death_end" type="death"/>.</l>
 				</lg>
 				<pb n="16"/>
 				<lg>
-					<l>Ja, du verzeiheſt dem, den ſeine Sünden kränken;</l>
-					<l>Du liebſt Barmherzigkeit und wirſt auch mir ſie ſchenken.</l>
-					<l>Auch dieſe Nacht biſt du der Wächter über mir;</l>
-					<l><anchor subtype="death_start" type="death"/>Leb ich, ſo leb ich dir, ſterb
+					<lb/><l>Ja, du verzeiheſt dem, den ſeine Sünden kränken;</l>
+					<lb/><l>Du liebſt Barmherzigkeit und wirſt auch mir ſie ſchenken.</l>
+					<lb/><l>Auch dieſe Nacht biſt du der Wächter über mir;</l>
+					<lb/><l><anchor subtype="death_start" type="death"/>Leb ich, ſo leb ich dir, ſterb
 						ich, ſo ſterb ich dir!<anchor subtype="death_end" type="death"/></l>
 				</lg>
 			</div>

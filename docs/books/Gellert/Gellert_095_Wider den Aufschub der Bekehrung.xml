@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,159 +178,159 @@
 			<pb n="95"/>
 			<pb n="54" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Wider den Aufſchub der Bekehrung.</head>
+				<head><title>Wider den Aufſchub der Bekehrung.</title></head>
 				<lg>
-					<l>Willſt du die Buße noch, die <rs type="person" key="G0001">Gott</rs> gebeut,
+					<lb/><l>Willſt du die Buße noch, die <rs type="person" key="G0001">Gott</rs> gebeut,
 						verſchieben:</l>
-					<l>So ſchändeſt du ſein Wort, und mußt dich ſelbſt nicht lieben. </l>
-					<l>Iſt deine Beſserung nicht deiner Seele Glück?</l>
-					<l>Und wer verſchiebt ſein Heil gern einen Augenblick?</l>
+					<lb/><l>So ſchändeſt du ſein Wort, und mußt dich ſelbſt nicht lieben. </l>
+					<lb/><l>Iſt deine Beſserung nicht deiner Seele Glück?</l>
+					<lb/><l>Und wer verſchiebt ſein Heil gern einen Augenblick?</l>
 				</lg>
 				<lg>
-					<l>Allein, wie ſchwer iſts nicht, ſein eigen Herz bekämpfen,</l>
-					<l>Begierden widerſtehn, und ſeine Lüſte dämpfen?</l>
-					<l>Ja, Sünder, es iſt ſchwer; allein zu deiner Ruh</l>
-					<l>Iſt dieß der einzge Weg. Und dem entſageſt du?</l>
+					<lb/><l>Allein, wie ſchwer iſts nicht, ſein eigen Herz bekämpfen,</l>
+					<lb/><l>Begierden widerſtehn, und ſeine Lüſte dämpfen?</l>
+					<lb/><l>Ja, Sünder, es iſt ſchwer; allein zu deiner Ruh</l>
+					<lb/><l>Iſt dieß der einzge Weg. Und dem entſageſt du?</l>
 				</lg>
 				<lg>
-					<l>Iſt deine Pflicht von <rs type="person" key="G0001">Gott</rs>, wie kannſt du
+					<lb/><l>Iſt deine Pflicht von <rs type="person" key="G0001">Gott</rs>, wie kannſt du
 						ſie vergeſsen?</l>
-					<l>Nach deinen Kräften ſelbſt hat er ſie abgemeſsen.</l>
-					<l>Was weigerſt du dich noch? Iſt <rs type="person" key="G0001">Gott</rs> denn
+					<lb/><l>Nach deinen Kräften ſelbſt hat er ſie abgemeſsen.</l>
+					<lb/><l>Was weigerſt du dich noch? Iſt <rs type="person" key="G0001">Gott</rs> denn
 						ein Tyrann,</l>
-					<l>Der mehr von mir verlangt, als ich ihm leiſten kann?</l>
+					<lb/><l>Der mehr von mir verlangt, als ich ihm leiſten kann?</l>
 				</lg>
 				<pb n="96"/>
 				<lg>
-					<l>Sprich ſelbſt, gewinnet <rs type="person" key="G0001">Gott</rs>, wenn ich ihm
+					<lb/><l>Sprich ſelbſt, gewinnet <rs type="person" key="G0001">Gott</rs>, wenn ich ihm
 						kindlich diene,</l>
-					<l>Und, ſeiner werth zu ſeyn, im Glauben mich erkühne?</l>
-					<l>Wenn du die Tugend übſt, die <rs type="person" key="G0001">Gott, dein
+					<lb/><l>Und, ſeiner werth zu ſeyn, im Glauben mich erkühne?</l>
+					<lb/><l>Wenn du die Tugend übſt, die <rs type="person" key="G0001">Gott, dein
 							Herr</rs>, gebeut,</l>
-					<l>Wem dienſt du? Ringſt du nicht nach deiner Seligkeit?</l>
+					<lb/><l>Wem dienſt du? Ringſt du nicht nach deiner Seligkeit?</l>
 				</lg>
 				<lg>
-					<l>Was weigerſt du dich noch, das Laſter zu verlaſsen?</l>
-					<l>Weil es dein Unglück iſt, befiehlt es <rs type="person" key="G0001">Gott</rs>
+					<lb/><l>Was weigerſt du dich noch, das Laſter zu verlaſsen?</l>
+					<lb/><l>Weil es dein Unglück iſt, befiehlt es <rs type="person" key="G0001">Gott</rs>
 						zu haſsen.</l>
-					<l>Was weigerſt du dich noch, der Tugend Freund zu ſeyn?</l>
-					<l>Weil ſie dich glücklich macht, befiehlt ſie <rs type="person" key="G0001"
+					<lb/><l>Was weigerſt du dich noch, der Tugend Freund zu ſeyn?</l>
+					<lb/><l>Weil ſie dich glücklich macht, befiehlt ſie <rs type="person" key="G0001"
 							>Gott</rs> allein.</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Gott</rs> beut die Kraft dir an, das Gute zu
+					<lb/><l><rs type="person" key="G0001">Gott</rs> beut die Kraft dir an, das Gute zu
 						vollbringen.</l>
-					<l>Soll er durch Allmacht dich, ihm zu gehorchen, zwingen?</l>
-					<l>Er gab dir die Vernunft; und du verleugneſt ſie?</l>
-					<l>Er ſendet dir ſein Wort; und du gehorchſt ihm nie?</l>
+					<lb/><l>Soll er durch Allmacht dich, ihm zu gehorchen, zwingen?</l>
+					<lb/><l>Er gab dir die Vernunft; und du verleugneſt ſie?</l>
+					<lb/><l>Er ſendet dir ſein Wort; und du gehorchſt ihm nie?</l>
 				</lg>
 				<pb n="97"/>
 				<pb n="55" ed="CPEB1758"/>
 				<lg>
-					<l>Sprich nicht: <rs type="person" key="G0001">Gott</rs> kennt mein Herz; ich
+					<lb/><l>Sprich nicht: <rs type="person" key="G0001">Gott</rs> kennt mein Herz; ich
 						hab es ihm verheißen,</l>
-					<l>Mich noch dereinſt, mich bald vom Laſter loſzureißen;</l>
-					<l>Itzt iſt dieß Werk zu ſchwer. Doch dieſe Schwierigkeit,</l>
-					<l>Die heute dich erſchreckt, wächſt ſie nicht durch die Zeit?</l>
+					<lb/><l>Mich noch dereinſt, mich bald vom Laſter loſzureißen;</l>
+					<lb/><l>Itzt iſt dieß Werk zu ſchwer. Doch dieſe Schwierigkeit,</l>
+					<lb/><l>Die heute dich erſchreckt, wächſt ſie nicht durch die Zeit?</l>
 				</lg>
 				<lg>
-					<l>Je öfter du vollbringſt, was Fleiſch und Blut befohlen,</l>
-					<l>Je ſtärker wird der Hang, die That zu wiederholen.</l>
-					<l>Scheuſt du dich heute nicht, das <rs type="person" key="G0001">Höchſten</rs>
+					<lb/><l>Je öfter du vollbringſt, was Fleiſch und Blut befohlen,</l>
+					<lb/><l>Je ſtärker wird der Hang, die That zu wiederholen.</l>
+					<lb/><l>Scheuſt du dich heute nicht, das <rs type="person" key="G0001">Höchſten</rs>
 						Feind zu ſeyn:</l>
-					<l>Um wie viel weniger wirſt du dich morgen ſcheun!</l>
+					<lb/><l>Um wie viel weniger wirſt du dich morgen ſcheun!</l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Iſt denn die Buß ein Werk von
+					<lb/><l><anchor subtype="death_start" type="death"/>Iſt denn die Buß ein Werk von
 						wenig Augenblicken?</l>
-					<l>Kann dich kein ſchneller Tod der Welt noch heut entrücken?<anchor
+					<lb/><l>Kann dich kein ſchneller Tod der Welt noch heut entrücken?<anchor
 							subtype="death_end" type="death"/></l>
-					<l>Iſt ein Geſchrey zu <rs type="person" key="G0001">Gott</rs>, ein Wunſch nach
+					<lb/><l>Iſt ein Geſchrey zu <rs type="person" key="G0001">Gott</rs>, ein Wunſch nach
 						Beſserung,</l>
-					<l>Und Angſt und Miſsethat, die wahre Heiligung?</l>
+					<lb/><l>Und Angſt und Miſsethat, die wahre Heiligung?</l>
 				</lg>
 				<pb n="98"/>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Iſts gnug zur Seligkeit, des
+					<lb/><l><anchor subtype="death_start" type="death"/>Iſts gnug zur Seligkeit, des
 						Glückes der Erlöſten,</l>
-					<l>Wenn uns der Tod ergreift, ſich ſicher zu getröſten;</l>
-					<l>Iſt das Bekenntniß gnug, daß uns die Sünde reut:</l>
-					<l>So iſt kein leichter Werk, als deine Seligkeit.<anchor subtype="death_end"
+					<lb/><l>Wenn uns der Tod ergreift, ſich ſicher zu getröſten;</l>
+					<lb/><l>Iſt das Bekenntniß gnug, daß uns die Sünde reut:</l>
+					<lb/><l>So iſt kein leichter Werk, als deine Seligkeit.<anchor subtype="death_end"
 							type="death"/></l>
 				</lg>
 				<lg>
-					<l>Doch fordert <rs type="person" key="G0001">Gott</rs> von uns die Reinigkeit
+					<lb/><l>Doch fordert <rs type="person" key="G0001">Gott</rs> von uns die Reinigkeit
 						der Seelen;</l>
-					<l>Iſt keine Seele rein, der Glaub und Liebe fehlen;</l>
-					<l>Iſt dieſes dein Beruf, <rs type="person" key="G0001">Gott</rs> dienen, den du
+					<lb/><l>Iſt keine Seele rein, der Glaub und Liebe fehlen;</l>
+					<lb/><l>Iſt dieſes dein Beruf, <rs type="person" key="G0001">Gott</rs> dienen, den du
 						liebſt:</l>
-					<l>So zittre vor dir ſelbſt, wenn du dieß Werk verſchiebſt.</l>
+					<lb/><l>So zittre vor dir ſelbſt, wenn du dieß Werk verſchiebſt.</l>
 				</lg>
 				<lg>
-					<l> Der Glaube heiligt dich. Iſt dieſer dein <choice>
+					<lb/><l> Der Glaube heiligt dich. Iſt dieſer dein <choice>
 							<orig>Geſchäffte</orig>
 							<reg>Geſchäfte</reg>
 						</choice> ? </l>
-					<l>Nein, Menſch! Und du verſchmähſt des Geiſtes <rs type="person" key="G0001"
+					<lb/><l>Nein, Menſch! Und du verſchmähſt des Geiſtes <rs type="person" key="G0001"
 							>Gottes</rs> Kräfte?</l>
-					<l>Erſchreckt dich nicht ſein Wort? Giebt in verkehrten Sinn</l>
-					<l>Den Sünder, der beharrt, nicht <rs type="person" key="G0001">Gott</rs>
+					<lb/><l>Erſchreckt dich nicht ſein Wort? Giebt in verkehrten Sinn</l>
+					<lb/><l>Den Sünder, der beharrt, nicht <rs type="person" key="G0001">Gott</rs>
 						zuletzt dahin?</l>
 				</lg>
 				<pb n="99"/>
 				<lg>
-					<l>Hat <rs type="person" key="J0001">Chriſtus</rs> uns erlöſt, damit wir Sünder
+					<lb/><l>Hat <rs type="person" key="J0001">Chriſtus</rs> uns erlöſt, damit wir Sünder
 						bleiben,</l>
-					<l>Und, ſicher durch ſein Blut, das Laſter höher treiben?</l>
-					<l>Gebeut uns <rs type="person" key="J0001">Chriſti</rs> Wort nicht Tugend,
+					<lb/><l>Und, ſicher durch ſein Blut, das Laſter höher treiben?</l>
+					<lb/><l>Gebeut uns <rs type="person" key="J0001">Chriſti</rs> Wort nicht Tugend,
 						Recht und Pflicht:</l>
-					<l>So iſt es nicht von <rs type="person" key="G0001">Gott</rs>. <rs
+					<lb/><l>So iſt es nicht von <rs type="person" key="G0001">Gott</rs>. <rs
 							type="person" key="G0001">Gott</rs> widerſpricht ſich nicht.</l>
 				</lg>
 				<lg>
-					<l>Noch heute, weil du lebſt, und ſeine Stimme höreſt,</l>
-					<l>Noch heute ſchicke dich, daß du vom Böſen kehreſt.</l>
-					<l>Begegne deinem <rs type="person" key="G0001">Gott</rs>, willſt du zu deiner
+					<lb/><l>Noch heute, weil du lebſt, und ſeine Stimme höreſt,</l>
+					<lb/><l>Noch heute ſchicke dich, daß du vom Böſen kehreſt.</l>
+					<lb/><l>Begegne deinem <rs type="person" key="G0001">Gott</rs>, willſt du zu deiner
 						Pein</l>
-					<l>Dein hier versäumtes Glück nicht ewig noch bereun.</l>
+					<lb/><l>Dein hier versäumtes Glück nicht ewig noch bereun.</l>
 				</lg>
 				<lg>
-					<l>Entſchließe dich beherzt, dich ſelber zu beſiegen;</l>
-					<l>Der Sieg, ſo ſchwer er iſt, bringt göttliches Vergnügen.</l>
-					<l>Was zagſt du? Geht er gleich im Anfang langſam fort;</l>
-					<l>Sey wacker! <rs type="person" key="G0001">Gott</rs> iſt nah, und ſtärkt dich
+					<lb/><l>Entſchließe dich beherzt, dich ſelber zu beſiegen;</l>
+					<lb/><l>Der Sieg, ſo ſchwer er iſt, bringt göttliches Vergnügen.</l>
+					<lb/><l>Was zagſt du? Geht er gleich im Anfang langſam fort;</l>
+					<lb/><l>Sey wacker! <rs type="person" key="G0001">Gott</rs> iſt nah, und ſtärkt dich
 						durch ſein Wort.</l>
 				</lg>
 				<pb n="100"/>
 				<lg>
-					<l>Ruf ihn in Demuth an; er tilget deine Sünden.</l>
-					<l>Und läßt dich ſein Geſetz erſt ihren Fluch empfinden:</l>
-					<l>So widerſtreb ihm nicht; denn <rs type="person" key="G0001">Gottes</rs>
+					<lb/><l>Ruf ihn in Demuth an; er tilget deine Sünden.</l>
+					<lb/><l>Und läßt dich ſein Geſetz erſt ihren Fluch empfinden:</l>
+					<lb/><l>So widerſtreb ihm nicht; denn <rs type="person" key="G0001">Gottes</rs>
 						Traurigkeit</l>
-					<l>Wirkt eine Reu in dir, die niemals dich gereut.</l>
+					<lb/><l>Wirkt eine Reu in dir, die niemals dich gereut.</l>
 				</lg>
 				<lg>
-					<l>So süß ein Laſter iſt, ſo giebts doch keinen Frieden.</l>
-					<l>Der Tugend nur allein hat <rs type="person" key="G0001">Gott</rs> dieß Glück
+					<lb/><l>So süß ein Laſter iſt, ſo giebts doch keinen Frieden.</l>
+					<lb/><l>Der Tugend nur allein hat <rs type="person" key="G0001">Gott</rs> dieß Glück
 						beſchieden.</l>
-					<l>Ein Menſch, der <rs type="person" key="G0001">Gott</rs> gehorcht, erwählt das
+					<lb/><l>Ein Menſch, der <rs type="person" key="G0001">Gott</rs> gehorcht, erwählt das
 						beſte Theil;</l>
-					<l>Ein Menſch, der <rs type="person" key="G0001">Gott</rs> verläßt, verläßt ſein
+					<lb/><l>Ein Menſch, der <rs type="person" key="G0001">Gott</rs> verläßt, verläßt ſein
 						eignes Heil.</l>
 				</lg>
 				<lg>
-					<l>Die Buße führt dich nicht in eine Welt voll Leiden;</l>
-					<l><rs type="person" key="G0001">Gott</rs> kennt und liebt dein Glück; ſie führt
+					<lb/><l>Die Buße führt dich nicht in eine Welt voll Leiden;</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> kennt und liebt dein Glück; ſie führt
 						zu deinen Freuden,</l>
-					<l>Macht deine Seele rein, füllt dich mit Zuverſicht,</l>
-					<l>Giebt Weiſheit und Verſtand, und Muth zu deiner Pflicht.</l>
+					<lb/><l>Macht deine Seele rein, füllt dich mit Zuverſicht,</l>
+					<lb/><l>Giebt Weiſheit und Verſtand, und Muth zu deiner Pflicht.</l>
 				</lg>
 				<pb n="101"/>
 				<lg>
-					<l>Sprich ſelbſt: Iſt dieß kein Glück, mit ruhigem Gewiſsen,</l>
-					<l>Die Güter dieſer Welt, des Lebens Glück genießen,</l>
-					<l>Und mäßig und gerecht in dem Genuſse ſeyn,</l>
-					<l>Und ſich der Seligkeit ſchon hier im Glauben freun?</l>
+					<lb/><l>Sprich ſelbſt: Iſt dieß kein Glück, mit ruhigem Gewiſsen,</l>
+					<lb/><l>Die Güter dieſer Welt, des Lebens Glück genießen,</l>
+					<lb/><l>Und mäßig und gerecht in dem Genuſse ſeyn,</l>
+					<lb/><l>Und ſich der Seligkeit ſchon hier im Glauben freun?</l>
 				</lg>
 			</div>
 		</body>

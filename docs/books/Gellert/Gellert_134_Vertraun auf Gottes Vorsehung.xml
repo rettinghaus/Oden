@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,73 +178,73 @@
 			<pb n="134"/>
 			<pb n="56" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Vertraun auf Gottes Vorſehung.</head>
+				<head><title>Vertraun auf Gottes Vorſehung.</title></head>
 				<lg>
-					<l>Auf <rs type="person" key="G0001">Gott</rs>, und nicht auf meinen Rath,</l>
-					<l>Will ich mein Glücke bauen,</l>
-					<l>Und dem, der mich erſchaffen hat,</l>
-					<l>Mit ganzer Seele trauen.</l>
-					<l>Er, der die Welt</l>
-					<l>Allmächtig halt,</l>
-					<l>Wird mich in meinen Tagen</l>
-					<l>Als <rs type="person" key="G0001">Gott</rs> und Vater tragen.</l>
+					<lb/><l>Auf <rs type="person" key="G0001">Gott</rs>, und nicht auf meinen Rath,</l>
+					<lb/><l>Will ich mein Glücke bauen,</l>
+					<lb/><l>Und dem, der mich erſchaffen hat,</l>
+					<lb/><l>Mit ganzer Seele trauen.</l>
+					<lb/><l>Er, der die Welt</l>
+					<lb/><l>Allmächtig halt,</l>
+					<lb/><l>Wird mich in meinen Tagen</l>
+					<lb/><l>Als <rs type="person" key="G0001">Gott</rs> und Vater tragen.</l>
 				</lg>
 				<lg>
-					<l>Er ſah von aller Ewigkeit,</l>
-					<l>Wie viel mir nützen würde,</l>
-					<l>Beſtimmte meine Lebenſzeit,</l>
-					<l>Mein Glück und meine Bürde.</l>
-					<l>Was zagt mein Herz?</l>
-					<l>Iſt auch ein Schmerz,</l>
-					<l>Der zu des Glaubens Ehre</l>
-					<l>Nicht zu beſiegen wäre?</l>
+					<lb/><l>Er ſah von aller Ewigkeit,</l>
+					<lb/><l>Wie viel mir nützen würde,</l>
+					<lb/><l>Beſtimmte meine Lebenſzeit,</l>
+					<lb/><l>Mein Glück und meine Bürde.</l>
+					<lb/><l>Was zagt mein Herz?</l>
+					<lb/><l>Iſt auch ein Schmerz,</l>
+					<lb/><l>Der zu des Glaubens Ehre</l>
+					<lb/><l>Nicht zu beſiegen wäre?</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Gott</rs> kennet, was mein Herz begehrt,</l>
-					<l>Und hätte, was ich bitte,</l>
-					<l>Mir gnädig, eh ichs bat, gewährt,</l>
-					<l>Wenns ſeine Weiſheit litte.</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> kennet, was mein Herz begehrt,</l>
+					<lb/><l>Und hätte, was ich bitte,</l>
+					<lb/><l>Mir gnädig, eh ichs bat, gewährt,</l>
+					<lb/><l>Wenns ſeine Weiſheit litte.</l>
 					<pb n="135"/>
-					<l>Er ſorgt für mich</l>
-					<l>Stets väterlich.</l>
-					<l>Nicht, was ich mir erſehe,</l>
-					<l>Sein Wille, der geſchehe!</l>
+					<lb/><l>Er ſorgt für mich</l>
+					<lb/><l>Stets väterlich.</l>
+					<lb/><l>Nicht, was ich mir erſehe,</l>
+					<lb/><l>Sein Wille, der geſchehe!</l>
 				</lg>
 				<lg>
-					<l>Iſt nicht ein ungeſtörtes Glück</l>
-					<l>Weit ſchwerer oft zu tragen,</l>
-					<l> Als ſelbſt das widrige <choice>
+					<lb/><l>Iſt nicht ein ungeſtörtes Glück</l>
+					<lb/><l>Weit ſchwerer oft zu tragen,</l>
+					<lb/><l> Als ſelbſt das widrige <choice>
 							<orig>Geſchick,</orig>
 							<reg>Geſchick</reg>
 						</choice>
 					</l>
-					<l>Bey deſsen Laſt wir klagen?</l>
-					<l><anchor subtype="death_start" type="death"/>Die größte Noth</l>
-					<l>Hebt doch der Tod;</l>
-					<l>Und Ehre, Glück und Habe</l>
-					<l>verläßt mich doch im Grabe.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Bey deſsen Laſt wir klagen?</l>
+					<lb/><l><anchor subtype="death_start" type="death"/>Die größte Noth</l>
+					<lb/><l>Hebt doch der Tod;</l>
+					<lb/><l>Und Ehre, Glück und Habe</l>
+					<lb/><l>verläßt mich doch im Grabe.<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l>An dem, was wahrhaft glücklich macht,</l>
-					<l>Läßt <rs type="person" key="G0001">Gott</rs> es keinem fehlen;</l>
-					<l>Geſundheit, Ehre, Glück und Pracht</l>
-					<l>Sind nicht das Glück der Seelen.</l>
-					<l>Wer <rs type="person" key="G0001">Gottes</rs> Rath</l>
-					<l>Vor Augen hat,</l>
-					<l>Dem wird ein gut Gewiſsen</l>
-					<l>Die Trübſal auch versüſsen.</l>
+					<lb/><l>An dem, was wahrhaft glücklich macht,</l>
+					<lb/><l>Läßt <rs type="person" key="G0001">Gott</rs> es keinem fehlen;</l>
+					<lb/><l>Geſundheit, Ehre, Glück und Pracht</l>
+					<lb/><l>Sind nicht das Glück der Seelen.</l>
+					<lb/><l>Wer <rs type="person" key="G0001">Gottes</rs> Rath</l>
+					<lb/><l>Vor Augen hat,</l>
+					<lb/><l>Dem wird ein gut Gewiſsen</l>
+					<lb/><l>Die Trübſal auch versüſsen.</l>
 				</lg>
 				<pb n="136"/>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Was iſt des Lebens
+					<lb/><l><anchor subtype="death_start" type="death"/>Was iſt des Lebens
 						Herrlichkeit?</l>
-					<l>Wie bald iſt ſie verſchwunden!</l>
-					<l>Was iſt das Leiden dieſer Zeit?</l>
-					<l>Wie bald iſts überwunden!<anchor subtype="death_end" type="death"/></l>
-					<l>Hofft auf den <rs type="person" key="G0001">Herrn</rs>!</l>
-					<l>Er hilft uns gern;</l>
-					<l>Seyd frölich, ihr Gerechten!</l>
-					<l>Der <rs type="person" key="G0001">Herr</rs> hilft ſeinen Knechten.</l>
+					<lb/><l>Wie bald iſt ſie verſchwunden!</l>
+					<lb/><l>Was iſt das Leiden dieſer Zeit?</l>
+					<lb/><l>Wie bald iſts überwunden!<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Hofft auf den <rs type="person" key="G0001">Herrn</rs>!</l>
+					<lb/><l>Er hilft uns gern;</l>
+					<lb/><l>Seyd frölich, ihr Gerechten!</l>
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> hilft ſeinen Knechten.</l>
 				</lg>
 			</div>
 		</body>

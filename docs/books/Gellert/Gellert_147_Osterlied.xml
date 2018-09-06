@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,67 +178,67 @@
 			<pb n="147"/>
 			<pb n="10" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Oſterlied.</head>
+				<head><title>Oſterlied.</title></head>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/><rs type="person"
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/><rs type="person"
 							key="J0001">Jeſus</rs> lebt, mit ihm auch ich.</l>
-					<l>Tod, wo ſind nun deine Schrecken?</l>
-					<l>Er, er lebt, und wird auch mich</l>
-					<l>Von den Todten auferwecken.</l>
-					<l>Er verklärt mich in ſein Licht;</l>
-					<l>Dies iſt meine Zuverſicht.<anchor subtype="resurrection_end"
+					<lb/><l>Tod, wo ſind nun deine Schrecken?</l>
+					<lb/><l>Er, er lebt, und wird auch mich</l>
+					<lb/><l>Von den Todten auferwecken.</l>
+					<lb/><l>Er verklärt mich in ſein Licht;</l>
+					<lb/><l>Dies iſt meine Zuverſicht.<anchor subtype="resurrection_end"
 							type="resurrection"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/><rs type="person"
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/><rs type="person"
 							key="J0001">Jeſus</rs> lebt, ihm iſt das Reich</l>
-					<l>Ueber alle Welt gegeben;</l>
-					<l>Mit ihm werd auch ich zugleich</l>
-					<l>Ewig herrſchen, ewig leben.</l>
-					<l><rs type="person" key="G0001">Gott</rs> erfüllt, was er verſpricht;</l>
-					<l>Dieß iſt meine Zuverſicht.<anchor subtype="resurrection_end"
+					<lb/><l>Ueber alle Welt gegeben;</l>
+					<lb/><l>Mit ihm werd auch ich zugleich</l>
+					<lb/><l>Ewig herrſchen, ewig leben.</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> erfüllt, was er verſpricht;</l>
+					<lb/><l>Dieß iſt meine Zuverſicht.<anchor subtype="resurrection_end"
 							type="resurrection"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/><rs type="person"
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/><rs type="person"
 							key="J0001">Jeſus</rs> lebt, wer nun verzagt,</l>
-					<l>Läſtert ihn und <rs type="person" key="G0001">Gottes</rs> Ehre.</l>
-					<l>Gnade hat er zugeſagt,</l>
-					<l>Daß der Sünder ſich bekehre.</l>
-					<l><rs type="person" key="G0001">Gott</rs> verſtößt in <rs type="person"
+					<lb/><l>Läſtert ihn und <rs type="person" key="G0001">Gottes</rs> Ehre.</l>
+					<lb/><l>Gnade hat er zugeſagt,</l>
+					<lb/><l>Daß der Sünder ſich bekehre.</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> verſtößt in <rs type="person"
 							key="J0001">Chriſto</rs> nicht;</l>
-					<l>Dies iſt meine Zuverſicht.<anchor subtype="resurrection_end"
+					<lb/><l>Dies iſt meine Zuverſicht.<anchor subtype="resurrection_end"
 							type="resurrection"/></l>
 				</lg>
 				<pb n="148"/>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/><rs type="person"
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/><rs type="person"
 							key="J0001">Jeſus</rs> lebt, ſein Heil iſt mein;</l>
-					<l>Sein ſey auch mein ganzes Leben.</l>
-					<l>Reines Herzens will ich ſeyn</l>
-					<l>Und den Lüſten widerſtreben.</l>
-					<l>Er verläßt den Schwachen nicht;</l>
-					<l>Dieß iſt meine Zuverſicht.<anchor subtype="resurrection_end"
+					<lb/><l>Sein ſey auch mein ganzes Leben.</l>
+					<lb/><l>Reines Herzens will ich ſeyn</l>
+					<lb/><l>Und den Lüſten widerſtreben.</l>
+					<lb/><l>Er verläßt den Schwachen nicht;</l>
+					<lb/><l>Dieß iſt meine Zuverſicht.<anchor subtype="resurrection_end"
 							type="resurrection"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Jeſus lebt, ich bin
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Jeſus lebt, ich bin
 						gewiſs,</l>
-					<l>Nichts ſoll mich von <rs type="person" key="J0001">Jeſu</rs> ſcheiden,</l>
-					<l>Keine Macht der Finſterniß,</l>
-					<l>Keine Herrlichkeit, kein Leiden.</l>
-					<l>Er giebt Kraft zu dieſer Pflicht;</l>
-					<l>Dies iſt meine Zuverſicht.<anchor subtype="resurrection_end"
+					<lb/><l>Nichts ſoll mich von <rs type="person" key="J0001">Jeſu</rs> ſcheiden,</l>
+					<lb/><l>Keine Macht der Finſterniß,</l>
+					<lb/><l>Keine Herrlichkeit, kein Leiden.</l>
+					<lb/><l>Er giebt Kraft zu dieſer Pflicht;</l>
+					<lb/><l>Dies iſt meine Zuverſicht.<anchor subtype="resurrection_end"
 							type="resurrection"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/><rs type="person"
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/><rs type="person"
 							key="J0001">Jeſus</rs> lebt, nun iſt der Tod</l>
-					<l>Mir der Eingang in das Leben.</l>
-					<l>Welchen Troſt in Todeſnoth</l>
-					<l>Wird er meiner Seele geben,</l>
-					<l>Wenn ſie gläubig zu ihm ſpricht:</l>
-					<l><rs type="person" key="J0001">Herr, Herr</rs>, meine Zuverſicht!<anchor
+					<lb/><l>Mir der Eingang in das Leben.</l>
+					<lb/><l>Welchen Troſt in Todeſnoth</l>
+					<lb/><l>Wird er meiner Seele geben,</l>
+					<lb/><l>Wenn ſie gläubig zu ihm ſpricht:</l>
+					<lb/><l><rs type="person" key="J0001">Herr, Herr</rs>, meine Zuverſicht!<anchor
 							subtype="resurrection_end" type="resurrection"/></l>
 				</lg>
 			</div>

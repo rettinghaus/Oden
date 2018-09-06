@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,102 +178,102 @@
 			<pb n="117"/>
 			<pb n="32" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Ermunterung die Schrift zu leſen.</head>
+				<head><title>Ermunterung die Schrift zu leſen.</title></head>
 				<lg>
-					<l>Soll dein verderbtes Herz zur Heiligung geneſen,</l>
-					<l>Chriſt, ſo versäume nicht, das Wort des <rs type="person" key="G0001"
+					<lb/><l>Soll dein verderbtes Herz zur Heiligung geneſen,</l>
+					<lb/><l>Chriſt, ſo versäume nicht, das Wort des <rs type="person" key="G0001"
 							>Herrn</rs> zu leſen;</l>
-					<l>Bedenke, daß dieß Wort das Heil der ganzen Welt,</l>
-					<l>Den Rath der Seligkeit, den Geiſt aus <rs type="person" key="G0001">Gott</rs>
+					<lb/><l>Bedenke, daß dieß Wort das Heil der ganzen Welt,</l>
+					<lb/><l>Den Rath der Seligkeit, den Geiſt aus <rs type="person" key="G0001">Gott</rs>
 						enthält.</l>
 				</lg>
 				<lg>
-					<l>Merk auf, als ob dir <rs type="person" key="G0001">Gott</rs>, dein <rs
+					<lb/><l>Merk auf, als ob dir <rs type="person" key="G0001">Gott</rs>, dein <rs
 							type="person" key="G0001">Gott</rs>, gerufen hätte;</l>
-					<l>Merk auf, als ob er ſelbſt zu dir vom Himmel redte!</l>
-					<l>So lies! Mit Ehrfurcht lies, mit Luſt und mit Vertraun,</l>
-					<l>Und mit dem frommen Ernſt, in <rs type="person" key="G0001">Gott</rs> dich zu
+					<lb/><l>Merk auf, als ob er ſelbſt zu dir vom Himmel redte!</l>
+					<lb/><l>So lies! Mit Ehrfurcht lies, mit Luſt und mit Vertraun,</l>
+					<lb/><l>Und mit dem frommen Ernſt, in <rs type="person" key="G0001">Gott</rs> dich zu
 						erbaun.</l>
 				</lg>
 				<lg>
-					<l>Sprich fromm: O <rs type="person" key="G0001">Gott</rs>, vor dem ich meine
+					<lb/><l>Sprich fromm: O <rs type="person" key="G0001">Gott</rs>, vor dem ich meine
 						Hände falte,</l>
-					<l>Gieb, daß ich dein Gebot für dein Wort ewig halte;</l>
-					<l>Und laß mich deinen Rath empfindungſvoll verſtehn,</l>
-					<l>Die Wunder am Geſetz, am Wort vom Kreuze ſehn!</l>
+					<lb/><l>Gieb, daß ich dein Gebot für dein Wort ewig halte;</l>
+					<lb/><l>Und laß mich deinen Rath empfindungſvoll verſtehn,</l>
+					<lb/><l>Die Wunder am Geſetz, am Wort vom Kreuze ſehn!</l>
 				</lg>
 				<pb n="118"/>
 				<lg>
-					<l> Er, aller <choice>
+					<lb/><l> Er, aller <choice>
 							<orig>Wahrheit</orig>
 							<reg>Weiſheit</reg>
 						</choice>
 						<rs type="person" key="G0001">Gott</rs>, kann dich nicht irren laſsen. </l>
-					<l>Lies, Chriſt, ſein heilig Buch, lies oft; du wirſt es faſsen,</l>
-					<l>So viel dein Heil verlangt. <rs type="person" key="G0001">Gott</rs> iſts, der
+					<lb/><l>Lies, Chriſt, ſein heilig Buch, lies oft; du wirſt es faſsen,</l>
+					<lb/><l>So viel dein Heil verlangt. <rs type="person" key="G0001">Gott</rs> iſts, der
 						Weiſheit giebt,</l>
-					<l>Wenn man ſie redlich ſucht und aus Gewiſsen liebt.</l>
+					<lb/><l>Wenn man ſie redlich ſucht und aus Gewiſsen liebt.</l>
 				</lg>
 				<lg>
-					<l>Lies, frey von Leidenſchaft und ledig von Geſchäften,</l>
-					<l>Und ſammle deinen Geiſt mit allen ſeinen Kräften.</l>
-					<l>Der beſte Theil des Tags, des Morgens Heiterkeit,</l>
-					<l>Und dann der Tag des <rs type="person" key="G0001">Herrn</rs>, der ſey der
+					<lb/><l>Lies, frey von Leidenſchaft und ledig von Geſchäften,</l>
+					<lb/><l>Und ſammle deinen Geiſt mit allen ſeinen Kräften.</l>
+					<lb/><l>Der beſte Theil des Tags, des Morgens Heiterkeit,</l>
+					<lb/><l>Und dann der Tag des <rs type="person" key="G0001">Herrn</rs>, der ſey der
 						Schrift geweiht.</l>
 				</lg>
 				<lg>
-					<l>Rührt dich ein ſtarker Spruch: ſo ruf ihn, dir zum Glücke,</l>
-					<l>Des Tags oft in dein Herz, im Stillen oft, zurücke.</l>
-					<l>Empfinde ſeinen Geiſt, und ſtärke dich durch ihn</l>
-					<l>Zum wahren Edelmuth, das Gute zu vollziehn.</l>
+					<lb/><l>Rührt dich ein ſtarker Spruch: ſo ruf ihn, dir zum Glücke,</l>
+					<lb/><l>Des Tags oft in dein Herz, im Stillen oft, zurücke.</l>
+					<lb/><l>Empfinde ſeinen Geiſt, und ſtärke dich durch ihn</l>
+					<lb/><l>Zum wahren Edelmuth, das Gute zu vollziehn.</l>
 				</lg>
 				<pb n="119"/>
 				<lg>
-					<l>Um tugendhaft zu ſeyn, dazu ſind wir auf Erden.</l>
-					<l>Thu, was die Schrift gebeut; dann wirſt du inne werden,</l>
-					<l>Die Lehre ſey von <rs type="person" key="G0001">Gott</rs>, die dir verkündigt
+					<lb/><l>Um tugendhaft zu ſeyn, dazu ſind wir auf Erden.</l>
+					<lb/><l>Thu, was die Schrift gebeut; dann wirſt du inne werden,</l>
+					<lb/><l>Die Lehre ſey von <rs type="person" key="G0001">Gott</rs>, die dir verkündigt
 						iſt,</l>
-					<l>Und dann das Wort verſtehn, dem du gehorſam biſt.</l>
+					<lb/><l>Und dann das Wort verſtehn, dem du gehorſam biſt.</l>
 				</lg>
 				<lg>
-					<l>Spricht ſie geheimniſvoll: ſo laß dich dieß nicht ſchrecken.</l>
-					<l>Ein endlicher Verſtand kann <rs type="person" key="G0001">Gott</rs> nie ganz
+					<lb/><l>Spricht ſie geheimniſvoll: ſo laß dich dieß nicht ſchrecken.</l>
+					<lb/><l>Ein endlicher Verſtand kann <rs type="person" key="G0001">Gott</rs> nie ganz
 						entdecken;</l>
-					<l><rs type="person" key="G0001">Gott</rs> bleibt unendlich hoch. Wenn er ſich
+					<lb/><l><rs type="person" key="G0001">Gott</rs> bleibt unendlich hoch. Wenn er ſich
 						dir erklärt:</l>
-					<l>So glaube, was er ſpricht, nicht was dein Witz begehrt.</l>
+					<lb/><l>So glaube, was er ſpricht, nicht was dein Witz begehrt.</l>
 				</lg>
 				<lg>
-					<l>Sich ſeines ſchwachen Lichts bey <rs type="person" key="G0001">Gottes</rs>
+					<lb/><l>Sich ſeines ſchwachen Lichts bey <rs type="person" key="G0001">Gottes</rs>
 						Licht nicht ſchämen,</l>
-					<l>Iſt Ruhm; und die Vernunft alſdenn gefangen nehmen,</l>
-					<l>Wenn <rs type="person" key="G0001">Gott</rs> ſich offenbart, iſt der
+					<lb/><l>Iſt Ruhm; und die Vernunft alſdenn gefangen nehmen,</l>
+					<lb/><l>Wenn <rs type="person" key="G0001">Gott</rs> ſich offenbart, iſt der
 						Geſchöpfe Pflicht;</l>
-					<l>Und weiſe Demuth iſts, das glauben, was <rs type="person" key="G0001"
+					<lb/><l>Und weiſe Demuth iſts, das glauben, was <rs type="person" key="G0001"
 							>Gott</rs> ſpricht.</l>
 				</lg>
 				<pb n="120"/>
 				<lg>
-					<l>Drum laß dich, frommer Chriſt, durch keine Zweifel kränken.</l>
-					<l>Hier biſt du Kind; doch dort wird <rs type="person" key="G0001">Gott</rs>
+					<lb/><l>Drum laß dich, frommer Chriſt, durch keine Zweifel kränken.</l>
+					<lb/><l>Hier biſt du Kind; doch dort wird <rs type="person" key="G0001">Gott</rs>
 						mehr Licht dir ſchenken.</l>
-					<l>Dort wächſt mit deinem Glück dein Licht in Ewigkeit;</l>
-					<l>Dort iſt die Zeit des Schauns, und hier des Glaubens Zeit.</l>
+					<lb/><l>Dort wächſt mit deinem Glück dein Licht in Ewigkeit;</l>
+					<lb/><l>Dort iſt die Zeit des Schauns, und hier des Glaubens Zeit.</l>
 				</lg>
 				<lg>
-					<l>Verehre ſtets die Schrift; und ſiehſt du Dunkelheiten:</l>
-					<l>So laß dich deinen Freund, der mehr als du ſieht, leiten.</l>
-					<l>Ein forſchender Verſtand, der ſich der Schrift geweiht,</l>
-					<l>Ein angefochtnes Herz, hebt manche Dunkelheit.</l>
+					<lb/><l>Verehre ſtets die Schrift; und ſiehſt du Dunkelheiten:</l>
+					<lb/><l>So laß dich deinen Freund, der mehr als du ſieht, leiten.</l>
+					<lb/><l>Ein forſchender Verſtand, der ſich der Schrift geweiht,</l>
+					<lb/><l>Ein angefochtnes Herz, hebt manche Dunkelheit.</l>
 				</lg>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Halt feſt an <rs
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Halt feſt an <rs
 							type="person" key="G0001">Gottes</rs> Wort; es iſt dein Glück auf
 						Erden</l>
-					<l>Und wird, ſo wahr <rs type="person" key="G0001">Gott</rs> iſt, dein Glück im
+					<lb/><l>Und wird, ſo wahr <rs type="person" key="G0001">Gott</rs> iſt, dein Glück im
 						Himmel werden.<anchor subtype="resurrection_end" type="resurrection"/></l>
-					<l>Verachte chriſtlich groß des Bibelfeindes Spott;</l>
-					<l>Die Lehre, die er ſchmäht, bleibt doch das Wort aus <rs type="person"
+					<lb/><l>Verachte chriſtlich groß des Bibelfeindes Spott;</l>
+					<lb/><l>Die Lehre, die er ſchmäht, bleibt doch das Wort aus <rs type="person"
 							key="G0001">Gott</rs>.</l>
 				</lg>
 			</div>

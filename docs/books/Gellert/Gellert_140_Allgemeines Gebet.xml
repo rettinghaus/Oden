@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,89 +178,89 @@
 			<pb n="140"/>
 			<pb n="45" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Allgemeines Gebet.</head>
+				<head><title>Allgemeines Gebet.</title></head>
 				<lg>
-					<l>Ich komme vor dein Angeſicht,</l>
-					<l>Verwirf, o <rs type="person" key="G0001">Gott</rs>, mein Flehen nicht;</l>
-					<l>Vergieb mir alle meine Schuld,</l>
-					<l>Du <rs type="person" key="G0001">Gott</rs> der Gnaden und Geduld.</l>
+					<lb/><l>Ich komme vor dein Angeſicht,</l>
+					<lb/><l>Verwirf, o <rs type="person" key="G0001">Gott</rs>, mein Flehen nicht;</l>
+					<lb/><l>Vergieb mir alle meine Schuld,</l>
+					<lb/><l>Du <rs type="person" key="G0001">Gott</rs> der Gnaden und Geduld.</l>
 				</lg>
 				<lg>
-					<l>Schaff du ein reines Herz in mir,</l>
-					<l>Ein Herz voll Lieb und Furcht zu dir,</l>
-					<l>Ein Herz voll Demuth, Preis und Dank,</l>
-					<l>Ein ruhig Herz mein Lebelang.</l>
+					<lb/><l>Schaff du ein reines Herz in mir,</l>
+					<lb/><l>Ein Herz voll Lieb und Furcht zu dir,</l>
+					<lb/><l>Ein Herz voll Demuth, Preis und Dank,</l>
+					<lb/><l>Ein ruhig Herz mein Lebelang.</l>
 				</lg>
 				<lg>
-					<l>Sey mein Beſchützer in Gefahr;</l>
-					<l>Ich harre deiner immerdar.</l>
-					<l>Iſt wohl ein Uebel, das mich ſchreckt,</l>
-					<l>Wenn deine Rechte mich bedeckt?</l>
+					<lb/><l>Sey mein Beſchützer in Gefahr;</l>
+					<lb/><l>Ich harre deiner immerdar.</l>
+					<lb/><l>Iſt wohl ein Uebel, das mich ſchreckt,</l>
+					<lb/><l>Wenn deine Rechte mich bedeckt?</l>
 				</lg>
 				<lg>
-					<l>Ich bin ja, <rs type="person" key="G0001">Herr</rs>, in deiner Hand.</l>
-					<l>Von dir empfing ich den Verſtand;</l>
-					<l>Erhalt ihn mir, o <rs type="person" key="G0001">Herr, mein Hort</rs>,</l>
-					<l>Und ſtärk ihn durch dein göttlich Wort.</l>
+					<lb/><l>Ich bin ja, <rs type="person" key="G0001">Herr</rs>, in deiner Hand.</l>
+					<lb/><l>Von dir empfing ich den Verſtand;</l>
+					<lb/><l>Erhalt ihn mir, o <rs type="person" key="G0001">Herr, mein Hort</rs>,</l>
+					<lb/><l>Und ſtärk ihn durch dein göttlich Wort.</l>
 				</lg>
 				<lg>
-					<l>Laß, deines Namens mich zu freun,</l>
-					<l>Ihn ſtets vor meinen Augen ſeyn.</l>
-					<l>Laß, meines Glaubens mich zu freun,</l>
-					<l>Ihn ſtets durch Liebe thätig ſein.</l>
+					<lb/><l>Laß, deines Namens mich zu freun,</l>
+					<lb/><l>Ihn ſtets vor meinen Augen ſeyn.</l>
+					<lb/><l>Laß, meines Glaubens mich zu freun,</l>
+					<lb/><l>Ihn ſtets durch Liebe thätig ſein.</l>
 				</lg>
 				<pb n="141"/>
 				<lg>
-					<l>Das iſt mein Glück, was du mich lehrſt.</l>
-					<l>Das ſey mein Glück, daß ich zuerſt</l>
-					<l>Nach deinem Reiche tracht, und treu</l>
-					<l>In allen meinen Pflichten ſey!</l>
+					<lb/><l>Das iſt mein Glück, was du mich lehrſt.</l>
+					<lb/><l>Das ſey mein Glück, daß ich zuerſt</l>
+					<lb/><l>Nach deinem Reiche tracht, und treu</l>
+					<lb/><l>In allen meinen Pflichten ſey!</l>
 				</lg>
 				<lg>
-					<l>Ich bin zu ſchwach aus eigner Kraft</l>
-					<l>Zum Siege meiner Leidenſchaft;</l>
-					<l>Du aber ziehſt mit Kraft mich an,</l>
-					<l>Daß ich den Sieg erlangen kann.</l>
+					<lb/><l>Ich bin zu ſchwach aus eigner Kraft</l>
+					<lb/><l>Zum Siege meiner Leidenſchaft;</l>
+					<lb/><l>Du aber ziehſt mit Kraft mich an,</l>
+					<lb/><l>Daß ich den Sieg erlangen kann.</l>
 				</lg>
 				<lg>
-					<l>Gieb von den Gütern dieſer Welt</l>
-					<l>Mir, <rs type="person" key="G0001">Herr</rs>, ſo viel, als dir gefällt;</l>
-					<l>Gieb deinem Knecht ein mäßig Theil,</l>
-					<l>Zu ſeinem Fleiße Glück und Heil.</l>
+					<lb/><l>Gieb von den Gütern dieſer Welt</l>
+					<lb/><l>Mir, <rs type="person" key="G0001">Herr</rs>, ſo viel, als dir gefällt;</l>
+					<lb/><l>Gieb deinem Knecht ein mäßig Theil,</l>
+					<lb/><l>Zu ſeinem Fleiße Glück und Heil.</l>
 				</lg>
 				<lg>
-					<l>Schenkt deine Hand mir Ueberfluß.</l>
-					<l>So laſs mich mäßig im Genuß,</l>
-					<l>Und dürftge Brüder zu erfreun,</l>
-					<l>Mich einen frohen Geber ſeyn.</l>
+					<lb/><l>Schenkt deine Hand mir Ueberfluß.</l>
+					<lb/><l>So laſs mich mäßig im Genuß,</l>
+					<lb/><l>Und dürftge Brüder zu erfreun,</l>
+					<lb/><l>Mich einen frohen Geber ſeyn.</l>
 				</lg>
 				<lg>
-					<l>Gieb mir Geſundheit, und verleih,</l>
-					<l>Daß ich ſie nütz, und dankbar ſey</l>
-					<l>Und nie, aus Liebe gegen ſie,</l>
-					<l>Mich zaghaft einer Pflicht entzieh.</l>
+					<lb/><l>Gieb mir Geſundheit, und verleih,</l>
+					<lb/><l>Daß ich ſie nütz, und dankbar ſey</l>
+					<lb/><l>Und nie, aus Liebe gegen ſie,</l>
+					<lb/><l>Mich zaghaft einer Pflicht entzieh.</l>
 				</lg>
 				<pb n="142"/>
 				<lg>
-					<l>Erwecke mir ſtets einen Freund,</l>
-					<l> Ders treu mit meiner <choice>
+					<lb/><l>Erwecke mir ſtets einen Freund,</l>
+					<lb/><l> Ders treu mit meiner <choice>
 							<orig>Wohlfahrth</orig>
 							<reg>Wohlfahrt</reg>
 						</choice> meynt, </l>
-					<l>Mit mir in deiner Furcht ſich übt,</l>
-					<l>Mir Rath und Troſt und Beyſpiel giebt.</l>
+					<lb/><l>Mit mir in deiner Furcht ſich übt,</l>
+					<lb/><l>Mir Rath und Troſt und Beyſpiel giebt.</l>
 				</lg>
 				<lg>
-					<l>Beſtimmſt du mir ein längres Ziel,</l>
-					<l>Und werden meiner Tage viel:</l>
-					<l>So laß, <rs type="person" key="G0001">Gott</rs>, meine Zuverſicht,</l>
-					<l>Verlaſs mich auch im Alter nicht.</l>
+					<lb/><l>Beſtimmſt du mir ein längres Ziel,</l>
+					<lb/><l>Und werden meiner Tage viel:</l>
+					<lb/><l>So laß, <rs type="person" key="G0001">Gott</rs>, meine Zuverſicht,</l>
+					<lb/><l>Verlaſs mich auch im Alter nicht.</l>
 				</lg>
 				<lg>
-					<l>Und wird ſich einſt mein Ende nahn:</l>
-					<l>So nimm dich meiner herzlich an,</l>
-					<l>Und ſey, durch <rs type="person" key="J0001">Chriſtum deinen Sohn</rs>,</l>
-					<l>Mein Schirm, mein Schild und großer Lohn!</l>
+					<lb/><l>Und wird ſich einſt mein Ende nahn:</l>
+					<lb/><l>So nimm dich meiner herzlich an,</l>
+					<lb/><l>Und ſey, durch <rs type="person" key="J0001">Chriſtum deinen Sohn</rs>,</l>
+					<lb/><l>Mein Schirm, mein Schild und großer Lohn!</l>
 				</lg>
 			</div>
 		</body>

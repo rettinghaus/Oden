@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,106 +178,106 @@
 			<pb n="149"/>
 			<pb n="28" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Betrachtung des Todes.</head>
+				<head><title>Betrachtung des Todes.</title></head>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Wie ſicher lebt der Menſch, der
+					<lb/><l><anchor subtype="death_start" type="death"/>Wie ſicher lebt der Menſch, der
 						Staub!</l>
-					<l>Sein Leben iſt ein fallend Laub;</l>
-					<l>Und dennoch ſchmeichelt er ſich gern,</l>
-					<l>Der Tag des Todes ſey noch fern.<anchor subtype="death_end" type="death"
+					<lb/><l>Sein Leben iſt ein fallend Laub;</l>
+					<lb/><l>Und dennoch ſchmeichelt er ſich gern,</l>
+					<lb/><l>Der Tag des Todes ſey noch fern.<anchor subtype="death_end" type="death"
 						/></l>
 				</lg>
 				<lg>
 					<anchor subtype="death_start" type="death"/>
-					<l> Der Jüngling <choice>
+					<lb/><l> Der Jüngling <choice>
 							<orig>hofft</orig>
 							<reg>hoft</reg>
 						</choice> des Greiſes Ziel, </l>
-					<l>Der Mann noch ſeiner Jahre viel,</l>
-					<l>Der Greis zu vielen noch ein Jahr,</l>
-					<l>Und keiner nimmt den Irrthum wahr.<anchor subtype="death_end" type="death"
+					<lb/><l>Der Mann noch ſeiner Jahre viel,</l>
+					<lb/><l>Der Greis zu vielen noch ein Jahr,</l>
+					<lb/><l>Und keiner nimmt den Irrthum wahr.<anchor subtype="death_end" type="death"
 						/></l>
 				</lg>
 				<lg>
 					<anchor subtype="death_start" type="death"/>
-					<l>Sprich nicht: Ich denk in Glück und Noth</l>
-					<l>Im Herzen oft an meinen Tod.</l>
-					<l>Der, den der Tod nicht weiſer macht,</l>
-					<l>Hat nie mit Ernſt an ihn gedacht.<anchor subtype="death_end" type="death"
+					<lb/><l>Sprich nicht: Ich denk in Glück und Noth</l>
+					<lb/><l>Im Herzen oft an meinen Tod.</l>
+					<lb/><l>Der, den der Tod nicht weiſer macht,</l>
+					<lb/><l>Hat nie mit Ernſt an ihn gedacht.<anchor subtype="death_end" type="death"
 						/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Wir leben hier zur Ewigkeit,</l>
-					<l>Zu thun, was uns der Herr gebeut,</l>
-					<l>Und unſers Lebens kleinſter Theil</l>
-					<l>Iſt eine Friſt zu unſerm Heil.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l><anchor subtype="death_start" type="death"/>Wir leben hier zur Ewigkeit,</l>
+					<lb/><l>Zu thun, was uns der Herr gebeut,</l>
+					<lb/><l>Und unſers Lebens kleinſter Theil</l>
+					<lb/><l>Iſt eine Friſt zu unſerm Heil.<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<pb n="150"/>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Der Tod rückt Seelen vor
+					<lb/><l><anchor subtype="death_start" type="death"/>Der Tod rückt Seelen vor
 						Gericht;</l>
-					<l>Da bringt <rs type="person" key="G0001">Gott</rs> alles an das Licht,</l>
-					<l>Und macht, was hier verborgen war,</l>
-					<l>Den Rath der Herzen offenbar.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Da bringt <rs type="person" key="G0001">Gott</rs> alles an das Licht,</l>
+					<lb/><l>Und macht, was hier verborgen war,</l>
+					<lb/><l>Den Rath der Herzen offenbar.<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Drum da dein Tod dir täglich
+					<lb/><l><anchor subtype="death_start" type="death"/>Drum da dein Tod dir täglich
 						dräut,</l>
-					<l>So ſei doch wacker und bereit;</l>
-					<l>Prüf deinen Glauben, als ein Chriſt,</l>
-					<l>Ob er durch Liebe thätig iſt.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>So ſei doch wacker und bereit;</l>
+					<lb/><l>Prüf deinen Glauben, als ein Chriſt,</l>
+					<lb/><l>Ob er durch Liebe thätig iſt.<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Ein Seufzer in der letzten
+					<lb/><l><anchor subtype="death_start" type="death"/>Ein Seufzer in der letzten
 						Noth,</l>
-					<l>Ein Wunſch, durch des Erlöſers Tod</l>
-					<l>Vor <rs type="person" key="G0001">Gottes</rs> Thron gerecht zu ſeyn,</l>
-					<l>Dieß macht dich nicht von Sünden rein.<anchor subtype="death_end"
+					<lb/><l>Ein Wunſch, durch des Erlöſers Tod</l>
+					<lb/><l>Vor <rs type="person" key="G0001">Gottes</rs> Thron gerecht zu ſeyn,</l>
+					<lb/><l>Dieß macht dich nicht von Sünden rein.<anchor subtype="death_end"
 							type="death"/></l>
 				</lg>
 				<lg>
-					<l>Ein Herz, das <rs type="person" key="G0001">Gottes</rs> Stimme hört,</l>
-					<l>Ihr folgt und ſich vom Böſen kehrt;</l>
-					<l>Ein gläubig Herz, von Lieb erfüllt,</l>
-					<l>Dies iſt es, was in <rs type="person" key="J0001">Chriſto</rs> gilt.</l>
+					<lb/><l>Ein Herz, das <rs type="person" key="G0001">Gottes</rs> Stimme hört,</l>
+					<lb/><l>Ihr folgt und ſich vom Böſen kehrt;</l>
+					<lb/><l>Ein gläubig Herz, von Lieb erfüllt,</l>
+					<lb/><l>Dies iſt es, was in <rs type="person" key="J0001">Chriſto</rs> gilt.</l>
 				</lg>
 				<lg>
-					<l>Die Heiligung erfordert Müh;</l>
-					<l>Du wirkſt ſie nicht, <rs type="person" key="G0001">Gott</rs> wirket ſie.</l>
-					<l>Du aber ringe ſtets nach ihr,</l>
-					<l>Als wäre ſie ein Werk von dir.</l>
+					<lb/><l>Die Heiligung erfordert Müh;</l>
+					<lb/><l>Du wirkſt ſie nicht, <rs type="person" key="G0001">Gott</rs> wirket ſie.</l>
+					<lb/><l>Du aber ringe ſtets nach ihr,</l>
+					<lb/><l>Als wäre ſie ein Werk von dir.</l>
 				</lg>
 				<pb n="151"/>
 				<lg>
-					<l>Der Ruf des Lebens, das du lebſt,</l>
-					<l>Dein höchſtes Ziel, nach dem du ſtrebſt,</l>
-					<l>Und deiner Tage Rechenſchaft</l>
-					<l>Iſt Tugend in des Glaubens Kraft.</l>
+					<lb/><l>Der Ruf des Lebens, das du lebſt,</l>
+					<lb/><l>Dein höchſtes Ziel, nach dem du ſtrebſt,</l>
+					<lb/><l>Und deiner Tage Rechenſchaft</l>
+					<lb/><l>Iſt Tugend in des Glaubens Kraft.</l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Ihr alle ſeine Tage weihn,</l>
-					<l>Heißt eingedenk des Todes ſeyn;</l>
-					<l>Und Wachſen in der Heiligung,</l>
-					<l>Iſt wahre Todſerinnerung.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l><anchor subtype="death_start" type="death"/>Ihr alle ſeine Tage weihn,</l>
+					<lb/><l>Heißt eingedenk des Todes ſeyn;</l>
+					<lb/><l>Und Wachſen in der Heiligung,</l>
+					<lb/><l>Iſt wahre Todſerinnerung.<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Wie oft vergeß ich dieſe
+					<lb/><l><anchor subtype="death_start" type="death"/>Wie oft vergeß ich dieſe
 						Pflicht!</l>
-					<l><rs type="person" key="G0001">Herr</rs>, geh mit mir nicht ins Gericht;</l>
-					<l>Drück ſelbſt des Todes Bild in mich,</l>
-					<l>Daß ich dir wandle würdiglich;<anchor subtype="death_end" type="death"/></l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, geh mit mir nicht ins Gericht;</l>
+					<lb/><l>Drück ſelbſt des Todes Bild in mich,</l>
+					<lb/><l>Daß ich dir wandle würdiglich;<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l>Daß ich mein Herz mit jedem Tag</l>
-					<l>Vor dir, o <rs type="person" key="G0001">Gott</rs>, erforſchen mag,</l>
-					<l>Ob Liebe, Demuth, Fried und Treu,</l>
-					<l>Die Frucht des Geiſtes, in ihm ſey;</l>
+					<lb/><l>Daß ich mein Herz mit jedem Tag</l>
+					<lb/><l>Vor dir, o <rs type="person" key="G0001">Gott</rs>, erforſchen mag,</l>
+					<lb/><l>Ob Liebe, Demuth, Fried und Treu,</l>
+					<lb/><l>Die Frucht des Geiſtes, in ihm ſey;</l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Daß ich zu dir um Gnade fleh,</l>
-					<l>Stets meiner Schwachheit widerſteh,</l>
-					<l>Und einſtens in des Glaubens Macht</l>
-					<l>Mit Freuden ruf: Es iſt vollbracht!<anchor subtype="death_end" type="death"
+					<lb/><l><anchor subtype="death_start" type="death"/>Daß ich zu dir um Gnade fleh,</l>
+					<lb/><l>Stets meiner Schwachheit widerſteh,</l>
+					<lb/><l>Und einſtens in des Glaubens Macht</l>
+					<lb/><l>Mit Freuden ruf: Es iſt vollbracht!<anchor subtype="death_end" type="death"
 						/></l>
 				</lg>
 			</div>

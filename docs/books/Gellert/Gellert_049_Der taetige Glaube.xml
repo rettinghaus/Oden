@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,50 +178,50 @@
 			<pb n="49"/>
 			<pb n="11" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Der thätige Glaube.</head>
+				<head><title>Der thätige Glaube.</title></head>
 				<lg>
-					<l>Wer <rs type="person" key="G0001">Gottes</rs> Wort nicht hält, und
+					<lb/><l>Wer <rs type="person" key="G0001">Gottes</rs> Wort nicht hält, und
 						ſpricht:</l>
-					<l>Ich kenne <rs type="person" key="G0001">Gott</rs>! der trüget;</l>
-					<l>In ſolchem iſt die Wahrheit nicht,</l>
-					<l>Die durch den Glauben ſieget.</l>
-					<l>Wer aber ſein Wort gläubt und hält,</l>
-					<l>Der iſt von <rs type="person" key="G0001">Gott</rs>, nicht von der Welt.</l>
+					<lb/><l>Ich kenne <rs type="person" key="G0001">Gott</rs>! der trüget;</l>
+					<lb/><l>In ſolchem iſt die Wahrheit nicht,</l>
+					<lb/><l>Die durch den Glauben ſieget.</l>
+					<lb/><l>Wer aber ſein Wort gläubt und hält,</l>
+					<lb/><l>Der iſt von <rs type="person" key="G0001">Gott</rs>, nicht von der Welt.</l>
 				</lg>
 				<lg>
-					<l>Der Glaube, den ſein Wort erzeugt,</l>
-					<l>Muß auch die Liebe zeugen.</l>
-					<l>Je höher dein Erkenntniß ſteigt;</l>
-					<l>Je mehr wird dieſe ſteigen.</l>
-					<l>Der Glaub erleuchtet nicht allein;</l>
-					<l>Er ſtärkt das Herz und macht es rein.</l>
+					<lb/><l>Der Glaube, den ſein Wort erzeugt,</l>
+					<lb/><l>Muß auch die Liebe zeugen.</l>
+					<lb/><l>Je höher dein Erkenntniß ſteigt;</l>
+					<lb/><l>Je mehr wird dieſe ſteigen.</l>
+					<lb/><l>Der Glaub erleuchtet nicht allein;</l>
+					<lb/><l>Er ſtärkt das Herz und macht es rein.</l>
 				</lg>
 				<lg>
-					<l>Durch <rs type="person" key="J0001">Jeſum</rs> rein von Miſsethat,</l>
-					<l>Sind wir nun <rs type="person" key="G0001">Gottes</rs> Kinder.</l>
-					<l>Wer ſolche Hoffnung zu ihm hat,</l>
-					<l>Der flieht den Rath der Sünder;</l>
-					<l>Folgt <rs type="person" key="J0001">Chriſti</rs> Beyſpiel, als ein
+					<lb/><l>Durch <rs type="person" key="J0001">Jeſum</rs> rein von Miſsethat,</l>
+					<lb/><l>Sind wir nun <rs type="person" key="G0001">Gottes</rs> Kinder.</l>
+					<lb/><l>Wer ſolche Hoffnung zu ihm hat,</l>
+					<lb/><l>Der flieht den Rath der Sünder;</l>
+					<lb/><l>Folgt <rs type="person" key="J0001">Chriſti</rs> Beyſpiel, als ein
 						Chriſt,</l>
-					<l>Und reinigt ſich, wie Er rein iſt.</l>
+					<lb/><l>Und reinigt ſich, wie Er rein iſt.</l>
 				</lg>
 				<lg>
-					<l>Alſdenn bin ich <rs type="person" key="G0001">Gott</rs> angenehm,</l>
-					<l>Wenn ich Gehorſam übe.</l>
-					<l>Wer die Gebote hält, in dem</l>
-					<l>Iſt wahrlich <rs type="person" key="G0001">Gottes</rs> Liebe.</l>
-					<l>Ein täglich thätig Chriſtenthum,</l>
-					<l>Das iſt des Glaubens Frucht und Ruhm.</l>
+					<lb/><l>Alſdenn bin ich <rs type="person" key="G0001">Gott</rs> angenehm,</l>
+					<lb/><l>Wenn ich Gehorſam übe.</l>
+					<lb/><l>Wer die Gebote hält, in dem</l>
+					<lb/><l>Iſt wahrlich <rs type="person" key="G0001">Gottes</rs> Liebe.</l>
+					<lb/><l>Ein täglich thätig Chriſtenthum,</l>
+					<lb/><l>Das iſt des Glaubens Frucht und Ruhm.</l>
 				</lg>
 				<pb n="50"/>
 				<lg>
-					<l>Der bleibt in <rs type="person" key="G0001">Gott</rs>, und <rs type="person"
+					<lb/><l>Der bleibt in <rs type="person" key="G0001">Gott</rs>, und <rs type="person"
 							key="G0001">Gott</rs> in ihm,</l>
-					<l>Wer in der Liebe bleibet.</l>
-					<l>Die Lieb iſts, die die Cherubim,</l>
-					<l><rs type="person" key="G0001">Gott</rs> zu gehorchen, treibet.</l>
-					<l><rs type="person" key="G0001">Gott</rs> iſt die Lieb; an ſeinem Heil</l>
-					<l>Hat ohne Liebe Niemand Theil.</l>
+					<lb/><l>Wer in der Liebe bleibet.</l>
+					<lb/><l>Die Lieb iſts, die die Cherubim,</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> zu gehorchen, treibet.</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> iſt die Lieb; an ſeinem Heil</l>
+					<lb/><l>Hat ohne Liebe Niemand Theil.</l>
 				</lg>
 			</div>
 		</body>

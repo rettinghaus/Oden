@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,107 +178,107 @@
 			<pb n="19"/>
 			<pb n="60" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Die Wachſamkeit.</head>
+				<head><title>Die Wachſamkeit.</title></head>
 				<lg>
-					<l>Nicht, daß ichs ſchon ergriffen hätte;</l>
-					<l>Die beſte Tugend bleibt noch ſchwach;</l>
-					<l>Doch, daß ich meine Seele rette,</l>
-					<l>Jag ich dem Kleinod eifrig nach.</l>
-					<l>Denn Tugend ohne Wachſamkeit</l>
-					<l>Verliert ſich bald in Sicherheit.</l>
+					<lb/><l>Nicht, daß ichs ſchon ergriffen hätte;</l>
+					<lb/><l>Die beſte Tugend bleibt noch ſchwach;</l>
+					<lb/><l>Doch, daß ich meine Seele rette,</l>
+					<lb/><l>Jag ich dem Kleinod eifrig nach.</l>
+					<lb/><l>Denn Tugend ohne Wachſamkeit</l>
+					<lb/><l>Verliert ſich bald in Sicherheit.</l>
 				</lg>
 				<lg>
-					<l>So lang ich hier im Leben walle,</l>
-					<l>Bin ich ein Kind, das ſtrauchelnd geht.</l>
-					<l>Der ſehe zu, daß er nicht falle,</l>
-					<l>Der, wenn ſein Nächſter fällt, noch ſteht.</l>
-					<l>Auch die bekämpfte böſe Luſt</l>
-					<l>Stirbt niemals ganz in unſrer Bruſt.</l>
+					<lb/><l>So lang ich hier im Leben walle,</l>
+					<lb/><l>Bin ich ein Kind, das ſtrauchelnd geht.</l>
+					<lb/><l>Der ſehe zu, daß er nicht falle,</l>
+					<lb/><l>Der, wenn ſein Nächſter fällt, noch ſteht.</l>
+					<lb/><l>Auch die bekämpfte böſe Luſt</l>
+					<lb/><l>Stirbt niemals ganz in unſrer Bruſt.</l>
 				</lg>
 				<lg>
-					<l>Nicht jede Beſserung iſt Tugend;</l>
-					<l>Oft iſt ſie nur das Werk der Zeit.</l>
-					<l>Die wilde Hitze roher Jugend</l>
-					<l>Wird mit den Jahren Sittſamkeit;</l>
-					<l>Und was Natur und Zeit gethan,</l>
-					<l>Sieht unſer Stolz für Tugend an.</l>
+					<lb/><l>Nicht jede Beſserung iſt Tugend;</l>
+					<lb/><l>Oft iſt ſie nur das Werk der Zeit.</l>
+					<lb/><l>Die wilde Hitze roher Jugend</l>
+					<lb/><l>Wird mit den Jahren Sittſamkeit;</l>
+					<lb/><l>Und was Natur und Zeit gethan,</l>
+					<lb/><l>Sieht unſer Stolz für Tugend an.</l>
 				</lg>
 				<lg>
-					<l>Oft iſt die Aendrung deiner Seelen</l>
-					<l>Ein Tauſch der Triebe der Natur.</l>
-					<l>Du fühlſt, wie Stolz und Ruhmſucht quälen,</l>
-					<l>Und dämpfſt ſie; doch du wechſelſt nur;</l>
-					<l>Dein Herz fühlt einen andern Reiz,</l>
-					<l>Dein Stolz wird Wolluſt, oder Geiz.</l>
+					<lb/><l>Oft iſt die Aendrung deiner Seelen</l>
+					<lb/><l>Ein Tauſch der Triebe der Natur.</l>
+					<lb/><l>Du fühlſt, wie Stolz und Ruhmſucht quälen,</l>
+					<lb/><l>Und dämpfſt ſie; doch du wechſelſt nur;</l>
+					<lb/><l>Dein Herz fühlt einen andern Reiz,</l>
+					<lb/><l>Dein Stolz wird Wolluſt, oder Geiz.</l>
 				</lg>
 				<pb n="20"/>
 				<lg>
-					<l>Oft iſt es Kunſt und Eigenliebe,</l>
-					<l>Was andern ſtrenge Tugend ſcheint.</l>
-					<l>Der Trieb des Neids, der Schmähſucht Triebe</l>
-					<l>Erweckten dir ſo manchen Feind;</l>
-					<l>Du wirſt behutſam, ſchränkſt dich ein,</l>
-					<l>Fliehſt nicht die Schmähſucht, nur den Schein.</l>
+					<lb/><l>Oft iſt es Kunſt und Eigenliebe,</l>
+					<lb/><l>Was andern ſtrenge Tugend ſcheint.</l>
+					<lb/><l>Der Trieb des Neids, der Schmähſucht Triebe</l>
+					<lb/><l>Erweckten dir ſo manchen Feind;</l>
+					<lb/><l>Du wirſt behutſam, ſchränkſt dich ein,</l>
+					<lb/><l>Fliehſt nicht die Schmähſucht, nur den Schein.</l>
 				</lg>
 				<lg>
-					<l>Du denkſt, weil Dinge dich nicht rühren,</l>
-					<l>Durch die der andern Tugend fällt:</l>
-					<l>So werde nichts dein Herz verführen;</l>
-					<l>Doch jedes Herz hat ſeine Welt.</l>
-					<l>Den, welchen Stand und Gold nicht rührt,</l>
-					<l>Hat oft ein Blick, ein Wort verführt.</l>
+					<lb/><l>Du denkſt, weil Dinge dich nicht rühren,</l>
+					<lb/><l>Durch die der andern Tugend fällt:</l>
+					<lb/><l>So werde nichts dein Herz verführen;</l>
+					<lb/><l>Doch jedes Herz hat ſeine Welt.</l>
+					<lb/><l>Den, welchen Stand und Gold nicht rührt,</l>
+					<lb/><l>Hat oft ein Blick, ein Wort verführt.</l>
 				</lg>
 				<lg>
-					<l>Oft ſchläft der Trieb in deinem Herzen.</l>
-					<l>Du ſcheinſt von Rachſucht dir befreyt.</l>
-					<l>Itzt ſollſt du eine Schmach verſchmerzen,</l>
-					<l>Und ſieh, dein Herz wallt auf und dräut,</l>
-					<l>Und ſchilt ſo lieblos und ſo hart,</l>
-					<l>Als es zuerſt geſcholten ward.</l>
+					<lb/><l>Oft ſchläft der Trieb in deinem Herzen.</l>
+					<lb/><l>Du ſcheinſt von Rachſucht dir befreyt.</l>
+					<lb/><l>Itzt ſollſt du eine Schmach verſchmerzen,</l>
+					<lb/><l>Und ſieh, dein Herz wallt auf und dräut,</l>
+					<lb/><l>Und ſchilt ſo lieblos und ſo hart,</l>
+					<lb/><l>Als es zuerſt geſcholten ward.</l>
 				</lg>
 				<lg>
-					<l>Oft denkt, wenn wir der Stille pflegen,</l>
-					<l>Das Herz im Stillen tugendhaft.</l>
-					<l>Kaum lachet uns die Welt entgegen:</l>
-					<l>So regt ſich unſre Leidenſchaft.</l>
-					<l>Wir werden im Geräuſche ſchwach,</l>
-					<l>Und geben endlich ſtrafbar nach.</l>
+					<lb/><l>Oft denkt, wenn wir der Stille pflegen,</l>
+					<lb/><l>Das Herz im Stillen tugendhaft.</l>
+					<lb/><l>Kaum lachet uns die Welt entgegen:</l>
+					<lb/><l>So regt ſich unſre Leidenſchaft.</l>
+					<lb/><l>Wir werden im Geräuſche ſchwach,</l>
+					<lb/><l>Und geben endlich ſtrafbar nach.</l>
 				</lg>
 				<pb n="21"/>
 				<lg>
-					<l>Du opferſt <rs type="person" key="G0001">Gott</rs> die leichtern Triebe</l>
-					<l>Durch einen ſtrengen Lebenſlauf;</l>
-					<l>Doch opferſt du, wills ſeine Liebe,</l>
-					<l>Ihm auch die liebſte Neigung auf?</l>
-					<l>Dieß iſt das Auge, dieß der Fuß,</l>
-					<l>Die ſich der Chriſt entreißen muß.</l>
+					<lb/><l>Du opferſt <rs type="person" key="G0001">Gott</rs> die leichtern Triebe</l>
+					<lb/><l>Durch einen ſtrengen Lebenſlauf;</l>
+					<lb/><l>Doch opferſt du, wills ſeine Liebe,</l>
+					<lb/><l>Ihm auch die liebſte Neigung auf?</l>
+					<lb/><l>Dieß iſt das Auge, dieß der Fuß,</l>
+					<lb/><l>Die ſich der Chriſt entreißen muß.</l>
 				</lg>
 				<lg>
-					<l>Du fliehſt, geneigt zu Ruh und Stille,</l>
-					<l>Die Welt, und liebſt die Einſamkeit;</l>
-					<l>Doch biſt du, forderts <rs type="person" key="G0001">Gottes</rs> Wille,</l>
-					<l>Auch dieſer zu entfliehn bereit?</l>
-					<l>Dein Herz haßt Habſucht, Neid und Zank;</l>
-					<l>Fliehts Unmut auch und Müßiggang?</l>
+					<lb/><l>Du fliehſt, geneigt zu Ruh und Stille,</l>
+					<lb/><l>Die Welt, und liebſt die Einſamkeit;</l>
+					<lb/><l>Doch biſt du, forderts <rs type="person" key="G0001">Gottes</rs> Wille,</l>
+					<lb/><l>Auch dieſer zu entfliehn bereit?</l>
+					<lb/><l>Dein Herz haßt Habſucht, Neid und Zank;</l>
+					<lb/><l>Fliehts Unmut auch und Müßiggang?</l>
 				</lg>
 				<lg>
-					<l>Du biſt gerecht; denn auch beſcheiden?</l>
-					<l>Liebſt Mäßigkeit; denn auch Geduld?</l>
-					<l>Du dieneſt gern, wenn andre leiden;</l>
-					<l>Vergibſt du Feinden auch die Schuld?</l>
-					<l>Von allen Laſtern ſollſt du rein,</l>
-					<l>Zu aller Tugend willig ſeyn.</l>
+					<lb/><l>Du biſt gerecht; denn auch beſcheiden?</l>
+					<lb/><l>Liebſt Mäßigkeit; denn auch Geduld?</l>
+					<lb/><l>Du dieneſt gern, wenn andre leiden;</l>
+					<lb/><l>Vergibſt du Feinden auch die Schuld?</l>
+					<lb/><l>Von allen Laſtern ſollſt du rein,</l>
+					<lb/><l>Zu aller Tugend willig ſeyn.</l>
 				</lg>
 				<lg>
-					<l>Sey nicht vermeſsen! Wach und ſtreite;</l>
-					<l>Denk nicht, daß du ſchon gnug gethan.</l>
-					<l>Dein Herz hat ſeine ſchwache Seite,</l>
-					<l> Die greift der Feind der <choice>
+					<lb/><l>Sey nicht vermeſsen! Wach und ſtreite;</l>
+					<lb/><l>Denk nicht, daß du ſchon gnug gethan.</l>
+					<lb/><l>Dein Herz hat ſeine ſchwache Seite,</l>
+					<lb/><l> Die greift der Feind der <choice>
 							<orig>Wohlfahrth</orig>
 							<reg>Wohlfart</reg>
 						</choice> an. </l>
-					<l>Die Sicherheit droht dir den Fall;</l>
-					<l>Drum wache ſtets, wach überall!</l>
+					<lb/><l>Die Sicherheit droht dir den Fall;</l>
+					<lb/><l>Drum wache ſtets, wach überall!</l>
 				</lg>
 			</div>
 		</body>

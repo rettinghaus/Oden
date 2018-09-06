@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,45 +178,45 @@
 			<pb n="1"/>
 			<pb n="9" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Bitten.</head>
+				<head><title>Bitten.</title></head>
 				<lg>
-					<l><rs type="person" key="G0001">Gott</rs>, deine Güte reicht ſo weit,</l>
-					<l>Soweit die Wolken gehen;</l>
-					<l>Du krönſt uns mit Barmherzigkeit,</l>
-					<l>Und eilſt, uns beyzuſtehen.</l>
-					<l><rs type="person" key="G0001">Herr</rs>, meine Burg, mein Fels, mein
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, deine Güte reicht ſo weit,</l>
+					<lb/><l>Soweit die Wolken gehen;</l>
+					<lb/><l>Du krönſt uns mit Barmherzigkeit,</l>
+					<lb/><l>Und eilſt, uns beyzuſtehen.</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, meine Burg, mein Fels, mein
 						Hort,</l>
-					<l>Vernimm mein Flehn, merk auf mein Wort;</l>
-					<l>Denn ich will vor dir beten!</l>
+					<lb/><l>Vernimm mein Flehn, merk auf mein Wort;</l>
+					<lb/><l>Denn ich will vor dir beten!</l>
 				</lg>
 				<lg>
-					<l>Ich bitte nicht um Ueberfluß</l>
-					<l>Und Schätze dieſer Erden.</l>
-					<l>Laß mir, ſo viel ich haben muß,</l>
-					<l>Nach deiner Gnade werden.</l>
-					<l>Gieb mir nur Weiſheit und Verſtand,</l>
-					<l>Dich, <rs type="person" key="G0001">Gott</rs>, und <rs type="person"
+					<lb/><l>Ich bitte nicht um Ueberfluß</l>
+					<lb/><l>Und Schätze dieſer Erden.</l>
+					<lb/><l>Laß mir, ſo viel ich haben muß,</l>
+					<lb/><l>Nach deiner Gnade werden.</l>
+					<lb/><l>Gieb mir nur Weiſheit und Verſtand,</l>
+					<lb/><l>Dich, <rs type="person" key="G0001">Gott</rs>, und <rs type="person"
 							key="J0001">den, den du geſandt</rs>,</l>
-					<l>Und mich ſelbſt zu erkennen.</l>
+					<lb/><l>Und mich ſelbſt zu erkennen.</l>
 				</lg>
 				<pb n="2"/>
 				<lg>
-					<l>Ich bitte nicht um Ehr und Ruhm,</l>
-					<l>So ſehr ſie Menſchen rühren;</l>
-					<l>Des guten Namens Eigenthum</l>
-					<l>Laß mich nur nicht verlieren.</l>
-					<l>Mein wahrer Ruhm ſei meine Pflicht,</l>
-					<l>Der Ruhm vor deinem Angeſicht</l>
-					<l>Und frommer Freunde Liebe.</l>
+					<lb/><l>Ich bitte nicht um Ehr und Ruhm,</l>
+					<lb/><l>So ſehr ſie Menſchen rühren;</l>
+					<lb/><l>Des guten Namens Eigenthum</l>
+					<lb/><l>Laß mich nur nicht verlieren.</l>
+					<lb/><l>Mein wahrer Ruhm ſei meine Pflicht,</l>
+					<lb/><l>Der Ruhm vor deinem Angeſicht</l>
+					<lb/><l>Und frommer Freunde Liebe.</l>
 				</lg>
 				<lg>
-					<l>So bitt ich dich, <rs type="person" key="G0001">Herr Zebaoth</rs>,</l>
-					<l>Auch nicht um langes Leben.</l>
-					<l>Im Glücke Demuth, Muth in Noth,</l>
-					<l>Das wolleſt du mir geben.</l>
-					<l><anchor subtype="death_start" type="death"/>In deiner Hand ſteht meine Zeit; </l>
-					<l>Laß du mich nur Barmherzigkeit</l>
-					<l>Vor dir im Tode finden. <anchor subtype="death_end" type="death"/></l>
+					<lb/><l>So bitt ich dich, <rs type="person" key="G0001">Herr Zebaoth</rs>,</l>
+					<lb/><l>Auch nicht um langes Leben.</l>
+					<lb/><l>Im Glücke Demuth, Muth in Noth,</l>
+					<lb/><l>Das wolleſt du mir geben.</l>
+					<lb/><l><anchor subtype="death_start" type="death"/>In deiner Hand ſteht meine Zeit; </l>
+					<lb/><l>Laß du mich nur Barmherzigkeit</l>
+					<lb/><l>Vor dir im Tode finden. <anchor subtype="death_end" type="death"/></l>
 				</lg>
 			</div>
 		</body>

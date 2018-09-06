@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,126 +178,126 @@
 			<pb n="158"/>
 			<pb n="18" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Troſt des ewigen Lebens.</head>
+				<head><title>Troſt des ewigen Lebens.</title></head>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Nach einer Prüfung
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Nach einer Prüfung
 						kurzer Tage</l>
-					<l>Erwartet uns die Ewigkeit.</l>
-					<l>Dort, dort verwandelt ſich die Klage</l>
-					<l>In göttliche Zufriedenheit.</l>
-					<l>Hier übt die Tugend ihren Fleiß;</l>
-					<l>Und jene Welt reicht ihr den Preiß.<anchor subtype="resurrection_end"
+					<lb/><l>Erwartet uns die Ewigkeit.</l>
+					<lb/><l>Dort, dort verwandelt ſich die Klage</l>
+					<lb/><l>In göttliche Zufriedenheit.</l>
+					<lb/><l>Hier übt die Tugend ihren Fleiß;</l>
+					<lb/><l>Und jene Welt reicht ihr den Preiß.<anchor subtype="resurrection_end"
 							type="resurrection"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Wahr iſts, der
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Wahr iſts, der
 						Fromme ſchmeckt auf Erden</l>
-					<l>Schon manchen ſelgen Augenblick;</l>
-					<l>Doch alle Freuden, die ihm werden,</l>
-					<l>Sind ihm ein unvollkommnes Glück.</l>
-					<l>Er bleibt ein Menſch, und ſeine Ruh</l>
-					<l>Nimmt in der Seelen ab und zu.<anchor subtype="resurrection_end"
+					<lb/><l>Schon manchen ſelgen Augenblick;</l>
+					<lb/><l>Doch alle Freuden, die ihm werden,</l>
+					<lb/><l>Sind ihm ein unvollkommnes Glück.</l>
+					<lb/><l>Er bleibt ein Menſch, und ſeine Ruh</l>
+					<lb/><l>Nimmt in der Seelen ab und zu.<anchor subtype="resurrection_end"
 							type="resurrection"/></l>
 				</lg>
 				<lg>
-					<l>Bald ſtören ihn des Körpers Schmerzen,</l>
-					<l>Bald das Geräuſche dieſer Welt;</l>
-					<l>Bald kämpft in ſeinem eignen Herzen</l>
-					<l>Ein Feind, der öfter ſiegt, als fällt;</l>
-					<l>Bald ſinkt er durch des Nächſten Schuld</l>
-					<l>In Kummer und in Ungeduld.</l>
+					<lb/><l>Bald ſtören ihn des Körpers Schmerzen,</l>
+					<lb/><l>Bald das Geräuſche dieſer Welt;</l>
+					<lb/><l>Bald kämpft in ſeinem eignen Herzen</l>
+					<lb/><l>Ein Feind, der öfter ſiegt, als fällt;</l>
+					<lb/><l>Bald ſinkt er durch des Nächſten Schuld</l>
+					<lb/><l>In Kummer und in Ungeduld.</l>
 				</lg>
 				<lg>
-					<l>Hier, wo die Tugend öfters leidet,</l>
-					<l>Das Laſter öfters glücklich iſt,</l>
-					<l>Wo man den Glücklichen beneidet</l>
-					<l>Und des Bekümmerten vergißt.</l>
-					<l>Hier kann der Menſch nie frey von Pein,</l>
-					<l>Nie frei von eigner Schwachheit ſeyn.</l>
+					<lb/><l>Hier, wo die Tugend öfters leidet,</l>
+					<lb/><l>Das Laſter öfters glücklich iſt,</l>
+					<lb/><l>Wo man den Glücklichen beneidet</l>
+					<lb/><l>Und des Bekümmerten vergißt.</l>
+					<lb/><l>Hier kann der Menſch nie frey von Pein,</l>
+					<lb/><l>Nie frei von eigner Schwachheit ſeyn.</l>
 				</lg>
 				<pb n="159"/>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Hier ſuch ichs nur,
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Hier ſuch ichs nur,
 						dort werd ichs finden;</l>
-					<l>Dort werd ich, heilig und verklärt,</l>
-					<l>Der Tugend ganzen Werth empfinden,</l>
-					<l>Den unauſsprechlich großen Werth.</l>
-					<l>Den <rs type="person" key="G0001">Gott</rs> der Liebe werd ich ſehn,</l>
-					<l>Ihn lieben, ewig ihn erhöhn.<anchor subtype="resurrection_start"
+					<lb/><l>Dort werd ich, heilig und verklärt,</l>
+					<lb/><l>Der Tugend ganzen Werth empfinden,</l>
+					<lb/><l>Den unauſsprechlich großen Werth.</l>
+					<lb/><l>Den <rs type="person" key="G0001">Gott</rs> der Liebe werd ich ſehn,</l>
+					<lb/><l>Ihn lieben, ewig ihn erhöhn.<anchor subtype="resurrection_start"
 							type="resurrection"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Da wird der
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Da wird der
 						Vorſicht heilger Wille</l>
-					<l> Mein Will und meine <choice>
+					<lb/><l> Mein Will und meine <choice>
 							<orig>Wohlfahrth</orig>
 							<reg>Wohlfahrt</reg>
 						</choice> ſeyn. </l>
-					<l>Und lieblich Weſen, Heil die Fülle,</l>
-					<l>Am Throne <rs type="person" key="G0001">Gottes</rs> mich erfreun.</l>
-					<l>Dann läßt Gewinn ſtets auf Gewinn</l>
-					<l>Mich fühlen, daß ich ewig bin.<anchor subtype="resurrection_end"
+					<lb/><l>Und lieblich Weſen, Heil die Fülle,</l>
+					<lb/><l>Am Throne <rs type="person" key="G0001">Gottes</rs> mich erfreun.</l>
+					<lb/><l>Dann läßt Gewinn ſtets auf Gewinn</l>
+					<lb/><l>Mich fühlen, daß ich ewig bin.<anchor subtype="resurrection_end"
 							type="resurrection"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Da werd ich das im
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Da werd ich das im
 						Licht erkennen,</l>
-					<l>Was ich auf Erden dunkel ſah;</l>
-					<l>Das wunderbar und heilig nennen,</l>
-					<l>Was unerforſchlich hier geſchah;</l>
-					<l>Da denkt mein Geiſt, mit Preis und Dank,</l>
-					<l>Die Schickung im Zuſammenhang.<anchor subtype="resurrection_end"
+					<lb/><l>Was ich auf Erden dunkel ſah;</l>
+					<lb/><l>Das wunderbar und heilig nennen,</l>
+					<lb/><l>Was unerforſchlich hier geſchah;</l>
+					<lb/><l>Da denkt mein Geiſt, mit Preis und Dank,</l>
+					<lb/><l>Die Schickung im Zuſammenhang.<anchor subtype="resurrection_end"
 							type="resurrection"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Da werd ich zu dem
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Da werd ich zu dem
 						Throne dringen,</l>
-					<l>Wo <rs type="person" key="G0001">Gott</rs>, mein Heil, ſich offenbart;</l>
-					<l>Ein Heilig, Heilig, Heilig, ſingen</l>
-					<l>Dem Lamme, das erwürget ward;</l>
-					<l>Und Cherubim und Seraphim</l>
-					<l>Und alle Himmel jauchzen ihm.<anchor subtype="resurrection_end"
+					<lb/><l>Wo <rs type="person" key="G0001">Gott</rs>, mein Heil, ſich offenbart;</l>
+					<lb/><l>Ein Heilig, Heilig, Heilig, ſingen</l>
+					<lb/><l>Dem Lamme, das erwürget ward;</l>
+					<lb/><l>Und Cherubim und Seraphim</l>
+					<lb/><l>Und alle Himmel jauchzen ihm.<anchor subtype="resurrection_end"
 							type="resurrection"/></l>
 				</lg>
 				<pb n="160"/>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Da werd ich in der
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Da werd ich in der
 						Engel Schaaren</l>
-					<l>Mich ihnen gleich und heilig ſehn,</l>
-					<l>Das nie geſtörte Glück erfahren,</l>
-					<l>Mit Frommen ſtets fromm umzugehn.</l>
-					<l>Da wird durch jeden Augenblick</l>
-					<l>Ihr Heil mein Heil, mein Glück ihr Glück.<anchor subtype="resurrection_end"
+					<lb/><l>Mich ihnen gleich und heilig ſehn,</l>
+					<lb/><l>Das nie geſtörte Glück erfahren,</l>
+					<lb/><l>Mit Frommen ſtets fromm umzugehn.</l>
+					<lb/><l>Da wird durch jeden Augenblick</l>
+					<lb/><l>Ihr Heil mein Heil, mein Glück ihr Glück.<anchor subtype="resurrection_end"
 							type="resurrection"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Da werd ich dem den
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Da werd ich dem den
 						Dank bezahlen,</l>
-					<l>Der <rs type="person" key="G0001">Gottes</rs> Weg mich gehen hieß,</l>
-					<l>Und ihn zu Millionenmalen</l>
-					<l>Noch ſegnen, daß er mir ihn wies;</l>
-					<l>Da find ich in des Höchſten Hand</l>
-					<l>Den Freund, den ich auf Erden fand.<anchor subtype="resurrection_end"
+					<lb/><l>Der <rs type="person" key="G0001">Gottes</rs> Weg mich gehen hieß,</l>
+					<lb/><l>Und ihn zu Millionenmalen</l>
+					<lb/><l>Noch ſegnen, daß er mir ihn wies;</l>
+					<lb/><l>Da find ich in des Höchſten Hand</l>
+					<lb/><l>Den Freund, den ich auf Erden fand.<anchor subtype="resurrection_end"
 							type="resurrection"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Da ruft, o möchte
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Da ruft, o möchte
 							<rs type="person" key="G0001">Gott</rs> es geben!</l>
-					<l>Vielleicht auch mir ein Selger zu:</l>
-					<l>Heil ſei dir! denn du haſt mein Leben,</l>
-					<l>Die Seele mir gerettet; du!</l>
-					<l>O <rs type="person" key="G0001">Gott</rs>, wie muß dieß Glück erfreun,</l>
-					<l>Der Retter einer Seele ſeyn!<anchor subtype="resurrection_end"
+					<lb/><l>Vielleicht auch mir ein Selger zu:</l>
+					<lb/><l>Heil ſei dir! denn du haſt mein Leben,</l>
+					<lb/><l>Die Seele mir gerettet; du!</l>
+					<lb/><l>O <rs type="person" key="G0001">Gott</rs>, wie muß dieß Glück erfreun,</l>
+					<lb/><l>Der Retter einer Seele ſeyn!<anchor subtype="resurrection_end"
 							type="resurrection"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Was ſeyd ihr,
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Was ſeyd ihr,
 						Leiden dieſer Erden,</l>
-					<l>Doch gegen jene Herrlichkeit,</l>
-					<l>Die offenbart an uns ſoll werden</l>
-					<l>Von Ewigkeit zu Ewigkeit?</l>
-					<l>Wie nichts, wie gar nichts gegen ſie</l>
-					<l>Iſt doch ein Augenblick voll Müh!<anchor subtype="resurrection_end"
+					<lb/><l>Doch gegen jene Herrlichkeit,</l>
+					<lb/><l>Die offenbart an uns ſoll werden</l>
+					<lb/><l>Von Ewigkeit zu Ewigkeit?</l>
+					<lb/><l>Wie nichts, wie gar nichts gegen ſie</l>
+					<lb/><l>Iſt doch ein Augenblick voll Müh!<anchor subtype="resurrection_end"
 							type="resurrection"/></l>
 				</lg>
 			</div>

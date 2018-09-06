@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,44 +178,44 @@
 			<pb n="115"/>
 			<pb n="43" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Verſicherung der Gnade Gottes.</head>
+				<head><title>Verſicherung der Gnade Gottes.</title></head>
 				<lg>
-					<l>So hoff’ ich denn mit feſtem Muth</l>
-					<l>Auf <rs type="person" key="G0001">Gottes</rs> Gnad und <rs type="person"
+					<lb/><l>So hoff’ ich denn mit feſtem Muth</l>
+					<lb/><l>Auf <rs type="person" key="G0001">Gottes</rs> Gnad und <rs type="person"
 							key="J0001">Chriſti</rs> Blut;</l>
-					<l>Ich hoff ein ewig Leben.</l>
-					<l><anchor subtype="resurrection_start" type="resurrection"/><rs type="person"
+					<lb/><l>Ich hoff ein ewig Leben.</l>
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/><rs type="person"
 							key="G0001">Gott</rs> iſt ein Vater, der verzeiht,</l>
-					<l>Hat mir das Recht zur Seligkeit</l>
-					<l>In ſeinem <rs type="person" key="J0001">Sohn</rs> gegeben.<anchor
+					<lb/><l>Hat mir das Recht zur Seligkeit</l>
+					<lb/><l>In ſeinem <rs type="person" key="J0001">Sohn</rs> gegeben.<anchor
 							subtype="resurrection_end" type="resurrection"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/><rs type="person"
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/><rs type="person"
 							key="G0001">Herr</rs>, welch ein unauſsprechlich Heil,</l>
-					<l>An dir, an deiner Gnade Theil,</l>
-					<l>Theil an dem Himmel haben<anchor subtype="resurrection_end"
+					<lb/><l>An dir, an deiner Gnade Theil,</l>
+					<lb/><l>Theil an dem Himmel haben<anchor subtype="resurrection_end"
 							type="resurrection"/>;</l>
-					<l>Im Herzen durch den Glauben rein,</l>
-					<l>Dich lieben, und verſichert ſeyn</l>
-					<l>Von deines Geiſtes Gaben!</l>
+					<lb/><l>Im Herzen durch den Glauben rein,</l>
+					<lb/><l>Dich lieben, und verſichert ſeyn</l>
+					<lb/><l>Von deines Geiſtes Gaben!</l>
 				</lg>
 				<lg>
-					<l>Dein Wort, das Wort der Seligkeit,</l>
-					<l>Wirkt göttliche Zufriedenheit,</l>
-					<l>Wenn wir es treu bewahren.</l>
-					<l>Es ſpricht uns Troſt im Elend zu,</l>
-					<l>Versüſset uns des Lebens Ruh,</l>
-					<l>Und ſtärkt uns in Gefahren.</l>
+					<lb/><l>Dein Wort, das Wort der Seligkeit,</l>
+					<lb/><l>Wirkt göttliche Zufriedenheit,</l>
+					<lb/><l>Wenn wir es treu bewahren.</l>
+					<lb/><l>Es ſpricht uns Troſt im Elend zu,</l>
+					<lb/><l>Versüſset uns des Lebens Ruh,</l>
+					<lb/><l>Und ſtärkt uns in Gefahren.</l>
 				</lg>
 				<pb n="116"/>
 				<lg>
-					<l>Erhalte mir, o <rs type="person" key="G0001">Herr</rs>, mein Hort,</l>
-					<l>den Glauben an dein göttlich Wort,</l>
-					<l>Um deines Namens willen;</l>
-					<l>Laß ihn mein Licht auf Erden ſeyn,</l>
-					<l>Ihn täglich mehr mein Herz erneun</l>
-					<l>Und mich mit Troſt erfüllen!</l>
+					<lb/><l>Erhalte mir, o <rs type="person" key="G0001">Herr</rs>, mein Hort,</l>
+					<lb/><l>den Glauben an dein göttlich Wort,</l>
+					<lb/><l>Um deines Namens willen;</l>
+					<lb/><l>Laß ihn mein Licht auf Erden ſeyn,</l>
+					<lb/><l>Ihn täglich mehr mein Herz erneun</l>
+					<lb/><l>Und mich mit Troſt erfüllen!</l>
 				</lg>
 			</div>
 		</body>

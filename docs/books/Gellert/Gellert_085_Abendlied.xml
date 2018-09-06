@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,43 +178,43 @@
 			<pb n="85"/>
 			<pb n="1" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Abendlied.</head>
+				<head><title>Abendlied.</title></head>
 				<lg>
-					<l>Für alle Güte ſey gepreiſt,</l>
-					<l><rs type="person" key="G0001">Gott Vater</rs>, <rs type="person" key="J0001"
+					<lb/><l>Für alle Güte ſey gepreiſt,</l>
+					<lb/><l><rs type="person" key="G0001">Gott Vater</rs>, <rs type="person" key="J0001"
 							>Sohn</rs> und heilger Geiſt!</l>
-					<l>
+					<lb/><l>
 						<choice>
 							<orig>Ihr bin ich</orig>
 							<reg>Ich bin ihr</reg>
 						</choice> zu geringe. </l>
-					<l>Vernimm den Dank,</l>
-					<l>Den Lobgeſang,</l>
-					<l>Den ich dir kindlich ſinge.</l>
+					<lb/><l>Vernimm den Dank,</l>
+					<lb/><l>Den Lobgeſang,</l>
+					<lb/><l>Den ich dir kindlich ſinge.</l>
 				</lg>
 				<lg>
-					<l>Du nahmſt dich meiner herzlich an,</l>
-					<l>Haſt Großes heut an mir gethan,</l>
-					<l>Mir mein Gebet gewähret;</l>
-					<l>Haſt väterlich</l>
-					<l>Mein Haus und mich</l>
-					<l>Beſchützet und genähret.</l>
+					<lb/><l>Du nahmſt dich meiner herzlich an,</l>
+					<lb/><l>Haſt Großes heut an mir gethan,</l>
+					<lb/><l>Mir mein Gebet gewähret;</l>
+					<lb/><l>Haſt väterlich</l>
+					<lb/><l>Mein Haus und mich</l>
+					<lb/><l>Beſchützet und genähret.</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Herr</rs>, was ich bin, iſt dein Geſchenk;</l>
-					<l>Der Geiſt, mit dem ich dein gedenk,</l>
-					<l>Ein ruhiges Gemüthe;</l>
-					<l>Was ich vermag</l>
-					<l>Bis dieſen Tag,</l>
-					<l>Iſt alles deine Güte.</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, was ich bin, iſt dein Geſchenk;</l>
+					<lb/><l>Der Geiſt, mit dem ich dein gedenk,</l>
+					<lb/><l>Ein ruhiges Gemüthe;</l>
+					<lb/><l>Was ich vermag</l>
+					<lb/><l>Bis dieſen Tag,</l>
+					<lb/><l>Iſt alles deine Güte.</l>
 				</lg>
 				<lg>
-					<l>Sey auch, nach deiner Lieb und Macht,</l>
-					<l>Mein Schutz und Schirm in dieſer Nacht;</l>
-					<l>Vergib mir meine Sünden.</l>
-					<l>Und kömmt mein Tod,</l>
-					<l><rs type="person" key="G0001">Herr Zebaoth</rs>,</l>
-					<l>ſo laß mich Gnade finden.</l>
+					<lb/><l>Sey auch, nach deiner Lieb und Macht,</l>
+					<lb/><l>Mein Schutz und Schirm in dieſer Nacht;</l>
+					<lb/><l>Vergib mir meine Sünden.</l>
+					<lb/><l>Und kömmt mein Tod,</l>
+					<lb/><l><rs type="person" key="G0001">Herr Zebaoth</rs>,</l>
+					<lb/><l>ſo laß mich Gnade finden.</l>
 				</lg>
 			</div>
 		</body>

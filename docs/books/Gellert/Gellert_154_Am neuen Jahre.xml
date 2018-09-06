@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,67 +178,67 @@
 			<pb n="154"/>
 			<pb n="49" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Am neuen Jahre.</head>
+				<head><title>Am neuen Jahre.</title></head>
 				<lg>
-					<l> Er ruft der Sonn und <choice>
+					<lb/><l> Er ruft der Sonn und <choice>
 							<orig>ſchafft</orig>
 							<reg>ſchaft</reg>
 						</choice> den Mond, </l>
-					<l>Das Jahr darnach zu theilen.</l>
-					<l> Er <choice>
+					<lb/><l>Das Jahr darnach zu theilen.</l>
+					<lb/><l> Er <choice>
 							<orig>ſchafft</orig>
 							<reg>ſchaft</reg>
 						</choice> es, daß man ſicher wohnt, </l>
-					<l>Und heißt die Zeiten eilen.</l>
-					<l>Er ordnet Jahre, Tag und Nacht;</l>
-					<l>Auf, laßt uns ihm, dem <rs type="person" key="G0001">Gott</rs> der Macht,</l>
-					<l>Ruhm, Preis, und Dank ertheilen.</l>
+					<lb/><l>Und heißt die Zeiten eilen.</l>
+					<lb/><l>Er ordnet Jahre, Tag und Nacht;</l>
+					<lb/><l>Auf, laßt uns ihm, dem <rs type="person" key="G0001">Gott</rs> der Macht,</l>
+					<lb/><l>Ruhm, Preis, und Dank ertheilen.</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Herr</rs>, der da iſt, und der da war,</l>
-					<l>Von dankerfüllten Zungen</l>
-					<l>Sey dir für das verfloßne Jahr</l>
-					<l>Ein heilig Lied geſungen;</l>
-					<l>Für Leben, Wohlfahrth, Troſt und Rath,</l>
-					<l>Für Fried und Ruh, für jede Tath,</l>
-					<l>Die uns durch dich gelungen.</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, der da iſt, und der da war,</l>
+					<lb/><l>Von dankerfüllten Zungen</l>
+					<lb/><l>Sey dir für das verfloßne Jahr</l>
+					<lb/><l>Ein heilig Lied geſungen;</l>
+					<lb/><l>Für Leben, Wohlfahrth, Troſt und Rath,</l>
+					<lb/><l>Für Fried und Ruh, für jede Tath,</l>
+					<lb/><l>Die uns durch dich gelungen.</l>
 				</lg>
 				<lg>
-					<l>Laß auch dieß Jahr geſegnet ſeyn,</l>
-					<l>Das du uns neu gegeben.</l>
-					<l>verleih uns Kraft, die Kraft iſt dein,</l>
-					<l>In deiner Furcht zu leben.</l>
-					<l>Du ſchützeſt uns, und du vermehrſt</l>
-					<l>Der Menſchen Glück, wenn ſie zuerſt</l>
-					<l>Nach deinem Reiche ſtreben.</l>
+					<lb/><l>Laß auch dieß Jahr geſegnet ſeyn,</l>
+					<lb/><l>Das du uns neu gegeben.</l>
+					<lb/><l>verleih uns Kraft, die Kraft iſt dein,</l>
+					<lb/><l>In deiner Furcht zu leben.</l>
+					<lb/><l>Du ſchützeſt uns, und du vermehrſt</l>
+					<lb/><l>Der Menſchen Glück, wenn ſie zuerſt</l>
+					<lb/><l>Nach deinem Reiche ſtreben.</l>
 				</lg>
 				<pb n="155"/>
 				<lg>
-					<l>Gieb mir, wofern es dir gefällt,</l>
-					<l>Des Lebens Ruh und Freuden.</l>
-					<l>Doch ſchadet mir das Glück der Welt:</l>
-					<l>So gieb mir Kreuz und Leiden.</l>
-					<l>Nur ſtärke mit Geduld mein Herz,</l>
-					<l>Und laß mich nicht in Noth und Schmerz</l>
-					<l>Die Glücklichern beneiden.</l>
+					<lb/><l>Gieb mir, wofern es dir gefällt,</l>
+					<lb/><l>Des Lebens Ruh und Freuden.</l>
+					<lb/><l>Doch ſchadet mir das Glück der Welt:</l>
+					<lb/><l>So gieb mir Kreuz und Leiden.</l>
+					<lb/><l>Nur ſtärke mit Geduld mein Herz,</l>
+					<lb/><l>Und laß mich nicht in Noth und Schmerz</l>
+					<lb/><l>Die Glücklichern beneiden.</l>
 				</lg>
 				<lg>
-					<l>Hilf deinem Volke väterlich</l>
-					<l>In dieſem Jahre wieder.</l>
-					<l>Erbarme der Verlaßnen dich,</l>
-					<l>Und der bedrängten Glieder.</l>
-					<l>Gieb Glück zu jeder guten That,</l>
-					<l>Und laß dich, <rs type="person" key="G0001">Gott</rs>, mit Heil und Rath</l>
-					<l>Auf unſern Fürſten nieder;</l>
+					<lb/><l>Hilf deinem Volke väterlich</l>
+					<lb/><l>In dieſem Jahre wieder.</l>
+					<lb/><l>Erbarme der Verlaßnen dich,</l>
+					<lb/><l>Und der bedrängten Glieder.</l>
+					<lb/><l>Gieb Glück zu jeder guten That,</l>
+					<lb/><l>Und laß dich, <rs type="person" key="G0001">Gott</rs>, mit Heil und Rath</l>
+					<lb/><l>Auf unſern Fürſten nieder;</l>
 				</lg>
 				<lg>
-					<l>Daß Weiſheit und Gerechtigkeit</l>
-					<l>Auf ſeinem Stuhle throne;</l>
-					<l>Daß Tugend und Zufriedenheit</l>
-					<l>In unſerm Lande wohne;</l>
-					<l>Daß Treu und Liebe bey uns ſey;</l>
-					<l>Dieß, lieber <rs type="person" key="G0001">Vater</rs>, dieß verleih</l>
-					<l>In <rs type="person" key="J0001">Chriſto, deinem Sohne</rs>!</l>
+					<lb/><l>Daß Weiſheit und Gerechtigkeit</l>
+					<lb/><l>Auf ſeinem Stuhle throne;</l>
+					<lb/><l>Daß Tugend und Zufriedenheit</l>
+					<lb/><l>In unſerm Lande wohne;</l>
+					<lb/><l>Daß Treu und Liebe bey uns ſey;</l>
+					<lb/><l>Dieß, lieber <rs type="person" key="G0001">Vater</rs>, dieß verleih</l>
+					<lb/><l>In <rs type="person" key="J0001">Chriſto, deinem Sohne</rs>!</l>
 				</lg>
 			</div>
 		</body>

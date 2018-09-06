@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,156 +178,156 @@
 			<pb n="44"/>
 			<pb n="14" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Paſsionſlied.</head>
+				<head><title>Paſsionſlied.</title></head>
 				<lg>
-					<l>Erforſche mich, erfahr mein Herz,</l>
-					<l>Und ſieh, <rs type="person" key="J0001">Herr</rs>, wie ichs meyne.</l>
-					<l>Ich denk an deines Leidens Schmerz,</l>
-					<l>An deine Lieb, und weine.</l>
-					<l><anchor subtype="death_start" type="death"/>Dein Kreuz ſey mir
+					<lb/><l>Erforſche mich, erfahr mein Herz,</l>
+					<lb/><l>Und ſieh, <rs type="person" key="J0001">Herr</rs>, wie ichs meyne.</l>
+					<lb/><l>Ich denk an deines Leidens Schmerz,</l>
+					<lb/><l>An deine Lieb, und weine.</l>
+					<lb/><l><anchor subtype="death_start" type="death"/>Dein Kreuz ſey mir
 						gebenedeyt!</l>
-					<l>Welch Wunder der Barmherzigkeit</l>
-					<l>Haſt du der Welt erwieſen!<anchor subtype="death_end" type="death"/></l>
-					<l>Wenn hab ich dieß genug bedacht,</l>
-					<l>Und dich aus aller meiner Macht</l>
-					<l>Genug dafür geprieſen?</l>
+					<lb/><l>Welch Wunder der Barmherzigkeit</l>
+					<lb/><l>Haſt du der Welt erwieſen!<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Wenn hab ich dieß genug bedacht,</l>
+					<lb/><l>Und dich aus aller meiner Macht</l>
+					<lb/><l>Genug dafür geprieſen?</l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Rath, Kraft und Friedefürſt und
+					<lb/><l><anchor subtype="death_start" type="death"/>Rath, Kraft und Friedefürſt und
 						Held!</l>
-					<l>In Fleiſch und Blut gekleidet,</l>
-					<l>Wirſt du das Opfer für die Welt,</l>
-					<l>Und deine Seele leidet.</l>
-					<l>Dein Freund, der dich verräth, iſt nah.</l>
-					<l>Des Zornes <rs type="person" key="G0001">Gottes</rs> Stund iſt da,</l>
-					<l>Und Schrecken ſtrömen über.</l>
-					<l>Du zagſt und fühlſt der Höllen Weh:</l>
-					<l>"Iſts möglich, <rs type="person" key="G0001">Vater</rs>, o ſo geh</l>
-					<l>Der Kelch vor mir vorüber!<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>In Fleiſch und Blut gekleidet,</l>
+					<lb/><l>Wirſt du das Opfer für die Welt,</l>
+					<lb/><l>Und deine Seele leidet.</l>
+					<lb/><l>Dein Freund, der dich verräth, iſt nah.</l>
+					<lb/><l>Des Zornes <rs type="person" key="G0001">Gottes</rs> Stund iſt da,</l>
+					<lb/><l>Und Schrecken ſtrömen über.</l>
+					<lb/><l>Du zagſt und fühlſt der Höllen Weh:</l>
+					<lb/><l>"Iſts möglich, <rs type="person" key="G0001">Vater</rs>, o ſo geh</l>
+					<lb/><l>Der Kelch vor mir vorüber!<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Dein Schweiß wird Blut; du ringſt
+					<lb/><l><anchor subtype="death_start" type="death"/>Dein Schweiß wird Blut; du ringſt
 						und zagſt</l>
-					<l>Und fällſt zur Erden nieder;</l>
-					<l>Du, <rs type="person" key="J0001">Sohn des Höchſten</rs>, kämpfſt, und
+					<lb/><l>Und fällſt zur Erden nieder;</l>
+					<lb/><l>Du, <rs type="person" key="J0001">Sohn des Höchſten</rs>, kämpfſt, und
 						wagſt</l>
-					<l>Die erſte Bitte wieder.</l>
+					<lb/><l>Die erſte Bitte wieder.</l>
 					<pb n="45"/>
-					<l>Du fühlſt, von <rs type="person" key="G0001">Gott</rs> geſtärkt im
+					<lb/><l>Du fühlſt, von <rs type="person" key="G0001">Gott</rs> geſtärkt im
 						Streit,</l>
-					<l>Die Schrecken einer Ewigkeit,</l>
-					<l>Und Strafen ſonder Ende.</l>
-					<l>Auf dich nimmſt du der Menſchen Schuld</l>
-					<l>Und giebſt mit göttlicher Geduld</l>
-					<l>Dich in der Sünder Hände.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Die Schrecken einer Ewigkeit,</l>
+					<lb/><l>Und Strafen ſonder Ende.</l>
+					<lb/><l>Auf dich nimmſt du der Menſchen Schuld</l>
+					<lb/><l>Und giebſt mit göttlicher Geduld</l>
+					<lb/><l>Dich in der Sünder Hände.<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<pb n="15" ed="CPEB1758"/>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Du trägſt der Miſsethäter
+					<lb/><l><anchor subtype="death_start" type="death"/>Du trägſt der Miſsethäter
 						Lohn,</l>
-					<l>Und hatteſt nie gesündigt;</l>
-					<l>Du, der Gerechte, <rs type="person" key="J0001">Gottes Sohn</rs>!</l>
-					<l>So wars vorher verkündigt.</l>
-					<l>Der Frechen Schaar begehrt dein Blut,</l>
-					<l>Du duldeſt, göttlich groß, die Wut,</l>
-					<l>Um Seelen zu erretten.</l>
-					<l>Dein Mörder, <rs type="person" key="J0001">Jeſus</rs>, war auch ich;</l>
-					<l>Denn <rs type="person" key="G0001">Gott</rs> warf aller Sünd auf dich,</l>
-					<l>Damit wir Friede hätten.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Und hatteſt nie gesündigt;</l>
+					<lb/><l>Du, der Gerechte, <rs type="person" key="J0001">Gottes Sohn</rs>!</l>
+					<lb/><l>So wars vorher verkündigt.</l>
+					<lb/><l>Der Frechen Schaar begehrt dein Blut,</l>
+					<lb/><l>Du duldeſt, göttlich groß, die Wut,</l>
+					<lb/><l>Um Seelen zu erretten.</l>
+					<lb/><l>Dein Mörder, <rs type="person" key="J0001">Jeſus</rs>, war auch ich;</l>
+					<lb/><l>Denn <rs type="person" key="G0001">Gott</rs> warf aller Sünd auf dich,</l>
+					<lb/><l>Damit wir Friede hätten.<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l>
+					<lb/><l>
 						<anchor subtype="death_start" type="death"/>Erniedrigt bis zur
 						Knechtſgeſtalt,</l>
-					<l>Und doch der Größt im Herzen,</l>
-					<l>Erträgſt du Spott, Schmach und Gewalt,</l>
-					<l>Voll Krankheit und voll Schmerzen.</l>
-					<l>Wir ſahn dich, der Verheißung Ziel;</l>
-					<l>Doch da war nichts, das uns gefiel,</l>
-					<l>Und nicht Geſtalt noch Schöne.</l>
-					<l>Vor dir, <rs type="person" key="J0001">Herr</rs>, unſre Zuverſicht,</l>
-					<l>Verbarg man ſelbſt das Angeſicht;</l>
-					<l>Dich ſchmähn des Bundes Söhne.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Und doch der Größt im Herzen,</l>
+					<lb/><l>Erträgſt du Spott, Schmach und Gewalt,</l>
+					<lb/><l>Voll Krankheit und voll Schmerzen.</l>
+					<lb/><l>Wir ſahn dich, der Verheißung Ziel;</l>
+					<lb/><l>Doch da war nichts, das uns gefiel,</l>
+					<lb/><l>Und nicht Geſtalt noch Schöne.</l>
+					<lb/><l>Vor dir, <rs type="person" key="J0001">Herr</rs>, unſre Zuverſicht,</l>
+					<lb/><l>Verbarg man ſelbſt das Angeſicht;</l>
+					<lb/><l>Dich ſchmähn des Bundes Söhne.<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<pb n="46"/>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Ein Opfer nach dem ewgen
+					<lb/><l><anchor subtype="death_start" type="death"/>Ein Opfer nach dem ewgen
 						Rath,</l>
-					<l>Belegt mit unſern Plagen,</l>
-					<l>Um deines Volkes Miſsethat</l>
-					<l>Gemartert und zerſchlagen,</l>
-					<l>Gehſt du den Weg zum Kreuzeſstamm,</l>
-					<l>In Unſchuld ſtumm, gleich als ein Lamm,</l>
-					<l>Das man zur Schlachtbank führet.</l>
-					<l>Freywillig, als der Helden Held,</l>
-					<l>Trägſt du, aus Liebe für die Welt,</l>
-					<l>Den Tod, der uns gebühret.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Belegt mit unſern Plagen,</l>
+					<lb/><l>Um deines Volkes Miſsethat</l>
+					<lb/><l>Gemartert und zerſchlagen,</l>
+					<lb/><l>Gehſt du den Weg zum Kreuzeſstamm,</l>
+					<lb/><l>In Unſchuld ſtumm, gleich als ein Lamm,</l>
+					<lb/><l>Das man zur Schlachtbank führet.</l>
+					<lb/><l>Freywillig, als der Helden Held,</l>
+					<lb/><l>Trägſt du, aus Liebe für die Welt,</l>
+					<lb/><l>Den Tod, der uns gebühret.<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Sie haben meine Hände mir,</l>
-					<l>"Die Füſse mir durchgraben,</l>
-					<l>"Und große Farren ſinds, die hier</l>
-					<l>"Mich, <rs type="person" key="G0001">Gott</rs>! umringet haben.</l>
-					<l>"Ich heul, und meine Hülf iſt fern.</l>
-					<l>"Sie ſpotten mein: Er klags dem <rs type="person" key="G0001">Herrn</rs>,</l>
-					<l>"Ob dieſer ihn befreyte!</l>
-					<l>"Du legſt mich in des Todes Staub.</l>
-					<l>"Ich bin kein Menſch, ein Wurm; ein Raub</l>
-					<l>"Der Wut, ein Spott der Leute.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l><anchor subtype="death_start" type="death"/>Sie haben meine Hände mir,</l>
+					<lb/><l>"Die Füſse mir durchgraben,</l>
+					<lb/><l>"Und große Farren ſinds, die hier</l>
+					<lb/><l>"Mich, <rs type="person" key="G0001">Gott</rs>! umringet haben.</l>
+					<lb/><l>"Ich heul, und meine Hülf iſt fern.</l>
+					<lb/><l>"Sie ſpotten mein: Er klags dem <rs type="person" key="G0001">Herrn</rs>,</l>
+					<lb/><l>"Ob dieſer ihn befreyte!</l>
+					<lb/><l>"Du legſt mich in des Todes Staub.</l>
+					<lb/><l>"Ich bin kein Menſch, ein Wurm; ein Raub</l>
+					<lb/><l>"Der Wut, ein Spott der Leute.<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Ich ruf und du antworteſt
+					<lb/><l><anchor subtype="death_start" type="death"/>Ich ruf und du antworteſt
 						nie,</l>
-					<l>"Und mich verlaſsen alle.</l>
-					<l>"In meinem Durſte reichen ſie</l>
-					<l>"Mir Eſsig dar mit Galle.</l>
-					<l>"Wie Wachs zerſchmilzt in mir mein Herz.</l>
-					<l>"Sie ſehn mit Freuden meinen Schmerz,</l>
+					<lb/><l>"Und mich verlaſsen alle.</l>
+					<lb/><l>"In meinem Durſte reichen ſie</l>
+					<lb/><l>"Mir Eſsig dar mit Galle.</l>
+					<lb/><l>"Wie Wachs zerſchmilzt in mir mein Herz.</l>
+					<lb/><l>"Sie ſehn mit Freuden meinen Schmerz,</l>
 					<pb n="47"/>
-					<l>"Die Arbeit meiner Seelen.</l>
-					<l>"Warum verläſst du deinen Knecht?</l>
-					<l>"Mein <rs type="person" key="G0001">Gott</rs>, mein <rs type="person"
+					<lb/><l>"Die Arbeit meiner Seelen.</l>
+					<lb/><l>"Warum verläſst du deinen Knecht?</l>
+					<lb/><l>"Mein <rs type="person" key="G0001">Gott</rs>, mein <rs type="person"
 							key="G0001">Gott</rs>! ich leid und möcht</l>
-					<l>"All mein Gebeine zählen.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>"All mein Gebeine zählen.<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Du neigſt dein Haupt. Es iſt
+					<lb/><l><anchor subtype="death_start" type="death"/>Du neigſt dein Haupt. Es iſt
 						vollbracht.</l>
-					<l>Du ſtirbſt! Die Erd erſchüttert.</l>
-					<l>Die Arbeit hab ich dir gemacht.</l>
-					<l>Herr, meine Seele zittert.</l>
-					<l>Was iſt der Menſch, den du befreyt?</l>
-					<l>O wär ich doch ganz Dankbarkeit?</l>
-					<l><rs type="person" key="J0001">Herr</rs>, laß mich Gnade finden.</l>
-					<l>Und deine Liebe dringe mich,</l>
-					<l>Daß ich dich wieder lieb, und dich</l>
-					<l>Nie kreuzige mit Sünden.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Du ſtirbſt! Die Erd erſchüttert.</l>
+					<lb/><l>Die Arbeit hab ich dir gemacht.</l>
+					<lb/><l>Herr, meine Seele zittert.</l>
+					<lb/><l>Was iſt der Menſch, den du befreyt?</l>
+					<lb/><l>O wär ich doch ganz Dankbarkeit?</l>
+					<lb/><l><rs type="person" key="J0001">Herr</rs>, laß mich Gnade finden.</l>
+					<lb/><l>Und deine Liebe dringe mich,</l>
+					<lb/><l>Daß ich dich wieder lieb, und dich</l>
+					<lb/><l>Nie kreuzige mit Sünden.<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Welch Warten einer ewgen Pein</l>
-					<l>Für die, die dich verachten;</l>
-					<l>Die, ſolcher Gnade werth zu ſeyn,</l>
-					<l>Nach keinem Glauben trachten!</l>
-					<l>Für die, die dein Verdienſt geſtehn</l>
-					<l>Und dich durch ihre Laſter ſchmähn,</l>
-					<l>Als einen Sündendiener!</l>
-					<l>Wer dich nicht liebt, kömmt ins Gericht.</l>
-					<l>Wer nicht dein Wort hält, liebt dich nicht;</l>
-					<l>Ihm biſt du kein Versühner.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l><anchor subtype="death_start" type="death"/>Welch Warten einer ewgen Pein</l>
+					<lb/><l>Für die, die dich verachten;</l>
+					<lb/><l>Die, ſolcher Gnade werth zu ſeyn,</l>
+					<lb/><l>Nach keinem Glauben trachten!</l>
+					<lb/><l>Für die, die dein Verdienſt geſtehn</l>
+					<lb/><l>Und dich durch ihre Laſter ſchmähn,</l>
+					<lb/><l>Als einen Sündendiener!</l>
+					<lb/><l>Wer dich nicht liebt, kömmt ins Gericht.</l>
+					<lb/><l>Wer nicht dein Wort hält, liebt dich nicht;</l>
+					<lb/><l>Ihm biſt du kein Versühner.<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<pb n="48"/>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Du haſts geſagt. Du wirſt die
+					<lb/><l><anchor subtype="death_start" type="death"/>Du haſts geſagt. Du wirſt die
 						Kraft</l>
-					<l>Zur Heiligung mir ſchenken.</l>
-					<l>Dein Blut iſts, das mir Troſt verſchafft,</l>
-					<l>Wenn mich die Sünden kränken.</l>
-					<l>Laß mich im Eifer des Gebets,</l>
-					<l>Laß mich in Lieb und Demuth ſtets</l>
-					<l>Vor dir erfunden werden.</l>
-					<l>Dein Heil ſey mir der Schirm in Noth,</l>
-					<l>Mein Stab im Glück, mein Schild im Tod,</l>
-					<l>Mein letzter Troſt auf Erden!<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Zur Heiligung mir ſchenken.</l>
+					<lb/><l>Dein Blut iſts, das mir Troſt verſchafft,</l>
+					<lb/><l>Wenn mich die Sünden kränken.</l>
+					<lb/><l>Laß mich im Eifer des Gebets,</l>
+					<lb/><l>Laß mich in Lieb und Demuth ſtets</l>
+					<lb/><l>Vor dir erfunden werden.</l>
+					<lb/><l>Dein Heil ſey mir der Schirm in Noth,</l>
+					<lb/><l>Mein Stab im Glück, mein Schild im Tod,</l>
+					<lb/><l>Mein letzter Troſt auf Erden!<anchor subtype="death_end" type="death"/></l>
 				</lg>
 			</div>
 		</body>

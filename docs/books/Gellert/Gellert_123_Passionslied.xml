@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,173 +178,173 @@
 			<pb n="123"/>
 			<pb n="25" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Paſsionſlied.</head>
+				<head><title>Paſsionſlied.</title></head>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/><rs type="person" key="J0001"
+					<lb/><l><anchor subtype="death_start" type="death"/><rs type="person" key="J0001"
 							>Herr</rs>, ſtärke mich, dein Leiden zu bedenken,</l>
-					<l>Mich in das Meer der Liebe zu verſenken,</l>
-					<l>Die dich bewog, von aller Schuld des Böſen</l>
-					<l>Uns zu erlöſen!<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Mich in das Meer der Liebe zu verſenken,</l>
+					<lb/><l>Die dich bewog, von aller Schuld des Böſen</l>
+					<lb/><l>Uns zu erlöſen!<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Vereint mit <rs type="person"
+					<lb/><l><anchor subtype="death_start" type="death"/>Vereint mit <rs type="person"
 							key="G0001">Gott</rs>, ein Menſch gleich uns auf Erden,</l>
-					<l>Und bis zum Tod am Kreuz gehorſam werden;</l>
-					<l>An unſrer Statt gemartert und zerſchlagen,</l>
-					<l>Die Sünde tragen.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Und bis zum Tod am Kreuz gehorſam werden;</l>
+					<lb/><l>An unſrer Statt gemartert und zerſchlagen,</l>
+					<lb/><l>Die Sünde tragen.<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l>Welch wundervoll hochheiliges Geſchäfte!</l>
-					<l>Sinn ich ihm nach: ſo zagen meine Kräfte,</l>
-					<l>Mein Herz erbebt; ich ſeh und ich empfinde</l>
-					<l>Den Fluch der Sünde.</l>
+					<lb/><l>Welch wundervoll hochheiliges Geſchäfte!</l>
+					<lb/><l>Sinn ich ihm nach: ſo zagen meine Kräfte,</l>
+					<lb/><l>Mein Herz erbebt; ich ſeh und ich empfinde</l>
+					<lb/><l>Den Fluch der Sünde.</l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/><rs type="person" key="G0001"
+					<lb/><l><anchor subtype="death_start" type="death"/><rs type="person" key="G0001"
 							>Gott</rs> iſt gerecht, ein Rächer alles Böſen.</l>
-					<l><rs type="person" key="G0001">Gott</rs> iſt die Lieb und läßt die Welt
+					<lb/><l><rs type="person" key="G0001">Gott</rs> iſt die Lieb und läßt die Welt
 						erlöſen.</l>
-					<l>Dieß kann mein Geiſt, mit Schrecken und Entzücken,</l>
-					<l>Am Kreuz erblicken.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Dieß kann mein Geiſt, mit Schrecken und Entzücken,</l>
+					<lb/><l>Am Kreuz erblicken.<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Es ſchlägt den Stolz und mein
+					<lb/><l><anchor subtype="death_start" type="death"/>Es ſchlägt den Stolz und mein
 						Verdienſt danieder.</l>
-					<l>Es ſtürzt mich tief, und es erhebt mich wieder;</l>
-					<l>Lehrt mich mein Glück, macht mich aus <rs type="person" key="G0001"
+					<lb/><l>Es ſtürzt mich tief, und es erhebt mich wieder;</l>
+					<lb/><l>Lehrt mich mein Glück, macht mich aus <rs type="person" key="G0001"
 							>Gottes</rs> Feinde</l>
-					<l>Zu <rs type="person" key="G0001">Gottes</rs> Freunde.<anchor
+					<lb/><l>Zu <rs type="person" key="G0001">Gottes</rs> Freunde.<anchor
 							subtype="death_end" type="death"/></l>
 				</lg>
 				<pb n="124"/>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>O <rs type="person" key="J0001"
+					<lb/><l><anchor subtype="death_start" type="death"/>O <rs type="person" key="J0001"
 							>Herr</rs>, mein Heil, an deſsen Blut ich glaube,</l>
-					<l> Ich liege hier vor <choice>
+					<lb/><l> Ich liege hier vor <choice>
 							<orig>dir</orig>
 							<reg>dich</reg>
 						</choice> gebückt im Staube, </l>
-					<l>Verliere mich mit dankendem Gemüthe</l>
-					<l>In deine Güte.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Verliere mich mit dankendem Gemüthe</l>
+					<lb/><l>In deine Güte.<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l>Sie überſteigt die menſchlichen Gedanken;</l>
-					<l>Allein ſollt ich darum im Glauben wanken?</l>
-					<l>Ich bin ein Menſch; darf der ſich unterwinden,</l>
-					<l><rs type="person" key="G0001">Gott</rs> zu ergründen?</l>
+					<lb/><l>Sie überſteigt die menſchlichen Gedanken;</l>
+					<lb/><l>Allein ſollt ich darum im Glauben wanken?</l>
+					<lb/><l>Ich bin ein Menſch; darf der ſich unterwinden,</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> zu ergründen?</l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Das Größt in <rs type="person"
+					<lb/><l><anchor subtype="death_start" type="death"/>Das Größt in <rs type="person"
 							key="G0001">Gott</rs> iſt Gnad und Lieb erweiſen;</l>
-					<l>Uns kömmt es zu, ſie demuthſvoll zu preiſen,</l>
-					<l>Zu ſehn, wie hoch, wenn <rs type="person" key="G0001">Gott</rs> uns Gnad
+					<lb/><l>Uns kömmt es zu, ſie demuthſvoll zu preiſen,</l>
+					<lb/><l>Zu ſehn, wie hoch, wenn <rs type="person" key="G0001">Gott</rs> uns Gnad
 						erzeiget,</l>
-					<l>Die Gnade ſteiget.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Die Gnade ſteiget.<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Laß deinen Geiſt mich ſtets, mein
+					<lb/><l><anchor subtype="death_start" type="death"/>Laß deinen Geiſt mich ſtets, mein
 							<rs type="person" key="J0001">Heiland</rs>, lehren,</l>
-					<l>Dein göttlich Kreuz im Glauben zu verehren;</l>
-					<l>Daß ich, getreu in dem Beruf der Liebe,</l>
-					<l>Mich chriſtlich übe.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Dein göttlich Kreuz im Glauben zu verehren;</l>
+					<lb/><l>Daß ich, getreu in dem Beruf der Liebe,</l>
+					<lb/><l>Mich chriſtlich übe.<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l>Das Gute thun, das Böſe fliehn und meiden,</l>
-					<l><rs type="person" key="J0001">Herr</rs>, dieſe Pflicht lehrt mich dein heilig
+					<lb/><l>Das Gute thun, das Böſe fliehn und meiden,</l>
+					<lb/><l><rs type="person" key="J0001">Herr</rs>, dieſe Pflicht lehrt mich dein heilig
 						Leiden.</l>
-					<l>Kann ich zugleich das Böſe mir erlauben,</l>
-					<l>Und an dich glauben?</l>
+					<lb/><l>Kann ich zugleich das Böſe mir erlauben,</l>
+					<lb/><l>Und an dich glauben?</l>
 				</lg>
 				<pb n="125"/>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Da du dich ſelbſt für mich dahin
+					<lb/><l><anchor subtype="death_start" type="death"/>Da du dich ſelbſt für mich dahin
 						gegeben,</l>
-					<l>Wie könnt ich noch nach meinem Willen leben?</l>
-					<l>Und nicht vielmehr, weil ich dir angehöre,</l>
-					<l>Zu deiner Ehre?<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Wie könnt ich noch nach meinem Willen leben?</l>
+					<lb/><l>Und nicht vielmehr, weil ich dir angehöre,</l>
+					<lb/><l>Zu deiner Ehre?<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Ich ſollte nicht, wenn Leiden
+					<lb/><l><anchor subtype="death_start" type="death"/>Ich ſollte nicht, wenn Leiden
 						dieſer Erden,</l>
-					<l>Wenn Kreuz mich trifft, gelaßnes Herzens werden;</l>
-					<l>Da du ſo viel für uns, die wirs verſchuldet,</l>
-					<l>Liebreich erduldet?<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Wenn Kreuz mich trifft, gelaßnes Herzens werden;</l>
+					<lb/><l>Da du ſo viel für uns, die wirs verſchuldet,</l>
+					<lb/><l>Liebreich erduldet?<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l>Für welche du dein Leben ſelbſt gelaſsen,</l>
-					<l>Wie könnt ich ſie, ſie, meine Brüder, haſsen</l>
-					<l>Und nicht, wie du, wenn ſie mich untertreten,</l>
-					<l>Für ſie noch beten?</l>
+					<lb/><l>Für welche du dein Leben ſelbſt gelaſsen,</l>
+					<lb/><l>Wie könnt ich ſie, ſie, meine Brüder, haſsen</l>
+					<lb/><l>Und nicht, wie du, wenn ſie mich untertreten,</l>
+					<lb/><l>Für ſie noch beten?</l>
 				</lg>
 				<lg>
-					<l>Ich will nicht Haß mit gleichem Haß vergelten,</l>
-					<l>Wenn man mich ſchilt, nicht rächend wiederſchelten.</l>
-					<l>Du, Heiliger, du, <rs type="person" key="J0001">Herr</rs> und Haupt der
+					<lb/><l>Ich will nicht Haß mit gleichem Haß vergelten,</l>
+					<lb/><l>Wenn man mich ſchilt, nicht rächend wiederſchelten.</l>
+					<lb/><l>Du, Heiliger, du, <rs type="person" key="J0001">Herr</rs> und Haupt der
 						Glieder,</l>
-					<l>Schaltſt auch nicht wieder.</l>
+					<lb/><l>Schaltſt auch nicht wieder.</l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Ein reines Herz, gleich deinem
+					<lb/><l><anchor subtype="death_start" type="death"/>Ein reines Herz, gleich deinem
 						edlen Herzen,</l>
-					<l>Dieß iſt der Dank für deines Kreuzes Schmerzen.</l>
-					<l>Und <rs type="person" key="G0001">Gott</rs> giebt uns die Kraft in deinem
+					<lb/><l>Dieß iſt der Dank für deines Kreuzes Schmerzen.</l>
+					<lb/><l>Und <rs type="person" key="G0001">Gott</rs> giebt uns die Kraft in deinem
 						Namen,</l>
-					<l>Dich nachzuahmen.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Dich nachzuahmen.<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<pb n="126"/>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Unendlich Glück! Du litteſt uns
+					<lb/><l><anchor subtype="death_start" type="death"/>Unendlich Glück! Du litteſt uns
 						zu gute.</l>
-					<l>Ich bin versöhnt in deinem theuern Blute.</l>
-					<l>Du haſt mein Heil, da du für mich geſtorben,</l>
-					<l>Am Kreuz erworben.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Ich bin versöhnt in deinem theuern Blute.</l>
+					<lb/><l>Du haſt mein Heil, da du für mich geſtorben,</l>
+					<lb/><l>Am Kreuz erworben.<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>So bin ich denn
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>So bin ich denn
 						ſchon ſelig hier im Glauben?</l>
-					<l>So wird mir nichts, nichts meine Krone rauben?</l>
-					<l> So werd ich <choice>
+					<lb/><l>So wird mir nichts, nichts meine Krone rauben?</l>
+					<lb/><l> So werd ich <choice>
 							<orig>dort,</orig>
 							<reg> dort </reg>
 						</choice> von Herrlichkeit umgeben, </l>
-					<l>Einſt ewig leben?<anchor subtype="resurrection_end" type="resurrection"/></l>
+					<lb/><l>Einſt ewig leben?<anchor subtype="resurrection_end" type="resurrection"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Ja, wenn ich ſtets
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Ja, wenn ich ſtets
 						der Tugend Pfad betrete,</l>
-					<l>Im Glauben kämpf, im Glauben wach und bete:</l>
-					<l>So iſt mein Heil ſchon ſo gewiſs erſtrebet,</l>
-					<l>Als <rs type="person" key="J0001">Jeſus</rs> lebet.<anchor
+					<lb/><l>Im Glauben kämpf, im Glauben wach und bete:</l>
+					<lb/><l>So iſt mein Heil ſchon ſo gewiſs erſtrebet,</l>
+					<lb/><l>Als <rs type="person" key="J0001">Jeſus</rs> lebet.<anchor
 							subtype="resurrection_end" type="resurrection"/></l>
 				</lg>
 				<lg>
-					<l>Lockt böſe Luſt mein Herz mit ihrem Reize:</l>
-					<l>So ſchrecke mich dein Wort, das Wort vom Kreuze.</l>
-					<l>Und werd ich matt im Laufe guter Werke:</l>
-					<l>So ſey mirs Stärke.</l>
+					<lb/><l>Lockt böſe Luſt mein Herz mit ihrem Reize:</l>
+					<lb/><l>So ſchrecke mich dein Wort, das Wort vom Kreuze.</l>
+					<lb/><l>Und werd ich matt im Laufe guter Werke:</l>
+					<lb/><l>So ſey mirs Stärke.</l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Seh ich dein Kreuz den Klugen
+					<lb/><l><anchor subtype="death_start" type="death"/>Seh ich dein Kreuz den Klugen
 						dieſer Erden</l>
-					<l>Ein Aergerniß und eine Thorheit werden:</l>
-					<l>So ſeys doch mir, Trotz alles frechen Spottes,</l>
-					<l>Die Weiſheit <rs type="person" key="G0001">Gottes</rs>.<anchor
+					<lb/><l>Ein Aergerniß und eine Thorheit werden:</l>
+					<lb/><l>So ſeys doch mir, Trotz alles frechen Spottes,</l>
+					<lb/><l>Die Weiſheit <rs type="person" key="G0001">Gottes</rs>.<anchor
 							subtype="death_end" type="death"/></l>
 				</lg>
 				<pb n="127"/>
 				<lg>
-					<l><rs type="person" key="G0001">Gott</rs>, eile nicht, ſie rächend zu
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, eile nicht, ſie rächend zu
 						zerſchmettern;</l>
-					<l>Erbarme dich, wenn einer von den Spöttern</l>
-					<l>Sich ſpät bekehrt, und dich, den er geſchmähet,</l>
-					<l>Um Gnade flehet.</l>
+					<lb/><l>Erbarme dich, wenn einer von den Spöttern</l>
+					<lb/><l>Sich ſpät bekehrt, und dich, den er geſchmähet,</l>
+					<lb/><l>Um Gnade flehet.</l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Wenn endlich, <rs type="person"
+					<lb/><l><anchor subtype="death_start" type="death"/>Wenn endlich, <rs type="person"
 							key="J0001">Herr</rs>, mich meine Sünden kränken:</l>
-					<l>So laß dein Kreuz mir wieder Ruhe ſchenken;</l>
-					<l>Dein Kreuz, dieß ſey, wenn ich den Tod einſt leide,</l>
-					<l>Mir Fried und Freude!<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>So laß dein Kreuz mir wieder Ruhe ſchenken;</l>
+					<lb/><l>Dein Kreuz, dieß ſey, wenn ich den Tod einſt leide,</l>
+					<lb/><l>Mir Fried und Freude!<anchor subtype="death_end" type="death"/></l>
 				</lg>
 			</div>
 		</body>

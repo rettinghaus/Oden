@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,148 +178,148 @@
 			<pb n="130"/>
 			<pb n="24" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Oſterlied.</head>
+				<head><title>Oſterlied.</title></head>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Freywillig hab ichs
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Freywillig hab ichs
 						dargebracht,</l>
-					<l>"Und niemand nimmt mein Leben.</l>
-					<l> "Es ſelbſt zu <choice>
+					<lb/><l>"Und niemand nimmt mein Leben.</l>
+					<lb/><l> "Es ſelbſt zu <choice>
 							<orig>laſsen,</orig>
 							<reg>laßen,</reg>
 						</choice> hab ich Macht, </l>
-					<l>"Macht, wieder mirs zu geben.</l>
-					<l>"Und darum liebt mein <rs type="person" key="G0001">Vater</rs> mich,</l>
-					<l>"Daß ich mein Leben laß, und ich</l>
-					<l> "Für meine Feind es <choice>
+					<lb/><l>"Macht, wieder mirs zu geben.</l>
+					<lb/><l>"Und darum liebt mein <rs type="person" key="G0001">Vater</rs> mich,</l>
+					<lb/><l>"Daß ich mein Leben laß, und ich</l>
+					<lb/><l> "Für meine Feind es <choice>
 							<orig>laſse.</orig>
 							<reg>laße.</reg>
 						</choice>
 						<anchor subtype="resurrection_end" type="resurrection"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>"Ich bin in meiner
+					<lb/><l><anchor subtype="death_start" type="death"/>"Ich bin in meiner
 						Niedrigkeit</l>
-					<l>"Ein Aergernis der Erden;</l>
-					<l> "Verſchmäht, <choice>
+					<lb/><l>"Ein Aergernis der Erden;</l>
+					<lb/><l> "Verſchmäht, <choice>
 							<orig>gegeißelt</orig>
 							<reg>gegeiſselt</reg>
 						</choice> und verſpeyt, </l>
-					<l>"Gekreuzigt werd ich werden.</l>
-					<l>"Wenn alles dieß vollendet iſt:</l>
-					<l>"So wird des <rs type="person" key="J0001">Menſchen Sohn</rs>, der <rs
+					<lb/><l>"Gekreuzigt werd ich werden.</l>
+					<lb/><l>"Wenn alles dieß vollendet iſt:</l>
+					<lb/><l>"So wird des <rs type="person" key="J0001">Menſchen Sohn</rs>, der <rs
 							type="person" key="J0001">Chriſt</rs>,</l>
-					<l>"Nicht die Verweſung ſehen.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>"Nicht die Verweſung ſehen.<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l>"Weil er ſich ſelbſt erniedrigt hat:</l>
-					<l>"So wird ihn <rs type="person" key="G0001">Gott</rs> erhöhen.</l>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>"Ich leid und ſterb
+					<lb/><l>"Weil er ſich ſelbſt erniedrigt hat:</l>
+					<lb/><l>"So wird ihn <rs type="person" key="G0001">Gott</rs> erhöhen.</l>
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>"Ich leid und ſterb
 						an eurer ſtatt,</l>
-					<l>"Dann werd ich auferſtehen.</l>
-					<l>"Am dritten Tag geh ich heraus,</l>
-					<l>"Löſch alle Schmach des Kreuzes aus,</l>
-					<l>"Als <rs type="person" key="J0001">Gottes Sohn</rs> bewieſen.<anchor
+					<lb/><l>"Dann werd ich auferſtehen.</l>
+					<lb/><l>"Am dritten Tag geh ich heraus,</l>
+					<lb/><l>"Löſch alle Schmach des Kreuzes aus,</l>
+					<lb/><l>"Als <rs type="person" key="J0001">Gottes Sohn</rs> bewieſen.<anchor
 							subtype="resurrection_end" type="resurrection"/></l>
 				</lg>
 				<pb n="131"/>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>"Ich will euch
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>"Ich will euch
 						ſehn, erfreuet euch,</l>
-					<l>"Euch ſiegreich wiederſehen;</l>
-					<l>"Euch lehren, meines Vaters Reich</l>
-					<l>"Und hohen Rath verſtehen;</l>
-					<l>"Euch den verheißnen Geiſt verleihn;</l>
-					<l>"Und ihr ſollt meine Zeugen ſeyn,</l>
-					<l>"Daß ich vom Tod erſtanden.<anchor subtype="resurrection_end"
+					<lb/><l>"Euch ſiegreich wiederſehen;</l>
+					<lb/><l>"Euch lehren, meines Vaters Reich</l>
+					<lb/><l>"Und hohen Rath verſtehen;</l>
+					<lb/><l>"Euch den verheißnen Geiſt verleihn;</l>
+					<lb/><l>"Und ihr ſollt meine Zeugen ſeyn,</l>
+					<lb/><l>"Daß ich vom Tod erſtanden.<anchor subtype="resurrection_end"
 							type="resurrection"/></l>
 				</lg>
 				<lg>
-					<l>"Geht hin und lehret alle Welt;</l>
-					<l>"Ich bin des Weibes Saamen,</l>
-					<l>"Der Saamen Abrahams, der Held;</l>
-					<l>"Und tauft in meinem Namen.</l>
-					<l>"Wer an <rs type="person" key="G0001">Gott</rs> gläubt, gläubt auch an
+					<lb/><l>"Geht hin und lehret alle Welt;</l>
+					<lb/><l>"Ich bin des Weibes Saamen,</l>
+					<lb/><l>"Der Saamen Abrahams, der Held;</l>
+					<lb/><l>"Und tauft in meinem Namen.</l>
+					<lb/><l>"Wer an <rs type="person" key="G0001">Gott</rs> gläubt, gläubt auch an
 						mich.</l>
-					<l>"Thut Wunder, und beweiſt, daß ich</l>
-					<l>"Zur Rechten <rs type="person" key="G0001">Gottes</rs> ſitze.</l>
+					<lb/><l>"Thut Wunder, und beweiſt, daß ich</l>
+					<lb/><l>"Zur Rechten <rs type="person" key="G0001">Gottes</rs> ſitze.</l>
 				</lg>
 				<lg>
-					<l>"Kämpft für mein Evangelium,</l>
-					<l>"Und freuet euch der Leiden.</l>
-					<l>"Kein Engel und kein Fürſtenthum,</l>
-					<l>"Nichts ſoll euch von mir ſcheiden.</l>
-					<l>"Man wird euch haſsen, und euch ſchmähn,</l>
-					<l>"Euch tödten; dennoch ſolls geſchehn,</l>
-					<l>"Daß eure Lehre ſieget.</l>
+					<lb/><l>"Kämpft für mein Evangelium,</l>
+					<lb/><l>"Und freuet euch der Leiden.</l>
+					<lb/><l>"Kein Engel und kein Fürſtenthum,</l>
+					<lb/><l>"Nichts ſoll euch von mir ſcheiden.</l>
+					<lb/><l>"Man wird euch haſsen, und euch ſchmähn,</l>
+					<lb/><l>"Euch tödten; dennoch ſolls geſchehn,</l>
+					<lb/><l>"Daß eure Lehre ſieget.</l>
 				</lg>
 				<pb n="132"/>
 				<lg>
-					<l><rs type="person" key="J0001">Herr</rs>, unſer Heil! ſie hat geſiegt,</l>
-					<l>Und ſiegt in allen Landen,</l>
-					<l>Und zeuget, daß dein Wort nicht trügt,</l>
-					<l>Und zeugt, du biſt erſtanden.</l>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Dein Kreuz, an das
+					<lb/><l><rs type="person" key="J0001">Herr</rs>, unſer Heil! ſie hat geſiegt,</l>
+					<lb/><l>Und ſiegt in allen Landen,</l>
+					<lb/><l>Und zeuget, daß dein Wort nicht trügt,</l>
+					<lb/><l>Und zeugt, du biſt erſtanden.</l>
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Dein Kreuz, an das
 						man dich erhöht,</l>
-					<l>Verwandelt ſich in Majeſtät.</l>
-					<l>Du gehſt aus deinem Grabe.<anchor subtype="resurrection_end"
+					<lb/><l>Verwandelt ſich in Majeſtät.</l>
+					<lb/><l>Du gehſt aus deinem Grabe.<anchor subtype="resurrection_end"
 							type="resurrection"/></l>
 				</lg>
 				<lg>
-					<l>Gehaßt in deiner Niedrigkeit,</l>
-					<l>Warſt du ein Ziel des Spottes,</l>
-					<l>Und zeigteſt doch zu gleicher Zeit</l>
-					<l>An dir die Hoheit <rs type="person" key="G0001">Gottes</rs>.</l>
-					<l><anchor subtype="death_start" type="death"/>Dein Kreuz ſchien zwar der Welt
+					<lb/><l>Gehaßt in deiner Niedrigkeit,</l>
+					<lb/><l>Warſt du ein Ziel des Spottes,</l>
+					<lb/><l>Und zeigteſt doch zu gleicher Zeit</l>
+					<lb/><l>An dir die Hoheit <rs type="person" key="G0001">Gottes</rs>.</l>
+					<lb/><l><anchor subtype="death_start" type="death"/>Dein Kreuz ſchien zwar der Welt
 						ein Greul;</l>
-					<l>Doch ſterben für der Feinde Heil,</l>
-					<l>Dies iſt die höchſte Tugend.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Doch ſterben für der Feinde Heil,</l>
+					<lb/><l>Dies iſt die höchſte Tugend.<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l>Dein Reich war nicht von dieſer Welt,</l>
-					<l>Dein Ruhm nicht Menſchenehre.</l>
-					<l>An Demuth groß, an Lieb ein Held,</l>
-					<l>Und göttlich in der Lehre;</l>
-					<l>Geduldig und von Sünden rein,</l>
-					<l><anchor subtype="death_start" type="death"/>Gehorſam, bis zum Kreuze,
+					<lb/><l>Dein Reich war nicht von dieſer Welt,</l>
+					<lb/><l>Dein Ruhm nicht Menſchenehre.</l>
+					<lb/><l>An Demuth groß, an Lieb ein Held,</l>
+					<lb/><l>Und göttlich in der Lehre;</l>
+					<lb/><l>Geduldig und von Sünden rein,</l>
+					<lb/><l><anchor subtype="death_start" type="death"/>Gehorſam, bis zum Kreuze,
 						ſeyn;</l>
-					<l>Dieß war des Heilands Größe<anchor subtype="death_end" type="death"/>.</l>
+					<lb/><l>Dieß war des Heilands Größe<anchor subtype="death_end" type="death"/>.</l>
 				</lg>
 				<pb n="133"/>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Du ſtarbſt am Kreuz. Doch war dir
+					<lb/><l><anchor subtype="death_start" type="death"/>Du ſtarbſt am Kreuz. Doch war dir
 						nicht</l>
-					<l>Die Kraft des <rs type="person" key="G0001">Herrn</rs> gegeben?</l>
-					<l>Wer gab den Blinden das Geſicht?</l>
-					<l>Den Todten ſelbſt das Leben?</l>
-					<l>Und wem gehorchte Wind und Meer?</l>
-					<l>Und wem der böſen Geiſter Heer?</l>
-					<l>Du warſt von <rs type="person" key="G0001">Gott</rs> gekommen.<anchor
+					<lb/><l>Die Kraft des <rs type="person" key="G0001">Herrn</rs> gegeben?</l>
+					<lb/><l>Wer gab den Blinden das Geſicht?</l>
+					<lb/><l>Den Todten ſelbſt das Leben?</l>
+					<lb/><l>Und wem gehorchte Wind und Meer?</l>
+					<lb/><l>Und wem der böſen Geiſter Heer?</l>
+					<lb/><l>Du warſt von <rs type="person" key="G0001">Gott</rs> gekommen.<anchor
 							subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l>Nun irren mich nicht Schmach und Spott,</l>
-					<l>Noch deines Kreuzes Schanden.</l>
-					<l>Du biſt mein <rs type="person" key="J0001">Herr</rs>, du biſt mein <rs
+					<lb/><l>Nun irren mich nicht Schmach und Spott,</l>
+					<lb/><l>Noch deines Kreuzes Schanden.</l>
+					<lb/><l>Du biſt mein <rs type="person" key="J0001">Herr</rs>, du biſt mein <rs
 							type="person" key="J0001">Gott</rs>;</l>
-					<l>Denn du biſt auferſtanden.</l>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Du biſt mein Heil,
+					<lb/><l>Denn du biſt auferſtanden.</l>
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Du biſt mein Heil,
 						mein Fels, mein Hort,</l>
-					<l>Der <rs type="person" key="J0001">Herr</rs>, durch deſsen mächtig Wort</l>
-					<l>Auch ich einſt ewig lebe<anchor subtype="resurrection_end"
+					<lb/><l>Der <rs type="person" key="J0001">Herr</rs>, durch deſsen mächtig Wort</l>
+					<lb/><l>Auch ich einſt ewig lebe<anchor subtype="resurrection_end"
 							type="resurrection"/>.</l>
 				</lg>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Wir ſind nun
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Wir ſind nun
 						göttlichen Geſchlechts,</l>
-					<l>Durch dich des Himmels Erben.</l>
-					<l> Dies iſt die <choice>
+					<lb/><l>Durch dich des Himmels Erben.</l>
+					<lb/><l> Dies iſt die <choice>
 							<orig>Hoffnung</orig>
 							<reg>Hofnung</reg>
 						</choice> deines Knechts, </l>
-					<l>In dieſer will ich ſterben.</l>
-					<l>Wie du vom Tod erſtanden biſt;</l>
-					<l>So werd auch ich, Herr <rs type="person" key="J0001">Jeſu Chriſt</rs>,</l>
-					<l>Am jüngſten Tag erſtehen.<anchor subtype="resurrection_end"
+					<lb/><l>In dieſer will ich ſterben.</l>
+					<lb/><l>Wie du vom Tod erſtanden biſt;</l>
+					<lb/><l>So werd auch ich, Herr <rs type="person" key="J0001">Jeſu Chriſt</rs>,</l>
+					<lb/><l>Am jüngſten Tag erſtehen.<anchor subtype="resurrection_end"
 							type="resurrection"/></l>
 				</lg>
 			</div>

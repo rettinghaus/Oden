@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,49 +178,49 @@
 			<pb n="102"/>
 			<pb n="50" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Bußlied.</head>
+				<head><title>Bußlied.</title></head>
 				<lg>
-					<l>An dir allein, an dir hab ich gesündigt,</l>
-					<l>Und übel oft vor dir gethan.</l>
-					<l>Du ſiehſt die Schuld, die mir den Fluch verkündigt;</l>
-					<l>Sieh, <rs type="person" key="G0001">Gott</rs>, auch meinen Jammer an.</l>
+					<lb/><l>An dir allein, an dir hab ich gesündigt,</l>
+					<lb/><l>Und übel oft vor dir gethan.</l>
+					<lb/><l>Du ſiehſt die Schuld, die mir den Fluch verkündigt;</l>
+					<lb/><l>Sieh, <rs type="person" key="G0001">Gott</rs>, auch meinen Jammer an.</l>
 				</lg>
 				<lg>
-					<l>Dir iſt mein Flehn, mein Seufzen nicht verborgen,</l>
-					<l>Und meine Thränen ſind vor dir.</l>
-					<l>Ach <rs type="person" key="G0001">Gott</rs>, mein <rs type="person"
+					<lb/><l>Dir iſt mein Flehn, mein Seufzen nicht verborgen,</l>
+					<lb/><l>Und meine Thränen ſind vor dir.</l>
+					<lb/><l>Ach <rs type="person" key="G0001">Gott</rs>, mein <rs type="person"
 							key="G0001">Gott</rs>, wie lange ſoll ich ſorgen?</l>
-					<l>Wie lang entfernſt du dich von mir?</l>
+					<lb/><l>Wie lang entfernſt du dich von mir?</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Herr</rs>, handle nicht mit mir nach meinen
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, handle nicht mit mir nach meinen
 						Sünden,</l>
-					<l>Vergilt mir nicht nach meiner Schuld.</l>
-					<l>Ich ſuche dich, laß mich dein Antlitz finden,</l>
-					<l>Du <rs type="person" key="G0001">Gott</rs> der Langmuth und Geduld.</l>
+					<lb/><l>Vergilt mir nicht nach meiner Schuld.</l>
+					<lb/><l>Ich ſuche dich, laß mich dein Antlitz finden,</l>
+					<lb/><l>Du <rs type="person" key="G0001">Gott</rs> der Langmuth und Geduld.</l>
 				</lg>
 				<lg>
-					<l>Früh wollſt du mich mit deiner Gnade füllen,</l>
-					<l><rs type="person" key="G0001">Gott</rs>, <rs type="person" key="G0001"
+					<lb/><l>Früh wollſt du mich mit deiner Gnade füllen,</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, <rs type="person" key="G0001"
 							>Vater</rs> der Barmherzigkeit.</l>
-					<l>Erfreue mich um deines Namens willen;</l>
-					<l>Du biſt ein <rs type="person" key="G0001">Gott</rs>, der gern erfreut.</l>
+					<lb/><l>Erfreue mich um deines Namens willen;</l>
+					<lb/><l>Du biſt ein <rs type="person" key="G0001">Gott</rs>, der gern erfreut.</l>
 				</lg>
 				<lg>
-					<l>Laß deinen Weg mich wieder freudig wallen,</l>
-					<l>Und lehre mich dein heilig Recht,</l>
-					<l>Mich täglich thun nach deinem Wohlgefallen;</l>
-					<l>Du biſt mein <rs type="person" key="G0001">Gott</rs>, ich bin dein
+					<lb/><l>Laß deinen Weg mich wieder freudig wallen,</l>
+					<lb/><l>Und lehre mich dein heilig Recht,</l>
+					<lb/><l>Mich täglich thun nach deinem Wohlgefallen;</l>
+					<lb/><l>Du biſt mein <rs type="person" key="G0001">Gott</rs>, ich bin dein
 						Knecht.</l>
 				</lg>
 				<pb n="103"/>
 				<lg>
-					<l><rs type="person" key="G0001">Herr</rs>, eile du, mein Schutz, mir
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, eile du, mein Schutz, mir
 						beizuſtehen,</l>
-					<l>Und leite mich auf ebner Bahn.</l>
-					<l>Er hört mein Schreyn, der <rs type="person" key="G0001">Herr</rs> erhört mein
+					<lb/><l>Und leite mich auf ebner Bahn.</l>
+					<lb/><l>Er hört mein Schreyn, der <rs type="person" key="G0001">Herr</rs> erhört mein
 						Flehen,</l>
-					<l>Und nimmt ſich meiner Seelen an.</l>
+					<lb/><l>Und nimmt ſich meiner Seelen an.</l>
 				</lg>
 			</div>
 		</body>

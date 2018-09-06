@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,58 +178,58 @@
 			<pb n="152"/>
 			<pb n="13" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Um Ergebung in den göttlichen Willen.</head>
+				<head><title>Um Ergebung in den göttlichen Willen.</title></head>
 				<lg>
-					<l>O <rs type="person" key="G0001">Herr, mein Gott</rs>, durch den ich bin und
+					<lb/><l>O <rs type="person" key="G0001">Herr, mein Gott</rs>, durch den ich bin und
 						lebe,</l>
-					<l>Gieb, daß ich mich in deinen Rath ergebe;</l>
-					<l>Laß ewig deinen Willen mein,</l>
-					<l>Und was du thuſt, mir theuer ſeyn!</l>
+					<lb/><l>Gieb, daß ich mich in deinen Rath ergebe;</l>
+					<lb/><l>Laß ewig deinen Willen mein,</l>
+					<lb/><l>Und was du thuſt, mir theuer ſeyn!</l>
 				</lg>
 				<lg>
-					<l>Du, du regierſt, biſt Weiſheit, Lieb und Stärke.</l>
-					<l>Du, <rs type="person" key="G0001">Herr</rs>, erbarmſt dich aller deiner
+					<lb/><l>Du, du regierſt, biſt Weiſheit, Lieb und Stärke.</l>
+					<lb/><l>Du, <rs type="person" key="G0001">Herr</rs>, erbarmſt dich aller deiner
 						Werke.</l>
-					<l>Was zag ich einen Augenblick?</l>
-					<l>Du biſt mein <rs type="person" key="G0001">Gott</rs>, und willſt mein
+					<lb/><l>Was zag ich einen Augenblick?</l>
+					<lb/><l>Du biſt mein <rs type="person" key="G0001">Gott</rs>, und willſt mein
 						Glück.</l>
 				</lg>
 				<lg>
-					<l>Von Ewigkeit haſt du mein Loos entſchieden.</l>
-					<l>Was du beſtimmſt, das dient zu meinem Frieden.</l>
-					<l>Du wogſt mein Glück, du wogſt mein Leid,</l>
-					<l>Und was du ſchickſt, iſt Seligkeit.</l>
+					<lb/><l>Von Ewigkeit haſt du mein Loos entſchieden.</l>
+					<lb/><l>Was du beſtimmſt, das dient zu meinem Frieden.</l>
+					<lb/><l>Du wogſt mein Glück, du wogſt mein Leid,</l>
+					<lb/><l>Und was du ſchickſt, iſt Seligkeit.</l>
 				</lg>
 				<lg>
-					<l>Gefällt es dir: ſo müſse keine Plage</l>
-					<l>Sich zu mir nahn; gieb mir zufriedne Tage.</l>
-					<l>Allein verwehrts mein ewig Heil:</l>
-					<l>So bleibe nur dein Troſt mein Theil.</l>
+					<lb/><l>Gefällt es dir: ſo müſse keine Plage</l>
+					<lb/><l>Sich zu mir nahn; gieb mir zufriedne Tage.</l>
+					<lb/><l>Allein verwehrts mein ewig Heil:</l>
+					<lb/><l>So bleibe nur dein Troſt mein Theil.</l>
 				</lg>
 				<pb n="153"/>
 				<lg>
-					<l>Du giebſt aus Huld uns dieſer Erde Freuden;</l>
-					<l>Aus gleicher Huld verhängſt du unſre Leiden.</l>
-					<l>Iſt nur mein Weh nicht meine Schuld:</l>
-					<l>So zag ich nicht. Du giebſt Geduld.</l>
+					<lb/><l>Du giebſt aus Huld uns dieſer Erde Freuden;</l>
+					<lb/><l>Aus gleicher Huld verhängſt du unſre Leiden.</l>
+					<lb/><l>Iſt nur mein Weh nicht meine Schuld:</l>
+					<lb/><l>So zag ich nicht. Du giebſt Geduld.</l>
 				</lg>
 				<lg>
-					<l> Soll ich ein Glück, das du mir gabſt, <choice>
+					<lb/><l> Soll ich ein Glück, das du mir gabſt, <choice>
 							<orig>verlieren,</orig>
 							<reg>verlieren</reg>
 						</choice>
 					</l>
-					<l>Und willſt du, <rs type="person" key="G0001">Gott</rs>, mich rauhe Wege
+					<lb/><l>Und willſt du, <rs type="person" key="G0001">Gott</rs>, mich rauhe Wege
 						führen:</l>
-					<l>So wirſt du, denn du hörſt mein Flehn,</l>
-					<l>Mir dennoch eine Hülf erſehn.</l>
+					<lb/><l>So wirſt du, denn du hörſt mein Flehn,</l>
+					<lb/><l>Mir dennoch eine Hülf erſehn.</l>
 				</lg>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Vielleicht muß ich
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Vielleicht muß ich
 						nach wenig Tagen ſterben.</l>
-					<l>Herr, wie du willſt! Soll ich den Himmel erben,</l>
-					<l>Und dieſer iſt im Glauben mein,</l>
-					<l>Wie kann der Tod mir ſchrecklich ſeyn?<anchor subtype="resurrection_end"
+					<lb/><l>Herr, wie du willſt! Soll ich den Himmel erben,</l>
+					<lb/><l>Und dieſer iſt im Glauben mein,</l>
+					<lb/><l>Wie kann der Tod mir ſchrecklich ſeyn?<anchor subtype="resurrection_end"
 							type="resurrection"/></l>
 				</lg>
 			</div>

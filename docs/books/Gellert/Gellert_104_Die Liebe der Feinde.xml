@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,73 +178,73 @@
 			<pb n="104"/>
 			<pb n="51" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Die Liebe der Feinde.</head>
+				<head><title>Die Liebe der Feinde.</title></head>
 				<lg>
-					<l>Nie will ich dem zu ſchaden ſuchen,</l>
-					<l>Der mir zu ſchaden ſucht.</l>
-					<l>Nie will ich meinem Feinde fluchen,</l>
-					<l>Wenn er aus Haß mir flucht.</l>
+					<lb/><l>Nie will ich dem zu ſchaden ſuchen,</l>
+					<lb/><l>Der mir zu ſchaden ſucht.</l>
+					<lb/><l>Nie will ich meinem Feinde fluchen,</l>
+					<lb/><l>Wenn er aus Haß mir flucht.</l>
 				</lg>
 				<lg>
-					<l>Mit Güte will ich ihm begegnen,</l>
-					<l>Nicht drohen, wenn er droht.</l>
-					<l>Wenn er mich ſchilt, will ich ihn ſegnen;</l>
-					<l>Dieß iſt des <rs type="person" key="J0001">Herrn</rs> Gebot.</l>
+					<lb/><l>Mit Güte will ich ihm begegnen,</l>
+					<lb/><l>Nicht drohen, wenn er droht.</l>
+					<lb/><l>Wenn er mich ſchilt, will ich ihn ſegnen;</l>
+					<lb/><l>Dieß iſt des <rs type="person" key="J0001">Herrn</rs> Gebot.</l>
 				</lg>
 				<lg>
-					<l>Er, der von keiner Sünde wußte,</l>
-					<l>Vergalt die Schmach mit Huld,</l>
-					<l>Und litt, ſo viel er leiden mußte,</l>
-					<l>Mit Sanftmuth und Geduld.</l>
+					<lb/><l>Er, der von keiner Sünde wußte,</l>
+					<lb/><l>Vergalt die Schmach mit Huld,</l>
+					<lb/><l>Und litt, ſo viel er leiden mußte,</l>
+					<lb/><l>Mit Sanftmuth und Geduld.</l>
 				</lg>
 				<lg>
-					<l>Will ich, ſein Jünger, wiederſchelten,</l>
-					<l>Da er nicht wiederſchalt?</l>
-					<l>Mit Liebe nicht den Haß vergelten,</l>
-					<l>Wie er den Haß vergalt?</l>
+					<lb/><l>Will ich, ſein Jünger, wiederſchelten,</l>
+					<lb/><l>Da er nicht wiederſchalt?</l>
+					<lb/><l>Mit Liebe nicht den Haß vergelten,</l>
+					<lb/><l>Wie er den Haß vergalt?</l>
 				</lg>
 				<lg>
-					<l> Wahr iſts, <choice>
+					<lb/><l> Wahr iſts, <choice>
 							<orig>Verleumdung</orig>
 							<reg>Verläumdung</reg>
 						</choice> dulden müſsen, </l>
-					<l>Iſt eine ſchwere Pflicht.</l>
-					<l>Doch ſelig, wenn ein gut Gewiſsen</l>
-					<l>Zu unſrer Ehre ſpricht!</l>
+					<lb/><l>Iſt eine ſchwere Pflicht.</l>
+					<lb/><l>Doch ſelig, wenn ein gut Gewiſsen</l>
+					<lb/><l>Zu unſrer Ehre ſpricht!</l>
 				</lg>
 				<pb n="105"/>
 				<lg>
-					<l> Dieß will ich <choice>
+					<lb/><l> Dieß will ich <choice>
 							<orig>deſto mehr</orig>
 							<reg>deſtomehr</reg>
 						</choice> bewahren; </l>
-					<l>So beſsert mich mein Feind,</l>
-					<l>Und lehrt mich, weiſer nur verfahren,</l>
-					<l>Indem ers böſe meynt.</l>
+					<lb/><l>So beſsert mich mein Feind,</l>
+					<lb/><l>Und lehrt mich, weiſer nur verfahren,</l>
+					<lb/><l>Indem ers böſe meynt.</l>
 				</lg>
 				<lg>
-					<l>Ich will mich vor den Fehlern hüten,</l>
-					<l>Die er von mir erſann;</l>
-					<l>Und auch die Fehler mir verbieten,</l>
-					<l>Die er nicht wiſsen kann.</l>
+					<lb/><l>Ich will mich vor den Fehlern hüten,</l>
+					<lb/><l>Die er von mir erſann;</l>
+					<lb/><l>Und auch die Fehler mir verbieten,</l>
+					<lb/><l>Die er nicht wiſsen kann.</l>
 				</lg>
 				<lg>
-					<l>So will ich mich durch Sanftmuth rächen,</l>
-					<l>An ihm das Gute ſehn,</l>
-					<l>Und dieſes Gute von ihm ſprechen;</l>
-					<l>Wie könnt er länger ſchmähn!</l>
+					<lb/><l>So will ich mich durch Sanftmuth rächen,</l>
+					<lb/><l>An ihm das Gute ſehn,</l>
+					<lb/><l>Und dieſes Gute von ihm ſprechen;</l>
+					<lb/><l>Wie könnt er länger ſchmähn!</l>
 				</lg>
 				<lg>
-					<l>In ſeinem Haß ihn zu ermüden,</l>
-					<l>Will ich ihm gern verzeihn,</l>
-					<l>Und als ein Chriſt bereit zum Frieden,</l>
-					<l>Bereit zu Dienſten ſeyn.</l>
+					<lb/><l>In ſeinem Haß ihn zu ermüden,</l>
+					<lb/><l>Will ich ihm gern verzeihn,</l>
+					<lb/><l>Und als ein Chriſt bereit zum Frieden,</l>
+					<lb/><l>Bereit zu Dienſten ſeyn.</l>
 				</lg>
 				<lg>
-					<l>Und wird er, mich zu untertreten,</l>
-					<l>Durch Güte mehr erhitzt:</l>
-					<l>Will ich im Stillen für ihn beten,</l>
-					<l>Und <rs type="person" key="G0001">Gott</rs> vertraun; <rs type="person"
+					<lb/><l>Und wird er, mich zu untertreten,</l>
+					<lb/><l>Durch Güte mehr erhitzt:</l>
+					<lb/><l>Will ich im Stillen für ihn beten,</l>
+					<lb/><l>Und <rs type="person" key="G0001">Gott</rs> vertraun; <rs type="person"
 							key="G0001">Gott</rs> ſchützt.</l>
 				</lg>
 			</div>

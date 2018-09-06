@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,113 +178,113 @@
 			<pb n="111"/>
 			<pb n="3" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Das Glück eines guten Gewiſsens.</head>
+				<head><title>Das Glück eines guten Gewiſsens.</title></head>
 				<lg>
-					<l>Beſitz ich nur</l>
-					<l>Ein ruhiges Gewiſsen:</l>
-					<l>So iſt für mich, wenn andre zagen müſsen,</l>
-					<l>Nichts ſchreckliches in der Natur.</l>
+					<lb/><l>Beſitz ich nur</l>
+					<lb/><l>Ein ruhiges Gewiſsen:</l>
+					<lb/><l>So iſt für mich, wenn andre zagen müſsen,</l>
+					<lb/><l>Nichts ſchreckliches in der Natur.</l>
 				</lg>
 				<lg>
-					<l>Dieß ſey mein Theil!</l>
-					<l>Dieß ſoll mir Niemand rauben.</l>
-					<l>Ein reines Herz von ungefärbtem Glauben,</l>
-					<l>Der Friede <rs type="person" key="G0001">Gottes</rs> nur iſt Heil.</l>
+					<lb/><l>Dieß ſey mein Theil!</l>
+					<lb/><l>Dieß ſoll mir Niemand rauben.</l>
+					<lb/><l>Ein reines Herz von ungefärbtem Glauben,</l>
+					<lb/><l>Der Friede <rs type="person" key="G0001">Gottes</rs> nur iſt Heil.</l>
 				</lg>
 				<lg>
-					<l>Welch ein Gewinn,</l>
-					<l>Wenn meine Sünde ſchweiget;</l>
-					<l>Wenn <rs type="person" key="G0001">Gottes</rs> Geiſt in meinem Geiſte
+					<lb/><l>Welch ein Gewinn,</l>
+					<lb/><l>Wenn meine Sünde ſchweiget;</l>
+					<lb/><l>Wenn <rs type="person" key="G0001">Gottes</rs> Geiſt in meinem Geiſte
 						zeuget,</l>
-					<l>Daß ich ſein Kind und Erbe bin!</l>
+					<lb/><l>Daß ich ſein Kind und Erbe bin!</l>
 				</lg>
 				<lg>
-					<l>Und dieſe Ruh,</l>
-					<l>Den Troſt in unſerm Leben,</l>
-					<l>Sollt ich für Luſt, für Luſt der Sinne geben?</l>
-					<l> Dies <choice>
+					<lb/><l>Und dieſe Ruh,</l>
+					<lb/><l>Den Troſt in unſerm Leben,</l>
+					<lb/><l>Sollt ich für Luſt, für Luſt der Sinne geben?</l>
+					<lb/><l> Dies <choice>
 							<orig>laſse</orig>
 							<reg>laße</reg>
 						</choice>
 						<rs type="person" key="G0001">Gottes</rs> Geiſt nicht zu! </l>
 				</lg>
 				<lg>
-					<l>In jene Pein,</l>
-					<l>Mich ſelber zu verklagen,</l>
-					<l>Der Sünde Fluch mit mir umher zu tragen;</l>
-					<l>In dieſe ſtürzt ich mich hinein?</l>
+					<lb/><l>In jene Pein,</l>
+					<lb/><l>Mich ſelber zu verklagen,</l>
+					<lb/><l>Der Sünde Fluch mit mir umher zu tragen;</l>
+					<lb/><l>In dieſe ſtürzt ich mich hinein?</l>
 				</lg>
 				<pb n="112"/>
 				<lg>
-					<l>Laſs auch die Pflicht,</l>
-					<l>Dich ſelber zu beſiegen,</l>
-					<l>Die ſchwerſte ſeyn! Sie iſts; doch welch Vergnügen</l>
-					<l>Wird ſie nach der Vollbringung nicht!</l>
+					<lb/><l>Laſs auch die Pflicht,</l>
+					<lb/><l>Dich ſelber zu beſiegen,</l>
+					<lb/><l>Die ſchwerſte ſeyn! Sie iſts; doch welch Vergnügen</l>
+					<lb/><l>Wird ſie nach der Vollbringung nicht!</l>
 				</lg>
 				<lg>
-					<l>Welch Glück! zu ſich</l>
-					<l>Mit Wahrheit ſagen können:</l>
-					<l>Ich fühlt in mir des Böſen Luſt entbrennen;</l>
-					<l>Doch, Dank ſey <rs type="person" key="G0001">Gott</rs>! ich ſchützte
+					<lb/><l>Welch Glück! zu ſich</l>
+					<lb/><l>Mit Wahrheit ſagen können:</l>
+					<lb/><l>Ich fühlt in mir des Böſen Luſt entbrennen;</l>
+					<lb/><l>Doch, Dank ſey <rs type="person" key="G0001">Gott</rs>! ich ſchützte
 						mich.</l>
 				</lg>
 				<lg>
-					<l>Und welch Gericht!</l>
-					<l>Selbſt zu ſich ſagen müſsen:</l>
-					<l>Ich konnte mir den Weg zum Fall verſchließen;</l>
-					<l>Und doch verſchloß ich mir ihn nicht.</l>
+					<lb/><l>Und welch Gericht!</l>
+					<lb/><l>Selbſt zu ſich ſagen müſsen:</l>
+					<lb/><l>Ich konnte mir den Weg zum Fall verſchließen;</l>
+					<lb/><l>Und doch verſchloß ich mir ihn nicht.</l>
 				</lg>
 				<lg>
-					<l>Was kann im Glück</l>
-					<l>Den Werth des Glücks erhöhen?</l>
-					<l>Ein ruhig Herz versüßt im Wohlergehen</l>
-					<l>Dir jeden frohen Augenblick.</l>
+					<lb/><l>Was kann im Glück</l>
+					<lb/><l>Den Werth des Glücks erhöhen?</l>
+					<lb/><l>Ein ruhig Herz versüßt im Wohlergehen</l>
+					<lb/><l>Dir jeden frohen Augenblick.</l>
 				</lg>
 				<lg>
-					<l>Was kann im Schmerz</l>
-					<l>Den Schmerz der Leiden ſtillen;</l>
-					<l>Im ſchwerſten Kreuz mit Freuden dich erfüllen?</l>
-					<l>Ein in dem <rs type="person" key="G0001">Herrn</rs> zufriednes Herz.</l>
+					<lb/><l>Was kann im Schmerz</l>
+					<lb/><l>Den Schmerz der Leiden ſtillen;</l>
+					<lb/><l>Im ſchwerſten Kreuz mit Freuden dich erfüllen?</l>
+					<lb/><l>Ein in dem <rs type="person" key="G0001">Herrn</rs> zufriednes Herz.</l>
 				</lg>
 				<pb n="113"/>
 				<lg>
-					<l>Was giebt dir Muth,</l>
-					<l>Die Güter zu verachten,</l>
-					<l>Wonach mit Angſt die niedern Seelen ſchmachten?</l>
-					<l>Ein ruhig Herz, dies größre Gut.</l>
+					<lb/><l>Was giebt dir Muth,</l>
+					<lb/><l>Die Güter zu verachten,</l>
+					<lb/><l>Wonach mit Angſt die niedern Seelen ſchmachten?</l>
+					<lb/><l>Ein ruhig Herz, dies größre Gut.</l>
 				</lg>
 				<lg>
-					<l>Was iſt der Spott,</l>
-					<l>Den ein Gerechter leidet?</l>
-					<l>Sein wahrer Ruhm! Denn wer das Böſe meidet,</l>
-					<l>Das Gute thut, hat Ruhm bey <rs type="person" key="G0001">Gott</rs>.</l>
+					<lb/><l>Was iſt der Spott,</l>
+					<lb/><l>Den ein Gerechter leidet?</l>
+					<lb/><l>Sein wahrer Ruhm! Denn wer das Böſe meidet,</l>
+					<lb/><l>Das Gute thut, hat Ruhm bey <rs type="person" key="G0001">Gott</rs>.</l>
 				</lg>
 				<lg>
-					<l>Im Herzen rein,</l>
-					<l>Hinauf gen Himmel ſchauen,</l>
-					<l>Und ſagen: <rs type="person" key="G0001">Gott</rs>, du <rs type="person"
+					<lb/><l>Im Herzen rein,</l>
+					<lb/><l>Hinauf gen Himmel ſchauen,</l>
+					<lb/><l>Und ſagen: <rs type="person" key="G0001">Gott</rs>, du <rs type="person"
 							key="G0001">Gott</rs>, biſt mein Vertrauen!</l>
-					<l>Welch Glück, o Menſch, kann größer ſeyn?</l>
+					<lb/><l>Welch Glück, o Menſch, kann größer ſeyn?</l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Sieh, alles weicht,</l>
-					<l>Bald wirſt du ſterben müſsen.</l>
-					<l>Was wird alſdenn dir deinen Tod versüſsen?</l>
-					<l>Ein gut Gewiſsen macht ihn leicht.<anchor subtype="death_end" type="death"
+					<lb/><l><anchor subtype="death_start" type="death"/>Sieh, alles weicht,</l>
+					<lb/><l>Bald wirſt du ſterben müſsen.</l>
+					<lb/><l>Was wird alſdenn dir deinen Tod versüſsen?</l>
+					<lb/><l>Ein gut Gewiſsen macht ihn leicht.<anchor subtype="death_end" type="death"
 						/></l>
 				</lg>
 				<lg>
-					<l>Heil dir, o Chriſt,</l>
-					<l>Der dieſe Ruh empfindet</l>
-					<l>Und der ſein Glück auf das Bewußtſeyn gründet,</l>
-					<l>Daß nichts verdammlichs an ihm iſt!</l>
+					<lb/><l>Heil dir, o Chriſt,</l>
+					<lb/><l>Der dieſe Ruh empfindet</l>
+					<lb/><l>Und der ſein Glück auf das Bewußtſeyn gründet,</l>
+					<lb/><l>Daß nichts verdammlichs an ihm iſt!</l>
 				</lg>
 				<pb n="114"/>
 				<lg>
-					<l>Laß Erd und Welt,</l>
-					<l>So kann der Fromme ſprechen,</l>
-					<l>Laß unter mir den Bau der Erde brechen!</l>
-					<l><rs type="person" key="G0001">Gott</rs> iſt es, deſsen Hand mich hält.</l>
+					<lb/><l>Laß Erd und Welt,</l>
+					<lb/><l>So kann der Fromme ſprechen,</l>
+					<lb/><l>Laß unter mir den Bau der Erde brechen!</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> iſt es, deſsen Hand mich hält.</l>
 				</lg>
 			</div>
 		</body>

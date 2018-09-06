@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,45 +178,45 @@
 			<pb n="11"/>
 			<pb n="19" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Die Ehre Gottes in der Natur.</head>
+				<head><title>Die Ehre Gottes in der Natur.</title></head>
 				<lg>
-					<l>Die Himmel rühmen des <rs type="person" key="G0001">Ewigen</rs> Ehre,</l>
-					<l>Ihr Schall pflanzt ſeinen Namen fort.</l>
-					<l>Ihn rühmt der Erdkreis, ihn preiſen die Meere;</l>
-					<l>Vernimm, o Menſch, ihr göttlich Wort!</l>
+					<lb/><l>Die Himmel rühmen des <rs type="person" key="G0001">Ewigen</rs> Ehre,</l>
+					<lb/><l>Ihr Schall pflanzt ſeinen Namen fort.</l>
+					<lb/><l>Ihn rühmt der Erdkreis, ihn preiſen die Meere;</l>
+					<lb/><l>Vernimm, o Menſch, ihr göttlich Wort!</l>
 				</lg>
 				<lg>
-					<l>Wer trägt der Himmel unzählbare Sterne?</l>
-					<l>Wer führt die Sonn aus ihrem Zelt?</l>
-					<l>Sie kömmt und leuchtet und lacht uns von ferne</l>
-					<l>Und läuft den Weg, gleich als ein Held.</l>
+					<lb/><l>Wer trägt der Himmel unzählbare Sterne?</l>
+					<lb/><l>Wer führt die Sonn aus ihrem Zelt?</l>
+					<lb/><l>Sie kömmt und leuchtet und lacht uns von ferne</l>
+					<lb/><l>Und läuft den Weg, gleich als ein Held.</l>
 				</lg>
 				<lg>
-					<l>Vernimms, und ſiehe die Wunder der Werke,</l>
-					<l>Die die Natur dir aufgeſtellt!</l>
-					<l>Verkündigt Weiſheit und Ordnung und Stärke</l>
-					<l>Dir nicht den <rs type="person" key="G0001">Herrn</rs>, den <rs type="person"
+					<lb/><l>Vernimms, und ſiehe die Wunder der Werke,</l>
+					<lb/><l>Die die Natur dir aufgeſtellt!</l>
+					<lb/><l>Verkündigt Weiſheit und Ordnung und Stärke</l>
+					<lb/><l>Dir nicht den <rs type="person" key="G0001">Herrn</rs>, den <rs type="person"
 							key="G0001">Herrn</rs> der Welt?</l>
 				</lg>
 				<lg>
-					<l>Kannſt du der Weſen unzählbare Heere,</l>
-					<l>Den kleinſten Staub fühllos beſchaun?</l>
-					<l>Durch wen iſt alles? O gieb ihm die Ehre!</l>
-					<l>Mir, ruft der <rs type="person" key="G0001">Herr</rs>, ſollſt du
+					<lb/><l>Kannſt du der Weſen unzählbare Heere,</l>
+					<lb/><l>Den kleinſten Staub fühllos beſchaun?</l>
+					<lb/><l>Durch wen iſt alles? O gieb ihm die Ehre!</l>
+					<lb/><l>Mir, ruft der <rs type="person" key="G0001">Herr</rs>, ſollſt du
 						vertraun.</l>
 				</lg>
 				<lg>
-					<l>Mein iſt die Kraft, mein Himmel und Erde;</l>
-					<l>An meinen Werken kennſt du mich.</l>
-					<l>Ich bins, und werde ſeyn, der ich ſeyn werde,</l>
-					<l>Dein <rs type="person" key="G0001">Gott</rs> und Vater ewiglich.</l>
+					<lb/><l>Mein iſt die Kraft, mein Himmel und Erde;</l>
+					<lb/><l>An meinen Werken kennſt du mich.</l>
+					<lb/><l>Ich bins, und werde ſeyn, der ich ſeyn werde,</l>
+					<lb/><l>Dein <rs type="person" key="G0001">Gott</rs> und Vater ewiglich.</l>
 				</lg>
 				<lg>
-					<l>Ich bin dein <rs type="person" key="G0001">Schöpfer</rs>, bin Weiſheit und
+					<lb/><l>Ich bin dein <rs type="person" key="G0001">Schöpfer</rs>, bin Weiſheit und
 						Güte,</l>
-					<l>Ein <rs type="person" key="G0001">Gott</rs> der Ordnung, und dein Heil;</l>
-					<l>Ich bins! Mich liebe von ganzem Gemüthe,</l>
-					<l>Und nimm an meiner Gnade Theil.</l>
+					<lb/><l>Ein <rs type="person" key="G0001">Gott</rs> der Ordnung, und dein Heil;</l>
+					<lb/><l>Ich bins! Mich liebe von ganzem Gemüthe,</l>
+					<lb/><l>Und nimm an meiner Gnade Theil.</l>
 				</lg>
 			</div>
 		</body>

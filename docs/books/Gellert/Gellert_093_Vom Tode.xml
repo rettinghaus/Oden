@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,72 +178,72 @@
 			<pb n="93"/>
 			<pb n="41" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Vom Tode.</head>
+				<head><title>Vom Tode.</title></head>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Meine Lebenſzeit verſtreicht,</l>
-					<l>Stündlich eil ich zu dem Grabe.</l>
-					<l>Und was iſts, das ich vielleicht,</l>
-					<l>Das ich noch zu leben habe?</l>
-					<l>Denk, o Menſch, an deinen Tod,</l>
-					<l> Säume nicht; denn Eins iſt <choice>
+					<lb/><l><anchor subtype="death_start" type="death"/>Meine Lebenſzeit verſtreicht,</l>
+					<lb/><l>Stündlich eil ich zu dem Grabe.</l>
+					<lb/><l>Und was iſts, das ich vielleicht,</l>
+					<lb/><l>Das ich noch zu leben habe?</l>
+					<lb/><l>Denk, o Menſch, an deinen Tod,</l>
+					<lb/><l> Säume nicht; denn Eins iſt <choice>
 							<orig>noth.</orig>
 							<reg>Noth.</reg>
 						</choice>
 						<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Lebe, wie du, wenn du
+					<lb/><l><anchor subtype="death_start" type="death"/>Lebe, wie du, wenn du
 						ſtirbſt,</l>
-					<l>Wünſchen wirſt, gelebt zu haben.</l>
-					<l>Güter, die du hier erwirbſt,</l>
-					<l>Würden, die dir Menſchen gaben;</l>
-					<l>Nichts wird dich im Tod erfreun;</l>
-					<l>Dieſe Güter ſind nicht dein.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Wünſchen wirſt, gelebt zu haben.</l>
+					<lb/><l>Güter, die du hier erwirbſt,</l>
+					<lb/><l>Würden, die dir Menſchen gaben;</l>
+					<lb/><l>Nichts wird dich im Tod erfreun;</l>
+					<lb/><l>Dieſe Güter ſind nicht dein.<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Nur ein Herz, das Gutes
+					<lb/><l><anchor subtype="death_start" type="death"/>Nur ein Herz, das Gutes
 						liebt,</l>
-					<l>Nur ein ruhiges Gewiſsen,</l>
-					<l>Das vor <rs type="person" key="G0001">Gott</rs> dir Zeugniß giebt,</l>
-					<l>Wird dir deinen Tod versüſsen.</l>
-					<l>Dieſes Herz, von <rs type="person" key="G0001">Gott</rs> erneut,</l>
-					<l>Iſt des Todes Freudigkeit.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Nur ein ruhiges Gewiſsen,</l>
+					<lb/><l>Das vor <rs type="person" key="G0001">Gott</rs> dir Zeugniß giebt,</l>
+					<lb/><l>Wird dir deinen Tod versüſsen.</l>
+					<lb/><l>Dieſes Herz, von <rs type="person" key="G0001">Gott</rs> erneut,</l>
+					<lb/><l>Iſt des Todes Freudigkeit.<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<pb n="94"/>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Wenn in deiner letzten Noth</l>
-					<l>Freunde hülflos um dich beben;</l>
-					<l>Dann wird über Welt und Tod</l>
-					<l>Dich dieß reine Herz erheben;</l>
-					<l>Dann erſchreckt dich kein Gericht;</l>
-					<l><rs type="person" key="G0001">Gott</rs> iſt deine Zuverſicht.<anchor
+					<lb/><l><anchor subtype="death_start" type="death"/>Wenn in deiner letzten Noth</l>
+					<lb/><l>Freunde hülflos um dich beben;</l>
+					<lb/><l>Dann wird über Welt und Tod</l>
+					<lb/><l>Dich dieß reine Herz erheben;</l>
+					<lb/><l>Dann erſchreckt dich kein Gericht;</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> iſt deine Zuverſicht.<anchor
 							subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l>Daß du dieſes Herz erwirbſt,</l>
-					<l>Fürchte <rs type="person" key="G0001">Gott</rs>, und bet und wache.</l>
-					<l><anchor subtype="death_start" type="death"/>Sorge nicht, wie früh du
+					<lb/><l>Daß du dieſes Herz erwirbſt,</l>
+					<lb/><l>Fürchte <rs type="person" key="G0001">Gott</rs>, und bet und wache.</l>
+					<lb/><l><anchor subtype="death_start" type="death"/>Sorge nicht, wie früh du
 						ſtirbſt;</l>
-					<l>Deine Zeit iſt <rs type="person" key="G0001">Gottes</rs> Sache.</l>
-					<l>Lern nicht nur den Tod nicht ſcheun,</l>
-					<l>Lern auch ſeiner dich erfreun.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Deine Zeit iſt <rs type="person" key="G0001">Gottes</rs> Sache.</l>
+					<lb/><l>Lern nicht nur den Tod nicht ſcheun,</l>
+					<lb/><l>Lern auch ſeiner dich erfreun.<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Ueberwind ihn durch Vertraun,</l>
-					<l>Ich weis, an wen ich gläube,</l>
-					<l>Und ich weis, ich werd ihn ſchaun</l>
-					<l>Einſt in dieſem meinem Leibe.</l>
-					<l>Er, der rief: Es iſt vollbracht!</l>
-					<l>Nahm dem Tode ſeine Macht.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l><anchor subtype="death_start" type="death"/>Ueberwind ihn durch Vertraun,</l>
+					<lb/><l>Ich weis, an wen ich gläube,</l>
+					<lb/><l>Und ich weis, ich werd ihn ſchaun</l>
+					<lb/><l>Einſt in dieſem meinem Leibe.</l>
+					<lb/><l>Er, der rief: Es iſt vollbracht!</l>
+					<lb/><l>Nahm dem Tode ſeine Macht.<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Tritt im Geiſt zum Grab oft
+					<lb/><l><anchor subtype="death_start" type="death"/>Tritt im Geiſt zum Grab oft
 						hin,</l>
-					<l>Siehe dein Gebein verſenken;</l>
-					<l>Sprich: <rs type="person" key="G0001">Herr</rs>, daß ich Erde bin,</l>
-					<l>Lehre du mich ſelbſt bedenken;</l>
-					<l>Lehre du michs jeden Tag</l>
-					<l>Daß ich weiſer werden mag!<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Siehe dein Gebein verſenken;</l>
+					<lb/><l>Sprich: <rs type="person" key="G0001">Herr</rs>, daß ich Erde bin,</l>
+					<lb/><l>Lehre du mich ſelbſt bedenken;</l>
+					<lb/><l>Lehre du michs jeden Tag</l>
+					<lb/><l>Daß ich weiſer werden mag!<anchor subtype="death_end" type="death"/></l>
 				</lg>
 			</div>
 		</body>

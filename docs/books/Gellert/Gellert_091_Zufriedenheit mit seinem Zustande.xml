@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,56 +178,56 @@
 			<pb n="91"/>
 			<pb n="2" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Zufriedenheit mit ſeinem Zuſtande.</head>
+				<head><title>Zufriedenheit mit ſeinem Zuſtande.</title></head>
 				<lg>
-					<l>Du klagſt, und fühleſt die Beſchwerden</l>
-					<l>Des Stands, in dem du dürftig lebſt;</l>
-					<l>Du ſtrebeſt glücklicher zu werden,</l>
-					<l>Und ſiehſt, daß du vergebens ſtrebſt.</l>
+					<lb/><l>Du klagſt, und fühleſt die Beſchwerden</l>
+					<lb/><l>Des Stands, in dem du dürftig lebſt;</l>
+					<lb/><l>Du ſtrebeſt glücklicher zu werden,</l>
+					<lb/><l>Und ſiehſt, daß du vergebens ſtrebſt.</l>
 				</lg>
 				<lg>
-					<l>Ja, klage! <rs type="person" key="G0001">Gott</rs> erlaubt die Zähren;</l>
-					<l>Doch denk im Klagen auch zurück.</l>
-					<l>Iſt denn das Glück, das wir begehren,</l>
-					<l>Für uns auch ſtets ein wahres Glück?</l>
+					<lb/><l>Ja, klage! <rs type="person" key="G0001">Gott</rs> erlaubt die Zähren;</l>
+					<lb/><l>Doch denk im Klagen auch zurück.</l>
+					<lb/><l>Iſt denn das Glück, das wir begehren,</l>
+					<lb/><l>Für uns auch ſtets ein wahres Glück?</l>
 				</lg>
 				<lg>
-					<l>Nie ſchenkt der Stand, nie ſchenken Güter</l>
-					<l>dem Menſchen die Zufriedenheit.</l>
-					<l>Die wahre Ruhe der Gemüther</l>
-					<l>iſt Tugend und Genügſamkeit.</l>
+					<lb/><l>Nie ſchenkt der Stand, nie ſchenken Güter</l>
+					<lb/><l>dem Menſchen die Zufriedenheit.</l>
+					<lb/><l>Die wahre Ruhe der Gemüther</l>
+					<lb/><l>iſt Tugend und Genügſamkeit.</l>
 				</lg>
 				<lg>
-					<l>Genieße, was dir <rs type="person" key="G0001">Gott</rs> beſchieden,</l>
-					<l>Entbehre gern, was du nicht haſt.</l>
-					<l>Ein jeder Stand hat ſeinen Frieden,</l>
-					<l>Ein jeder Stand auch ſeine Laſt.</l>
+					<lb/><l>Genieße, was dir <rs type="person" key="G0001">Gott</rs> beſchieden,</l>
+					<lb/><l>Entbehre gern, was du nicht haſt.</l>
+					<lb/><l>Ein jeder Stand hat ſeinen Frieden,</l>
+					<lb/><l>Ein jeder Stand auch ſeine Laſt.</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Gott</rs> iſt der Herr, und ſeinen Seegen</l>
-					<l>Vertheilt er ſtets mit weiſer Hand;</l>
-					<l>Nicht ſo, wie wirs zu wünſchen pflegen,</l>
-					<l>Doch ſo, wie ers uns heilſam fand.</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> iſt der Herr, und ſeinen Seegen</l>
+					<lb/><l>Vertheilt er ſtets mit weiſer Hand;</l>
+					<lb/><l>Nicht ſo, wie wirs zu wünſchen pflegen,</l>
+					<lb/><l>Doch ſo, wie ers uns heilſam fand.</l>
 				</lg>
 				<pb n="92"/>
 				<lg>
-					<l>Willſt du zu denken dich erkühnen,</l>
-					<l>Daß ſeine Liebe dich vergißt?</l>
-					<l>Er giebt uns mehr, als wir verdienen,</l>
-					<l>Und niemals, was uns ſchädlich iſt.</l>
+					<lb/><l>Willſt du zu denken dich erkühnen,</l>
+					<lb/><l>Daß ſeine Liebe dich vergißt?</l>
+					<lb/><l>Er giebt uns mehr, als wir verdienen,</l>
+					<lb/><l>Und niemals, was uns ſchädlich iſt.</l>
 				</lg>
 				<lg>
-					<l>Verzehre nicht des Lebens Kräfte</l>
-					<l>In träger Unzufriedenheit;</l>
-					<l>Beſorge deines Stands Geſchäfte,</l>
-					<l>Und nütze deine Lebenſzeit.</l>
+					<lb/><l>Verzehre nicht des Lebens Kräfte</l>
+					<lb/><l>In träger Unzufriedenheit;</l>
+					<lb/><l>Beſorge deines Stands Geſchäfte,</l>
+					<lb/><l>Und nütze deine Lebenſzeit.</l>
 				</lg>
 				<lg>
-					<l>Bey Pflicht und Fleiß ſich <rs type="person" key="G0001">Gott</rs>
+					<lb/><l>Bey Pflicht und Fleiß ſich <rs type="person" key="G0001">Gott</rs>
 						ergeben,</l>
-					<l>Ein ewig Glück in Hoffnung ſehn,</l>
-					<l>Dieß iſt der Weg zu Ruh und Leben.</l>
-					<l><rs type="person" key="G0001">Herr</rs>, lehre dieſen Weg mich gehn!</l>
+					<lb/><l>Ein ewig Glück in Hoffnung ſehn,</l>
+					<lb/><l>Dieß iſt der Weg zu Ruh und Leben.</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, lehre dieſen Weg mich gehn!</l>
 				</lg>
 			</div>
 		</body>

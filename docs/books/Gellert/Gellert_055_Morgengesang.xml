@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,89 +178,89 @@
 			<pb n="55"/>
 			<pb n="16" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Morgengeſang.</head>
+				<head><title>Morgengeſang.</title></head>
 				<lg>
-					<l>Mein erſt Gefühl ſey Preis und Dank;</l>
-					<l>Erheb ihn, meine Seele!</l>
-					<l>Der <rs type="person" key="G0001">Herr</rs> hört deinen Lobgeſang;</l>
-					<l>Lobſing ihm, meine Seele!</l>
+					<lb/><l>Mein erſt Gefühl ſey Preis und Dank;</l>
+					<lb/><l>Erheb ihn, meine Seele!</l>
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> hört deinen Lobgeſang;</l>
+					<lb/><l>Lobſing ihm, meine Seele!</l>
 				</lg>
 				<lg>
-					<l>Mich ſelbſt zu ſchützen, ohne Macht,</l>
-					<l>Lag ich und ſchlief im Frieden.</l>
-					<l> Wer <choice>
+					<lb/><l>Mich ſelbſt zu ſchützen, ohne Macht,</l>
+					<lb/><l>Lag ich und ſchlief im Frieden.</l>
+					<lb/><l> Wer <choice>
 							<orig>ſchafft</orig>
 							<reg>ſchaft</reg>
 						</choice> die Sicherheit der Nacht </l>
-					<l>und Ruhe für die Müden?</l>
+					<lb/><l>und Ruhe für die Müden?</l>
 				</lg>
 				<lg>
-					<l>Wer wacht, wenn ich von mir nichts weiß,</l>
-					<l>Mein Leben zu bewahren?</l>
-					<l>Wer ſtärkt mein Blut in ſeinem Fleiß,</l>
-					<l>Und ſchützt mich vor Gefahren?</l>
+					<lb/><l>Wer wacht, wenn ich von mir nichts weiß,</l>
+					<lb/><l>Mein Leben zu bewahren?</l>
+					<lb/><l>Wer ſtärkt mein Blut in ſeinem Fleiß,</l>
+					<lb/><l>Und ſchützt mich vor Gefahren?</l>
 				</lg>
 				<lg>
-					<l>Wer lehrt das Auge ſeine Pflicht,</l>
-					<l>Sich ſicher zu bedecken?</l>
-					<l>Wer ruft dem Tag und ſeinem Licht,</l>
-					<l>Die Seele zu erwecken?</l>
+					<lb/><l>Wer lehrt das Auge ſeine Pflicht,</l>
+					<lb/><l>Sich ſicher zu bedecken?</l>
+					<lb/><l>Wer ruft dem Tag und ſeinem Licht,</l>
+					<lb/><l>Die Seele zu erwecken?</l>
 				</lg>
 				<lg>
-					<l>Du biſt es, <rs type="person" key="G0001">Herr und Gott</rs> der Welt,</l>
-					<l>Und dein iſt unſer Leben.</l>
-					<l>Du biſt es, der es uns erhält,</l>
-					<l>Und mirs itzt neu gegeben.</l>
+					<lb/><l>Du biſt es, <rs type="person" key="G0001">Herr und Gott</rs> der Welt,</l>
+					<lb/><l>Und dein iſt unſer Leben.</l>
+					<lb/><l>Du biſt es, der es uns erhält,</l>
+					<lb/><l>Und mirs itzt neu gegeben.</l>
 				</lg>
 				<pb n="56"/>
 				<lg>
-					<l>Gelobet ſeyſt du, <rs type="person" key="G0001">Gott</rs> der Macht,</l>
-					<l>Gelobt ſey deine Treue!</l>
-					<l>Daß ich nach einer ſanften Nacht</l>
-					<l>Mich dieſes Tags erfreue.</l>
+					<lb/><l>Gelobet ſeyſt du, <rs type="person" key="G0001">Gott</rs> der Macht,</l>
+					<lb/><l>Gelobt ſey deine Treue!</l>
+					<lb/><l>Daß ich nach einer ſanften Nacht</l>
+					<lb/><l>Mich dieſes Tags erfreue.</l>
 				</lg>
 				<lg>
-					<l>Laß deinen Seegen auf mir ruhn,</l>
-					<l>Mich deine Wege wallen;</l>
-					<l>Und lehre du mich ſelber thun</l>
-					<l>Nach deinem Wohlgefallen.</l>
+					<lb/><l>Laß deinen Seegen auf mir ruhn,</l>
+					<lb/><l>Mich deine Wege wallen;</l>
+					<lb/><l>Und lehre du mich ſelber thun</l>
+					<lb/><l>Nach deinem Wohlgefallen.</l>
 				</lg>
 				<lg>
-					<l>Nimm meines Lebens gnädig wahr;</l>
-					<l> Auf dich <choice>
+					<lb/><l>Nimm meines Lebens gnädig wahr;</l>
+					<lb/><l> Auf dich <choice>
 							<orig>hofft</orig>
 							<reg>hoft</reg>
 						</choice> meine Seele. </l>
-					<l>Sey mir ein Retter in Gefahr,</l>
-					<l>Ein Vater, wenn ich fehle.</l>
+					<lb/><l>Sey mir ein Retter in Gefahr,</l>
+					<lb/><l>Ein Vater, wenn ich fehle.</l>
 				</lg>
 				<lg>
-					<l>Gieb mir ein Herz voll Zuverſicht,</l>
-					<l>Erfüllt mit Lieb und Ruhe,</l>
-					<l>Ein weiſes Herz, das ſeine Pflicht</l>
-					<l>Erkenn und willig thue.</l>
+					<lb/><l>Gieb mir ein Herz voll Zuverſicht,</l>
+					<lb/><l>Erfüllt mit Lieb und Ruhe,</l>
+					<lb/><l>Ein weiſes Herz, das ſeine Pflicht</l>
+					<lb/><l>Erkenn und willig thue.</l>
 				</lg>
 				<lg>
-					<l>Daß ich als ein getreuer Knecht</l>
-					<l>Nach deinem Reiche ſtrebe,</l>
-					<l>Gottſelig, züchtig und gerecht</l>
-					<l>Durch deine Gnade lebe.</l>
+					<lb/><l>Daß ich als ein getreuer Knecht</l>
+					<lb/><l>Nach deinem Reiche ſtrebe,</l>
+					<lb/><l>Gottſelig, züchtig und gerecht</l>
+					<lb/><l>Durch deine Gnade lebe.</l>
 				</lg>
 				<pb n="57"/>
 				<lg>
-					<l>Daß ich, dem Nächſten beyzuſtehn,</l>
-					<l>Nie Fleiß und Arbeit ſcheue,</l>
-					<l>Mich gern an andrer Wohlergehn</l>
-					<l>Und ihrer Tugend freue.</l>
+					<lb/><l>Daß ich, dem Nächſten beyzuſtehn,</l>
+					<lb/><l>Nie Fleiß und Arbeit ſcheue,</l>
+					<lb/><l>Mich gern an andrer Wohlergehn</l>
+					<lb/><l>Und ihrer Tugend freue.</l>
 				</lg>
 				<lg>
-					<l>Daß ich das Glück der Lebenſzeit</l>
-					<l> In deiner Furcht <choice>
+					<lb/><l>Daß ich das Glück der Lebenſzeit</l>
+					<lb/><l> In deiner Furcht <choice>
 							<orig>genieße</orig>
 							<reg>genieße,</reg>
 						</choice> genieße </l>
-					<l>Und meinen Lauf mit Freudigkeit,</l>
-					<l>Wenn du gebeutſt, beſchließe.</l>
+					<lb/><l>Und meinen Lauf mit Freudigkeit,</l>
+					<lb/><l>Wenn du gebeutſt, beſchließe.</l>
 				</lg>
 			</div>
 		</body>

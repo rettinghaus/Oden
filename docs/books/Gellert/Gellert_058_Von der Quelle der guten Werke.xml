@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,109 +178,109 @@
 			<pb n="58"/>
 			<pb n="30" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Von der Quelle der guten Werke.</head>
+				<head><title>Von der Quelle der guten Werke.</title></head>
 				<lg>
-					<l>Wenn zur Vollführung deiner Pflicht</l>
-					<l>Dich <rs type="person" key="G0001">Gottes</rs> Liebe nicht beſeelet:</l>
-					<l>So rühme dich der Tugend nicht,</l>
-					<l>Und wiſse, daß dir alles fehlet.</l>
-					<l>Wenn Vortheil, Wolluſt, Eigenſinn</l>
-					<l>Und Stolz dir nur das Gute rathen,</l>
-					<l>So thue noch ſo gute Thaten;</l>
-					<l>Du haſt vor <rs type="person" key="G0001">Gott</rs> den Lohn dahin.</l>
+					<lb/><l>Wenn zur Vollführung deiner Pflicht</l>
+					<lb/><l>Dich <rs type="person" key="G0001">Gottes</rs> Liebe nicht beſeelet:</l>
+					<lb/><l>So rühme dich der Tugend nicht,</l>
+					<lb/><l>Und wiſse, daß dir alles fehlet.</l>
+					<lb/><l>Wenn Vortheil, Wolluſt, Eigenſinn</l>
+					<lb/><l>Und Stolz dir nur das Gute rathen,</l>
+					<lb/><l>So thue noch ſo gute Thaten;</l>
+					<lb/><l>Du haſt vor <rs type="person" key="G0001">Gott</rs> den Lohn dahin.</l>
 				</lg>
 				<lg>
-					<l>Sey durch die Gaben der Natur</l>
-					<l>Das Wunder und das Glück der Erden!</l>
-					<l>Beglückeſt du die Menſchen nur,</l>
-					<l>Um vor der Welt geehrt zu werden;</l>
-					<l>Erfüllt die Liebe nicht dein Herz:</l>
-					<l>So biſt du bei den größten Gaben,</l>
-					<l>Bey dem Verſtand, den Engel haben,</l>
-					<l>Vor <rs type="person" key="G0001">Gott</rs> doch nur ein tönend Erz.</l>
+					<lb/><l>Sey durch die Gaben der Natur</l>
+					<lb/><l>Das Wunder und das Glück der Erden!</l>
+					<lb/><l>Beglückeſt du die Menſchen nur,</l>
+					<lb/><l>Um vor der Welt geehrt zu werden;</l>
+					<lb/><l>Erfüllt die Liebe nicht dein Herz:</l>
+					<lb/><l>So biſt du bei den größten Gaben,</l>
+					<lb/><l>Bey dem Verſtand, den Engel haben,</l>
+					<lb/><l>Vor <rs type="person" key="G0001">Gott</rs> doch nur ein tönend Erz.</l>
 				</lg>
 				<lg>
-					<l>Bau Häuſer auf, und brich dein Brodt,</l>
-					<l>Das Volk der Armen zu verpflegen;</l>
-					<l>Entreiß die Witwen ihrer Noth,</l>
-					<l>Und ſey der Wayſen Schutz und Seegen!</l>
+					<lb/><l>Bau Häuſer auf, und brich dein Brodt,</l>
+					<lb/><l>Das Volk der Armen zu verpflegen;</l>
+					<lb/><l>Entreiß die Witwen ihrer Noth,</l>
+					<lb/><l>Und ſey der Wayſen Schutz und Seegen!</l>
 					<pb n="59"/>
-					<l> Gieb alle deine <choice>
+					<lb/><l> Gieb alle deine <choice>
 							<orig>Habe</orig>
 							<reg>Haabe</reg>
 						</choice> hin! </l>
-					<l>Noch haſt du nichts vor <rs type="person" key="G0001">Gott</rs> gegeben.</l>
-					<l>Wenn Lieb und Pflicht dich nicht beleben:</l>
-					<l>ſo iſt dir alles kein Gewinn.</l>
+					<lb/><l>Noch haſt du nichts vor <rs type="person" key="G0001">Gott</rs> gegeben.</l>
+					<lb/><l>Wenn Lieb und Pflicht dich nicht beleben:</l>
+					<lb/><l>ſo iſt dir alles kein Gewinn.</l>
 				</lg>
 				<pb n="31" ed="CPEB1758"/>
 				<lg>
-					<l>Thu Thaten, die der Heldenmuth</l>
-					<l>Noch <choice>
+					<lb/><l>Thu Thaten, die der Heldenmuth</l>
+					<lb/><l>Noch <choice>
 							<orig>iemals</orig>
 							<reg>jemals</reg>
 						</choice>hat verrichten können;</l>
-					<l>Vergieß fürs Vaterland dein Blut,</l>
-					<l>Laß deinen Leib für andre brennen!</l>
-					<l>Beſeelet dich nicht Lieb und Pflicht;</l>
-					<l>Biſt du die Abſicht deiner Thaten;</l>
-					<l>So ſchütz und rette ganze Staaten;</l>
-					<l>Gott achtet deiner Werke nicht.</l>
+					<lb/><l>Vergieß fürs Vaterland dein Blut,</l>
+					<lb/><l>Laß deinen Leib für andre brennen!</l>
+					<lb/><l>Beſeelet dich nicht Lieb und Pflicht;</l>
+					<lb/><l>Biſt du die Abſicht deiner Thaten;</l>
+					<lb/><l>So ſchütz und rette ganze Staaten;</l>
+					<lb/><l>Gott achtet deiner Werke nicht.</l>
 				</lg>
 				<lg>
-					<l>Läg ihm an unſern Werken nur:</l>
-					<l>So könnt er uns, ſie zu vollbringen,</l>
-					<l>Sehr leicht durch Feſsel der Natur,</l>
-					<l>Durch Kräfte ſeiner Allmacht zwingen.</l>
-					<l> Vor ihm, der alles <choice>
+					<lb/><l>Läg ihm an unſern Werken nur:</l>
+					<lb/><l>So könnt er uns, ſie zu vollbringen,</l>
+					<lb/><l>Sehr leicht durch Feſsel der Natur,</l>
+					<lb/><l>Durch Kräfte ſeiner Allmacht zwingen.</l>
+					<lb/><l> Vor ihm, der alles <choice>
 							<orig>ſchafft</orig>
 							<reg>ſchaft</reg>
 						</choice> und giebt, </l>
-					<l>Gilt Weiſheit nichts, nichts Macht und Stärke.</l>
-					<l>Er will die Abſicht deiner Werke,</l>
-					<l>Ein Herz, das ihn verehrt und liebt.</l>
+					<lb/><l>Gilt Weiſheit nichts, nichts Macht und Stärke.</l>
+					<lb/><l>Er will die Abſicht deiner Werke,</l>
+					<lb/><l>Ein Herz, das ihn verehrt und liebt.</l>
 				</lg>
 				<lg>
-					<l>Ein Herz, von Eigenliebe fern,</l>
-					<l>Fern von des Stolzes eitlem Triebe,</l>
-					<l>Geheiligt durch die Furcht des Herrn,</l>
-					<l>Erneut durch Glauben zu der Liebe;</l>
+					<lb/><l>Ein Herz, von Eigenliebe fern,</l>
+					<lb/><l>Fern von des Stolzes eitlem Triebe,</l>
+					<lb/><l>Geheiligt durch die Furcht des Herrn,</l>
+					<lb/><l>Erneut durch Glauben zu der Liebe;</l>
 					<pb n="60"/>
-					<l>Dieß iſts, was <rs type="person" key="G0001">Gott</rs> von uns verlangt.</l>
-					<l>Und wenn wir nicht dieß Herz beſitzen:</l>
-					<l>So wird ein Leben uns nichts nützen,</l>
-					<l>Das mit den größten Thaten prangt.</l>
+					<lb/><l>Dieß iſts, was <rs type="person" key="G0001">Gott</rs> von uns verlangt.</l>
+					<lb/><l>Und wenn wir nicht dieß Herz beſitzen:</l>
+					<lb/><l>So wird ein Leben uns nichts nützen,</l>
+					<lb/><l>Das mit den größten Thaten prangt.</l>
 				</lg>
 				<lg>
-					<l>Drum täuſche dich nicht durch den Schein,</l>
-					<l>Nicht durch der Tugend bloßen Namen.</l>
-					<l>Sieh nicht auf deine Werk allein;</l>
-					<l>Sieh auf den Quell, aus dem ſie kamen.</l>
-					<l>Prüf dich vor <rs type="person" key="G0001">Gottes</rs> Angeſicht,</l>
-					<l>Ob ſeine Liebe dich beſeelet.</l>
-					<l>Ein Herz, dem nicht der Glaube fehlet,</l>
-					<l>Dem fehlet auch die Liebe nicht.</l>
+					<lb/><l>Drum täuſche dich nicht durch den Schein,</l>
+					<lb/><l>Nicht durch der Tugend bloßen Namen.</l>
+					<lb/><l>Sieh nicht auf deine Werk allein;</l>
+					<lb/><l>Sieh auf den Quell, aus dem ſie kamen.</l>
+					<lb/><l>Prüf dich vor <rs type="person" key="G0001">Gottes</rs> Angeſicht,</l>
+					<lb/><l>Ob ſeine Liebe dich beſeelet.</l>
+					<lb/><l>Ein Herz, dem nicht der Glaube fehlet,</l>
+					<lb/><l>Dem fehlet auch die Liebe nicht.</l>
 				</lg>
 				<lg>
-					<l>Wohnt Liebe gegen <rs type="person" key="G0001">Gott</rs> in dir:</l>
-					<l>So wird ſie dich zum Guten ſtärken.</l>
-					<l>Du wirſt die Gegenwart von ihr</l>
-					<l>An Liebe zu dem Nächſten merken.</l>
-					<l>Die Liebe, die dich ſchmücken ſoll,</l>
-					<l>Iſt gütig; ohne Liſt und Tücke;</l>
-					<l>Beneidet nicht des Nächſten Glücke;</l>
-					<l>Sie bläht ſich nicht; iſt langmuthſvoll.</l>
+					<lb/><l>Wohnt Liebe gegen <rs type="person" key="G0001">Gott</rs> in dir:</l>
+					<lb/><l>So wird ſie dich zum Guten ſtärken.</l>
+					<lb/><l>Du wirſt die Gegenwart von ihr</l>
+					<lb/><l>An Liebe zu dem Nächſten merken.</l>
+					<lb/><l>Die Liebe, die dich ſchmücken ſoll,</l>
+					<lb/><l>Iſt gütig; ohne Liſt und Tücke;</l>
+					<lb/><l>Beneidet nicht des Nächſten Glücke;</l>
+					<lb/><l>Sie bläht ſich nicht; iſt langmuthſvoll.</l>
 				</lg>
 				<pb n="61"/>
 				<lg>
-					<l>Sie deckt des Nächſten Fehler zu,</l>
-					<l>Und freut ſich niemals ſeines Falles.</l>
-					<l>Sie ſuchet nicht bloß ihre Ruh.</l>
-					<l>Sie hofft und gläubt und duldet alles.</l>
-					<l>Sie iſt's, die dir den Muth verleiht,</l>
-					<l>Des Höchſten Wort gern zu erfüllen,</l>
-					<l>Macht ſeinen Sinn zu deinem Willen,</l>
-					<l>Und folgt dir in die Ewigkeit.</l>
+					<lb/><l>Sie deckt des Nächſten Fehler zu,</l>
+					<lb/><l>Und freut ſich niemals ſeines Falles.</l>
+					<lb/><l>Sie ſuchet nicht bloß ihre Ruh.</l>
+					<lb/><l>Sie hofft und gläubt und duldet alles.</l>
+					<lb/><l>Sie iſt's, die dir den Muth verleiht,</l>
+					<lb/><l>Des Höchſten Wort gern zu erfüllen,</l>
+					<lb/><l>Macht ſeinen Sinn zu deinem Willen,</l>
+					<lb/><l>Und folgt dir in die Ewigkeit.</l>
 				</lg>
 			</div>
 		</body>

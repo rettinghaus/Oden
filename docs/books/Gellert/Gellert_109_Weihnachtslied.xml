@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,72 +178,72 @@
 			<pb n="109"/>
 			<pb n="5" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Weihnachtſlied.</head>
+				<head><title>Weihnachtſlied.</title></head>
 				<lg>
-					<l>Auf, ſchicke dich,</l>
-					<l>Recht feyerlich</l>
-					<l>Des <rs type="person" key="J0001">Heilands</rs> Feſt mit Danken zu
+					<lb/><l>Auf, ſchicke dich,</l>
+					<lb/><l>Recht feyerlich</l>
+					<lb/><l>Des <rs type="person" key="J0001">Heilands</rs> Feſt mit Danken zu
 						begehen!</l>
-					<l>Lieb iſt der Dank,</l>
-					<l>Der Lobgeſang,</l>
-					<l>Durch den wir ihn, den <rs type="person" key="G0001">Gott</rs> der Lieb,
+					<lb/><l>Lieb iſt der Dank,</l>
+					<lb/><l>Der Lobgeſang,</l>
+					<lb/><l>Durch den wir ihn, den <rs type="person" key="G0001">Gott</rs> der Lieb,
 						erhöhen.</l>
 				</lg>
 				<lg>
-					<l>Sprich dankbar froh:</l>
-					<l>Alſo, alſo</l>
-					<l>Hat <rs type="person" key="G0001">Gott</rs> die Welt in ſeinem <rs
+					<lb/><l>Sprich dankbar froh:</l>
+					<lb/><l>Alſo, alſo</l>
+					<lb/><l>Hat <rs type="person" key="G0001">Gott</rs> die Welt in ſeinem <rs
 							type="person" key="J0001">Sohn</rs> geliebet!</l>
-					<l>O, wer bin ich,</l>
-					<l><rs type="person" key="G0001">Herr</rs>, daß du mich,</l>
-					<l>So herrlich hoch in deinem <rs type="person" key="J0001">Sohn</rs>
+					<lb/><l>O, wer bin ich,</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, daß du mich,</l>
+					<lb/><l>So herrlich hoch in deinem <rs type="person" key="J0001">Sohn</rs>
 						geliebet?</l>
 				</lg>
 				<lg>
-					<l>Er unſer Freund,</l>
-					<l> Mit uns <choice>
+					<lb/><l>Er unſer Freund,</l>
+					<lb/><l> Mit uns <choice>
 							<orig>vereint</orig>
 							<reg>vereint,</reg>
 						</choice>
 					</l>
-					<l>Zur Zeit, da wir noch ſeine Feinde waren;</l>
-					<l>Er wird uns gleich,</l>
-					<l>Um <rs type="person" key="G0001">Gottes</rs> Reich</l>
-					<l>Und ſeine Lieb im Fleiſch zu offenbaren.</l>
+					<lb/><l>Zur Zeit, da wir noch ſeine Feinde waren;</l>
+					<lb/><l>Er wird uns gleich,</l>
+					<lb/><l>Um <rs type="person" key="G0001">Gottes</rs> Reich</l>
+					<lb/><l>Und ſeine Lieb im Fleiſch zu offenbaren.</l>
 				</lg>
 				<pb n="110"/>
 				<lg>
-					<l>An ihm nimm Theil,</l>
-					<l>Er iſt das Heil;</l>
-					<l>Thu täglich Buß und gläub an ſeinen Namen.</l>
-					<l>Der ehrt ihn nicht,</l>
-					<l>Wer <rs type="person" key="J0001">Herr, Herr</rs>, ſpricht,</l>
-					<l>Und doch nicht ſucht, ſein Beyſpiel nachzuahmen.</l>
+					<lb/><l>An ihm nimm Theil,</l>
+					<lb/><l>Er iſt das Heil;</l>
+					<lb/><l>Thu täglich Buß und gläub an ſeinen Namen.</l>
+					<lb/><l>Der ehrt ihn nicht,</l>
+					<lb/><l>Wer <rs type="person" key="J0001">Herr, Herr</rs>, ſpricht,</l>
+					<lb/><l>Und doch nicht ſucht, ſein Beyſpiel nachzuahmen.</l>
 				</lg>
 				<lg>
-					<l>Aus Dank will ich</l>
-					<l>In Brüdern dich,</l>
-					<l>Dich, <rs type="person" key="J0001">Gotteſsohn</rs>, bekleiden, ſpeiſen,
+					<lb/><l>Aus Dank will ich</l>
+					<lb/><l>In Brüdern dich,</l>
+					<lb/><l>Dich, <rs type="person" key="J0001">Gotteſsohn</rs>, bekleiden, ſpeiſen,
 						tränken;</l>
-					<l>Der Frommen Herz</l>
-					<l>In ihrem Schmerz</l>
-					<l>Mit Troſt erfreun und dein dabey gedenken.</l>
+					<lb/><l>Der Frommen Herz</l>
+					<lb/><l>In ihrem Schmerz</l>
+					<lb/><l>Mit Troſt erfreun und dein dabey gedenken.</l>
 				</lg>
 				<lg>
-					<l>Rath, Kraft und Held,</l>
-					<l>Durch den die Welt</l>
-					<l>Und alles iſt, im Himmel und auf Erden!</l>
-					<l>Die Chriſtenheit</l>
-					<l>Preiſt dich erfreut,</l>
-					<l>Und aller Knie ſoll dir gebeuget werden.</l>
+					<lb/><l>Rath, Kraft und Held,</l>
+					<lb/><l>Durch den die Welt</l>
+					<lb/><l>Und alles iſt, im Himmel und auf Erden!</l>
+					<lb/><l>Die Chriſtenheit</l>
+					<lb/><l>Preiſt dich erfreut,</l>
+					<lb/><l>Und aller Knie ſoll dir gebeuget werden.</l>
 				</lg>
 				<lg>
-					<l>Erhebt den <rs type="person" key="J0001">Herrn</rs>!</l>
-					<l>Er hilft uns gern,</l>
-					<l>Und wer ihn ſucht, den wird ſein Name tröſten.</l>
-					<l>Alleluja!</l>
-					<l>Alleluja!</l>
-					<l>Freut euch des <rs type="person" key="J0001">Herrn</rs>, und jauchzt ihm, ihr
+					<lb/><l>Erhebt den <rs type="person" key="J0001">Herrn</rs>!</l>
+					<lb/><l>Er hilft uns gern,</l>
+					<lb/><l>Und wer ihn ſucht, den wird ſein Name tröſten.</l>
+					<lb/><l>Alleluja!</l>
+					<lb/><l>Alleluja!</l>
+					<lb/><l>Freut euch des <rs type="person" key="J0001">Herrn</rs>, und jauchzt ihm, ihr
 						Erlöſten!</l>
 				</lg>
 			</div>

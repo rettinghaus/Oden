@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,103 +178,103 @@
 			<pb n="137"/>
 			<pb n="59" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Wider den Geiz.</head>
+				<head><title>Wider den Geiz.</title></head>
 				<lg>
-					<l>Wohl dem, der beßre Schätze liebt,</l>
-					<l>Als Schätze dieſer Erden!</l>
-					<l>Wohl dem, der ſich mit Eifer übt,</l>
-					<l>An Tugend reich zu werden,</l>
-					<l>Und in dem Glauben, deß er lebt,</l>
-					<l>Sich über dieſe Welt erhebt!</l>
+					<lb/><l>Wohl dem, der beßre Schätze liebt,</l>
+					<lb/><l>Als Schätze dieſer Erden!</l>
+					<lb/><l>Wohl dem, der ſich mit Eifer übt,</l>
+					<lb/><l>An Tugend reich zu werden,</l>
+					<lb/><l>Und in dem Glauben, deß er lebt,</l>
+					<lb/><l>Sich über dieſe Welt erhebt!</l>
 				</lg>
 				<lg>
-					<l>Wahr iſt es, <rs type="person" key="G0001">Gott</rs> verwehrt uns nicht,</l>
-					<l>Hier Güter zu beſitzen.</l>
-					<l>Er gab ſie uns, und auch die Pflicht,</l>
-					<l>Mit Weiſheit ſie zu nützen.</l>
-					<l>Sie dürfen unſer Herz erfreun,</l>
-					<l>Und unſers Fleißes Antrieb ſeyn.</l>
+					<lb/><l>Wahr iſt es, <rs type="person" key="G0001">Gott</rs> verwehrt uns nicht,</l>
+					<lb/><l>Hier Güter zu beſitzen.</l>
+					<lb/><l>Er gab ſie uns, und auch die Pflicht,</l>
+					<lb/><l>Mit Weiſheit ſie zu nützen.</l>
+					<lb/><l>Sie dürfen unſer Herz erfreun,</l>
+					<lb/><l>Und unſers Fleißes Antrieb ſeyn.</l>
 				</lg>
 				<lg>
-					<l>Doch nach den Gütern dieſer Zeit</l>
-					<l>Mit ganzer Seele ſchmachten,</l>
-					<l>Nicht erſt nach der Gerechtigkeit</l>
-					<l>Und <rs type="person" key="G0001">Gottes</rs> Reiche trachten;</l>
-					<l>Iſt dieſes eines Menſchen Ruf,</l>
-					<l>Den <rs type="person" key="G0001">Gott</rs> zur Ewigkeit erſchuf?</l>
+					<lb/><l>Doch nach den Gütern dieſer Zeit</l>
+					<lb/><l>Mit ganzer Seele ſchmachten,</l>
+					<lb/><l>Nicht erſt nach der Gerechtigkeit</l>
+					<lb/><l>Und <rs type="person" key="G0001">Gottes</rs> Reiche trachten;</l>
+					<lb/><l>Iſt dieſes eines Menſchen Ruf,</l>
+					<lb/><l>Den <rs type="person" key="G0001">Gott</rs> zur Ewigkeit erſchuf?</l>
 				</lg>
 				<pb n="138"/>
 				<lg>
-					<l>Der Geiz erniedrigt unſer Herz,</l>
-					<l>Erſtickt die edlern Triebe.</l>
-					<l>Die Liebe für ein ſchimmernd Erz</l>
-					<l>Verdrängt der Tugend Liebe,</l>
-					<l>Und machet, der Vernunft zum Spott,</l>
-					<l>Ein elend Gold zu deinem <rs type="person" key="G0001">Gott</rs>.</l>
+					<lb/><l>Der Geiz erniedrigt unſer Herz,</l>
+					<lb/><l>Erſtickt die edlern Triebe.</l>
+					<lb/><l>Die Liebe für ein ſchimmernd Erz</l>
+					<lb/><l>Verdrängt der Tugend Liebe,</l>
+					<lb/><l>Und machet, der Vernunft zum Spott,</l>
+					<lb/><l>Ein elend Gold zu deinem <rs type="person" key="G0001">Gott</rs>.</l>
 				</lg>
 				<lg>
-					<l>Der Geiz, ſo viel er an ſich reißt,</l>
-					<l> Läßt dich kein Gut <choice>
+					<lb/><l>Der Geiz, ſo viel er an ſich reißt,</l>
+					<lb/><l> Läßt dich kein Gut <choice>
 							<orig>genießen;</orig>
 							<reg>genieſsen;</reg>
 						</choice>
 					</l>
-					<l>Er quält durch Habſucht deinen Geiſt,</l>
-					<l>Und tödtet dein Gewiſsen,</l>
-					<l>Und reißt durch ſchmeichelnden Gewinn</l>
-					<l>Dich blind zu jedem Frevel hin.</l>
+					<lb/><l>Er quält durch Habſucht deinen Geiſt,</l>
+					<lb/><l>Und tödtet dein Gewiſsen,</l>
+					<lb/><l>Und reißt durch ſchmeichelnden Gewinn</l>
+					<lb/><l>Dich blind zu jedem Frevel hin.</l>
 				</lg>
 				<lg>
-					<l>Um wenig Vortheil wird er ſchon</l>
-					<l> Aus dir mit <choice>
+					<lb/><l>Um wenig Vortheil wird er ſchon</l>
+					<lb/><l> Aus dir mit <choice>
 							<orig>Meyneid</orig>
 							<reg>Meineyd</reg>
 						</choice> ſprechen; </l>
-					<l>Dich zwingen, der Arbeiter Lohn</l>
-					<l>Unmenſchlich abzubrechen;</l>
-					<l>Er wird in dir der Wittwen Flehn,</l>
-					<l>Der Wayſen Thränen widerſtehn.</l>
+					<lb/><l>Dich zwingen, der Arbeiter Lohn</l>
+					<lb/><l>Unmenſchlich abzubrechen;</l>
+					<lb/><l>Er wird in dir der Wittwen Flehn,</l>
+					<lb/><l>Der Wayſen Thränen widerſtehn.</l>
 				</lg>
 				<lg>
-					<l>Wie könnt ein Herz, vom Geize hart,</l>
-					<l>Der Wohlthat Freuden ſchmecken,</l>
-					<l>Und in des Unglücks Gegenwart</l>
-					<l>Den Ruf zur Hülf entdecken?</l>
-					<l>Und wo iſt eines Standes Pflicht,</l>
-					<l>Die nicht der Geiz entehrt und bricht?</l>
+					<lb/><l>Wie könnt ein Herz, vom Geize hart,</l>
+					<lb/><l>Der Wohlthat Freuden ſchmecken,</l>
+					<lb/><l>Und in des Unglücks Gegenwart</l>
+					<lb/><l>Den Ruf zur Hülf entdecken?</l>
+					<lb/><l>Und wo iſt eines Standes Pflicht,</l>
+					<lb/><l>Die nicht der Geiz entehrt und bricht?</l>
 				</lg>
 				<pb n="139"/>
 				<lg>
-					<l>Du biſt ein Vater; und aus Geiz</l>
-					<l>Entziehſt du dich den Kindern,</l>
-					<l>Und läſseſt dich des Goldes Reiz,</l>
-					<l>Ihr Herz zu bilden, hindern;</l>
-					<l>Und glaubſt, du habſt ſie wohl bedacht,</l>
-					<l>Wenn du ſie reich, wie dich, gemacht.</l>
+					<lb/><l>Du biſt ein Vater; und aus Geiz</l>
+					<lb/><l>Entziehſt du dich den Kindern,</l>
+					<lb/><l>Und läſseſt dich des Goldes Reiz,</l>
+					<lb/><l>Ihr Herz zu bilden, hindern;</l>
+					<lb/><l>Und glaubſt, du habſt ſie wohl bedacht,</l>
+					<lb/><l>Wenn du ſie reich, wie dich, gemacht.</l>
 				</lg>
 				<lg>
-					<l>Du haſt ein richterliches Amt;</l>
-					<l>Und du wirſt dich erfrechen,</l>
-					<l>Die Sache, die das Recht verdammt,</l>
-					<l>Aus Habſucht recht zu ſprechen;</l>
-					<l>Und ſelbſt der Tugend größter Feind</l>
-					<l>Erkauft an dir ſich einen Freund.</l>
+					<lb/><l>Du haſt ein richterliches Amt;</l>
+					<lb/><l>Und du wirſt dich erfrechen,</l>
+					<lb/><l>Die Sache, die das Recht verdammt,</l>
+					<lb/><l>Aus Habſucht recht zu ſprechen;</l>
+					<lb/><l>Und ſelbſt der Tugend größter Feind</l>
+					<lb/><l>Erkauft an dir ſich einen Freund.</l>
 				</lg>
 				<lg>
-					<l>Gewinnſucht raubt dir Muth und Geiſt,</l>
-					<l>Die Wahrheit frey zu lehren;</l>
-					<l>Du ſchweigſt, wenn ſie dich reden heißt,</l>
-					<l>Ehrſt, wo du nicht ſollſt ehren,</l>
-					<l>Und wirſt um ein verächtlich Geld</l>
-					<l>Ein Schmeichler, und die Peſt der Welt.</l>
+					<lb/><l>Gewinnſucht raubt dir Muth und Geiſt,</l>
+					<lb/><l>Die Wahrheit frey zu lehren;</l>
+					<lb/><l>Du ſchweigſt, wenn ſie dich reden heißt,</l>
+					<lb/><l>Ehrſt, wo du nicht ſollſt ehren,</l>
+					<lb/><l>Und wirſt um ein verächtlich Geld</l>
+					<lb/><l>Ein Schmeichler, und die Peſt der Welt.</l>
 				</lg>
 				<lg>
-					<l>Erhalte mich, o <rs type="person" key="G0001">Gott</rs>, dabey,</l>
-					<l>Daß ich mir gnügen laſse,</l>
-					<l>Geiz ewig als Abgötterey</l>
-					<l>Von mir entfern, und haſse.</l>
-					<l>Ein weites Herz und guter Muth</l>
-					<l>Sey meines Lebens größtes Gut!</l>
+					<lb/><l>Erhalte mich, o <rs type="person" key="G0001">Gott</rs>, dabey,</l>
+					<lb/><l>Daß ich mir gnügen laſse,</l>
+					<lb/><l>Geiz ewig als Abgötterey</l>
+					<lb/><l>Von mir entfern, und haſse.</l>
+					<lb/><l>Ein weites Herz und guter Muth</l>
+					<lb/><l>Sey meines Lebens größtes Gut!</l>
 				</lg>
 			</div>
 		</body>

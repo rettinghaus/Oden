@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,71 +178,71 @@
 			<pb n="17"/>
 			<pb n="44" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Gelaſsenheit.</head>
+				<head><title>Gelaſsenheit.</title></head>
 				<lg>
-					<l>Was iſts, daß ich mich quäle?</l>
-					<l>Harr <rs type="person" key="G0001">Seiner</rs>, meine Seele,</l>
-					<l>Harr, und ſey unverzagt!</l>
-					<l>Du weißt nicht, was dir nützet;</l>
-					<l><rs type="person" key="G0001">Gott</rs> weis es, und <rs type="person"
+					<lb/><l>Was iſts, daß ich mich quäle?</l>
+					<lb/><l>Harr <rs type="person" key="G0001">Seiner</rs>, meine Seele,</l>
+					<lb/><l>Harr, und ſey unverzagt!</l>
+					<lb/><l>Du weißt nicht, was dir nützet;</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> weis es, und <rs type="person"
 							key="G0001">Gott</rs> ſchützet,</l>
-					<l>Er ſchützet den, der nach ihm fragt.</l>
+					<lb/><l>Er ſchützet den, der nach ihm fragt.</l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Er zählte meine Tage,</l>
-					<l>Mein Glück und meine Plage,</l>
-					<l>Eh ich die Welt noch ſah.<anchor subtype="death_end" type="death"/></l>
-					<l>Eh ich mich ſelbſt noch kannte,</l>
-					<l>Eh ich ihn Vater nannte,</l>
-					<l>War er mir ſchon mit Hülfe nah.</l>
+					<lb/><l><anchor subtype="death_start" type="death"/>Er zählte meine Tage,</l>
+					<lb/><l>Mein Glück und meine Plage,</l>
+					<lb/><l>Eh ich die Welt noch ſah.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Eh ich mich ſelbſt noch kannte,</l>
+					<lb/><l>Eh ich ihn Vater nannte,</l>
+					<lb/><l>War er mir ſchon mit Hülfe nah.</l>
 				</lg>
 				<lg>
-					<l>Die kleinſte meiner Sorgen</l>
-					<l> Iſt <choice>
+					<lb/><l>Die kleinſte meiner Sorgen</l>
+					<lb/><l> Iſt <choice>
 							<sic>dem nicht unverborgen,</sic>
 							<corr>dem <rs type="person" key="G0001">Gott</rs> nicht
 								verborgen,</corr>
 						</choice>
 					</l>
-					<l>Der alles ſieht und hält;</l>
-					<l>Und was er mir beſchieden,</l>
-					<l>Das dient zu meinem Frieden,</l>
-					<l>wärs auch die größte Laſt der Welt.</l>
+					<lb/><l>Der alles ſieht und hält;</l>
+					<lb/><l>Und was er mir beſchieden,</l>
+					<lb/><l>Das dient zu meinem Frieden,</l>
+					<lb/><l>wärs auch die größte Laſt der Welt.</l>
 				</lg>
 				<lg>
-					<l>Ich lebe nicht auf Erden,</l>
-					<l>Um glücklich hier zu werden;</l>
-					<l>Die Luſt der Welt vergeht.</l>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Ich lebe hier, im
+					<lb/><l>Ich lebe nicht auf Erden,</l>
+					<lb/><l>Um glücklich hier zu werden;</l>
+					<lb/><l>Die Luſt der Welt vergeht.</l>
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Ich lebe hier, im
 						Seegen</l>
-					<l>Den Grund zum Glück zu legen,</l>
-					<l>Das ewig, wie mein Geiſt, beſteht<anchor subtype="resurrection_end"
+					<lb/><l>Den Grund zum Glück zu legen,</l>
+					<lb/><l>Das ewig, wie mein Geiſt, beſteht<anchor subtype="resurrection_end"
 							type="resurrection"/>.</l>
 				</lg>
 				<pb n="18"/>
 				<lg>
-					<l>Was dieſes Glück vermehret,</l>
-					<l>Sey mir von dir gewähret!</l>
-					<l><rs type="person" key="G0001">Gott</rs>, du gewährſt es gern.</l>
-					<l>Was dieſes Glück verletzet,</l>
-					<l>Wenns alle Welt auch ſchätzet,</l>
-					<l>Sey, <rs type="person" key="G0001">Herr, mein Gott</rs>, mir ewig fern!</l>
+					<lb/><l>Was dieſes Glück vermehret,</l>
+					<lb/><l>Sey mir von dir gewähret!</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, du gewährſt es gern.</l>
+					<lb/><l>Was dieſes Glück verletzet,</l>
+					<lb/><l>Wenns alle Welt auch ſchätzet,</l>
+					<lb/><l>Sey, <rs type="person" key="G0001">Herr, mein Gott</rs>, mir ewig fern!</l>
 				</lg>
 				<lg>
-					<l>Sind auch der Krankheit Plagen,</l>
-					<l>Der Mangel ſchwer zu tragen,</l>
-					<l>Noch ſchwerer Haß und Spott:</l>
-					<l>So harr ich, und bin ſtille</l>
-					<l>Zu <rs type="person" key="G0001">Gott</rs>; denn nicht mein Wille,</l>
-					<l>Dein Wille nur, geſcheh, o <rs type="person" key="G0001">Gott</rs>!</l>
+					<lb/><l>Sind auch der Krankheit Plagen,</l>
+					<lb/><l>Der Mangel ſchwer zu tragen,</l>
+					<lb/><l>Noch ſchwerer Haß und Spott:</l>
+					<lb/><l>So harr ich, und bin ſtille</l>
+					<lb/><l>Zu <rs type="person" key="G0001">Gott</rs>; denn nicht mein Wille,</l>
+					<lb/><l>Dein Wille nur, geſcheh, o <rs type="person" key="G0001">Gott</rs>!</l>
 				</lg>
 				<lg>
-					<l>Du biſt der Müden Stärke,</l>
-					<l>Und aller deiner Werke</l>
-					<l>Erbarmſt du ewig dich.</l>
-					<l>Was kann mir widerfahren,</l>
-					<l>Wenn <rs type="person" key="G0001">Gott</rs> mich will bewahren?</l>
-					<l>Und er, mein <rs type="person" key="G0001">Gott</rs>, bewahret mich.</l>
+					<lb/><l>Du biſt der Müden Stärke,</l>
+					<lb/><l>Und aller deiner Werke</l>
+					<lb/><l>Erbarmſt du ewig dich.</l>
+					<lb/><l>Was kann mir widerfahren,</l>
+					<lb/><l>Wenn <rs type="person" key="G0001">Gott</rs> mich will bewahren?</l>
+					<lb/><l>Und er, mein <rs type="person" key="G0001">Gott</rs>, bewahret mich.</l>
 				</lg>
 			</div>
 		</body>

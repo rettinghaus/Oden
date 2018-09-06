@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,128 +178,128 @@
 			<pb n="81"/>
 			<pb n="20" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Die Liebe des Nächſten.</head>
+				<head><title>Die Liebe des Nächſten.</title></head>
 				<lg>
-					<l>So jemand ſpricht: Ich liebe <rs type="person" key="G0001">Gott</rs>!</l>
-					<l>Und haßt doch ſeine Brüder,</l>
-					<l>Der treibt mit <rs type="person" key="G0001">Gottes</rs> Wahrheit Spott,</l>
-					<l>Und reißt ſie ganz danieder.</l>
-					<l><rs type="person" key="G0001">Gott</rs> iſt die Lieb und will, daß ich</l>
-					<l>Den Nächſten liebe, gleich als mich.</l>
+					<lb/><l>So jemand ſpricht: Ich liebe <rs type="person" key="G0001">Gott</rs>!</l>
+					<lb/><l>Und haßt doch ſeine Brüder,</l>
+					<lb/><l>Der treibt mit <rs type="person" key="G0001">Gottes</rs> Wahrheit Spott,</l>
+					<lb/><l>Und reißt ſie ganz danieder.</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> iſt die Lieb und will, daß ich</l>
+					<lb/><l>Den Nächſten liebe, gleich als mich.</l>
 				</lg>
 				<lg>
-					<l>Wer dieſer Erden Güter hat,</l>
-					<l>Und ſieht die Brüder leiden,</l>
-					<l>Und macht den Hungrigen nicht ſatt,</l>
-					<l>Läßt Nackende nicht kleiden;</l>
-					<l>Der iſt ein Feind der erſten Pflicht,</l>
-					<l>Und hat die Liebe <rs type="person" key="G0001">Gottes</rs> nicht.</l>
+					<lb/><l>Wer dieſer Erden Güter hat,</l>
+					<lb/><l>Und ſieht die Brüder leiden,</l>
+					<lb/><l>Und macht den Hungrigen nicht ſatt,</l>
+					<lb/><l>Läßt Nackende nicht kleiden;</l>
+					<lb/><l>Der iſt ein Feind der erſten Pflicht,</l>
+					<lb/><l>Und hat die Liebe <rs type="person" key="G0001">Gottes</rs> nicht.</l>
 				</lg>
 				<lg>
-					<l>Wer ſeines Nächſten Ehre ſchmäht,</l>
-					<l>Und gern ſie ſchmähen höret,</l>
-					<l>Sich freut, wenn ſich ſein Feind vergeht,</l>
-					<l>Und nichts zum Beſten kehret;</l>
-					<l>Nicht dem Verläumder widerſpricht,</l>
-					<l>Der liebt auch ſeinen Bruder nicht.</l>
+					<lb/><l>Wer ſeines Nächſten Ehre ſchmäht,</l>
+					<lb/><l>Und gern ſie ſchmähen höret,</l>
+					<lb/><l>Sich freut, wenn ſich ſein Feind vergeht,</l>
+					<lb/><l>Und nichts zum Beſten kehret;</l>
+					<lb/><l>Nicht dem Verläumder widerſpricht,</l>
+					<lb/><l>Der liebt auch ſeinen Bruder nicht.</l>
 				</lg>
 				<lg>
-					<l>Wer zwar mit Rath, mit Troſt und Schutz</l>
-					<l>Den Nächſten unterſtützet,</l>
-					<l>Doch nur aus Stolz, aus Eigennutz,</l>
-					<l>Aus Weichlichkeit ihm nützet;</l>
-					<l>Nicht aus Gehorſam, nicht aus Pflicht;</l>
-					<l>Der liebt auch ſeinen Nächſten nicht.</l>
+					<lb/><l>Wer zwar mit Rath, mit Troſt und Schutz</l>
+					<lb/><l>Den Nächſten unterſtützet,</l>
+					<lb/><l>Doch nur aus Stolz, aus Eigennutz,</l>
+					<lb/><l>Aus Weichlichkeit ihm nützet;</l>
+					<lb/><l>Nicht aus Gehorſam, nicht aus Pflicht;</l>
+					<lb/><l>Der liebt auch ſeinen Nächſten nicht.</l>
 				</lg>
 				<pb n="82"/>
 				<lg>
-					<l>Wer harret, bis ihn anzuflehn,</l>
-					<l>Ein Dürftger erſt erſcheinet,</l>
-					<l>Nicht eilt, dem Frommen beizuſtehn,</l>
-					<l>Der im Verborgnen weinet;</l>
-					<l>Nicht gütig forſcht, obs ihm gebricht;</l>
-					<l>Der liebt auch ſeinen Nächſten nicht.</l>
+					<lb/><l>Wer harret, bis ihn anzuflehn,</l>
+					<lb/><l>Ein Dürftger erſt erſcheinet,</l>
+					<lb/><l>Nicht eilt, dem Frommen beizuſtehn,</l>
+					<lb/><l>Der im Verborgnen weinet;</l>
+					<lb/><l>Nicht gütig forſcht, obs ihm gebricht;</l>
+					<lb/><l>Der liebt auch ſeinen Nächſten nicht.</l>
 				</lg>
 				<lg>
-					<l>Wer andre, wenn er ſie beſchirmt,</l>
-					<l>Mit Härt und Vorwurf quälet,</l>
-					<l>Und ohne Nachſicht ſtraft und ſtürmt,</l>
-					<l>So bald ſein Nächſter fehlet;</l>
-					<l>Wie bleibt bey ſeinem Ungeſtüm</l>
-					<l>Die Liebe <rs type="person" key="G0001">Gottes</rs> wohl in ihm?</l>
+					<lb/><l>Wer andre, wenn er ſie beſchirmt,</l>
+					<lb/><l>Mit Härt und Vorwurf quälet,</l>
+					<lb/><l>Und ohne Nachſicht ſtraft und ſtürmt,</l>
+					<lb/><l>So bald ſein Nächſter fehlet;</l>
+					<lb/><l>Wie bleibt bey ſeinem Ungeſtüm</l>
+					<lb/><l>Die Liebe <rs type="person" key="G0001">Gottes</rs> wohl in ihm?</l>
 				</lg>
 				<lg>
-					<l>Wer für der Armen Heil und Zucht</l>
-					<l>Mit Rath und That nicht wachet,</l>
-					<l>Dem Uebel nicht zu wehren ſucht,</l>
-					<l>Das oft ſie dürftig machet;</l>
-					<l>Nur ſorglos ihnen Gaben giebt,</l>
-					<l>Der hat ſie wenig noch geliebt.</l>
+					<lb/><l>Wer für der Armen Heil und Zucht</l>
+					<lb/><l>Mit Rath und That nicht wachet,</l>
+					<lb/><l>Dem Uebel nicht zu wehren ſucht,</l>
+					<lb/><l>Das oft ſie dürftig machet;</l>
+					<lb/><l>Nur ſorglos ihnen Gaben giebt,</l>
+					<lb/><l>Der hat ſie wenig noch geliebt.</l>
 				</lg>
 				<lg>
-					<l>Wahr iſt es, du vermagſt es nicht,</l>
-					<l>Stets durch die That zu lieben.</l>
-					<l>Doch biſt du nur geneigt, die Pflicht</l>
-					<l>Getreulich auſzuüben,</l>
-					<l>Und wünſcheſt dir die Kraft dazu</l>
-					<l>Und ſorgſt dafür: ſo liebeſt du.</l>
+					<lb/><l>Wahr iſt es, du vermagſt es nicht,</l>
+					<lb/><l>Stets durch die That zu lieben.</l>
+					<lb/><l>Doch biſt du nur geneigt, die Pflicht</l>
+					<lb/><l>Getreulich auſzuüben,</l>
+					<lb/><l>Und wünſcheſt dir die Kraft dazu</l>
+					<lb/><l>Und ſorgſt dafür: ſo liebeſt du.</l>
 				</lg>
 				<pb n="83"/>
 				<lg>
-					<l>Ermattet dieſer Trieb in dir:</l>
-					<l>So ſuch ihn zu beleben.</l>
-					<l>Sprich oft: <rs type="person" key="G0001">Gott</rs> iſt die Lieb, und mir</l>
-					<l>Hat er ſein Bild gegeben.</l>
-					<l>Denk oft: <rs type="person" key="G0001">Gott</rs>, was ich bin, iſt dein;</l>
-					<l>Sollt ich, gleich dir, nicht gütig ſeyn?</l>
+					<lb/><l>Ermattet dieſer Trieb in dir:</l>
+					<lb/><l>So ſuch ihn zu beleben.</l>
+					<lb/><l>Sprich oft: <rs type="person" key="G0001">Gott</rs> iſt die Lieb, und mir</l>
+					<lb/><l>Hat er ſein Bild gegeben.</l>
+					<lb/><l>Denk oft: <rs type="person" key="G0001">Gott</rs>, was ich bin, iſt dein;</l>
+					<lb/><l>Sollt ich, gleich dir, nicht gütig ſeyn?</l>
 				</lg>
 				<lg>
-					<l>Wir haben einen <rs type="person" key="G0001">Gott</rs> und <rs type="person"
+					<lb/><l>Wir haben einen <rs type="person" key="G0001">Gott</rs> und <rs type="person"
 							key="G0001">Herrn</rs>,</l>
-					<l>ſind eines Leibes Glieder;</l>
-					<l>Drum diene deinem Nächſten gern;</l>
-					<l>Denn wir ſind alle Brüder.</l>
-					<l><rs type="person" key="G0001">Gott</rs> ſchuf die Welt nicht bloß für
+					<lb/><l>ſind eines Leibes Glieder;</l>
+					<lb/><l>Drum diene deinem Nächſten gern;</l>
+					<lb/><l>Denn wir ſind alle Brüder.</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> ſchuf die Welt nicht bloß für
 						mich;</l>
-					<l>Mein Nächſter iſt ſein Kind, wie ich.</l>
+					<lb/><l>Mein Nächſter iſt ſein Kind, wie ich.</l>
 				</lg>
 				<lg>
-					<l>Ein Heil iſt unſer aller Gut.</l>
-					<l>Ich ſollte Brüder haſsen,</l>
-					<l>Die Gott durch ſeines Sohnes Blut</l>
-					<l>So hoch erkaufen laſsen?</l>
-					<l>Daß <rs type="person" key="G0001">Gott</rs> mich ſchuf und mich versühnt,</l>
-					<l>Hab ich dieß mehr, als ſie, verdient?</l>
+					<lb/><l>Ein Heil iſt unſer aller Gut.</l>
+					<lb/><l>Ich ſollte Brüder haſsen,</l>
+					<lb/><l>Die Gott durch ſeines Sohnes Blut</l>
+					<lb/><l>So hoch erkaufen laſsen?</l>
+					<lb/><l>Daß <rs type="person" key="G0001">Gott</rs> mich ſchuf und mich versühnt,</l>
+					<lb/><l>Hab ich dieß mehr, als ſie, verdient?</l>
 				</lg>
 				<lg>
-					<l>Du ſchenkſt mir täglich ſo viel Schuld,</l>
-					<l>Du <rs type="person" key="G0001">Herr</rs> von meinen Tagen!</l>
-					<l>Ich aber ſollte nicht Geduld</l>
-					<l>Mit meinen Brüdern tragen?</l>
-					<l>Dem nicht verzeihn, dem du vergibſt,</l>
-					<l>Und den nicht lieben, den du liebſt?</l>
+					<lb/><l>Du ſchenkſt mir täglich ſo viel Schuld,</l>
+					<lb/><l>Du <rs type="person" key="G0001">Herr</rs> von meinen Tagen!</l>
+					<lb/><l>Ich aber ſollte nicht Geduld</l>
+					<lb/><l>Mit meinen Brüdern tragen?</l>
+					<lb/><l>Dem nicht verzeihn, dem du vergibſt,</l>
+					<lb/><l>Und den nicht lieben, den du liebſt?</l>
 				</lg>
 				<pb n="84"/>
 				<lg>
-					<l>Was ich den Frommen hier gethan,</l>
-					<l>Dem Kleinſten auch von dieſen,</l>
-					<l>Das ſieht Er, mein Erlöſer, an,</l>
-					<l>Als hätt ichs ihm erwieſen.</l>
-					<l>Und ich, ich ſollt ein Menſch noch ſeyn,</l>
-					<l>und <rs type="person" key="G0001">Gott</rs> in Brüdern nicht erfreun?</l>
+					<lb/><l>Was ich den Frommen hier gethan,</l>
+					<lb/><l>Dem Kleinſten auch von dieſen,</l>
+					<lb/><l>Das ſieht Er, mein Erlöſer, an,</l>
+					<lb/><l>Als hätt ichs ihm erwieſen.</l>
+					<lb/><l>Und ich, ich ſollt ein Menſch noch ſeyn,</l>
+					<lb/><l>und <rs type="person" key="G0001">Gott</rs> in Brüdern nicht erfreun?</l>
 				</lg>
 				<lg>
-					<l>Ein unbarmherziges Gericht</l>
-					<l>Wird über den ergehen,</l>
-					<l>Der nicht barmherzig iſt, der nicht</l>
-					<l> Die rettet, die ihn <choice>
+					<lb/><l>Ein unbarmherziges Gericht</l>
+					<lb/><l>Wird über den ergehen,</l>
+					<lb/><l>Der nicht barmherzig iſt, der nicht</l>
+					<lb/><l> Die rettet, die ihn <choice>
 							<orig>flehen.</orig>
 							<reg>flehen,</reg>
 						</choice>
 					</l>
-					<l>Drum gieb mir, <rs type="person" key="G0001">Gott</rs>, durch deinen
+					<lb/><l>Drum gieb mir, <rs type="person" key="G0001">Gott</rs>, durch deinen
 						Geiſt</l>
-					<l>Ein Herz, das dich durch Liebe preiſt.</l>
+					<lb/><l>Ein Herz, das dich durch Liebe preiſt.</l>
 				</lg>
 			</div>
 		</body>

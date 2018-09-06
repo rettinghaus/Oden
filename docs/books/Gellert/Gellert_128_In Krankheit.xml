@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,57 +178,57 @@
 			<pb n="128"/>
 			<pb n="40" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">In Krankheit.</head>
+				<head><title>In Krankheit.</title></head>
 				<lg>
-					<l>Ich hab in guten Stunden</l>
-					<l>Des Lebens Glück empfunden,</l>
-					<l>Und Freuden ohne Zahl:</l>
-					<l>So will ich denn gelaſsen</l>
-					<l>Mich auch in Leiden faſsen;</l>
-					<l>Welch Leben hat nicht ſeine Quaal?</l>
+					<lb/><l>Ich hab in guten Stunden</l>
+					<lb/><l>Des Lebens Glück empfunden,</l>
+					<lb/><l>Und Freuden ohne Zahl:</l>
+					<lb/><l>So will ich denn gelaſsen</l>
+					<lb/><l>Mich auch in Leiden faſsen;</l>
+					<lb/><l>Welch Leben hat nicht ſeine Quaal?</l>
 				</lg>
 				<lg>
-					<l>Ja, <rs type="person" key="G0001">Herr</rs>, ich bin ein Sünder,</l>
-					<l>Und ſtets ſtrafſt du gelinder,</l>
-					<l>Als es der Menſch verdient.</l>
-					<l>Will ich, beſchwert mit Schulden,</l>
-					<l>Kein zeitlich Weh erdulden,</l>
-					<l>Was doch zu meinem Beſten dient?</l>
+					<lb/><l>Ja, <rs type="person" key="G0001">Herr</rs>, ich bin ein Sünder,</l>
+					<lb/><l>Und ſtets ſtrafſt du gelinder,</l>
+					<lb/><l>Als es der Menſch verdient.</l>
+					<lb/><l>Will ich, beſchwert mit Schulden,</l>
+					<lb/><l>Kein zeitlich Weh erdulden,</l>
+					<lb/><l>Was doch zu meinem Beſten dient?</l>
 				</lg>
 				<lg>
-					<l>Dir will ich mich ergeben,</l>
-					<l>Nicht meine Ruh, mein Leben,</l>
-					<l>Mehr lieben, als den <rs type="person" key="G0001">Herrn</rs>.</l>
-					<l>Dir, <rs type="person" key="G0001">Gott</rs>, will ich vertrauen,</l>
-					<l>Und nicht auf Menſchen bauen;</l>
-					<l>Du hilfſt und du erretteſt gern.</l>
+					<lb/><l>Dir will ich mich ergeben,</l>
+					<lb/><l>Nicht meine Ruh, mein Leben,</l>
+					<lb/><l>Mehr lieben, als den <rs type="person" key="G0001">Herrn</rs>.</l>
+					<lb/><l>Dir, <rs type="person" key="G0001">Gott</rs>, will ich vertrauen,</l>
+					<lb/><l>Und nicht auf Menſchen bauen;</l>
+					<lb/><l>Du hilfſt und du erretteſt gern.</l>
 				</lg>
 				<pb n="129"/>
 				<lg>
-					<l>Laß du mich Gnade finden,</l>
-					<l>Mich alle meine Sünden</l>
-					<l>Erkennen und bereun.</l>
-					<l>Itzt hat mein Geiſt noch Kräfte;</l>
-					<l>Sein Heil laß mein Geſchäffte,</l>
-					<l>Dein Wort mir Troſt und Leben ſeyn.</l>
+					<lb/><l>Laß du mich Gnade finden,</l>
+					<lb/><l>Mich alle meine Sünden</l>
+					<lb/><l>Erkennen und bereun.</l>
+					<lb/><l>Itzt hat mein Geiſt noch Kräfte;</l>
+					<lb/><l>Sein Heil laß mein Geſchäffte,</l>
+					<lb/><l>Dein Wort mir Troſt und Leben ſeyn.</l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Wenn ich in <rs type="person"
+					<lb/><l><anchor subtype="death_start" type="death"/>Wenn ich in <rs type="person"
 							key="J0001">Chriſto</rs> ſterbe:</l>
-					<l>Bin ich des Himmels Erbe.</l>
-					<l>Was ſchreckt mich Grab und Tod?</l>
-					<l>Auch auf des Todes Pfade</l>
-					<l>Vertrau ich deiner Gnade;</l>
-					<l>Du, <rs type="person" key="G0001">Herr</rs>, biſt bey mir in der Noth.<anchor
+					<lb/><l>Bin ich des Himmels Erbe.</l>
+					<lb/><l>Was ſchreckt mich Grab und Tod?</l>
+					<lb/><l>Auch auf des Todes Pfade</l>
+					<lb/><l>Vertrau ich deiner Gnade;</l>
+					<lb/><l>Du, <rs type="person" key="G0001">Herr</rs>, biſt bey mir in der Noth.<anchor
 							subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Ich will dem Kummer wehren,</l>
-					<l><rs type="person" key="G0001">Gott</rs> durch Geduld verehren,</l>
-					<l>Im Glauben zu ihm flehn.</l>
-					<l>Ich will den Tod bedenken.</l>
-					<l>Der <rs type="person" key="G0001">Herr</rs> wird alles lenken;</l>
-					<l>Und was mir gut iſt, wird geſchehn.<anchor subtype="death_end" type="death"
+					<lb/><l><anchor subtype="death_start" type="death"/>Ich will dem Kummer wehren,</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> durch Geduld verehren,</l>
+					<lb/><l>Im Glauben zu ihm flehn.</l>
+					<lb/><l>Ich will den Tod bedenken.</l>
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> wird alles lenken;</l>
+					<lb/><l>Und was mir gut iſt, wird geſchehn.<anchor subtype="death_end" type="death"
 						/></l>
 				</lg>
 			</div>

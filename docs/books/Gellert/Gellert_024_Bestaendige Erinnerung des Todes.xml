@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,124 +178,124 @@
 			<pb n="24"/>
 			<pb n="57" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Beſtändige Erinnerung des Todes.</head>
+				<head><title>Beſtändige Erinnerung des Todes.</title></head>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Was ſorgſt du ängſtlich für dein
+					<lb/><l><anchor subtype="death_start" type="death"/>Was ſorgſt du ängſtlich für dein
 						Leben?</l>
-					<l>Es <rs type="person" key="G0001">Gott</rs> gelaſsen übergeben, </l>
-					<l>Iſt wahre Ruh und deine Pflicht.</l>
-					<l>Du ſollſt es lieben, weiſlich nützen,</l>
-					<l>Es dankbar, als ein Glück, beſitzen,</l>
-					<l>Verlieren, als verlörſt dus nicht.<anchor subtype="death_end" type="death"
+					<lb/><l>Es <rs type="person" key="G0001">Gott</rs> gelaſsen übergeben, </l>
+					<lb/><l>Iſt wahre Ruh und deine Pflicht.</l>
+					<lb/><l>Du ſollſt es lieben, weiſlich nützen,</l>
+					<lb/><l>Es dankbar, als ein Glück, beſitzen,</l>
+					<lb/><l>Verlieren, als verlörſt dus nicht.<anchor subtype="death_end" type="death"
 						/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Der Tod ſoll dich nicht traurig
+					<lb/><l><anchor subtype="death_start" type="death"/>Der Tod ſoll dich nicht traurig
 						ſchrecken;</l>
-					<l>Doch dich zur Weiſheit zu erwecken,</l>
-					<l>Soll er dir ſtets vor Augen ſeyn.</l>
-					<l>Er ſoll den Wunſch zu leben mindern,</l>
-					<l>Doch dich in deiner Pflicht nicht hindern,</l>
-					<l>Vielmehr dir Kraft dazu verleihn.<anchor subtype="death_end" type="death"
+					<lb/><l>Doch dich zur Weiſheit zu erwecken,</l>
+					<lb/><l>Soll er dir ſtets vor Augen ſeyn.</l>
+					<lb/><l>Er ſoll den Wunſch zu leben mindern,</l>
+					<lb/><l>Doch dich in deiner Pflicht nicht hindern,</l>
+					<lb/><l>Vielmehr dir Kraft dazu verleihn.<anchor subtype="death_end" type="death"
 						/></l>
 				</lg>
 				<lg>
-					<l>Ermatteſt du in deinen Pflichten:</l>
-					<l>So <anchor subtype="death_start" type="death"/>laß den Tod dich
+					<lb/><l>Ermatteſt du in deinen Pflichten:</l>
+					<lb/><l>So <anchor subtype="death_start" type="death"/>laß den Tod dich
 						unterrichten,</l>
-					<l>Wie wenig deiner Tage ſind.<anchor subtype="death_end" type="death"/></l>
-					<l>Sprich: Sollt ich Gutes wohl verſchieben?</l>
-					<l>Nein, meine Zeit, es auſzuüben,</l>
-					<l>Iſt kurz, und ſie verfliegt geſchwind.</l>
+					<lb/><l>Wie wenig deiner Tage ſind.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Sprich: Sollt ich Gutes wohl verſchieben?</l>
+					<lb/><l>Nein, meine Zeit, es auſzuüben,</l>
+					<lb/><l>Iſt kurz, und ſie verfliegt geſchwind.</l>
 				</lg>
 				<pb n="25"/>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Denk an den Tod, wenn böſe
+					<lb/><l><anchor subtype="death_start" type="death"/>Denk an den Tod, wenn böſe
 						Triebe,</l>
-					<l>Wenn Luſt der Welt und ihre Liebe</l>
-					<l>Dich reizen; und erſticke ſie.</l>
-					<l>Sprich: Kann ich nicht noch heute ſterben,</l>
-					<l>Und könnt ich auch die Welt erwerben,</l>
-					<l>Begieng ich doch ſolch Uebel nie.<anchor subtype="death_end" type="death"
+					<lb/><l>Wenn Luſt der Welt und ihre Liebe</l>
+					<lb/><l>Dich reizen; und erſticke ſie.</l>
+					<lb/><l>Sprich: Kann ich nicht noch heute ſterben,</l>
+					<lb/><l>Und könnt ich auch die Welt erwerben,</l>
+					<lb/><l>Begieng ich doch ſolch Uebel nie.<anchor subtype="death_end" type="death"
 						/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Denk an den Tod, wenn Ruhm und
+					<lb/><l><anchor subtype="death_start" type="death"/>Denk an den Tod, wenn Ruhm und
 						Ehren,</l>
-					<l>Wenn deine Schätze ſich vermehren,</l>
-					<l>Daß du ſie nicht zu heftig liebſt.</l>
-					<l>Denk an die Eitelkeit der Erden,</l>
-					<l>Daß, wenn ſie dir entriſsen werden,</l>
-					<l>Du dann dich nicht zu ſehr betrübſt.<anchor subtype="death_end" type="death"
+					<lb/><l>Wenn deine Schätze ſich vermehren,</l>
+					<lb/><l>Daß du ſie nicht zu heftig liebſt.</l>
+					<lb/><l>Denk an die Eitelkeit der Erden,</l>
+					<lb/><l>Daß, wenn ſie dir entriſsen werden,</l>
+					<lb/><l>Du dann dich nicht zu ſehr betrübſt.<anchor subtype="death_end" type="death"
 						/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Denk an den Tod bey frohen
+					<lb/><l><anchor subtype="death_start" type="death"/>Denk an den Tod bey frohen
 						Tagen.</l>
-					<l>Kann deine Luſt ſein Bild vertragen:</l>
-					<l>So iſt ſie gut und unſchuldſvoll<anchor subtype="death_end" type="death"
+					<lb/><l>Kann deine Luſt ſein Bild vertragen:</l>
+					<lb/><l>So iſt ſie gut und unſchuldſvoll<anchor subtype="death_end" type="death"
 						/>.</l>
-					<l><choice>
+					<lb/><l><choice>
 							<orig>Sprich,</orig>
 							<reg>Sprich:</reg>
 						</choice> dein Vergnügen zu versüſsen: </l>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Welch Glück werd
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Welch Glück werd
 						ich erſt dort <choice>
 							<orig>genießen,</orig>
 							<reg>genieſsen,</reg>
 						</choice></l>
-					<l>Wo ich unendlich leben ſoll!<anchor subtype="resurrection_end"
+					<lb/><l>Wo ich unendlich leben ſoll!<anchor subtype="resurrection_end"
 							type="resurrection"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Denk an den Tod, wenn deinem
+					<lb/><l><anchor subtype="death_start" type="death"/>Denk an den Tod, wenn deinem
 						Leben</l>
-					<l>Das fehlt, wonach die Reichen ſtreben;</l>
-					<l>Sprich: Bin ich hier, um reich zu ſeyn?</l>
-					<l>Heil mir! wenn ich in <rs type="person" key="J0001">Chriſto</rs> ſterbe,</l>
-					<l>Dann iſt ein unbeflecktes Erbe,</l>
-					<l>Dann iſt der Himmel Reichthum mein.<anchor subtype="death_end" type="death"
+					<lb/><l>Das fehlt, wonach die Reichen ſtreben;</l>
+					<lb/><l>Sprich: Bin ich hier, um reich zu ſeyn?</l>
+					<lb/><l>Heil mir! wenn ich in <rs type="person" key="J0001">Chriſto</rs> ſterbe,</l>
+					<lb/><l>Dann iſt ein unbeflecktes Erbe,</l>
+					<lb/><l>Dann iſt der Himmel Reichthum mein.<anchor subtype="death_end" type="death"
 						/></l>
 				</lg>
 				<pb n="26"/>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Denk an den Tod, wenn Leiden
+					<lb/><l><anchor subtype="death_start" type="death"/>Denk an den Tod, wenn Leiden
 						kommen;</l>
-					<l>Sprich: Alle Trübſal eines Frommen</l>
-					<l>Iſt zeitlich, und im Glauben leicht.</l>
-					<l>Ich leide; doch von allem Böſen</l>
-					<l>Wird mich der Tod, bald, bald erlöſen.</l>
-					<l>Er iſts, der mir die Krone reicht.<anchor subtype="death_end" type="death"
+					<lb/><l>Sprich: Alle Trübſal eines Frommen</l>
+					<lb/><l>Iſt zeitlich, und im Glauben leicht.</l>
+					<lb/><l>Ich leide; doch von allem Böſen</l>
+					<lb/><l>Wird mich der Tod, bald, bald erlöſen.</l>
+					<lb/><l>Er iſts, der mir die Krone reicht.<anchor subtype="death_end" type="death"
 						/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Denk an den Tod, wenn freche
+					<lb/><l><anchor subtype="death_start" type="death"/>Denk an den Tod, wenn freche
 						Rotten</l>
-					<l>Des Glaubens und der Tugend ſpotten,</l>
-					<l>Und Laſter ſtolz ihr Haupt erhöhn.</l>
-					<l>Sprich bey dir ſelbſt: <rs type="person" key="G0001">Gott</rs> trägt die
+					<lb/><l>Des Glaubens und der Tugend ſpotten,</l>
+					<lb/><l>Und Laſter ſtolz ihr Haupt erhöhn.</l>
+					<lb/><l>Sprich bey dir ſelbſt: <rs type="person" key="G0001">Gott</rs> trägt die
 						Frechen;</l>
-					<l>Doch endlich kömmt er, ſich zu rächen,</l>
-					<l>Und plötzlich werden ſie vergehn.<anchor subtype="death_end" type="death"
+					<lb/><l>Doch endlich kömmt er, ſich zu rächen,</l>
+					<lb/><l>Und plötzlich werden ſie vergehn.<anchor subtype="death_end" type="death"
 						/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Denk an den Tod zur Zeit der
+					<lb/><l><anchor subtype="death_start" type="death"/>Denk an den Tod zur Zeit der
 						Schrecken,</l>
-					<l>Wenn Pfeile <rs type="person" key="G0001">Gottes</rs> in dir ſtecken;</l>
-					<l>Du rufſt, und er antwortet nicht.</l>
-					<l>Sprich: Sollte <rs type="person" key="G0001">Gott</rs> mich ewig haſsen?</l>
-					<l>Er wird mich ſterbend nicht verlaſsen;</l>
-					<l>Dann zeigt er mir ſein Angeſicht.<anchor subtype="death_end" type="death"
+					<lb/><l>Wenn Pfeile <rs type="person" key="G0001">Gottes</rs> in dir ſtecken;</l>
+					<lb/><l>Du rufſt, und er antwortet nicht.</l>
+					<lb/><l>Sprich: Sollte <rs type="person" key="G0001">Gott</rs> mich ewig haſsen?</l>
+					<lb/><l>Er wird mich ſterbend nicht verlaſsen;</l>
+					<lb/><l>Dann zeigt er mir ſein Angeſicht.<anchor subtype="death_end" type="death"
 						/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>So ſuche dir in allen Fällen</l>
-					<l>Den Tod oft, lebhaft, vorzuſtellen;</l>
-					<l>So wirſt du ihn nicht zitternd ſcheun;</l>
-					<l>So wird er dir ein Troſt in Klagen,</l>
-					<l>Ein weiſer Freund in guten Tagen,</l>
-					<l>Ein Schild in der Verſuchung ſeyn.<anchor subtype="death_end" type="death"
+					<lb/><l><anchor subtype="death_start" type="death"/>So ſuche dir in allen Fällen</l>
+					<lb/><l>Den Tod oft, lebhaft, vorzuſtellen;</l>
+					<lb/><l>So wirſt du ihn nicht zitternd ſcheun;</l>
+					<lb/><l>So wird er dir ein Troſt in Klagen,</l>
+					<lb/><l>Ein weiſer Freund in guten Tagen,</l>
+					<lb/><l>Ein Schild in der Verſuchung ſeyn.<anchor subtype="death_end" type="death"
 						/></l>
 				</lg>
 			</div>

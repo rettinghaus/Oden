@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,119 +178,119 @@
 			<pb n="64"/>
 			<pb n="33" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Troſt der Erlöſung.</head>
+				<head><title>Troſt der Erlöſung.</title></head>
 				<lg>
-					<l>Gedanke, der uns Leben giebt,</l>
-					<l>Welch Herz vermag dich auſzudenken!</l>
-					<l>"Alſo hat <rs type="person" key="G0001">Gott</rs> die Welt geliebt,</l>
-					<l>"Uns ſeinen <rs type="person" key="J0001">Sohn</rs> zu ſchenken!</l>
+					<lb/><l>Gedanke, der uns Leben giebt,</l>
+					<lb/><l>Welch Herz vermag dich auſzudenken!</l>
+					<lb/><l>"Alſo hat <rs type="person" key="G0001">Gott</rs> die Welt geliebt,</l>
+					<lb/><l>"Uns ſeinen <rs type="person" key="J0001">Sohn</rs> zu ſchenken!</l>
 				</lg>
 				<lg>
-					<l>Hoch über die Vernunft erhöht,</l>
-					<l>Umringt mit heilgen Finſterniſsen,</l>
-					<l>Füllſt du mein Herz mit Majeſtät</l>
-					<l>Und ſtilleſt mein Gewiſsen.</l>
+					<lb/><l>Hoch über die Vernunft erhöht,</l>
+					<lb/><l>Umringt mit heilgen Finſterniſsen,</l>
+					<lb/><l>Füllſt du mein Herz mit Majeſtät</l>
+					<lb/><l>Und ſtilleſt mein Gewiſsen.</l>
 				</lg>
 				<lg>
-					<l>Ich kann der Sonne Wunder nicht,</l>
-					<l>Noch ihren Lauf und Bau ergründen;</l>
-					<l>Und doch kann ich der Sonne Licht</l>
-					<l>Und ihre Wärm empfinden.</l>
+					<lb/><l>Ich kann der Sonne Wunder nicht,</l>
+					<lb/><l>Noch ihren Lauf und Bau ergründen;</l>
+					<lb/><l>Und doch kann ich der Sonne Licht</l>
+					<lb/><l>Und ihre Wärm empfinden.</l>
 				</lg>
 				<lg>
-					<l>So kann mein Geiſt den hohen Rath</l>
-					<l>Des Opfers <rs type="person" key="J0001">Jeſu</rs> nicht ergründen;</l>
-					<l>Allein das Göttliche der That,</l>
-					<l>Das kann mein Herz empfinden.</l>
+					<lb/><l>So kann mein Geiſt den hohen Rath</l>
+					<lb/><l>Des Opfers <rs type="person" key="J0001">Jeſu</rs> nicht ergründen;</l>
+					<lb/><l>Allein das Göttliche der That,</l>
+					<lb/><l>Das kann mein Herz empfinden.</l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>Nimm mir den Troſt, daß <rs
+					<lb/><l><anchor subtype="death_start" type="death"/>Nimm mir den Troſt, daß <rs
 							type="person" key="J0001">Jeſus Chriſt</rs></l>
-					<l>Am Kreuz nicht meine Schuld getragen<anchor subtype="death_end" type="death"
+					<lb/><l>Am Kreuz nicht meine Schuld getragen<anchor subtype="death_end" type="death"
 						/>,</l>
-					<l>Nicht <rs type="person" key="G0001">Gott</rs> und mein Erlöſer iſt:</l>
-					<l>So werd ich angſtvoll zagen.</l>
+					<lb/><l>Nicht <rs type="person" key="G0001">Gott</rs> und mein Erlöſer iſt:</l>
+					<lb/><l>So werd ich angſtvoll zagen.</l>
 				</lg>
 				<pb n="65"/>
 				<lg>
-					<l>Iſt <rs type="person" key="J0001">Chriſti</rs> Wort nicht <rs type="person"
+					<lb/><l>Iſt <rs type="person" key="J0001">Chriſti</rs> Wort nicht <rs type="person"
 							key="G0001">Gottes</rs> Sinn,</l>
-					<l>So werd ich ewig irren müſsen,</l>
-					<l>und wer <rs type="person" key="G0001">Gott</rs> iſt, und was ich bin,</l>
-					<l>Und werden ſoll, nicht wiſsen.</l>
+					<lb/><l>So werd ich ewig irren müſsen,</l>
+					<lb/><l>und wer <rs type="person" key="G0001">Gott</rs> iſt, und was ich bin,</l>
+					<lb/><l>Und werden ſoll, nicht wiſsen.</l>
 				</lg>
 				<lg>
-					<l>Nein, dieſen Troſt der Chriſtenheit</l>
-					<l>Soll mir kein frecher Spötter rauben;</l>
-					<l>Ich fühle ſeine Göttlichkeit,</l>
-					<l>Und halte feſt am Glauben.</l>
+					<lb/><l>Nein, dieſen Troſt der Chriſtenheit</l>
+					<lb/><l>Soll mir kein frecher Spötter rauben;</l>
+					<lb/><l>Ich fühle ſeine Göttlichkeit,</l>
+					<lb/><l>Und halte feſt am Glauben.</l>
 				</lg>
 				<lg>
-					<l>Des <rs type="person" key="J0001">Sohnes Gottes</rs> Eigenthum,</l>
-					<l>Durch ihn des ewgen Lebens Erbe,</l>
-					<l><anchor subtype="death_start" type="death"/>Dieß bin ich; und das iſt mein
+					<lb/><l>Des <rs type="person" key="J0001">Sohnes Gottes</rs> Eigenthum,</l>
+					<lb/><l>Durch ihn des ewgen Lebens Erbe,</l>
+					<lb/><l><anchor subtype="death_start" type="death"/>Dieß bin ich; und das iſt mein
 						Ruhm,</l>
-					<l>Auf den ich leb und ſterbe.<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Auf den ich leb und ſterbe.<anchor subtype="death_end" type="death"/></l>
 				</lg>
 				<lg>
-					<l>Er gibt mir ſeinen Geiſt, das Pfand,</l>
-					<l>Daran wir ſeine Liebe merken,</l>
-					<l>Und bildet uns durch ſeine Hand</l>
-					<l>Zu allen guten Werken.</l>
+					<lb/><l>Er gibt mir ſeinen Geiſt, das Pfand,</l>
+					<lb/><l>Daran wir ſeine Liebe merken,</l>
+					<lb/><l>Und bildet uns durch ſeine Hand</l>
+					<lb/><l>Zu allen guten Werken.</l>
 				</lg>
 				<lg>
-					<l>So lang ich ſeinen Willen gern</l>
-					<l>Mit einem reinen Herzen thue;</l>
-					<l>So fühl ich eine Kraft des Herrn,</l>
-					<l>Und ſchmecke Fried und Ruhe.</l>
+					<lb/><l>So lang ich ſeinen Willen gern</l>
+					<lb/><l>Mit einem reinen Herzen thue;</l>
+					<lb/><l>So fühl ich eine Kraft des Herrn,</l>
+					<lb/><l>Und ſchmecke Fried und Ruhe.</l>
 				</lg>
 				<pb n="66"/>
 				<lg>
-					<l>Und wenn mich meine Sünde kränkt,</l>
-					<l>Und ich zu ſeinem Kreuze trete:</l>
-					<l>So weiß ich, daß er mein gedenkt,</l>
-					<l>Und thut, warum ich bete.</l>
+					<lb/><l>Und wenn mich meine Sünde kränkt,</l>
+					<lb/><l>Und ich zu ſeinem Kreuze trete:</l>
+					<lb/><l>So weiß ich, daß er mein gedenkt,</l>
+					<lb/><l>Und thut, warum ich bete.</l>
 				</lg>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Ich weis, daß mein
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Ich weis, daß mein
 						Erlöſer lebt,</l>
-					<l>Daß ich, erwecket aus der Erde,</l>
-					<l>Wenn er ſich zum Gericht erhebt,</l>
-					<l>Im Fleiſch ihn ſchauen werde.<anchor subtype="resurrection_start"
+					<lb/><l>Daß ich, erwecket aus der Erde,</l>
+					<lb/><l>Wenn er ſich zum Gericht erhebt,</l>
+					<lb/><l>Im Fleiſch ihn ſchauen werde.<anchor subtype="resurrection_start"
 							type="resurrection"/></l>
 				</lg>
 				<lg>
-					<l>Kann unſre Lieb im Glauben hier</l>
-					<l>Für den, der uns geliebt, erkalten?</l>
-					<l>Dieß iſt die Lieb, o <rs type="person" key="G0001">Gott</rs>, zu dir,</l>
-					<l>Dein Wort von Herzen halten.</l>
+					<lb/><l>Kann unſre Lieb im Glauben hier</l>
+					<lb/><l>Für den, der uns geliebt, erkalten?</l>
+					<lb/><l>Dieß iſt die Lieb, o <rs type="person" key="G0001">Gott</rs>, zu dir,</l>
+					<lb/><l>Dein Wort von Herzen halten.</l>
 				</lg>
 				<lg>
-					<l>Erfüll mein Herz mit Dankbarkeit,</l>
-					<l>So oft ich deinen Namen nenne,</l>
-					<l>Und hilf, daß ich dich allezeit</l>
-					<l>Treu vor der Welt bekenne.</l>
+					<lb/><l>Erfüll mein Herz mit Dankbarkeit,</l>
+					<lb/><l>So oft ich deinen Namen nenne,</l>
+					<lb/><l>Und hilf, daß ich dich allezeit</l>
+					<lb/><l>Treu vor der Welt bekenne.</l>
 				</lg>
 				<lg>
-					<l>Soll ich dereinſt noch würdig ſeyn,</l>
-					<l>Um deinetwillen Schmach zu leiden:</l>
-					<l>So laß mich keine Schmach und Pein</l>
-					<l>Von deiner Liebe ſcheiden.</l>
+					<lb/><l>Soll ich dereinſt noch würdig ſeyn,</l>
+					<lb/><l>Um deinetwillen Schmach zu leiden:</l>
+					<lb/><l>So laß mich keine Schmach und Pein</l>
+					<lb/><l>Von deiner Liebe ſcheiden.</l>
 				</lg>
 				<pb n="67"/>
 				<lg>
-					<l>Und ſoll ich, <rs type="person" key="G0001">Gott</rs>, nicht für und für</l>
-					<l>Des Glaubens Freudigkeit empfinden:</l>
-					<l>So wirk er doch ſein Werk in mir,</l>
-					<l>Und reinge mich von Sünden.</l>
+					<lb/><l>Und ſoll ich, <rs type="person" key="G0001">Gott</rs>, nicht für und für</l>
+					<lb/><l>Des Glaubens Freudigkeit empfinden:</l>
+					<lb/><l>So wirk er doch ſein Werk in mir,</l>
+					<lb/><l>Und reinge mich von Sünden.</l>
 				</lg>
 				<lg>
-					<l>Hat <rs type="person" key="G0001">Gott</rs> uns ſeinen <rs type="person"
+					<lb/><l>Hat <rs type="person" key="G0001">Gott</rs> uns ſeinen <rs type="person"
 							key="J0001">Sohn</rs> geſchenkt:</l>
-					<l>So <anchor subtype="death_start" type="death"/>laß mich noch im Thode
+					<lb/><l>So <anchor subtype="death_start" type="death"/>laß mich noch im Thode
 						denken</l>
-					<l>Wie ſollt uns der, der ihn geſchenkt,</l>
-					<l>Mit ihm nicht alles ſchenken!<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Wie ſollt uns der, der ihn geſchenkt,</l>
+					<lb/><l>Mit ihm nicht alles ſchenken!<anchor subtype="death_end" type="death"/></l>
 				</lg>
 			</div>
 		</body>

@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,106 +178,106 @@
 			<pb n="27"/>
 			<pb n="46" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Oſterlied.</head>
+				<head><title>Oſterlied.</title></head>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Erinnre dich, mein
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Erinnre dich, mein
 						Geiſt, erfreut</l>
-					<l>Des hohen Tags der Herrlichkeit;</l>
-					<l>Halt im Gedächtniß <rs type="person" key="J0001">Jeſum Chriſt</rs>,</l>
-					<l>Der von dem Tod erſtanden iſt!<anchor subtype="resurrection_end"
+					<lb/><l>Des hohen Tags der Herrlichkeit;</l>
+					<lb/><l>Halt im Gedächtniß <rs type="person" key="J0001">Jeſum Chriſt</rs>,</l>
+					<lb/><l>Der von dem Tod erſtanden iſt!<anchor subtype="resurrection_end"
 							type="resurrection"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Fühl alle
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Fühl alle
 						Dankbarkeit für ihn,</l>
-					<l>Als ob er heute dir erſchien,</l>
-					<l>Als ſpräch er: Friede ſey mit dir!</l>
-					<l>So freue dich, mein Geiſt, in mir.<anchor subtype="resurrection_end"
+					<lb/><l>Als ob er heute dir erſchien,</l>
+					<lb/><l>Als ſpräch er: Friede ſey mit dir!</l>
+					<lb/><l>So freue dich, mein Geiſt, in mir.<anchor subtype="resurrection_end"
 							type="resurrection"/></l>
 				</lg>
 				<lg>
-					<l>Schau über dich, und bet ihn an.</l>
-					<l>Er mißt den Sternen ihre Bahn;</l>
-					<l>Er lebt und herrſcht mit <rs type="person" key="G0001">Gott</rs> vereint,</l>
-					<l>Und iſt dein <rs type="person" key="J0001">König</rs> und dein <rs
+					<lb/><l>Schau über dich, und bet ihn an.</l>
+					<lb/><l>Er mißt den Sternen ihre Bahn;</l>
+					<lb/><l>Er lebt und herrſcht mit <rs type="person" key="G0001">Gott</rs> vereint,</l>
+					<lb/><l>Und iſt dein <rs type="person" key="J0001">König</rs> und dein <rs
 							type="person" key="J0001">Freund</rs>.</l>
 				</lg>
 				<lg>
-					<l>Macht, Ruhm und Hoheit immerdar</l>
-					<l>Dem, der da iſt, und der da war!</l>
-					<l>Sein Name ſey gebenedeyt,</l>
-					<l>Von nun an bis in Ewigkeit!</l>
+					<lb/><l>Macht, Ruhm und Hoheit immerdar</l>
+					<lb/><l>Dem, der da iſt, und der da war!</l>
+					<lb/><l>Sein Name ſey gebenedeyt,</l>
+					<lb/><l>Von nun an bis in Ewigkeit!</l>
 				</lg>
 				<lg>
-					<l>O Glaube, der das Herz erhöht!</l>
-					<l>Was iſt der Erde Majeſtät,</l>
-					<l>Wenn ſie mein Geiſt mit der vergleicht,</l>
-					<l>Die ich durch <rs type="person" key="J0001">Gottes Sohn</rs> erreicht?</l>
+					<lb/><l>O Glaube, der das Herz erhöht!</l>
+					<lb/><l>Was iſt der Erde Majeſtät,</l>
+					<lb/><l>Wenn ſie mein Geiſt mit der vergleicht,</l>
+					<lb/><l>Die ich durch <rs type="person" key="J0001">Gottes Sohn</rs> erreicht?</l>
 				</lg>
 				<pb n="28"/>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Vor ſeinem Thron,
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Vor ſeinem Thron,
 						in ſeinem Reich,</l>
-					<l>Unſterblich, heilig, Engeln gleich,</l>
-					<l>Und ewig ewig ſelig ſeyn;</l>
-					<l><rs type="person" key="J0001">Herr</rs>, welche Herrlichkeit iſt mein!<anchor
+					<lb/><l>Unſterblich, heilig, Engeln gleich,</l>
+					<lb/><l>Und ewig ewig ſelig ſeyn;</l>
+					<lb/><l><rs type="person" key="J0001">Herr</rs>, welche Herrlichkeit iſt mein!<anchor
 							subtype="resurrection_end" type="resurrection"/></l>
 				</lg>
 				<lg>
-					<l>Mein Herz erliegt froh unter ihr;</l>
-					<l>Lieb und Verwundrung kämpft in mir,</l>
-					<l>Und voll von Ehrfurcht, Dank und Pflicht,</l>
-					<l>Fall ich, <rs type="person" key="G0001">Gott</rs>, auf mein Angeſicht.</l>
+					<lb/><l>Mein Herz erliegt froh unter ihr;</l>
+					<lb/><l>Lieb und Verwundrung kämpft in mir,</l>
+					<lb/><l>Und voll von Ehrfurcht, Dank und Pflicht,</l>
+					<lb/><l>Fall ich, <rs type="person" key="G0001">Gott</rs>, auf mein Angeſicht.</l>
 				</lg>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Du, der du in den
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Du, der du in den
 						Himmeln thronſt,</l>
-					<l>Ich ſoll da wohnen, wo du wohnſt?</l>
-					<l>Und du erfüllſt einſt mein Vertraun,</l>
-					<l>In meinem Fleiſche dich zu ſchaun?<anchor subtype="resurrection_end"
+					<lb/><l>Ich ſoll da wohnen, wo du wohnſt?</l>
+					<lb/><l>Und du erfüllſt einſt mein Vertraun,</l>
+					<lb/><l>In meinem Fleiſche dich zu ſchaun?<anchor subtype="resurrection_end"
 							type="resurrection"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Ich ſoll, wenn du,
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Ich ſoll, wenn du,
 						des Lebens Fürſt,</l>
-					<l>In Wolken göttlich kommen wirſt,</l>
-					<l>Erweckt aus meinem Grabe gehn,</l>
-					<l>Und rein zu deiner Rechten ſtehn?<anchor subtype="resurrection_end"
+					<lb/><l>In Wolken göttlich kommen wirſt,</l>
+					<lb/><l>Erweckt aus meinem Grabe gehn,</l>
+					<lb/><l>Und rein zu deiner Rechten ſtehn?<anchor subtype="resurrection_end"
 							type="resurrection"/></l>
 				</lg>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Mit Engeln und mit
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Mit Engeln und mit
 						Seraphim,</l>
-					<l>Mit Thronen und mit Cherubim,</l>
-					<l>Mit allen Frommen aller Zeit</l>
-					<l>Soll ich mich freun in Ewigkeit?<anchor subtype="resurrection_end"
+					<lb/><l>Mit Thronen und mit Cherubim,</l>
+					<lb/><l>Mit allen Frommen aller Zeit</l>
+					<lb/><l>Soll ich mich freun in Ewigkeit?<anchor subtype="resurrection_end"
 							type="resurrection"/></l>
 				</lg>
 				<pb n="29"/>
 				<lg>
-					<l>Zu welchem Glück, zu welchem Ruhm</l>
-					<l>Erhebt uns nicht das Chriſtenthum!</l>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Mit dir gekreuzigt,
+					<lb/><l>Zu welchem Glück, zu welchem Ruhm</l>
+					<lb/><l>Erhebt uns nicht das Chriſtenthum!</l>
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Mit dir gekreuzigt,
 							<rs type="person" key="J0001">Gottes Sohn</rs>,</l>
-					<l>Sind wir auch auferſtanden ſchon<anchor subtype="resurrection_end"
+					<lb/><l>Sind wir auch auferſtanden ſchon<anchor subtype="resurrection_end"
 							type="resurrection"/>.</l>
 				</lg>
 				<lg>
-					<l>Nie komm es mir aus meinem Sinn,</l>
-					<l>Was ich, mein Heil, dir ſchuldig bin;</l>
-					<l>Damit ich mich, in Liebe treu,</l>
-					<l>Zu deinem Bilde ſtets erneu.</l>
+					<lb/><l>Nie komm es mir aus meinem Sinn,</l>
+					<lb/><l>Was ich, mein Heil, dir ſchuldig bin;</l>
+					<lb/><l>Damit ich mich, in Liebe treu,</l>
+					<lb/><l>Zu deinem Bilde ſtets erneu.</l>
 				</lg>
 				<lg>
-					<l> Er iſts, der alles in uns <choice>
+					<lb/><l> Er iſts, der alles in uns <choice>
 							<orig>ſchafft;</orig>
 							<reg>ſchaft;</reg>
 						</choice>
 					</l>
-					<l>Sein iſt das Reich, ſein iſt die Kraft.</l>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Halt im Gedächtniß
+					<lb/><l>Sein iſt das Reich, ſein iſt die Kraft.</l>
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Halt im Gedächtniß
 							<rs type="person" key="J0001">Jeſum Chriſt</rs>,</l>
-					<l>Der von dem Tod erſtanden iſt!<anchor subtype="resurrection_end"
+					<lb/><l>Der von dem Tod erſtanden iſt!<anchor subtype="resurrection_end"
 							type="resurrection"/></l>
 				</lg>
 			</div>

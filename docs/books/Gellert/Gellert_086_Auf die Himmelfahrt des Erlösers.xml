@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,44 +178,44 @@
 			<pb n="86"/>
 			<pb n="21" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Auf die Himmelfahrt des Erlöſers.</head>
+				<head><title>Auf die Himmelfahrt des Erlöſers.</title></head>
 				<lg>
-					<l>Jauchzt, ihr Erlöſten, dem <rs type="person" key="J0001">Herrn</rs>! Er hat
+					<lb/><l>Jauchzt, ihr Erlöſten, dem <rs type="person" key="J0001">Herrn</rs>! Er hat
 						ſein Werk vollendet;</l>
-					<l>Deß müſse ſich der Erdkreis freun!</l>
-					<l>Er fährt verkläret hinauf zu dem, der ihn geſendet,</l>
-					<l>Und nimmt die Himmel wieder ein.</l>
+					<lb/><l>Deß müſse ſich der Erdkreis freun!</l>
+					<lb/><l>Er fährt verkläret hinauf zu dem, der ihn geſendet,</l>
+					<lb/><l>Und nimmt die Himmel wieder ein.</l>
 				</lg>
 				<lg>
-					<l>Der <rs type="person" key="J0001">Herr</rs>, nachdem er das Heil und
+					<lb/><l>Der <rs type="person" key="J0001">Herr</rs>, nachdem er das Heil und
 						unvergänglich Leben</l>
-					<l>Auf Erden an das Licht gebracht,</l>
-					<l>Den Weg zu <rs type="person" key="G0001">Gott</rs> uns gelehrt, ſich ſelbſt
+					<lb/><l>Auf Erden an das Licht gebracht,</l>
+					<lb/><l>Den Weg zu <rs type="person" key="G0001">Gott</rs> uns gelehrt, ſich ſelbſt
 						für uns gegeben,</l>
-					<l>Fährt auf zur Rechten ſeiner Macht.</l>
+					<lb/><l>Fährt auf zur Rechten ſeiner Macht.</l>
 				</lg>
 				<lg>
-					<l>Sein, ſein iſt alle Gewalt im Himmel und auf Erden,</l>
-					<l>Und uns hat er das Heil verdient.</l>
-					<l>Wer ſein Wort gläubet und hält, ſoll nicht verloren werden;</l>
-					<l>Er hat die Welt mit <rs type="person" key="G0001">Gott</rs> versühnt.</l>
+					<lb/><l>Sein, ſein iſt alle Gewalt im Himmel und auf Erden,</l>
+					<lb/><l>Und uns hat er das Heil verdient.</l>
+					<lb/><l>Wer ſein Wort gläubet und hält, ſoll nicht verloren werden;</l>
+					<lb/><l>Er hat die Welt mit <rs type="person" key="G0001">Gott</rs> versühnt.</l>
 				</lg>
 				<pb n="87"/>
 				<lg>
-					<l>Hoch über alle Vernunft beſiegt er ihr Verderben,</l>
-					<l>Und ſeine Lieb ermüdet nie.</l>
-					<l>Ein unvergängliches Glück den Menſchen zu erwerben,</l>
-					<l>So heiligt er ſich ſelbſt für ſie.</l>
+					<lb/><l>Hoch über alle Vernunft beſiegt er ihr Verderben,</l>
+					<lb/><l>Und ſeine Lieb ermüdet nie.</l>
+					<lb/><l>Ein unvergängliches Glück den Menſchen zu erwerben,</l>
+					<lb/><l>So heiligt er ſich ſelbſt für ſie.</l>
 				</lg>
 				<lg>
-					<l>Jauchzt, ihr Gerechten, dem <rs type="person" key="J0001">Herrn</rs> und
+					<lb/><l>Jauchzt, ihr Gerechten, dem <rs type="person" key="J0001">Herrn</rs> und
 						preiſet ſeinen Namen!</l>
-					<l>Ihm danken, das iſt unſre Pflicht.</l>
-					<l>Wir ſind glückſelig in ihm. Sein Wort iſt Ja und Amen;</l>
-					<l>Und <rs type="person" key="G0001">Gott</rs> iſt unſre Zuverſicht.</l>
+					<lb/><l>Ihm danken, das iſt unſre Pflicht.</l>
+					<lb/><l>Wir ſind glückſelig in ihm. Sein Wort iſt Ja und Amen;</l>
+					<lb/><l>Und <rs type="person" key="G0001">Gott</rs> iſt unſre Zuverſicht.</l>
 				</lg>
 				<lg>
-					<l>
+					<lb/><l>
 						<choice>
 							<orig>Preiſt,</orig>
 							<reg>Preiſt</reg>
@@ -226,43 +225,43 @@
 							<reg>Frommen.</reg>
 						</choice>
 					</l>
-					<l>Er fährt gen Himmel; als ein Held,</l>
-					<l>in Wolken fährt er hinauf; ſo wird er wiederkommen,</l>
-					<l>ein <rs type="person" key="J0001">Herr</rs> und Richter aller Welt.</l>
+					<lb/><l>Er fährt gen Himmel; als ein Held,</l>
+					<lb/><l>in Wolken fährt er hinauf; ſo wird er wiederkommen,</l>
+					<lb/><l>ein <rs type="person" key="J0001">Herr</rs> und Richter aller Welt.</l>
 				</lg>
 				<lg>
-					<l>Dieß iſt des Gläubigen Troſt, verklärt ihn einſt zu ſchauen,</l>
-					<l>Und ſeiner Liebe ſich zu freun.</l>
-					<l>Dies iſt des Gläubigen Pflicht, ihm ewig zu vertrauen,</l>
-					<l>Und ſich durch Tugend ihm zu weihn.</l>
+					<lb/><l>Dieß iſt des Gläubigen Troſt, verklärt ihn einſt zu ſchauen,</l>
+					<lb/><l>Und ſeiner Liebe ſich zu freun.</l>
+					<lb/><l>Dies iſt des Gläubigen Pflicht, ihm ewig zu vertrauen,</l>
+					<lb/><l>Und ſich durch Tugend ihm zu weihn.</l>
 				</lg>
 				<pb n="88"/>
 				<lg>
-					<l>Wer des <rs type="person" key="J0001">Erlöſers</rs> ſich ſchämt, deß wird
+					<lb/><l>Wer des <rs type="person" key="J0001">Erlöſers</rs> ſich ſchämt, deß wird
 						auch er ſich ſchämen.</l>
-					<l>Den wieder ehren, der ihn ehrt.</l>
-					<l>Laß uns das Leben von dir und Gnad um Gnade nehmen,</l>
-					<l><rs type="person" key="J0001">Herr</rs>, deſsen Herrſchaft ewig währt!</l>
+					<lb/><l>Den wieder ehren, der ihn ehrt.</l>
+					<lb/><l>Laß uns das Leben von dir und Gnad um Gnade nehmen,</l>
+					<lb/><l><rs type="person" key="J0001">Herr</rs>, deſsen Herrſchaft ewig währt!</l>
 				</lg>
 				<lg>
-					<l>Ich bin ein irrendes Schaaf, du weiſeſt mich zu Rechte</l>
-					<l>Und leiteſt mich nach deinem Rath;</l>
-					<l>Machſt mich vom Knechte der Welt zu einem deiner Knechte,</l>
-					<l>Und tilgeſt meine Miſsethat.</l>
+					<lb/><l>Ich bin ein irrendes Schaaf, du weiſeſt mich zu Rechte</l>
+					<lb/><l>Und leiteſt mich nach deinem Rath;</l>
+					<lb/><l>Machſt mich vom Knechte der Welt zu einem deiner Knechte,</l>
+					<lb/><l>Und tilgeſt meine Miſsethat.</l>
 				</lg>
 				<lg>
-					<l>Was iſt die Hoheit der Welt? Sie rührt den Chriſten wenig.</l>
-					<l>Du kleideſt ihn mit Ruhm und Pracht.</l>
-					<l>Was iſt die Hoheit der Welt? Zum Prieſter und zum König,</l>
-					<l>Bin ich durch dich vor <rs type="person" key="G0001">Gott</rs> gemacht.</l>
+					<lb/><l>Was iſt die Hoheit der Welt? Sie rührt den Chriſten wenig.</l>
+					<lb/><l>Du kleideſt ihn mit Ruhm und Pracht.</l>
+					<lb/><l>Was iſt die Hoheit der Welt? Zum Prieſter und zum König,</l>
+					<lb/><l>Bin ich durch dich vor <rs type="person" key="G0001">Gott</rs> gemacht.</l>
 				</lg>
 				<lg>
-					<l>Dank ſey dem <rs type="person" key="J0001">Heiland</rs> der Welt! Er hat ſein
+					<lb/><l>Dank ſey dem <rs type="person" key="J0001">Heiland</rs> der Welt! Er hat ſein
 						Werk vollführet.</l>
-					<l>Frohlock ihm, Volk der Chriſtenheit!</l>
-					<l>Er ſitzt zur Rechten des <rs type="person" key="G0001">Herrn</rs>. Er lebet
+					<lb/><l>Frohlock ihm, Volk der Chriſtenheit!</l>
+					<lb/><l>Er ſitzt zur Rechten des <rs type="person" key="G0001">Herrn</rs>. Er lebet
 						und regieret</l>
-					<l>von Ewigkeit zu Ewigkeit.</l>
+					<lb/><l>von Ewigkeit zu Ewigkeit.</l>
 				</lg>
 			</div>
 		</body>

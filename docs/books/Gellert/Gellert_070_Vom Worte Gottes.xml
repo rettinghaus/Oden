@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,85 +178,85 @@
 			<pb n="70"/>
 			<pb n="4" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Vom Worte Gottes.</head>
+				<head><title>Vom Worte Gottes.</title></head>
 				<lg>
-					<l><rs type="person" key="G0001">Gott</rs> iſt mein Hort!</l>
-					<l>Und auf ſein Wort</l>
-					<l>Soll meine Seele trauen.</l>
-					<l>Ich wandle hier,</l>
-					<l> Mein <rs type="person" key="G0001">Gott</rs>, vor <choice>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> iſt mein Hort!</l>
+					<lb/><l>Und auf ſein Wort</l>
+					<lb/><l>Soll meine Seele trauen.</l>
+					<lb/><l>Ich wandle hier,</l>
+					<lb/><l> Mein <rs type="person" key="G0001">Gott</rs>, vor <choice>
 							<orig>dir</orig>
 							<reg>dir,</reg>
 						</choice>
 					</l>
-					<l>Im Glauben, nicht im Schauen.</l>
+					<lb/><l>Im Glauben, nicht im Schauen.</l>
 				</lg>
 				<lg>
-					<l>Dein Wort iſt wahr;</l>
-					<l>Laß immerdar</l>
-					<l>Mich ſeine Kräfte ſchmecken.</l>
-					<l>Laß keinen Spott,</l>
-					<l>O Herr mein <rs type="person" key="G0001">Gott</rs>,</l>
-					<l>Mich von dem Glauben ſchrecken.</l>
+					<lb/><l>Dein Wort iſt wahr;</l>
+					<lb/><l>Laß immerdar</l>
+					<lb/><l>Mich ſeine Kräfte ſchmecken.</l>
+					<lb/><l>Laß keinen Spott,</l>
+					<lb/><l>O Herr mein <rs type="person" key="G0001">Gott</rs>,</l>
+					<lb/><l>Mich von dem Glauben ſchrecken.</l>
 				</lg>
 				<lg>
-					<l>Wo hätt ich Licht,</l>
-					<l>Wofern mich nicht</l>
-					<l>Dein Wort die Wahrheit lehrte?</l>
-					<l><rs type="person" key="G0001">Gott</rs>, ohne ſie</l>
-					<l>Verſtünd ich nie,</l>
-					<l>Wie ich dich würdig ehrte.</l>
+					<lb/><l>Wo hätt ich Licht,</l>
+					<lb/><l>Wofern mich nicht</l>
+					<lb/><l>Dein Wort die Wahrheit lehrte?</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, ohne ſie</l>
+					<lb/><l>Verſtünd ich nie,</l>
+					<lb/><l>Wie ich dich würdig ehrte.</l>
 				</lg>
 				<lg>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Dein Wort
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Dein Wort
 						erklärt</l>
-					<l>Der Seele Werth,</l>
-					<l>Unſterblichkeit und Leben.</l>
-					<l>Zur Ewigkeit</l>
-					<l>Iſt dieſe Zeit</l>
-					<l>Von dir mir übergeben.<anchor subtype="resurrection_end" type="resurrection"
+					<lb/><l>Der Seele Werth,</l>
+					<lb/><l>Unſterblichkeit und Leben.</l>
+					<lb/><l>Zur Ewigkeit</l>
+					<lb/><l>Iſt dieſe Zeit</l>
+					<lb/><l>Von dir mir übergeben.<anchor subtype="resurrection_end" type="resurrection"
 						/></l>
 				</lg>
 				<pb n="71"/>
 				<lg>
-					<l>Dein ewger Rath,</l>
-					<l>Die Miſsethat</l>
-					<l>Der Sünder zu versühnen;</l>
-					<l>Den kennt ich nicht,</l>
-					<l>Wär mir dieß Licht</l>
-					<l>Nicht durch dein Wort erſchienen.</l>
+					<lb/><l>Dein ewger Rath,</l>
+					<lb/><l>Die Miſsethat</l>
+					<lb/><l>Der Sünder zu versühnen;</l>
+					<lb/><l>Den kennt ich nicht,</l>
+					<lb/><l>Wär mir dieß Licht</l>
+					<lb/><l>Nicht durch dein Wort erſchienen.</l>
 				</lg>
 				<lg>
-					<l>Nun darf mein Herz</l>
-					<l>In Reu und Schmerz</l>
-					<l>Der Sünden nicht verzagen;</l>
-					<l>Nein du verzeihſt,</l>
-					<l>Lehrſt meinen Geiſt</l>
-					<l> Ein <choice>
+					<lb/><l>Nun darf mein Herz</l>
+					<lb/><l>In Reu und Schmerz</l>
+					<lb/><l>Der Sünden nicht verzagen;</l>
+					<lb/><l>Nein du verzeihſt,</l>
+					<lb/><l>Lehrſt meinen Geiſt</l>
+					<lb/><l> Ein <choice>
 							<orig>gläubig</orig>
 							<reg>freudig</reg>
 						</choice>
 						<rs type="person" key="G0001">Abba</rs> ſagen. </l>
 				</lg>
 				<lg>
-					<l>Mich zu erneun,</l>
-					<l>Mich dir zu weihn,</l>
-					<l> Iſt meines Heils <choice>
+					<lb/><l>Mich zu erneun,</l>
+					<lb/><l>Mich dir zu weihn,</l>
+					<lb/><l> Iſt meines Heils <choice>
 							<orig>Geſchäffte.</orig>
 							<reg>Geſchäfte.</reg>
 						</choice>
 					</l>
-					<l>Durch meine Müh</l>
-					<l>Vermag ichs nie;</l>
-					<l>Dein Wort giebt mir die Kräfte.</l>
+					<lb/><l>Durch meine Müh</l>
+					<lb/><l>Vermag ichs nie;</l>
+					<lb/><l>Dein Wort giebt mir die Kräfte.</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Herr</rs>, unſer Hort,</l>
-					<l>Laß uns dieß Wort;</l>
-					<l>Denn du haſts uns gegeben.</l>
-					<l>Es ſei mein Theil,</l>
-					<l>Es ſei mir Heil,</l>
-					<l>Und Kraft zum ewgen Leben!</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, unſer Hort,</l>
+					<lb/><l>Laß uns dieß Wort;</l>
+					<lb/><l>Denn du haſts uns gegeben.</l>
+					<lb/><l>Es ſei mein Theil,</l>
+					<lb/><l>Es ſei mir Heil,</l>
+					<lb/><l>Und Kraft zum ewgen Leben!</l>
 				</lg>
 			</div>
 		</body>

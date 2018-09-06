@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,76 +178,76 @@
 			<pb n="34"/>
 			<pb n="38" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Die Güte Gottes.</head>
+				<head><title>Die Güte Gottes.</title></head>
 				<lg>
-					<l>Wie groß iſt des <rs type="person" key="G0001">Allmächtgen</rs> Güte!</l>
-					<l>Iſt der ein Menſch, den ſie nicht rührt;</l>
-					<l>Der mit verhärtetem Gemüthe</l>
-					<l>Den Dank erſtickt, der ihr gebührt?</l>
-					<l>Nein, ſeine Liebe zu ermeſsen,</l>
-					<l>Sey ewig meine größte Pflicht.</l>
-					<l>Der <rs type="person" key="G0001">Herr</rs> hat mein noch nie vergeſsen;</l>
-					<l>Vergiß mein Herz auch ſeiner nicht.</l>
+					<lb/><l>Wie groß iſt des <rs type="person" key="G0001">Allmächtgen</rs> Güte!</l>
+					<lb/><l>Iſt der ein Menſch, den ſie nicht rührt;</l>
+					<lb/><l>Der mit verhärtetem Gemüthe</l>
+					<lb/><l>Den Dank erſtickt, der ihr gebührt?</l>
+					<lb/><l>Nein, ſeine Liebe zu ermeſsen,</l>
+					<lb/><l>Sey ewig meine größte Pflicht.</l>
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> hat mein noch nie vergeſsen;</l>
+					<lb/><l>Vergiß mein Herz auch ſeiner nicht.</l>
 				</lg>
 				<lg>
-					<l>Wer hat mich wunderbar bereitet?</l>
-					<l>Der <rs type="person" key="G0001">Gott</rs>, der meiner nicht bedarf.</l>
-					<l>Wer hat mit Langmuth mich geleitet?</l>
-					<l>Er, deſsen Rath ich oft verwarf.</l>
-					<l>Wer ſtärkt den Frieden im Gewiſsen?</l>
-					<l>Wer giebt dem Geiſte neue Kraft?</l>
-					<l> Wer läßt mich ſoviel Glück <choice>
+					<lb/><l>Wer hat mich wunderbar bereitet?</l>
+					<lb/><l>Der <rs type="person" key="G0001">Gott</rs>, der meiner nicht bedarf.</l>
+					<lb/><l>Wer hat mit Langmuth mich geleitet?</l>
+					<lb/><l>Er, deſsen Rath ich oft verwarf.</l>
+					<lb/><l>Wer ſtärkt den Frieden im Gewiſsen?</l>
+					<lb/><l>Wer giebt dem Geiſte neue Kraft?</l>
+					<lb/><l> Wer läßt mich ſoviel Glück <choice>
 							<orig>genießen?</orig>
 							<reg>genieſsen?</reg>
 						</choice>
 					</l>
-					<l> Iſts nicht ſein Arm, der alles <choice>
+					<lb/><l> Iſts nicht ſein Arm, der alles <choice>
 							<orig>ſchafft?</orig>
 							<reg>ſchaft?</reg>
 						</choice>
 					</l>
 				</lg>
 				<lg>
-					<l>Schau, o mein Geiſt, in jenes Leben,</l>
-					<l>Zu welchem du erſchaffen biſt;</l>
-					<l>Wo du, mit Herrlichkeit umgeben,</l>
-					<l><rs type="person" key="G0001">Gott</rs> ewig ſehn wirſt, wie er iſt.</l>
-					<l>Du haſt ein Recht zu dieſen Freuden;</l>
-					<l>Durch <rs type="person" key="G0001">Gottes</rs> Güte ſind ſie dein.</l>
-					<l>Sieh, darum mußte <rs type="person" key="J0001">Chriſtus</rs> leiden,</l>
-					<l>Damit du könnteſt ſelig ſeyn.</l>
+					<lb/><l>Schau, o mein Geiſt, in jenes Leben,</l>
+					<lb/><l>Zu welchem du erſchaffen biſt;</l>
+					<lb/><l>Wo du, mit Herrlichkeit umgeben,</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> ewig ſehn wirſt, wie er iſt.</l>
+					<lb/><l>Du haſt ein Recht zu dieſen Freuden;</l>
+					<lb/><l>Durch <rs type="person" key="G0001">Gottes</rs> Güte ſind ſie dein.</l>
+					<lb/><l>Sieh, darum mußte <rs type="person" key="J0001">Chriſtus</rs> leiden,</l>
+					<lb/><l>Damit du könnteſt ſelig ſeyn.</l>
 				</lg>
 				<pb n="35"/>
 				<lg>
-					<l>Und dieſen <rs type="person" key="G0001">Gott</rs> ſollt ich nicht ehren?</l>
-					<l>Und ſeine Güte nicht verſtehn?</l>
-					<l>Er ſollte rufen; ich nicht hören?</l>
-					<l>Den Weg, den er mir zeigt, nicht gehn?</l>
-					<l>Sein Will iſt mir ins Herz geſchrieben;</l>
-					<l>Sein Wort beſtärkt ihn ewiglich.</l>
-					<l><rs type="person" key="G0001">Gott</rs> ſoll ich über alles lieben,</l>
-					<l>Und meinen Nächſten gleich als mich.</l>
+					<lb/><l>Und dieſen <rs type="person" key="G0001">Gott</rs> ſollt ich nicht ehren?</l>
+					<lb/><l>Und ſeine Güte nicht verſtehn?</l>
+					<lb/><l>Er ſollte rufen; ich nicht hören?</l>
+					<lb/><l>Den Weg, den er mir zeigt, nicht gehn?</l>
+					<lb/><l>Sein Will iſt mir ins Herz geſchrieben;</l>
+					<lb/><l>Sein Wort beſtärkt ihn ewiglich.</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> ſoll ich über alles lieben,</l>
+					<lb/><l>Und meinen Nächſten gleich als mich.</l>
 				</lg>
 				<lg>
-					<l>Dieß iſt mein Dank, dieß iſt ſein Wille.</l>
-					<l>Ich ſoll vollkommen ſeyn, wie er.</l>
-					<l>So lang ich dieß Gebot erfülle,</l>
-					<l>Stell ich ſein Bildniß in mir her.</l>
-					<l>Lebt ſeine Lieb in meiner Seele:</l>
-					<l>So treibt ſie mich zu jeder Pflicht.</l>
-					<l>Und ob ich ſchon aus Schwachheit fehle,</l>
-					<l>Herrſcht doch in mir die Sünde nicht.</l>
+					<lb/><l>Dieß iſt mein Dank, dieß iſt ſein Wille.</l>
+					<lb/><l>Ich ſoll vollkommen ſeyn, wie er.</l>
+					<lb/><l>So lang ich dieß Gebot erfülle,</l>
+					<lb/><l>Stell ich ſein Bildniß in mir her.</l>
+					<lb/><l>Lebt ſeine Lieb in meiner Seele:</l>
+					<lb/><l>So treibt ſie mich zu jeder Pflicht.</l>
+					<lb/><l>Und ob ich ſchon aus Schwachheit fehle,</l>
+					<lb/><l>Herrſcht doch in mir die Sünde nicht.</l>
 				</lg>
 				<lg>
-					<l><anchor subtype="death_start" type="death"/>O <rs type="person" key="G0001"
+					<lb/><l><anchor subtype="death_start" type="death"/>O <rs type="person" key="G0001"
 							>Gott</rs>, laß deine Güt und Liebe</l>
-					<l>Mir immerdar vor Augen ſeyn!</l>
-					<l>Sie ſtärk in mir die guten Triebe,</l>
-					<l>Mein ganzes Leben dir zu weihn.</l>
-					<l>Sie tröſte mich zur Zeit der Schmerzen;</l>
-					<l>Sie leite mich zur Zeit des Glücks;</l>
-					<l>Und ſie beſieg in meinem Herzen</l>
-					<l>Die Furcht des letzten Augenblicks.<anchor subtype="death_end" type="death"/>
+					<lb/><l>Mir immerdar vor Augen ſeyn!</l>
+					<lb/><l>Sie ſtärk in mir die guten Triebe,</l>
+					<lb/><l>Mein ganzes Leben dir zu weihn.</l>
+					<lb/><l>Sie tröſte mich zur Zeit der Schmerzen;</l>
+					<lb/><l>Sie leite mich zur Zeit des Glücks;</l>
+					<lb/><l>Und ſie beſieg in meinem Herzen</l>
+					<lb/><l>Die Furcht des letzten Augenblicks.<anchor subtype="death_end" type="death"/>
 					</l>
 				</lg>
 			</div>

@@ -13,8 +13,8 @@
 				</author>
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig
-				</authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig
+				</publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl type="book" xml:id="VD18:11043652-002" style="text-align: center">
@@ -53,9 +53,9 @@
 		<body>
 			<pb n="XX" ed="CPEB1771" />
 			<div type="chorale">
-				<head type="title">XXX.</head>
+				<head><title>XXX.</title></head>
 				<lg>
-					<l></l>
+					<lb/><l></l>
 				</lg>
 			</div>
 		</body>

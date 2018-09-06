@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,146 +178,146 @@
 			<pb n="51"/>
 			<pb n="34" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Warnung vor der Wolluſt.</head>
+				<head><title>Warnung vor der Wolluſt.</title></head>
 				<lg>
-					<l>Der Wolluſt Reiz zu widerſtreben,</l>
-					<l>Dieß, Jugend, liebſt du Glück und Leben,</l>
-					<l>Laß täglich deine Weiſheit ſeyn.</l>
-					<l>Entflieh der ſchmeichelnden Begierde;</l>
-					<l>Sie raubet dir des Herzens Zierde,</l>
-					<l>Und ihre Freuden werden Pein.</l>
+					<lb/><l>Der Wolluſt Reiz zu widerſtreben,</l>
+					<lb/><l>Dieß, Jugend, liebſt du Glück und Leben,</l>
+					<lb/><l>Laß täglich deine Weiſheit ſeyn.</l>
+					<lb/><l>Entflieh der ſchmeichelnden Begierde;</l>
+					<lb/><l>Sie raubet dir des Herzens Zierde,</l>
+					<lb/><l>Und ihre Freuden werden Pein.</l>
 				</lg>
 				<lg>
-					<l>Laß, ihr die Nahrung zu verwehren,</l>
-					<l>Nie Speis und Trank dein Herz beſchweren,</l>
-					<l>Und ſey ein Freund der Nüchternheit.</l>
-					<l>Verſage dir, dich zu beſiegen,</l>
-					<l>Auch öfters ein erlaubt Vergnügen,</l>
-					<l>Und ſteure deiner Sinnlichkeit.</l>
+					<lb/><l>Laß, ihr die Nahrung zu verwehren,</l>
+					<lb/><l>Nie Speis und Trank dein Herz beſchweren,</l>
+					<lb/><l>Und ſey ein Freund der Nüchternheit.</l>
+					<lb/><l>Verſage dir, dich zu beſiegen,</l>
+					<lb/><l>Auch öfters ein erlaubt Vergnügen,</l>
+					<lb/><l>Und ſteure deiner Sinnlichkeit.</l>
 				</lg>
 				<lg>
-					<l>Laß nicht dein Auge dir gebieten;</l>
-					<l>Und ſey, die Wolluſt zu verhüten,</l>
-					<l>Stets ſchamhaft gegen deinen Leib.</l>
-					<l>Entflieh des Witzlings freyen Scherzen,</l>
-					<l> Und ſuch im Umgang edler <choice>
+					<lb/><l>Laß nicht dein Auge dir gebieten;</l>
+					<lb/><l>Und ſey, die Wolluſt zu verhüten,</l>
+					<lb/><l>Stets ſchamhaft gegen deinen Leib.</l>
+					<lb/><l>Entflieh des Witzlings freyen Scherzen,</l>
+					<lb/><l> Und ſuch im Umgang edler <choice>
 							<orig>Herzen</orig>
 							<reg>Herzen,</reg>
 						</choice>
 					</l>
-					<l>Dir Beyſpiel, Witz und Zeitvertreib.</l>
+					<lb/><l>Dir Beyſpiel, Witz und Zeitvertreib.</l>
 				</lg>
 				<pb n="35" ed="CPEB1758"/>
 				<lg>
-					<l>Der Menſch, zu Fleiß und Arbeit träge,</l>
-					<l>Fällt auf des Müßigganges Wege</l>
-					<l>Leicht in das Netz des Böſewichts.</l>
-					<l>Der Unſchuld Schutzwehr ſind Geſchäffte.</l>
-					<l>Entzieh der Wolluſt ihre Kräfte</l>
-					<l>Im Schweiße deines Angeſichts.</l>
+					<lb/><l>Der Menſch, zu Fleiß und Arbeit träge,</l>
+					<lb/><l>Fällt auf des Müßigganges Wege</l>
+					<lb/><l>Leicht in das Netz des Böſewichts.</l>
+					<lb/><l>Der Unſchuld Schutzwehr ſind Geſchäffte.</l>
+					<lb/><l>Entzieh der Wolluſt ihre Kräfte</l>
+					<lb/><l>Im Schweiße deines Angeſichts.</l>
 				</lg>
 				<pb n="52"/>
 				<lg>
-					<l>Erwacht ihr Trieb, dich zu bekämpfen:</l>
-					<l>So wach auch du, ihn früh zu dämpfen,</l>
-					<l>Eh er die Freyheit dir verwehrt.</l>
-					<l>Ihn bald in der Geburt erſticken,</l>
-					<l>Iſt leicht; ſchwer iſt's, ihn unterdrücken,</l>
-					<l>Wenn ihn dein Herz zuvor genährt.</l>
+					<lb/><l>Erwacht ihr Trieb, dich zu bekämpfen:</l>
+					<lb/><l>So wach auch du, ihn früh zu dämpfen,</l>
+					<lb/><l>Eh er die Freyheit dir verwehrt.</l>
+					<lb/><l>Ihn bald in der Geburt erſticken,</l>
+					<lb/><l>Iſt leicht; ſchwer iſt's, ihn unterdrücken,</l>
+					<lb/><l>Wenn ihn dein Herz zuvor genährt.</l>
 				</lg>
 				<lg>
-					<l>Oft kleiden ſich des Laſters Triebe</l>
-					<l>In die Geſtalt erlaubter Liebe,</l>
-					<l>Und du erblickſt nicht die Gefahr.</l>
-					<l>Ein langer Umgang macht dich freyer;</l>
-					<l>Und oft wird ein verbotnes Feuer</l>
-					<l>Aus dem, was anfangs Freundſchaft war.</l>
+					<lb/><l>Oft kleiden ſich des Laſters Triebe</l>
+					<lb/><l>In die Geſtalt erlaubter Liebe,</l>
+					<lb/><l>Und du erblickſt nicht die Gefahr.</l>
+					<lb/><l>Ein langer Umgang macht dich freyer;</l>
+					<lb/><l>Und oft wird ein verbotnes Feuer</l>
+					<lb/><l>Aus dem, was anfangs Freundſchaft war.</l>
 				</lg>
 				<lg>
-					<l>Dein fühlend Herz wird ſichs verzeihen,</l>
-					<l>Es wird des Laſters Auſbruch ſcheuen,</l>
-					<l>Indem es ſeinen Trieb ernährt.</l>
-					<l>Du wirſt dich ſtark und ſicher glauben,</l>
-					<l>Und kleine Fehler dir erlauben,</l>
-					<l>Bis deine Tugend ſich entehrt.</l>
+					<lb/><l>Dein fühlend Herz wird ſichs verzeihen,</l>
+					<lb/><l>Es wird des Laſters Auſbruch ſcheuen,</l>
+					<lb/><l>Indem es ſeinen Trieb ernährt.</l>
+					<lb/><l>Du wirſt dich ſtark und ſicher glauben,</l>
+					<lb/><l>Und kleine Fehler dir erlauben,</l>
+					<lb/><l>Bis deine Tugend ſich entehrt.</l>
 				</lg>
 				<lg>
-					<l>Doch nein, du ſollſt ſie nicht entehren,</l>
-					<l>Du ſollſt dir ſtets die That verwehren.</l>
-					<l>Iſt drum dein Herz ſchon tugendhaft?</l>
-					<l>Iſts Sünde nur, die That vollbringen?</l>
-					<l>Sollſt du nicht auch den Trieb bezwingen,</l>
-					<l>Nicht auch den Wunſch der Leidenſchaft?</l>
+					<lb/><l>Doch nein, du ſollſt ſie nicht entehren,</l>
+					<lb/><l>Du ſollſt dir ſtets die That verwehren.</l>
+					<lb/><l>Iſt drum dein Herz ſchon tugendhaft?</l>
+					<lb/><l>Iſts Sünde nur, die That vollbringen?</l>
+					<lb/><l>Sollſt du nicht auch den Trieb bezwingen,</l>
+					<lb/><l>Nicht auch den Wunſch der Leidenſchaft?</l>
 				</lg>
 				<pb n="53"/>
 				<lg>
-					<l>Begierden ſind es, die uns ſchänden,</l>
-					<l>Und ohne daß wir ſie vollenden,</l>
-					<l>Verletzen wir ſchon unſre Pflicht.</l>
-					<l>Wenn du vor ihnen nicht errötheſt,</l>
-					<l>Nicht durch den Geiſt die Lüſte tödteſt:</l>
-					<l>So rühme dich der Keuſchheit nicht.</l>
+					<lb/><l>Begierden ſind es, die uns ſchänden,</l>
+					<lb/><l>Und ohne daß wir ſie vollenden,</l>
+					<lb/><l>Verletzen wir ſchon unſre Pflicht.</l>
+					<lb/><l>Wenn du vor ihnen nicht errötheſt,</l>
+					<lb/><l>Nicht durch den Geiſt die Lüſte tödteſt:</l>
+					<lb/><l>So rühme dich der Keuſchheit nicht.</l>
 				</lg>
 				<lg>
-					<l>Erfülle dich, ſcheinſt du zu wanken,</l>
-					<l>Oft mit dem mächtigen Gedanken:</l>
-					<l>Die Unſchuld iſt der Seele Glück.</l>
-					<l>Einmal verſcherzt und aufgegeben,</l>
-					<l>Verläſst ſie mich im ganzen Leben,</l>
-					<l>Und keine Reu bringt ſie zurück.</l>
+					<lb/><l>Erfülle dich, ſcheinſt du zu wanken,</l>
+					<lb/><l>Oft mit dem mächtigen Gedanken:</l>
+					<lb/><l>Die Unſchuld iſt der Seele Glück.</l>
+					<lb/><l>Einmal verſcherzt und aufgegeben,</l>
+					<lb/><l>Verläſst ſie mich im ganzen Leben,</l>
+					<lb/><l>Und keine Reu bringt ſie zurück.</l>
 				</lg>
 				<lg>
-					<l>Denk oft bey dir: Der Wolluſt Bande</l>
-					<l>Sind nicht nur dem Gewiſsen Schande,</l>
-					<l>Sie ſind auch vor der Welt ein Spott.</l>
-					<l>Und könnt ich auch in Finſterniſsen</l>
-					<l> Den Greul der Wolluſt ihr <choice>
+					<lb/><l>Denk oft bey dir: Der Wolluſt Bande</l>
+					<lb/><l>Sind nicht nur dem Gewiſsen Schande,</l>
+					<lb/><l>Sie ſind auch vor der Welt ein Spott.</l>
+					<lb/><l>Und könnt ich auch in Finſterniſsen</l>
+					<lb/><l> Den Greul der Wolluſt ihr <choice>
 							<orig>verſchließen:</orig>
 							<reg>verſchlieſsen:</reg>
 						</choice>
 					</l>
-					<l>So ſieht und findet mich doch <rs type="person" key="G0001">Gott</rs>.</l>
+					<lb/><l>So ſieht und findet mich doch <rs type="person" key="G0001">Gott</rs>.</l>
 				</lg>
 				<lg>
-					<l>Die Wolluſt kürzt des Lebens Tage</l>
-					<l>Und Seuchen werden ihre Plage,</l>
-					<l>Da Keuſchheit Heil und Leben erbt.</l>
-					<l>Ich will mir dieß ihr Glück erwerben.</l>
-					<l>Den wird <rs type="person" key="G0001">Gott</rs> wiederum verderben,</l>
-					<l>Wer ſeinen Tempel hier verderbt.</l>
+					<lb/><l>Die Wolluſt kürzt des Lebens Tage</l>
+					<lb/><l>Und Seuchen werden ihre Plage,</l>
+					<lb/><l>Da Keuſchheit Heil und Leben erbt.</l>
+					<lb/><l>Ich will mir dieß ihr Glück erwerben.</l>
+					<lb/><l>Den wird <rs type="person" key="G0001">Gott</rs> wiederum verderben,</l>
+					<lb/><l>Wer ſeinen Tempel hier verderbt.</l>
 				</lg>
 				<pb n="54"/>
 				<lg>
-					<l>Wie blühte nicht des Jünglings Jugend!</l>
-					<l>Doch er vergaß den Weg der Tugend;</l>
-					<l>Und ſeine Kräfte ſind verzehrt.</l>
-					<l>Verweſung ſchändet ſein Geſichte</l>
-					<l>Und predigt ſchrecklich die Geſchichte</l>
-					<l>Der Lüſte, die den Leib verheert.</l>
+					<lb/><l>Wie blühte nicht des Jünglings Jugend!</l>
+					<lb/><l>Doch er vergaß den Weg der Tugend;</l>
+					<lb/><l>Und ſeine Kräfte ſind verzehrt.</l>
+					<lb/><l>Verweſung ſchändet ſein Geſichte</l>
+					<lb/><l>Und predigt ſchrecklich die Geſchichte</l>
+					<lb/><l>Der Lüſte, die den Leib verheert.</l>
 				</lg>
 				<lg>
-					<l>So rächt die Wolluſt an den Frechen</l>
-					<l>Früh oder ſpäter die Verbrechen,</l>
-					<l>Und züchtigt dich mit harter Hand.</l>
-					<l>Ihr Gift wird dein Gewiſsen quälen,</l>
-					<l>Sie raubet dir das Licht der Seelen,</l>
-					<l>Und lohnet dir mit Unverſtand.</l>
+					<lb/><l>So rächt die Wolluſt an den Frechen</l>
+					<lb/><l>Früh oder ſpäter die Verbrechen,</l>
+					<lb/><l>Und züchtigt dich mit harter Hand.</l>
+					<lb/><l>Ihr Gift wird dein Gewiſsen quälen,</l>
+					<lb/><l>Sie raubet dir das Licht der Seelen,</l>
+					<lb/><l>Und lohnet dir mit Unverſtand.</l>
 				</lg>
 				<lg>
-					<l>Sie raubt dem Herzen Muth und Stärke,</l>
-					<l>Raubt ihm den Eifer edler Werke,</l>
-					<l>Den Adel, welchen <rs type="person" key="G0001">Gott</rs> ihm gab;</l>
-					<l>Und unter deiner Lüſte Bürde</l>
-					<l>Sinkſt du von eines Menſchen Würde</l>
-					<l>Zur Niedrigkeit des Thiers herab.</l>
+					<lb/><l>Sie raubt dem Herzen Muth und Stärke,</l>
+					<lb/><l>Raubt ihm den Eifer edler Werke,</l>
+					<lb/><l>Den Adel, welchen <rs type="person" key="G0001">Gott</rs> ihm gab;</l>
+					<lb/><l>Und unter deiner Lüſte Bürde</l>
+					<lb/><l>Sinkſt du von eines Menſchen Würde</l>
+					<lb/><l>Zur Niedrigkeit des Thiers herab.</l>
 				</lg>
 				<lg>
-					<l>Drum fliehe vor der Wolluſt Pfade,</l>
-					<l>Und wach, und rufe <rs type="person" key="G0001">Gott</rs> um Gnade,</l>
-					<l>Um Weiſheit in Verſuchung an.</l>
-					<l>Erzittre vor dem erſten Schritte;</l>
-					<l>Mit ihm ſind ſchon die andern Tritte</l>
-					<l>Zu einem nahen Fall gethan.</l>
+					<lb/><l>Drum fliehe vor der Wolluſt Pfade,</l>
+					<lb/><l>Und wach, und rufe <rs type="person" key="G0001">Gott</rs> um Gnade,</l>
+					<lb/><l>Um Weiſheit in Verſuchung an.</l>
+					<lb/><l>Erzittre vor dem erſten Schritte;</l>
+					<lb/><l>Mit ihm ſind ſchon die andern Tritte</l>
+					<lb/><l>Zu einem nahen Fall gethan.</l>
 				</lg>
 			</div>
 		</body>

@@ -7,7 +7,7 @@
 				<!--Arbeitstitel-->
 			</titleStmt>
 			<publicationStmt>
-				<authority>Sächsische Akademie der Wissenschaften zu Leipzig </authority>
+				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>Geistliche<lb/> Oden und Lieder<lb/> von<lb/>
@@ -69,7 +69,6 @@
 						<occupation>Komponist</occupation>
 						<note type="bioSummary"/>
 						<idno type="GND">118505505</idno>
-						<idno type="WeGA"/>
 						<persName type="sigla" subtype="Kast"/>
 						<persName type="sigla" subtype="Blechschmidt"/>
 						<persName type="sigla" subtype="Dürr"/>
@@ -179,55 +178,55 @@
 			<pb n="156"/>
 			<pb n="12" ed="CPEB1758"/>
 			<div type="chorale">
-				<head type="title">Der Schutz der Kirche.</head>
+				<head><title>Der Schutz der Kirche.</title></head>
 				<lg>
-					<l>Wenn <rs type="person" key="J0001">Chriſtus</rs> ſeine Kirche ſchützt:</l>
-					<l>So mag die Hölle wüten.</l>
-					<l>Er, der zur Rechten <rs type="person" key="G0001">Gottes</rs> ſitzt,</l>
-					<l>Hat Macht, ihr zu gebieten.</l>
-					<l>Er iſt mit Hülfe nah;</l>
-					<l>Wenn er gebeut, ſtehts da.</l>
-					<l>Er ſchützet ſeinen Ruhm,</l>
-					<l>Und hält das Chriſtenthum.</l>
-					<l>Mag doch die Hölle wüten!</l>
+					<lb/><l>Wenn <rs type="person" key="J0001">Chriſtus</rs> ſeine Kirche ſchützt:</l>
+					<lb/><l>So mag die Hölle wüten.</l>
+					<lb/><l>Er, der zur Rechten <rs type="person" key="G0001">Gottes</rs> ſitzt,</l>
+					<lb/><l>Hat Macht, ihr zu gebieten.</l>
+					<lb/><l>Er iſt mit Hülfe nah;</l>
+					<lb/><l>Wenn er gebeut, ſtehts da.</l>
+					<lb/><l>Er ſchützet ſeinen Ruhm,</l>
+					<lb/><l>Und hält das Chriſtenthum.</l>
+					<lb/><l>Mag doch die Hölle wüten!</l>
 				</lg>
 				<lg>
-					<l><rs type="person" key="G0001">Gott</rs> ſieht die Fürſten auf dem Thron</l>
-					<l>Sich wider ihn empören;</l>
-					<l>Denn den <rs type="person" key="J0001">Geſalbten</rs>, ſeinen <rs
+					<lb/><l><rs type="person" key="G0001">Gott</rs> ſieht die Fürſten auf dem Thron</l>
+					<lb/><l>Sich wider ihn empören;</l>
+					<lb/><l>Denn den <rs type="person" key="J0001">Geſalbten</rs>, ſeinen <rs
 							type="person" key="J0001">Sohn</rs>,</l>
-					<l>Den wollen ſie nicht ehren.</l>
-					<l>Sie ſchämen ſich des Worts,</l>
-					<l>Des <rs type="person" key="J0001">Heilands</rs>, unſers Horts;</l>
-					<l>Sein Kreuz iſt ſelbſt ihr Spott;</l>
-					<l>Doch ihrer lachet <rs type="person" key="G0001">Gott</rs>.</l>
-					<l>Sie mögen ſich empören!</l>
+					<lb/><l>Den wollen ſie nicht ehren.</l>
+					<lb/><l>Sie ſchämen ſich des Worts,</l>
+					<lb/><l>Des <rs type="person" key="J0001">Heilands</rs>, unſers Horts;</l>
+					<lb/><l>Sein Kreuz iſt ſelbſt ihr Spott;</l>
+					<lb/><l>Doch ihrer lachet <rs type="person" key="G0001">Gott</rs>.</l>
+					<lb/><l>Sie mögen ſich empören!</l>
 				</lg>
 				<lg>
-					<l>Der Frevler mag die Wahrheit ſchmähn;</l>
-					<l>Uns kann er ſie nicht rauben.</l>
-					<l>Der Unchriſt mag ihr widerſtehn;</l>
-					<l>Wir halten feſt am Glauben.</l>
+					<lb/><l>Der Frevler mag die Wahrheit ſchmähn;</l>
+					<lb/><l>Uns kann er ſie nicht rauben.</l>
+					<lb/><l>Der Unchriſt mag ihr widerſtehn;</l>
+					<lb/><l>Wir halten feſt am Glauben.</l>
 					<pb n="157"/>
-					<l>Gelobt ſey <rs type="person" key="J0001">Jeſus Chriſt</rs>!</l>
-					<l><anchor subtype="resurrection_start" type="resurrection"/>Wer hier ſein
+					<lb/><l>Gelobt ſey <rs type="person" key="J0001">Jeſus Chriſt</rs>!</l>
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Wer hier ſein
 						Jünger iſt,</l>
-					<l>Sein Wort von Herzen hält,</l>
-					<l>Dem kann die ganze Welt</l>
-					<l>Die Seligkeit nicht rauben<anchor subtype="resurrection_end"
+					<lb/><l>Sein Wort von Herzen hält,</l>
+					<lb/><l>Dem kann die ganze Welt</l>
+					<lb/><l>Die Seligkeit nicht rauben<anchor subtype="resurrection_end"
 							type="resurrection"/>.</l>
 				</lg>
 				<lg>
-					<l>Auf, Chriſten, die ihr ihm vertraut,</l>
-					<l>Laßt euch kein Drohn erſchrecken!</l>
-					<l>Der <rs type="person" key="G0001">Gott</rs>, der von dem Himmel ſchaut,</l>
-					<l>Wird uns gewiß bedecken.</l>
-					<l><anchor subtype="death_start" type="death"/>Der <rs type="person" key="G0001"
+					<lb/><l>Auf, Chriſten, die ihr ihm vertraut,</l>
+					<lb/><l>Laßt euch kein Drohn erſchrecken!</l>
+					<lb/><l>Der <rs type="person" key="G0001">Gott</rs>, der von dem Himmel ſchaut,</l>
+					<lb/><l>Wird uns gewiß bedecken.</l>
+					<lb/><l><anchor subtype="death_start" type="death"/>Der <rs type="person" key="G0001"
 							>Herr Herr Zebaothy</rs></l>
-					<l>Hält über ſein Gebot,</l>
-					<l>Giebt uns Geduld in Noth,</l>
-					<l>Und Kraft und Muth im Tod;</l>
-					<l>Was will uns denn erſchrecken?<anchor subtype="death_end" type="death"/></l>
+					<lb/><l>Hält über ſein Gebot,</l>
+					<lb/><l>Giebt uns Geduld in Noth,</l>
+					<lb/><l>Und Kraft und Muth im Tod;</l>
+					<lb/><l>Was will uns denn erſchrecken?<anchor subtype="death_end" type="death"/></l>
 				</lg>
 			</div>
 		</body>
