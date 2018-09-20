@@ -181,7 +181,7 @@
 		<body>
 			<pb n="40" ed="CPEB1774"/>
 			<div type="chorale">
-				<head><title>Der hundert und zehnte Pſalm.</title></head>
+				<head rendition="#c"><title>Der hundert und zehnte Pſalm.</title></head>
 				<lg>
 					<lb/><l><rs type="person" key="G0001">Jehova</rs> ſprach zu <rs type="person"
 							key="J0001">Gott, dem Sohne</rs>,</l>

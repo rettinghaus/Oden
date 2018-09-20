@@ -181,7 +181,7 @@
 		<body>
 			<pb n="32" ed="CPEB1774"/>
 			<div type="chorale">
-				<head><title>Der ſechs und neunzigſte Pſalm.</title></head>
+				<head rendition="#c"><title>Der ſechs und neunzigſte Pſalm.</title></head>
 				<lg>
 					<lb/><l>Erhebet <rs type="person" key="G0001">Gott</rs> durch neue Lieder,</l>
 					<lb/><l>voll ungehörter Harmonie!</l>

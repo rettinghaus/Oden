@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"?><?xml-stylesheet type="text/xsl" href="base.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng"?><?xml-stylesheet type="text/xsl" href="base.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
 	<teiHeader>
 		<fileDesc>
@@ -182,7 +182,7 @@
 			<pb n="1" ed="CPEB1774"/>
 			<!-- Seitenzahl Quelle eins-->
 			<div type="chorale">
-				<head><title>Der erſte Pſalm.</title></head>
+				<head rendition="#c"><title>Der erſte Pſalm.</title></head>
 				<lg>
 					<lb/><l>Heil, Heil dem Manne, der dem Rath</l>
 					<lb/><l>Der Frevler ſich entzieht;</l>

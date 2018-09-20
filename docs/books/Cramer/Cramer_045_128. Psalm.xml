@@ -181,7 +181,7 @@
 		<body>
 			<pb n="45" ed="CPEB1774"/>
 			<div type="chorale">
-				<head><title>Der hundert und acht und zwanzigſte Pſalm.</title></head>
+				<head rendition="#c"><title>Der hundert und acht und zwanzigſte Pſalm.</title></head>
 				<lg>
 					<lb/><l>Die Gnade <rs type="person" key="G0001">Gottes</rs> ſey mit allen,</l>
 					<lb/><l>Die willig ſeine Pfade wallen;</l>

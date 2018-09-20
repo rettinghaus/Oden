@@ -181,7 +181,7 @@
 		<body>
 			<pb n="14" ed="CPEB1774"/>
 			<div type="chorale">
-				<head><title>Der dreyßigſte Pſalm.</title></head>
+				<head rendition="#c"><title>Der dreyßigſte Pſalm.</title></head>
 				<lg>
 					<lb/><l>Dich preis ich, <rs type="person" key="G0001">Gott</rs>; denn du haſt mich
 						erhoben;</l>

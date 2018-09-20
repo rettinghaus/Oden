@@ -181,7 +181,7 @@
 		<body>
 			<pb n="8" ed="CPEB1774"/>
 			<div type="chorale">
-				<head><title>Der funfzehnte Pſalm.</title></head>
+				<head rendition="#c"><title>Der funfzehnte Pſalm.</title></head>
 				<lg>
 					<lb/><l>Wer darf im Zelte deines Ruhmes</l>
 					<lb/><l>Sein Zelt, <rs type="person" key="G0001">Jehova</rs>, ſich erbaun</l>

@@ -181,7 +181,7 @@
 		<body>
 			<pb n="51" ed="CPEB1774"/>
 			<div type="chorale">
-				<head><title>Der hundert und acht und vierzigſte Pſalm.</title></head>
+				<head rendition="#c"><title>Der hundert und acht und vierzigſte Pſalm.</title></head>
 				<lg>
 					<lb/><l>Preis ſey dem <rs type="person" key="G0001">Gotte Zebaoth</rs>!</l>
 					<lb/><l>Ihr Himmel lobt den <rs type="person" key="G0001">Herrn</rs>!</l>

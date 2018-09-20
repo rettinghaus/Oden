@@ -181,7 +181,7 @@
 		<body>
 			<pb n="12" ed="CPEB1774"/>
 			<div type="chorale">
-				<head><title>Der drey und zwanzigſte Pſalm.</title></head>
+				<head rendition="#c"><title>Der drey und zwanzigſte Pſalm.</title></head>
 				<lg>
 					<lb/><l><rs type="person" key="G0001">Gott</rs> iſt mein Hirt!</l>
 					<lb/><l>Im Schatten ſeiner Güte</l>

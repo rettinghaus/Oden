@@ -181,7 +181,7 @@
 		<body>
 			<pb n="44" ed="CPEB1774"/>
 			<div type="chorale">
-				<head><title>Der hundert und ein und zwanzigſte Pſalm.</title></head>
+				<head rendition="#c"><title>Der hundert und ein und zwanzigſte Pſalm.</title></head>
 				<lg>
 					<lb/><l>Sieh, mein Auge, nach den Bergen</l>
 					<lb/><l><placeName>Zions</placeName> unverwandt hinauf!</l>

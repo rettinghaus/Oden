@@ -181,7 +181,7 @@
 		<body>
 			<pb n="41" ed="CPEB1774"/>
 			<div type="chorale">
-				<head><title>Der hundert und elfte Pſalm.</title></head>
+				<head rendition="#c"><title>Der hundert und elfte Pſalm.</title></head>
 				<lg>
 					<lb/><l>Gelobt ſey <rs type="person" key="G0001">Gott</rs>! Ihm will ich fröhlich
 						ſingen,</l>

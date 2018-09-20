@@ -181,7 +181,7 @@
 		<body>
 			<pb n="2" ed="CPEB1774"/>
 			<div type="chorale">
-				<head><title>Der vierte Pſalm.</title></head>
+				<head rendition="#c"><title>Der vierte Pſalm.</title></head>
 				<lg>
 					<lb/><l>Wenn ich zu dir in meinen Aengſten flehe,</l>
 					<lb/><l>Antworte mir, o <rs type="person" key="G0001">Gott</rs>, von deiner Höhe;</l>

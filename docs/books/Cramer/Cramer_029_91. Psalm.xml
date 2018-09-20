@@ -181,7 +181,7 @@
 		<body>
 			<pb n="29" ed="CPEB1774"/>
 			<div type="chorale">
-				<head><title>Der ein und neunzigſte Pſalm.</title></head>
+				<head rendition="#c"><title>Der ein und neunzigſte Pſalm.</title></head>
 				<lg>
 					<lb/><l>Wie ſelig iſt, der <rs type="person" key="G0001">Gott</rs> vertraut,</l>
 					<lb/><l>Der in des <rs type="person" key="G0001">Höchſten</rs> Zelte ſitzet;</l>

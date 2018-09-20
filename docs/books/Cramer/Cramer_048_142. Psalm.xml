@@ -181,7 +181,7 @@
 		<body>
 			<pb n="48" ed="CPEB1774"/>
 			<div type="chorale">
-				<head><title>Der hundert und zwey und vierzigſte Pſalm.</title></head>
+				<head rendition="#c"><title>Der hundert und zwey und vierzigſte Pſalm.</title></head>
 				<lg>
 					<lb/><l><rs type="person" key="G0001">Gott</rs>, es ſeufzet meine Stimme,</l>
 					<lb/><l>Traurig fleht dir meine Stimme,</l>

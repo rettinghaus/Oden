@@ -181,7 +181,7 @@
 		<body>
 			<pb n="26" ed="CPEB1774"/>
 			<div type="chorale">
-				<head><title>Der ſechs und achtzigſte Pſalm.</title></head>
+				<head rendition="#c"><title>Der ſechs und achtzigſte Pſalm.</title></head>
 				<lg>
 					<lb/><l><rs type="person" key="G0001">Herr</rs>, erhöre meine Klagen!</l>
 					<lb/><l>Schaue her auf meine Plagen,</l>

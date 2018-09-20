@@ -181,7 +181,7 @@
 		<body>
 			<pb n="3" ed="CPEB1774"/>
 			<div type="chorale">
-				<head><title>Der ſechſte Pſalm.</title></head>
+				<head rendition="#c"><title>Der ſechſte Pſalm.</title></head>
 				<lg>
 					<lb/><l>Führe, <rs type="person" key="G0001">Herr</rs>, mich nicht im Grimme</l>
 					<lb/><l>In dein heiliges Gericht!</l>

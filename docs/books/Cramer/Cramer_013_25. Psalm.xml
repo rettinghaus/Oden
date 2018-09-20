@@ -181,7 +181,7 @@
 		<body>
 			<pb n="13" ed="CPEB1774"/>
 			<div type="chorale">
-				<head><title>Der fünf und zwanzigſte Pſalm.</title></head>
+				<head rendition="#c"><title>Der fünf und zwanzigſte Pſalm.</title></head>
 				<lg>
 					<lb/><l><rs type="person" key="G0001">Herr</rs>, mein einziges Verlangen,</l>
 					<lb/><l><rs type="person" key="G0001">Gott</rs>, zu dir erheb ich mich!</l>

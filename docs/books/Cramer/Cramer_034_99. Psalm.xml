@@ -181,7 +181,7 @@
 		<body>
 			<pb n="34" ed="CPEB1774"/>
 			<div type="chorale">
-				<head><title>Der neun und neunzigſte Pſalm.</title></head>
+				<head rendition="#c"><title>Der neun und neunzigſte Pſalm.</title></head>
 				<lg>
 					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> regiert; die Völker zittern;</l>
 					<lb/><l>Sein Wagen iſt in Ungewittern;</l>

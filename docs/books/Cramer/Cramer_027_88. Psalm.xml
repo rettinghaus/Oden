@@ -181,7 +181,7 @@
 		<body>
 			<pb n="27" ed="CPEB1774"/>
 			<div type="chorale">
-				<head><title>Der acht und achtzigſte Pſalm.</title></head>
+				<head rendition="#c"><title>Der acht und achtzigſte Pſalm.</title></head>
 				<lg>
 					<lb/><l>Tag und Nacht, du Heil der Frommen,</l>
 					<lb/><l>Seufz ich, <rs type="person" key="G0001">Herr</rs>, mein Hort, zu dir.</l>

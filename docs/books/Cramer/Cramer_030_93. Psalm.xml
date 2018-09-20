@@ -181,7 +181,7 @@
 		<body>
 			<pb n="30" ed="CPEB1774"/>
 			<div type="chorale">
-				<head><title>Der drey und neunzigſte Pſalm.</title></head>
+				<head rendition="#c"><title>Der drey und neunzigſte Pſalm.</title></head>
 				<pb n="31" ed="CPEB1774"/>
 				<lg>
 					<lb/><l><rs type="person" key="G0001">Jehova</rs> herrſcht, ein König über alle,</l>

@@ -181,7 +181,7 @@
 		<body>
 			<pb n="52" ed="CPEB1774"/>
 			<div type="chorale">
-				<head><title>Der hundert und funfzigſte Pſalm.</title></head>
+				<head rendition="#c"><title>Der hundert und funfzigſte Pſalm.</title></head>
 				<lg>
 					<lb/><l>Erhebt, erhebet den <rs type="person" key="G0001">Herrn</rs> in ſeinem
 						Heiligthume,</l>

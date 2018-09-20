@@ -181,7 +181,7 @@
 		<body>
 			<pb n="50" ed="CPEB1774"/>
 			<div type="chorale">
-				<head><title>Der hundert und ſechs und vierzigſte Pſalm.</title></head>
+				<head rendition="#c"><title>Der hundert und ſechs und vierzigſte Pſalm.</title></head>
 				<lg>
 					<lb/><l>Es werde <rs type="person" key="G0001">Gott</rs> von uns erhoben!</l>
 					<lb/><l>Wohlauf, wohlauf den <rs type="person" key="G0001">Herrn</rs> zu loben!</l>

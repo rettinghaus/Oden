@@ -181,7 +181,7 @@
 		<body>
 			<pb n="15" ed="CPEB1774"/>
 			<div type="chorale">
-				<head><title>Der zwey und dreyßigſte Pſalm.</title></head>
+				<head rendition="#c"><title>Der zwey und dreyßigſte Pſalm.</title></head>
 				<lg>
 					<lb/><l>Heil dem, den nicht die Furcht, geſtraft zu werden, quälet,</l>
 					<lb/><l>Weil ihm der <rs type="person" key="G0001">Herr</rs> vergiebt und ſeine

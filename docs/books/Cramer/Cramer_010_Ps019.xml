@@ -181,7 +181,7 @@
 		<body>
 			<pb n="10" ed="CPEB1774"/>
 			<div type="chorale">
-				<head><title>Der neunzehnte Pſalm.</title></head>
+				<head rendition="#c"><title>Der neunzehnte Pſalm.</title></head>
 				<lg>
 					<lb/><l>Die Himmel rufen, jeder ehret</l>
 					<lb/><l>Die Größe <rs type="person" key="G0001">Gottes</rs>, ſeine Pracht.</l>

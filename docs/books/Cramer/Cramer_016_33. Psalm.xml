@@ -181,7 +181,7 @@
 		<body>
 			<pb n="16" ed="CPEB1774"/>
 			<div type="chorale">
-				<head><title>Der drey und dreyßigſte Pſalm.</title></head>
+				<head rendition="#c"><title>Der drey und dreyßigſte Pſalm.</title></head>
 				<pb n="17"/>
 				<lg>
 					<lb/><l>Jauchzt, ihr Gerechten, dem <rs type="person" key="G0001">Herrn</rs>, und

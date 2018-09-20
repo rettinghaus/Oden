@@ -181,7 +181,7 @@
 		<body>
 			<pb n="24" ed="CPEB1774"/>
 			<div type="chorale">
-				<head><title>Der ſieben und ſechzigſte Pſalm.</title></head>
+				<head rendition="#c"><title>Der ſieben und ſechzigſte Pſalm.</title></head>
 				<pb n="25" ed="CPEB1774"/>
 				<lg>
 					<lb/><l><rs type="person" key="G0001">Herr</rs>, unſer <rs type="person" key="G0001"

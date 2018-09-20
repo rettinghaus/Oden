@@ -181,7 +181,7 @@
 		<body>
 			<pb n="9" ed="CPEB1774"/>
 			<div type="chorale">
-				<head><title>Der ſiebzehnte Pſalm.</title></head>
+				<head rendition="#c"><title>Der ſiebzehnte Pſalm.</title></head>
 				<lg>
 					<lb/><l>Erhöre, <rs type="person" key="G0001">Gott</rs>, wenn ich dir flehe,</l>
 					<lb/><l>Die Stimme der Gerechtigkeit!</l>

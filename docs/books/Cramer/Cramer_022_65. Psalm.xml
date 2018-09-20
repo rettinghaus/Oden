@@ -181,7 +181,7 @@
 		<body>
 			<pb n="22" ed="CPEB1774"/>
 			<div type="chorale">
-				<head><title>Der fünf und ſechzigſte Pſalm.</title></head>
+				<head rendition="#c"><title>Der fünf und ſechzigſte Pſalm.</title></head>
 				<lg>
 					<lb/><l>Dich, <rs type="person" key="G0001">Gott</rs> zu <placeName>Zion</placeName>,
 						lobt man in der Stille,</l>
