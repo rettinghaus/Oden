@@ -45,10 +45,46 @@
   <xsl:template match="tei:l">
     <xsl:apply-templates />
   </xsl:template>
-  <xsl:template match="tei:head[@type='title']">
-    <h2 style="text-align:center">
+  <xsl:template match="tei:head">
+    <h3>
+      <xsl:if test="@rendition='#c'">
+        <xsl:attribute name="style">
+          <xsl:value-of select="'text-align:center'" />
+        </xsl:attribute>
+      </xsl:if>
       <xsl:apply-templates />
-    </h2>
+    </h3>
+  </xsl:template>
+  <!-- Templates für die Formatierung von Hervorhebungen -->
+  <xsl:template match="tei:hi[@rendition='#b']">
+    <span style="font-weight:bold">
+      <xsl:apply-templates />
+    </span>
+  </xsl:template>
+  <xsl:template match="tei:hi[@rendition='#c']">
+    <span style="text-align:center">
+      <xsl:apply-templates />
+    </span>
+  </xsl:template>
+  <xsl:template match="tei:hi[@rendition='#i']">
+    <span style="font-style:italic">
+      <xsl:apply-templates />
+    </span>
+  </xsl:template>
+  <xsl:template match="tei:hi[@rendition='#k']">
+    <span style="font-variant:small-caps">
+      <xsl:apply-templates />
+    </span>
+  </xsl:template>
+  <xsl:template match="tei:hi[@rendition='#sub']">
+    <sub>
+      <xsl:apply-templates />
+    </sub>
+  </xsl:template>
+  <xsl:template match="tei:hi[@rendition='#sup']">
+    <sup>
+      <xsl:apply-templates />
+    </sup>
   </xsl:template>
   <!-- Templates für die Formatierung von Choice-Elementen -->
   <xsl:template match="tei:choice">
@@ -68,5 +104,9 @@
     <div>
       <xsl:apply-templates />
     </div>
+  </xsl:template>
+  <!-- Template zur Normalisierung des Textes -->
+  <xsl:template match="text()">
+    <xsl:value-of select="translate(., 'ſ', 's')"/>
   </xsl:template>
 </xsl:stylesheet>
