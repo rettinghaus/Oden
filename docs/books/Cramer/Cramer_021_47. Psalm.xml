@@ -182,53 +182,46 @@
 			<pb n="21" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der ſieben und vierzigſte Pſalm.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Frohlocket, ihr Völker, frohlocket mit Händen</l>
-					<lb/><l>Und jauchzet <rs type="person" key="G0001">Gott</rs> mit fröhlichem
-						Schall.</l>
+					<lb/><l>Und jauchzet <rs type="person" key="G0001">Gott</rs> mit fröhlichem Schall.</l>
 					<lb/><l>Hoch iſt er, und herrlich an aller Welt Enden,</l>
 					<lb/><l>Ein großer König überall.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Er, er wird der Erde Volk unter uns zwingen</l>
 					<lb/><l>Und unter unſre Füße die Welt.</l>
 					<lb/><l>Er wählt uns zum Erbe! Laßt, laſset uns ſingen,</l>
 					<lb/><l>Daß Jacob unſerm <rs type="person" key="G0001">Gott</rs> gefällt.</l>
 				</lg>
-				<lg>
-					<lb/><l><rs type="person" key="G0001">Gott</rs> machet ihn herrlich. Der Erdkreis
-						erſtaune!</l>
+				<lg n="3">
+					<lb/><l><rs type="person" key="G0001">Gott</rs> machet ihn herrlich. Der Erdkreis erſtaune!</l>
 					<lb/><l><rs type="person" key="G0001">Gott</rs> fährt mit lautem Jauchzen hinauf!</l>
 					<lb/><l>Es fährt, mit hochtönender heller Poſaune,</l>
 					<lb/><l>Er <rs type="person" key="G0001">Herr</rs> in ſeine Himmel auf!</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Lobſinget, damit er verherrlichet werde!</l>
 					<lb/><l>Singt, ſinget unſerm König, dem <rs type="person" key="G0001">Herrn</rs>!</l>
-					<lb/><l>Denn er iſt der <rs type="person" key="G0001">Herr</rs> der erretteten
-						Erde;</l>
+					<lb/><l>Denn er iſt der <rs type="person" key="G0001">Herr</rs> der erretteten Erde;</l>
 					<lb/><l>Lobſingt ihm klüglich! Singt ihm gern!</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Lobſinget; frohlocket voll heiliger Freuden,</l>
 					<lb/><l>Stimmt an ein Lied im höheren Ton!</l>
-					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> iſt der Herr der anbetenden
-						Heiden;</l>
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> iſt der Herr der anbetenden Heiden;</l>
 					<lb/><l><rs type="person" key="G0001">Gott</rs> ſitzt auf ſeinem hohen Thron!</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Die Fürſten, die über die Erde regieren,</l>
 					<lb/><l>Sind wider <rs type="person" key="G0001">Gott</rs> vergeblich empört.</l>
-					<lb/><l>Er weiß ſie, <rs type="person" key="G0001">Gott</rs> weiß ſie zuſammen zu
-						führen,</l>
+					<lb/><l>Er weiß ſie, <rs type="person" key="G0001">Gott</rs> weiß ſie zuſammen zu führen,</l>
 					<lb/><l>Zu einem Volke, das ihn ehrt.</l>
 				</lg>
-				<lg>
+				<lg n="7">
 					<lb/><l>Sie ſollen geſegnet in <rs type="person" key="A0002">Abraham</rs> werden,</l>
-					<lb/><l>Sprach <rs type="person" key="G0001">Gott</rs>, der, was er redet, uns
-						hält!</l>
-					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> iſt erhöht bey den Schilden auf
-						Erden!</l>
+					<lb/><l>Sprach <rs type="person" key="G0001">Gott</rs>, der, was er redet, uns hält!</l>
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> iſt erhöht bey den Schilden auf Erden!</l>
 					<lb/><l><rs type="person" key="G0001">Gott</rs> iſt erhöhet in der Welt!</l>
 				</lg>
 			</div>

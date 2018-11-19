@@ -185,19 +185,22 @@
 				<pb n="5" ed="CPEB1774"/>
 				<pb n="6" ed="CPEB"/>
 				<pb n="7" ed="CPEB1774"/>
-				<lg type="choir" n="Erſtes Chor.">
+				<lg type="choir" n="1">
+					<head>Erſtes Chor.</head>
 					<lb/><l>Wer iſt ſo würdig als du, von uns bewundert zu werden,</l>
 					<lb/><l>Du, unſer Beherrſcher, o <rs type="person" key="G0001">Gott?</rs></l>
 					<lb/><l>Wie ſtralet dein Name ſo herrlich auf Erden,</l>
 					<lb/><l>So weit umher, <rs type="person" key="G0001">Herr Zebaoth</rs>!</l>
 				</lg>
-				<lg type="choir" n="Zweytes Chor.">
+				<lg type="choir" n="2">
+					<head>Zweytes Chor.</head>
 					<lb/><l>Wer ſchaut zu deinen Himmeln hinan,</l>
 					<lb/><l>Sieht deine Majeſtät im Glanze jeder Sonne,</l>
 					<lb/><l>Und jauchzet nicht dir und betet voll Wonne</l>
 					<lb/><l>Nicht, Urquell aller Wunder, dich an?</l>
 				</lg>
-				<lg type="solo" n="Der Prophet.">
+				<lg type="solo" n="3">
+					<head>Der Prophet.</head>
 					<lb/><l>O welch ein Lob bereiteſt du</l>
 					<lb/><l>Dir aus dem Munde ſchwacher Kinder!</l>
 					<lb/><l>Dir jauchzet ſelbſt der Säugling zu,</l>
@@ -207,7 +210,7 @@
 					<lb/><l>Beſchämt der Widerſacher Heere,</l>
 					<lb/><l>Und rettet deines Namens Ehre.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Mein aufgeklärtes Aug erblickt</l>
 					<lb/><l>Zahlloſe Wunder deiner Stärke,</l>
 					<lb/><l>Die Himmel prächtig auſgeſchmückt,</l>
@@ -217,7 +220,7 @@
 					<lb/><l>Wie ſtralen in der hohen Ferne</l>
 					<lb/><l>Mir deine Herolde, die Sterne!</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l><rs type="person" key="G0001">Gott</rs>, wie unendlich wirſt du mir!</l>
 					<lb/><l>Was iſt der Menſch, daß du ſein denkeſt?</l>
 					<lb/><l>Was iſt des Menſchen Sohn vor dir,</l>
@@ -227,7 +230,7 @@
 					<lb/><l>Doch bald nach ſeinem kurzem Leiden</l>
 					<lb/><l>Wirſt du in Majeſtät ihn kleiden!</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Dann betet ihn die Schöpfung an;</l>
 					<lb/><l>Du willſt, daß ſie dein Zepter küſse.</l>
 					<lb/><l>Du haſt ihm alles unterthan</l>
@@ -237,7 +240,8 @@
 					<lb/><l>Das Volk der Luft, und in dem Meere</l>
 					<lb/><l>Die Fiſch und alle ſeine Heere.</l>
 				</lg>
-				<lg type="choir" n="Beyde Chöre.">
+				<lg type="choir" n="7">
+					<head>Beyde Chöre.</head>
 					<lb/><l>Wer iſt ſo würdig als du, von uns bewundert zu werden,</l>
 					<lb/><l>Du, unſer Beherrſcher, o <rs type="person" key="G0001">Gott</rs>?</l>
 					<lb/><l>Wie ſtralet dein Name ſo herrlich auf Erden,</l>

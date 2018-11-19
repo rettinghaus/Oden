@@ -182,7 +182,7 @@
 			<pb n="26" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der ſechs und achtzigſte Pſalm.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l><rs type="person" key="G0001">Herr</rs>, erhöre meine Klagen!</l>
 					<lb/><l>Schaue her auf meine Plagen,</l>
 					<lb/><l>Elend bin ich, arm bin ich.</l>
@@ -190,7 +190,7 @@
 					<lb/><l>Rette deines Knechtes Leben;</l>
 					<lb/><l>Hilf mir, denn ich trau auf dich!</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Ach es leucht ein Strahl des Lichtes</l>
 					<lb/><l>deines Vaterangeſichtes</l>
 					<lb/><l>dem, den du gebeugt haſt, mir!</l>
@@ -198,7 +198,7 @@
 					<lb/><l>Deiner Wahl, mit deiner Rechte:</l>
 					<lb/><l>Denn mein Herz verlangt nach dir!</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Du biſt gnädig, zeigſt an allen,</l>
 					<lb/><l>Die dir flehn, dein Wohlgefallen;</l>
 					<lb/><l>Ach vernimm, <rs type="person" key="G0001">Gott</rs>, mein Gebet!</l>
@@ -206,7 +206,7 @@
 					<lb/><l>Merk auf meiner Stimme Bitten;</l>
 					<lb/><l>Höre, wie mein Herz dir fleht!</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Eitel iſt die Macht der Götter,</l>
 					<lb/><l>Du allein biſt ein Erretter;</l>
 					<lb/><l>Wer kann Wunder thun, als du?</l>
@@ -214,7 +214,7 @@
 					<lb/><l>Kommen, preiſen deine Stärke,</l>
 					<lb/><l>Jauchzen deinem Namen zu!</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Dir iſt niemand zu vergleichen;</l>
 					<lb/><l>Du biſt groß, und du thuſt Zeichen,</l>
 					<lb/><l>Du, o <rs type="person" key="G0001">Herr</rs>, biſt Gott allein!</l>
@@ -222,7 +222,7 @@
 					<lb/><l>Daß ich richtig wandeln möge;</l>
 					<lb/><l>Laß mich treu der Wahrheit ſeyn!</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Eins mit dir laß deinen Willen</l>
 					<lb/><l>Mich mit frommer Luſt erfüllen;</l>
 					<lb/><l>Herzlich dank ich dir, mein <rs type="person" key="G0001">Gott</rs>.</l>
@@ -230,7 +230,7 @@
 					<lb/><l>Denn wir groß iſt deine Güte,</l>
 					<lb/><l>Deine Hülf in meiner Noth!</l>
 				</lg>
-				<lg>
+				<lg n="7">
 					<lb/><l>Nahe war ich ſchon dem Grabe,</l>
 					<lb/><l>Du befreyteſt mich vom Grabe,</l>
 					<lb/><l>Aus der Tiefe halffſt du mir!</l>
@@ -238,7 +238,7 @@
 					<lb/><l>Plagen dräuen meinem Leben,</l>
 					<lb/><l>Und erzittern nicht vor dir!</l>
 				</lg>
-				<lg>
+				<lg n="8">
 					<lb/><l>Aber du biſt ganz Erbarmen,</l>
 					<lb/><l>Ein Verſchoner, mild dem Armen,</l>
 					<lb/><l>Treu dem Frommen, der dir klagt.</l>
@@ -246,7 +246,7 @@
 					<lb/><l>Deiner Wahl mit deiner Rechte.</l>
 					<lb/><l>Hilf dem Sohne deiner Magd!</l>
 				</lg>
-				<lg>
+				<lg n="9">
 					<lb/><l>Laß ein Zeichen, <rs type="person" key="G0001">Herr</rs>, geſchehen,</l>
 					<lb/><l>Mir zum Heil, und laß, <rs type="person" key="G0001">Gott</rs>, ſehen,</l>
 					<lb/><l>Daß dein Knecht dir theuer iſt!</l>

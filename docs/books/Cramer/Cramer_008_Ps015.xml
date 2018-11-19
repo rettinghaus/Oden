@@ -182,43 +182,43 @@
 			<pb n="8" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der funfzehnte Pſalm.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Wer darf im Zelte deines Ruhmes</l>
 					<lb/><l>Sein Zelt, <rs type="person" key="G0001">Jehova</rs>, ſich erbaun</l>
 					<lb/><l>Und auf den Berg des Heiligthumes</l>
 					<lb/><l>Sich als in ſeine Wohnung traun?</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Der, der vor dir unſträflich wandelt,</l>
 					<lb/><l>Nie ungehorſam ſeiner Pflicht;</l>
 					<lb/><l>Der heilig denkt und heilig handelt,</l>
 					<lb/><l>Und gern die Wahrheit ſucht und ſpricht:</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Der nie mit ſeiner Zunge ſchmähet,</l>
 					<lb/><l>Und, groß durch ſeine Redlichkeit,</l>
 					<lb/><l>Nie ſeinen Nächſten hintergehet.</l>
 					<lb/><l>Und Arges ihm zu thun, ſich ſcheut:</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Der, der die Ehre ſeiner Freunde</l>
 					<lb/><l>Nie mit Verleumdungen verletzt;</l>
 					<lb/><l>Der <rs type="person" key="G0001">Gottes</rs> frevelvolle Feinde</l>
 					<lb/><l>Nie ſeiner Achtung würdig ſchätzt:</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Der die Verehrer <rs type="person" key="G0001">Gottes</rs> ehret,</l>
 					<lb/><l>Mit ihnen thut, was ihm gefällt;</l>
 					<lb/><l>Das, was er ſeinem Nächſten ſchwöret,</l>
 					<lb/><l>Und ſchwür er ſich zum Schaden, hält:</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Der nie, zum Trotze der Geſetze,</l>
 					<lb/><l>Auf ungerechten Wucher leiht,</l>
 					<lb/><l>Und durch gerecht erworbne Schätze</l>
 					<lb/><l>Die, die <rs type="person" key="G0001">Gott</rs> darben läßt, erfreut:</l>
 				</lg>
-				<lg>
+				<lg n="7">
 					<lb/><l>Der nie, Unſchuldigen entgegen,</l>
 					<lb/><l>Geſchenke von Verbrechern nimmt;</l>
 					<lb/><l>Dem, dem iſt ſeiner Tugend wegen</l>

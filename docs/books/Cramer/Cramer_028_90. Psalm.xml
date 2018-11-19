@@ -182,105 +182,94 @@
 			<pb n="28" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der neunzigſte Pſalm.</title></head>
-				<lg>
-					<lb/><l><rs type="person" key="G0001">Herr</rs>, unſer <rs type="person" key="G0001"
-							>Gott</rs>, du warſt, du biſt zu allen Zeiten</l>
+				<lg n="1">
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, unſer <rs type="person" key="G0001">Gott</rs>, du warſt, du biſt zu allen Zeiten</l>
 					<lb/><l>Der Frommen Zuverſicht, ihr einziges Vertraun.</l>
 					<lb/><l>Sie werden auch ihr Heil in allen Ewigkeiten</l>
 					<lb/><l>Auf dieſen ſichern Felſen bauen.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Du warſt vor der Geburt der Berge; vor der Erde,</l>
 					<lb/><l>Die durch dein ſchaffend Wort voll deiner Wunder iſt;</l>
 					<lb/><l>Du warſt, eh du dem Heer der Sterne zuriefſt: Werde!</l>
 					<lb/><l>Und ewig biſt du, der du biſt.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Du willſt: Wir ſind. Dein Hauch beſeelet unſre Glieder;</l>
 					<lb/><l>Wie ſchnell erſtarren ſie, des Todes leichter Raub,</l>
 					<lb/><l>Wenn du gebieteſt: Sterbt! Kommt, Menſchenkinder, wieder,</l>
 					<lb/><l>Und werdet, was ihr waret, Staub.</l>
 				</lg>
-				<lg>
-					<lb/><l>Weltalter ſind vor dir, du <rs type="person" key="G0001">Herr</rs> der
-						Ewigkeiten,</l>
+				<lg n="4">
+					<lb/><l>Weltalter ſind vor dir, du <rs type="person" key="G0001">Herr</rs> der Ewigkeiten,</l>
 					<lb/><l>Ein Tag, der geſtern war. Nachtwachen gleich entfliehn</l>
 					<lb/><l>Jahrtauſende (für uns ſo grenzenloſe Zeiten!)</l>
 					<lb/><l>Vor dir, wie Augenblicke, hin.</l>
 				</lg>
-				<lg>
-					<lb/><l>Du ſtrömſt die Menſchen weg; ihr Leben, <rs type="person" key="G0001"
-							>Herr</rs>, vergehet</l>
+				<lg n="5">
+					<lb/><l>Du ſtrömſt die Menſchen weg; ihr Leben, <rs type="person" key="G0001">Herr</rs>, vergehet</l>
 					<lb/><l>Schnell, wie ein leichter Schlaf. Gras, das am Morgen blüht,</l>
 					<lb/><l>Schießt fröhlich auf und grünt; am Abend wirds gemähet</l>
 					<lb/><l>Und welket, wie der Menſch verblüht.</l>
 				</lg>
-				<lg>
-					<lb/><l>Dein ſtrenger Eifer ſchilt, und wir, o <rs type="person" key="G0001"
-							>Gott</rs>, verderben:</l>
+				<lg n="6">
+					<lb/><l>Dein ſtrenger Eifer ſchilt, und wir, o <rs type="person" key="G0001">Gott</rs>, verderben:</l>
 					<lb/><l>Wie könnte, wenn du ſchiltſt, der Staub vor dir beſtehn?</l>
 					<lb/><l>Dein aufgebrachter Grimm gebietet uns zu ſterben,</l>
 					<lb/><l>Du dräueſt nur, und wir vergehn.</l>
 				</lg>
-				<lg>
-					<lb/><l>Vor dir, <rs type="person" key="G0001">Allwiſsender</rs>, erſcheinen unſre
-						Sünden,</l>
+				<lg n="7">
+					<lb/><l>Vor dir, <rs type="person" key="G0001">Allwiſsender</rs>, erſcheinen unſre Sünden,</l>
 					<lb/><l>Du ziehſt, was wir in Nacht verhüllten, vors Gericht;</l>
 					<lb/><l>Vergebens wähnten wir, du würdeſt ſie nicht finden;</l>
 					<lb/><l>Du ſiehſt und ſtelleſt ſie ans Licht.</l>
 				</lg>
-				<lg>
+				<lg n="8">
 					<lb/><l>Geſchwinder, als ein Bach, verfließen unſre Tage,</l>
 					<lb/><l>Wie ein Gedank ſo ſchnell, weil du ein Eifrer biſt;</l>
 					<lb/><l>Und unſre Jahre ſind vor dir wie ein Sage,</l>
 					<lb/><l>Die man kaum anhört und vergißt.</l>
 				</lg>
-				<lg>
+				<lg n="9">
 					<lb/><l>Nur ſiebzig Jahre währt das Leben; achtzig Sonnen,</l>
 					<lb/><l>Wie ſelten ſehn wir die! Und wenn es köſtlich war,</l>
 					<lb/><l>Was haben wir als Müh und Eitelkeit gewonnen,</l>
 					<lb/><l>Als Unruh, Kummer und Gefahr?</l>
 				</lg>
-				<lg>
+				<lg n="10">
 					<lb/><l>So ſchnell verſchwindet uns die eitle Zeit des Lebens,</l>
 					<lb/><l>Als flögen wir davon! Wir fühlen dein Gericht,</l>
 					<lb/><l>Und sündigen doch mehr! Du zürnſt für uns vergebens;</l>
 					<lb/><l>Du rächſt dich, und wir zittern nicht!</l>
 				</lg>
-				<lg>
-					<lb/><l>Ach, <rs type="person" key="G0001">Herr</rs>, erinnre du uns, daß wir ſterben
-						müſsen,</l>
+				<lg n="11">
+					<lb/><l>Ach, <rs type="person" key="G0001">Herr</rs>, erinnre du uns, daß wir ſterben müſsen,</l>
 					<lb/><l>Und laß uns für das Grab der Klugheit Schule ſeyn!</l>
 					<lb/><l>Laß deine Gegenwart uns endlich noch genießen,</l>
 					<lb/><l>Und wieder deine Knecht erfreun!</l>
 				</lg>
-				<lg>
-					<lb/><l>Ach frühe ſeegn' uns, <rs type="person" key="G0001">Gott</rs>, mit deiner
-						Vatergüte;</l>
+				<lg n="12">
+					<lb/><l>Ach frühe ſeegn' uns, <rs type="person" key="G0001">Gott</rs>, mit deiner Vatergüte;</l>
 					<lb/><l>Gesättigt werden wir, wenn du uns gnädig biſt.</l>
 					<lb/><l>Und wir frohlocken dir mit jauchzendem Gemüthe,</l>
 					<lb/><l>So lang in uns ein Hauch noch iſt.</l>
 				</lg>
-				<lg>
-					<lb/><l>Erquicke, tröſt uns, <rs type="person" key="G0001">Herr</rs>, nach ſo viel
-						trüben Tagen.</l>
+				<lg n="13">
+					<lb/><l>Erquicke, tröſt uns, <rs type="person" key="G0001">Herr</rs>, nach ſo viel trüben Tagen.</l>
 					<lb/><l>Ach allzu lange drückt uns unſrer Leiden Laſt!</l>
 					<lb/><l>Erbarmer, ende nun ſo vieler Jahre Plagen,</l>
 					<lb/><l>Womit du uns gezüchtigt haſt.</l>
 				</lg>
-				<lg>
+				<lg n="14">
 					<lb/><l>Verherrliche dich nun an denen, die dir dienen,</l>
-					<lb/><l>Durch deine Wunder, <rs type="person" key="G0001">Gott</rs>; denn du kannſt
-						Wunder thun!</l>
+					<lb/><l>Durch deine Wunder, <rs type="person" key="G0001">Gott</rs>; denn du kannſt Wunder thun!</l>
 					<lb/><l>Laß deine Herrlichkeit und deinen Ruhm auf ihnen</l>
 					<lb/><l>Und auch auf ihren Kindern ruhn!</l>
 				</lg>
-				<lg>
-					<lb/><l>Sey wieder freundlich, <rs type="person" key="G0001">Gott</rs>! Laß unſer
-						Werk gelingen!</l>
+				<lg n="15">
+					<lb/><l>Sey wieder freundlich, <rs type="person" key="G0001">Gott</rs>! Laß unſer Werk gelingen!</l>
 					<lb/><l>Heil uns, wenn über uns dein Vaterauge wacht!</l>
-					<lb/><l><rs type="person" key="G0001">Herr</rs>, födre, was wir thun, und laß uns,
-						laß gelingen</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, födre, was wir thun, und laß uns, laß gelingen</l>
 					<lb/><l>Uns unſer Werk durch deine Macht!</l>
 				</lg>
 			</div>

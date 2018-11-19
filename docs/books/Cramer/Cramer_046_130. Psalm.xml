@@ -182,46 +182,44 @@
 			<pb n="46" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der hundert und dreyßigſte Pſalm.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Aus der Tiefe ruf ich dir,</l>
 					<lb/><l>Höre, <rs type="person" key="G0001">Gott</rs>, in deinen Höhen;</l>
 					<lb/><l>Merk auf meiner Stimme Flehen,</l>
 					<lb/><l>Neige, <rs type="person" key="G0001">Herr</rs>, dein Ohr zu mir!</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Rechneſt du uns Sünde zu;</l>
 					<lb/><l>Willſt du richten: Wer kann leben?</l>
 					<lb/><l>Doch du kannſt, o <rs type="person" key="G0001">Herr</rs>, vergeben;</l>
 					<lb/><l>Wer iſt gnädiger, als du?</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Deine Hoheit iſt Verzeihn,</l>
 					<lb/><l>Daß man deiner, <rs type="person" key="G0001">Gott</rs>, ſich freue,</l>
 					<lb/><l>Ganz ſich deinem Dienſte weihe,</l>
 					<lb/><l>Willig, Gott, dein Knecht zu ſeyn.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l><rs type="person" key="G0001">Gottes</rs> harr ich, und mein Geiſt</l>
 					<lb/><l>Harrt, wie jammernd ich auch weine,</l>
 					<lb/><l>Ob er mir nicht bald erſcheine,</l>
 					<lb/><l>Wie ſein heilig Wort verheißt.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Meine Seele harret ſein,</l>
 					<lb/><l>Harrt von einer Morgenwache</l>
 					<lb/><l>Bis zur andern Morgenwache</l>
 					<lb/><l>Auf das Ende meiner Pein.</l>
 				</lg>
-				<lg>
-					<lb/><l>Hoffe, <rs type="person" key="J0002">Jacob</rs>, auf den <rs type="person"
-							key="G0001">Herrn</rs>;</l>
+				<lg n="6">
+					<lb/><l>Hoffe, <rs type="person" key="J0002">Jacob</rs>, auf den <rs type="person" key="G0001">Herrn</rs>;</l>
 					<lb/><l>Denn bey ihm iſt Heil und Gnade;</l>
 					<lb/><l>Selbſt im Dunkeln weiß er Pfade,</l>
 					<lb/><l>Und ſein Arm errettet gern.</l>
 				</lg>
-				<lg>
-					<lb/><l><placeName>Iſrael</placeName>, vertrau dem <rs type="person" key="G0001"
-							>Herrn</rs>,</l>
+				<lg n="7">
+					<lb/><l><placeName>Iſrael</placeName>, vertrau dem <rs type="person" key="G0001">Herrn</rs>,</l>
 					<lb/><l>Denn er wird von allen Sünden</l>
 					<lb/><l>Dich erlöſen und entbinden;</l>
 					<lb/><l><rs type="person" key="G0001">Gott</rs> verzeiht und rettet gern.</l>

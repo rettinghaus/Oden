@@ -182,55 +182,55 @@
 			<pb n="12" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der drey und zwanzigſte Pſalm.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l><rs type="person" key="G0001">Gott</rs> iſt mein Hirt!</l>
 					<lb/><l>Im Schatten ſeiner Güte</l>
 					<lb/><l>Singt mein lautjauchzendes Gemüthe,</l>
 					<lb/><l>Und dankt, weil mir nichts mangeln wird.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Er führet mich</l>
 					<lb/><l>Auf ewiggrüne Weiden.</l>
 					<lb/><l>Hier blühen mir die reinſten Freuden.</l>
 					<lb/><l>Und meine Seele sättigt ſich.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Er tränket ſie,</l>
 					<lb/><l>Wenn Hitz und Durſt ſie ſchwächen</l>
 					<lb/><l>Aus friſchen angenehmen Bächen,</l>
 					<lb/><l>Und meine Seel erſchöpft ſie nie.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Wenn er gebeut,</l>
 					<lb/><l>Muß aller Sturm ſich legen.</l>
 					<lb/><l>Er führt mich, ſeines Namens wegen,</l>
 					<lb/><l>Den Fußſteig der Gerechtigkeit.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Mit dir will ich</l>
 					<lb/><l>In finſtern Thälern wallen!</l>
 					<lb/><l>Ich fürchte nichts; ich kann nicht fallen!</l>
 					<lb/><l>Du biſt mein Stab; des tröſt ich mich.</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Du rufeſt mich,</l>
 					<lb/><l>Damit ich mich erfriſche,</l>
 					<lb/><l>Zu deinem wundervollen Tiſche;</l>
 					<lb/><l>Und meine Feinde quälen ſich.</l>
 				</lg>
-				<lg>
+				<lg n="7">
 					<lb/><l>Herr, du biſt mein,</l>
 					<lb/><l>Und dein iſt meine Seele!</l>
 					<lb/><l>Du ſalbſt mein Haupt mit deinem Oele;</l>
 					<lb/><l>Du ſchenkſt, du ſchenkeſt mir voll ein!</l>
 				</lg>
-				<lg>
+				<lg n="8">
 					<lb/><l>Mir folgt dein Heil;</l>
 					<lb/><l>So lang ich auf der Erde,</l>
 					<lb/><l>Herr, deinen Namen preiſen werde,</l>
 					<lb/><l>Sey deine Vaterhuld mein Theil!</l>
 				</lg>
-				<lg>
+				<lg n="9">
 					<lb/><l>Hier ruh ich gern</l>
 					<lb/><l>In <rs type="person" key="G0001">Gottes</rs> Heiligthume,</l>
 					<lb/><l>Der Ruheſtatt von ſeinem Ruhme;</l>

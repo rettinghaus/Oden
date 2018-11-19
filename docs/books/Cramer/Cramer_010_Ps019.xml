@@ -182,7 +182,7 @@
 			<pb n="10" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der neunzehnte Pſalm.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Die Himmel rufen, jeder ehret</l>
 					<lb/><l>Die Größe <rs type="person" key="G0001">Gottes</rs>, ſeine Pracht.</l>
 					<lb/><l>Die auſgeſpannte Feſte lehret</l>
@@ -190,7 +190,7 @@
 					<lb/><l>Und aller Welten Harmonie</l>
 					<lb/><l>Verkündigt und beſinget ſie.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Es ſtrömt von einem Tag zum andern,</l>
 					<lb/><l>Gleich Bächen, ihre Rede fort,</l>
 					<lb/><l>Und eine Nacht erzählt der andern</l>
@@ -198,7 +198,7 @@
 					<lb/><l>Es ſind nicht Sprachen, die ſie ſpricht;</l>
 					<lb/><l>Doch wer hört ihre Stimmen nicht?</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Die Ordnung kunſterfüllter Kreiſe</l>
 					<lb/><l>Verherrlicht <rs type="person" key="G0001">Gott</rs> durch jedes Land,</l>
 					<lb/><l>Und macht, damit der Menſch ihn preiſe,</l>
@@ -206,7 +206,7 @@
 					<lb/><l>Denn wer ſieht ihre Wunderbahn,</l>
 					<lb/><l>Und betet nicht den Schöpfer an?</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Wer ſchuf, daß uns der Tag erwache,</l>
 					<lb/><l>Der Sonne ſtralend Zelt, als er?</l>
 					<lb/><l>Sie kömmt; ſo geht vom Brautgemache</l>
@@ -214,7 +214,7 @@
 					<lb/><l>Sie eilet, wie ein Held zum Streit</l>
 					<lb/><l>Erwachet, und des Kampfs ſich freut.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Ihr hoher Aufgang iſt im Morgen,</l>
 					<lb/><l>Bis in den fernen Weſt ihr Lauf.</l>
 					<lb/><l>Nichts bleibt vor ihrer Glut verborgen;</l>
@@ -222,7 +222,7 @@
 					<lb/><l>Ihr Glanz zerſtreut das Graun der Nacht,</l>
 					<lb/><l>Beſeelt die Welt und giebt ihr Pracht.</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Das Recht, das uns der Herr gegeben,</l>
 					<lb/><l>Iſt heilig und untadelhaft.</l>
 					<lb/><l>Es ſtärkt die Seelen, daß ſie leben,</l>
@@ -231,7 +231,7 @@
 					<lb/><l>Erhellt und macht die Einfalt klug.</l>
 				</lg>
 				<pb n="11" ed="CPEB1774"/>
-				<lg>
+				<lg n="7">
 					<lb/><l>Aus ſeinen richtigen Geſetzen</l>
 					<lb/><l>Quillt Freude für die Traurigkeit.</l>
 					<lb/><l>Sie heiligen, wenn ſie ergötzen.</l>
@@ -239,7 +239,7 @@
 					<lb/><l>Herr, deines Wortes reines Licht</l>
 					<lb/><l>Erleuchtet jedes Angeſicht.</l>
 				</lg>
-				<lg>
+				<lg n="8">
 					<lb/><l>Die Furcht vor Gott erhebt und ſchmücket</l>
 					<lb/><l>Ein folgſam Herz, und macht es rein.</l>
 					<lb/><l>Und ewig bleiben die beglücket,</l>
@@ -247,7 +247,7 @@
 					<lb/><l>Denn alles, was der <rs type="person" key="G0001">Herr</rs> gebeut,</l>
 					<lb/><l>Iſt Wahrheit und Gerechtigkeit.</l>
 				</lg>
-				<lg>
+				<lg n="9">
 					<lb/><l>Die Zeugniſse des <rs type="person" key="G0001">Herrn</rs> ſind beſser</l>
 					<lb/><l>Und mehr der Sehnſucht werth, als Gold.</l>
 					<lb/><l>Ihr Werth iſt köſtlicher und gröſser</l>
@@ -255,7 +255,7 @@
 					<lb/><l>Süß ſind ſie, wie der Honig iſt,</l>
 					<lb/><l>Und mehr, als der vom Stocke fließt.</l>
 				</lg>
-				<lg>
+				<lg n="10">
 					<lb/><l>Wie adeln ſie nicht deine Knechte!</l>
 					<lb/><l>Der hat viel Seegen, der ſie hält.</l>
 					<lb/><l>Doch oft vergißt man deine Rechte:</l>
@@ -263,7 +263,7 @@
 					<lb/><l>Vergieb, das bitt ich, <rs type="person" key="G0001">Gott</rs>, von dir,</l>
 					<lb/><l>Auch die verborgnen Sünden mir!</l>
 				</lg>
-				<lg>
+				<lg n="11">
 					<lb/><l>Enthalte mich von frechen Sünden,</l>
 					<lb/><l>Die ein vermeßner Stolz erzeugt!</l>
 					<lb/><l>Und laß ſie den nicht überwinden,</l>
@@ -271,7 +271,7 @@
 					<lb/><l>Daß ich unſchuldig, rein und frey</l>
 					<lb/><l>Von großer Uebertretung ſei!</l>
 				</lg>
-				<lg>
+				<lg n="12">
 					<lb/><l>Vernimm voll Huld aus meinem Munde</l>
 					<lb/><l>Die Reden, die ſich deiner freun,</l>
 					<lb/><l>Und laß, zur angenehmen Stunde,</l>

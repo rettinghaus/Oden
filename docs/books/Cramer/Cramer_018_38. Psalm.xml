@@ -182,7 +182,7 @@
 			<pb n="18" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der acht und dreyßigſte Pſalm.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Laß mich nicht deinen Zorn empfinden,</l>
 					<lb/><l>Und zeuch mich nicht in dein Gericht!</l>
 					<lb/><l>Beſtrafe wegen meiner Sünden</l>
@@ -192,7 +192,7 @@
 					<lb/><l>Fällt ſchwer und mit Gewalt auf mich,</l>
 					<lb/><l>Weil ich von deinem Pfad entwich.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Mein ganzer Leib iſt ſiech und müde,</l>
 					<lb/><l>Ganz ohne Kraft vor deinem Dräun.</l>
 					<lb/><l>Vor meiner Sünd erquickt kein Friede</l>
@@ -202,7 +202,7 @@
 					<lb/><l>Mich, weil dein Eifer mich erfaſst,</l>
 					<lb/><l>Tief in den Staub, wie eine Laſt.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Wie häßlich eitern meine Wunden</l>
 					<lb/><l>Vor meiner Thorheit, die mich drückt!</l>
 					<lb/><l>Voll Angſt verſeufz ich meine Stunden,</l>
@@ -212,18 +212,17 @@
 					<lb/><l>Der Seuche Wut, die mich verzehrt,</l>
 					<lb/><l>Hat meinen ganzen Leib zerſtört.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Ich bin gebeugt; ich bin zerſchlagen!</l>
 					<lb/><l>Ich ſchrey voll Seelenangſt zu dir!</l>
-					<lb/><l><rs type="person" key="G0001">Herr</rs>, du vernimmſt mein brünſtig
-						Klagen,</l>
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, du vernimmſt mein brünſtig Klagen,</l>
 					<lb/><l>Und hörſt auf das Geſchrey von mir.</l>
 					<lb/><l>Mein Herz erbebt; die Kräfte entgehen</l>
 					<lb/><l>Mir völlig, und ich kann kaum ſehen;</l>
 					<lb/><l>Denn mein umnebelt Auge bricht,</l>
 					<lb/><l>Und mir verliſcht ſein dunkles Licht.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Und meine Lieben, meine Freunde</l>
 					<lb/><l>Scheun meine Quaal; auch fliehen mich,</l>
 					<lb/><l>Die mir verwandt ſind; meine Feinde</l>
@@ -233,7 +232,7 @@
 					<lb/><l>Und was ſie täglich reden, iſt</l>
 					<lb/><l>Nichts als Verrätherey und Liſt.</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Da ſie ſich wider mich verſchwören,</l>
 					<lb/><l>Nimmt niemand meines Rechts ſich an.</l>
 					<lb/><l>Und ich muß taub ſeyn, und nicht hören,</l>
@@ -243,9 +242,8 @@
 					<lb/><l>Wie der, der ſeinen Klägern nicht,</l>
 					<lb/><l>Weil er nicht rein iſt, widerſpricht.</l>
 				</lg>
-				<lg>
-					<lb/><l>Dein harr ich, <rs type="person" key="G0001">Herr</rs>; du wirſt nicht
-						ſchweigen,</l>
+				<lg n="7">
+					<lb/><l>Dein harr ich, <rs type="person" key="G0001">Herr</rs>; du wirſt nicht ſchweigen,</l>
 					<lb/><l>Und, <rs type="person" key="G0001">Herr, mein Gott</rs>, mir gnädig ſeyn,</l>
 					<lb/><l>Daß die, dieß hoff ich, die mich beugen,</l>
 					<lb/><l>Sich meiner Angſt nicht ewig freun!</l>
@@ -254,7 +252,7 @@
 					<lb/><l>Ein Siegſlied jauchzen, und ſich blähn,</l>
 					<lb/><l>Daß ſie mich hingeſtürzet sähn.</l>
 				</lg>
-				<lg>
+				<lg n="8">
 					<lb/><l>Gemacht zu Leiden, die mich quälen,</l>
 					<lb/><l>Seh ich ſtets meinen Schmerz vor mir.</l>
 					<lb/><l>Dir will ich meine Sünd erzählen!</l>
@@ -262,10 +260,9 @@
 					<lb/><l>Doch die, die mich zu fällen, toben,</l>
 					<lb/><l>Die leben mächtig und erhoben,</l>
 					<lb/><l>Und meine Haſser, die zugleich</l>
-					<lb/><l>Dir feind ſind, <rs type="person" key="G0001">Gott</rs>, ſind groß und
-						reich.</l>
+					<lb/><l>Dir feind ſind, <rs type="person" key="G0001">Gott</rs>, ſind groß und reich.</l>
 				</lg>
-				<lg>
+				<lg n="9">
 					<lb/><l>Ich liebte ſie und ſie vergelten</l>
 					<lb/><l>Mein Wohlthun mit Verrath und Schmach.</l>
 					<lb/><l>Sie läſtern mich; ſie mögen ſchelten!</l>

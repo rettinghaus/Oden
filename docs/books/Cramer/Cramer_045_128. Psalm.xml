@@ -182,45 +182,43 @@
 			<pb n="45" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der hundert und acht und zwanzigſte Pſalm.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Die Gnade <rs type="person" key="G0001">Gottes</rs> ſey mit allen,</l>
 					<lb/><l>Die willig ſeine Pfade wallen;</l>
 					<lb/><l>Mit allen, die voll Freudigkeit</l>
 					<lb/><l>Erfüllen, was ſein Wort gebeut!</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>O du, der du den <rs type="person" key="G0001">Herrn</rs> verehreſt,</l>
 					<lb/><l>Mit deiner Hände Fleiße nähreſt</l>
 					<lb/><l>Du dich, dein Haus; und Luſt und Heil</l>
 					<lb/><l>Wird, Frommer, deiner Tugend Theil.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>In Sonnenglanze ſtrahlt dein Leben;</l>
 					<lb/><l>Dein Weib, ein Weinſtock voller Reben,</l>
 					<lb/><l>Grünt dir und breitet um dein Haus</l>
 					<lb/><l>Umher viel edle Ranken aus.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Die Kinder, welche dich umtanzen,</l>
 					<lb/><l>Erheben ſich, wie Palmenpflanzen.</l>
 					<lb/><l>Wie grün, wie Blättervoll und friſch</l>
 					<lb/><l>Umſchatten ſie nicht deinen Tiſch!</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Sieh, alſo wird von <rs type="person" key="G0001">Gottes</rs> Segen</l>
 					<lb/><l>Der Mann beglückt, der auf den Wegen</l>
 					<lb/><l>Der Furcht des <rs type="person" key="G0001">Herrn</rs> mit Luſt und Muth</l>
 					<lb/><l>Einhergeht und kein Uebels thut!</l>
 				</lg>
-				<lg>
-					<lb/><l>Aus <placeName>Zion</placeName> wird dich <rs type="person" key="G0001"
-							>Gott</rs> beglücken;</l>
+				<lg n="6">
+					<lb/><l>Aus <placeName>Zion</placeName> wird dich <rs type="person" key="G0001">Gott</rs> beglücken;</l>
 					<lb/><l>Du ſchauſt mit wonnevollen Blicken</l>
-					<lb/><l><placeName>Jeruſalem</placeName>, des <rs type="person" key="G0001"
-							>Höchſten</rs> Stadt,</l>
+					<lb/><l><placeName>Jeruſalem</placeName>, des <rs type="person" key="G0001">Höchſten</rs> Stadt,</l>
 					<lb/><l>Die er ſich ſelbſt erbauet hat.</l>
 				</lg>
-				<lg>
+				<lg n="7">
 					<lb/><l>Entfernt vom Elend frecher Sünder</l>
 					<lb/><l>Erblickſt du deiner Kinder Kinder,</l>
 					<lb/><l>Genüßeſt, von dem Herrn belohnt,</l>

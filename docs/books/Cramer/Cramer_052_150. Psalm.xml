@@ -182,33 +182,28 @@
 			<pb n="52" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der hundert und funfzigſte Pſalm.</title></head>
-				<lg>
-					<lb/><l>Erhebt, erhebet den <rs type="person" key="G0001">Herrn</rs> in ſeinem
-						Heiligthume,</l>
+				<lg n="1">
+					<lb/><l>Erhebt, erhebet den <rs type="person" key="G0001">Herrn</rs> in ſeinem Heiligthume,</l>
 					<lb/><l>Und in der Veſte ſeiner Kraft!</l>
-					<lb/><l>Erzählt die Thaten des <rs type="person" key="G0001">Herrn</rs> zu ſeines
-						Namens Ruhme,</l>
+					<lb/><l>Erzählt die Thaten des <rs type="person" key="G0001">Herrn</rs> zu ſeines Namens Ruhme,</l>
 					<lb/><l>Denn wundervoll iſt, was er ſchafft.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Wer iſt dem Mächtigen gleich? Wir jauchzen, wir erſtaunen</l>
 					<lb/><l>Vor ſeiner großen Herrlichkeit.</l>
 					<lb/><l>Ihm töne der Lauten Geſang; frohlockt ihm mit Poſaunen!</l>
 					<lb/><l>Ihm ſei der Harfen Spiel geweiht!</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Lobt ihn mit Pauken und Tanz, und die Trommet erſchalle</l>
 					<lb/><l>In eurer Saiten Harmonie,</l>
-					<lb/><l>Daß von den Thaten des <rs type="person" key="G0001">Herrn</rs> der Erdkreis
-						wiederhalle;</l>
+					<lb/><l>Daß von den Thaten des <rs type="person" key="G0001">Herrn</rs> der Erdkreis wiederhalle;</l>
 					<lb/><l>Er hör es und verbreite ſie!</l>
 				</lg>
-				<lg>
-
+				<lg n="4">
 					<lb/><l>Ihr hellen Cymbeln tönt ihm! Du, liedervoller Pſalter,</l>
 					<lb/><l>Erkling ihm! Preiſt ihn! Preiſt ihn gern!</l>
-					<lb/><l>Es lobe, was Odem hat, <rs type="person" key="G0001">Gott, den Schöpfer, den
-							Erhalter</rs>;</l>
+					<lb/><l>Es lobe, was Odem hat, <rs type="person" key="G0001">Gott, den Schöpfer, den Erhalter</rs>;</l>
 					<lb/><l>Lob, Preis und Jubel ſey dem <rs type="person" key="G0001">Herrn</rs>!</l>
 				</lg>
 			</div>

@@ -182,17 +182,15 @@
 			<pb n="14" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der dreyßigſte Pſalm.</title></head>
-				<lg>
-					<lb/><l>Dich preis ich, <rs type="person" key="G0001">Gott</rs>; denn du haſt mich
-						erhoben;</l>
+				<lg n="1">
+					<lb/><l>Dich preis ich, <rs type="person" key="G0001">Gott</rs>; denn du haſt mich erhoben;</l>
 					<lb/><l>Dir ſoll mein Loblied heilig ſeyn!</l>
 					<lb/><l>Es mögen mächtig und wild, die, die mir feind ſind, toben;</l>
 					<lb/><l>Du giebſt nicht zu, daß ſie ſich über mich freun.</l>
-					<lb/><l>Kaum war mein Schreyen zu dir, o <rs type="person" key="G0001">Jehova</rs>,
-						geeilet,</l>
+					<lb/><l>Kaum war mein Schreyen zu dir, o <rs type="person" key="G0001">Jehova</rs>, geeilet,</l>
 					<lb/><l>So ward ich von dir geheilet.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Ich war umringt von dräuenden Gefahren;</l>
 					<lb/><l>Schon that für mich das Grab ſich auf.</l>
 					<lb/><l>Doch du, Gewaltiger, kamſt, mein Leben zu bewahren;</l>
@@ -200,7 +198,7 @@
 					<lb/><l>Ich ſah die, welche ſchon jauchzten, mich liegen zu ſehen,</l>
 					<lb/><l>Vor deinem Schelten vergehen.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Eilt, ſeinen Ruhm, ihr Frommen, auſzubreiten!</l>
 					<lb/><l>Weiht, weiht ihm euern Lobgeſang!</l>
 					<lb/><l>Erhebt des Heiligen Lob auf liedervollen Saiten!</l>
@@ -208,7 +206,7 @@
 					<lb/><l>Und er, der allen Geſchöpfen ihr Weſen gegeben,</l>
 					<lb/><l>Hat Wohlgefallen am Leben.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Zwar muß vor ihm nicht nur der Sünder zittern;</l>
 					<lb/><l>Oft fühlet ſeines Zornes Macht</l>
 					<lb/><l>Auch ſein Geliebter und weint, beſtürmt von Ungewittern,</l>
@@ -216,31 +214,28 @@
 					<lb/><l>Doch nur die Nacht durch; entriſsen den quälenden Sorgen</l>
 					<lb/><l>Jauchzt er am heiterern Morgen.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Ich ſprach im Glück: Ich werde nie beweget;</l>
 					<lb/><l>Nie ſtürzt mein Berg ein und vergeht.</l>
-					<lb/><l>Denn, <rs type="person" key="G0001">Herr</rs>, du machteſt ihn ſtark; tief
-						war ſein Grund geleget,</l>
+					<lb/><l>Denn, <rs type="person" key="G0001">Herr</rs>, du machteſt ihn ſtark; tief war ſein Grund geleget,</l>
 					<lb/><l>Sein Haupt von dir bis in die Wolken erhöht.</l>
 					<lb/><l>Doch kaum verbargſt du dein Antlitz, wie bebt ich, wie ſanken</l>
 					<lb/><l>Sie hin, die hohen Gedanken!</l>
 				</lg>
-				<lg>
-					<lb/><l>Zu dir will ich, zu dir, <rs type="person" key="G0001">Gott</rs>, ſchreyn und
-						flehen.</l>
+				<lg n="6">
+					<lb/><l>Zu dir will ich, zu dir, <rs type="person" key="G0001">Gott</rs>, ſchreyn und flehen.</l>
 					<lb/><l>Bin ich nun, <rs type="person" key="G0001">Herr</rs>, des Todes Raub:</l>
 					<lb/><l>Was nützt mein edelſtes Blut? Kann dich der Staub erhöhen?</l>
 					<lb/><l>Daß du treu biſt; kann er das preiſen? der Staub?</l>
 					<lb/><l>Vernimm mich; ohne dich ſtürmet und ruhet kein Wetter;</l>
 					<lb/><l>Sey mein Erbarmer und Retter!</l>
 				</lg>
-				<lg>
+				<lg n="7">
 					<lb/><l>Du kömmſt und hilfſt, verwandelſt mein Leiden</l>
 					<lb/><l>In einen jubelvollen Tanz,</l>
 					<lb/><l>Ziehſt mir das Trauerkleid aus und gürteſt mich mit Freuden;</l>
 					<lb/><l>Die Nächte fliehn und mich umſtralet dein Glanz;</l>
-					<lb/><l>Daß ich, mein Ruhm, o mein <rs type="person" key="G0001">Gott</rs>, dir mich
-						dankbar beweiſe,</l>
+					<lb/><l>Daß ich, mein Ruhm, o mein <rs type="person" key="G0001">Gott</rs>, dir mich dankbar beweiſe,</l>
 					<lb/><l>Nie ſchweig und ewig dich preiſe!</l>
 				</lg>
 			</div>

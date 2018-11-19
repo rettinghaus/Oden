@@ -182,7 +182,7 @@
 			<pb n="27" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der acht und achtzigſte Pſalm.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Tag und Nacht, du Heil der Frommen,</l>
 					<lb/><l>Seufz ich, <rs type="person" key="G0001">Herr</rs>, mein Hort, zu dir.</l>
 					<lb/><l>Laß mein Seufzen vor dich kommen;</l>
@@ -192,7 +192,7 @@
 					<lb/><l>Und ich ſinke bald ins Grab,</l>
 					<lb/><l>Wo du mir nicht hilfſt, hinab!</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Denen, die zur Grube fahren,</l>
 					<lb/><l>Aehnlich, aller Leiden Raub,</l>
 					<lb/><l>Sink ich zu der Toten Schaaren</l>
@@ -202,7 +202,7 @@
 					<lb/><l>Weggetilgt auf dein Gebot,</l>
 					<lb/><l>Und von dir vergeſsen, <rs type="person" key="G0001">Gott</rs>!</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>In die Grube hin entrücket,</l>
 					<lb/><l>In die Tief und in die Nacht,</l>
 					<lb/><l>Fühl ich, wie dein Grimm mich drücket,</l>
@@ -212,7 +212,7 @@
 					<lb/><l>Strömen, rauſchen, ſtürzen ſich</l>
 					<lb/><l>Unaufhaltbar über mich!</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Meine treueſten Verwandten</l>
 					<lb/><l>Scheuen mich, erſchreckt von dir,</l>
 					<lb/><l>Treten fern, wie vor Verbannten</l>
@@ -222,7 +222,7 @@
 					<lb/><l>Kraftlos, durch des Elends Macht,</l>
 					<lb/><l>Weint mein Auge Tag und Nacht.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l><rs type="person" key="G0001">Herr</rs>, ich breite meine Hände</l>
 					<lb/><l>Zu dir, täglich fleh ich dir!</l>
 					<lb/><l>Hat nun deine Güt ein Ende?</l>
@@ -232,7 +232,7 @@
 					<lb/><l>Werden ſie vom Staub erſtehn,</l>
 					<lb/><l>Deine Wunder zu erhöhn?</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Können deiner Güte Werke</l>
 					<lb/><l>Kund auch in den Gräbern ſeyn?</l>
 					<lb/><l>Kann der Staub ſich deiner Stärke,</l>
@@ -242,7 +242,7 @@
 					<lb/><l>Rühmt auch die Vergeſsenheit</l>
 					<lb/><l>Deine Huld und Heiligkeit?</l>
 				</lg>
-				<lg>
+				<lg n="7">
 					<lb/><l><rs type="person" key="G0001">Gott</rs>, dir fleh ich, früh am Morgen,</l>
 					<lb/><l>Und du hältſt dein Angeſicht</l>
 					<lb/><l>Immer noch vor mir verborgen,</l>
@@ -252,7 +252,7 @@
 					<lb/><l>Sieh, wie jammervoll ich bin!</l>
 					<lb/><l>Ganz iſt meine Kraft dahin!</l>
 				</lg>
-				<lg>
+				<lg n="8">
 					<lb/><l>Ach mich drücken deine Schrecken,</l>
 					<lb/><l>Denn dein Grimm entzündet ſich;</l>
 					<lb/><l>Deine Fluten, <rs type="person" key="G0001">Gott</rs>, bedecken,</l>

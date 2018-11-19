@@ -183,43 +183,43 @@
 			<!-- Seitenzahl Quelle eins-->
 			<div type="chorale">
 				<head rendition="#c"><title>Der erſte Pſalm.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Heil, Heil dem Manne, der dem Rath</l>
 					<lb/><l>Der Frevler ſich entzieht;</l>
 					<lb/><l>Dem Manne, der den krummen Pfad</l>
 					<lb/><l>Der Uebertreter flieht!</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Der, wo der Gottheit Spötter lacht,</l>
 					<lb/><l>Die fromme Seel entfernt,</l>
 					<lb/><l>Sich <rs type="person" key="G0001">Gottes</rs> Recht zur Freude macht</l>
 					<lb/><l>Und Tag und Nacht es lernt!</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Er grünet, wie am Bach ein Baum</l>
 					<lb/><l>Von ſeinem Segen ſchwillt,</l>
 					<lb/><l>Sich hebt, und einen weiten Raum</l>
 					<lb/><l>Mit ſeinem Wipfel füllt.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Er trägt, wenn ſeine Zeit kömmt, Frucht,</l>
 					<lb/><l>Stets unentlaubt und grün;</l>
 					<lb/><l>Er tröſtet den, der Schatten ſucht;</l>
 					<lb/><l>der Wandrer ſegnet ihn.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Das iſt der Fromme! Was er macht,</l>
 					<lb/><l>Wird Segen und erfreut.</l>
 					<lb/><l>Der Sünder iſt, der ſeiner lacht,</l>
 					<lb/><l>Spreu, die der Wind zerſtreut.</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Der, der ſich gegen <rs type="person" key="G0001">Gott</rs> empört,</l>
 					<lb/><l>Beſteht nicht im Gericht.</l>
 					<lb/><l>Und wo ein Volk iſt, das <rs type="person" key="G0001">Gott</rs> ehrt,</l>
 					<lb/><l>Blühn die Verbrecher nicht.</l>
 				</lg>
-				<lg>
+				<lg n="7">
 					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> verklärt die edle Bahn,</l>
 					<lb/><l>Die der Gerechte geht.</l>
 					<lb/><l>Er ſchaut im Zorn den Sünder an:</l>

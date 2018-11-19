@@ -182,7 +182,7 @@
 			<pb n="48" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der hundert und zwey und vierzigſte Pſalm.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l><rs type="person" key="G0001">Gott</rs>, es ſeufzet meine Stimme,</l>
 					<lb/><l>Traurig fleht dir meine Stimme,</l>
 					<lb/><l>O <rs type="person" key="G0001">Jehova Zebaoth</rs>!</l>
@@ -190,7 +190,7 @@
 					<lb/><l>Meine Rede, was mich ſchrecket;</l>
 					<lb/><l>Herr, dir klag ich meine Noth!</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Wenn vor Angſt ich faſt vergehe,</l>
 					<lb/><l>Wenn ich keinen Weg mehr ſehe,</l>
 					<lb/><l>Bahnſt du, Helfer, meinen Pfad.</l>
@@ -198,7 +198,7 @@
 					<lb/><l>Daß er meinen Fuß berücke,</l>
 					<lb/><l>Rings um mich her iſt Verrath!</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Schaue her zur Rechten, ſiehe,</l>
 					<lb/><l>Niemand kennet mich! Ich fliehe;</l>
 					<lb/><l>Doch umſonſt iſts, daß ich flieh!</l>
@@ -206,7 +206,7 @@
 					<lb/><l>Welch ein Elend ſie auch quäle;</l>
 					<lb/><l>Sonder Hülfe jammert ſie.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Sollt ich ſtets verlaſsen werden?</l>
 					<lb/><l>Nein, o <rs type="person" key="G0001">Gott</rs>, mein Theil auf Erden,</l>
 					<lb/><l>Du biſt meine Zuverſicht.</l>
@@ -214,7 +214,7 @@
 					<lb/><l>Groß iſt deines Knechtes Plage,</l>
 					<lb/><l><rs type="person" key="G0001">Gott</rs>, entzeuch dein Heil mir nicht!</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Hab ich, <rs type="person" key="G0001">Herr</rs>, nicht dich zum Freunde,</l>
 					<lb/><l>Ach, ſo ſiegen meine Feinde,</l>
 					<lb/><l>Haben ſie zu viel Gewalt!</l>
@@ -222,7 +222,7 @@
 					<lb/><l>Ihres Grimmes mich beſchirmen,</l>
 					<lb/><l>Eile, <rs type="person" key="G0001">Herr</rs>, und hilf mir bald!</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l><rs type="person" key="G0001">Gott</rs>, entfeßle meine Seele,</l>
 					<lb/><l>Daß ich deinen Preis erzähle,</l>
 					<lb/><l>Wer gerecht iſt, dankt mit mir.</l>

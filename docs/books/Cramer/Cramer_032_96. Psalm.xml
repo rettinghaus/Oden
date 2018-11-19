@@ -182,7 +182,7 @@
 			<pb n="32" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der ſechs und neunzigſte Pſalm.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Erhebet <rs type="person" key="G0001">Gott</rs> durch neue Lieder,</l>
 					<lb/><l>voll ungehörter Harmonie!</l>
 					<lb/><l>Stimmt ein, ihr Welten, ſchallt ſie wieder,</l>
@@ -192,7 +192,7 @@
 					<lb/><l>Und wiederhole Tag auf Tag,</l>
 					<lb/><l>Wie viel der Herr für uns vermag!</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Groß iſt ſein Heil. O ſagt mit Freuden</l>
 					<lb/><l>Sein Lob der Erde Völkern an!</l>
 					<lb/><l>Verkündigt unter allen Heiden</l>
@@ -202,7 +202,7 @@
 					<lb/><l>Erhebt vor ſeinem Angeſicht;</l>
 					<lb/><l>Nur vor den Göttern zittert nicht!</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Die Götter, die die Völker ehren,</l>
 					<lb/><l>Sind Götzen, ohne Seyn und Kraft.</l>
 					<lb/><l><rs type="person" key="G0001">Gott</rs> aber, den die Himmel lehren,</l>
@@ -212,7 +212,7 @@
 					<lb/><l>Und durch ſein herrlich Heiligthum</l>
 					<lb/><l>Erſchallet ſeines Namens Ruhm!</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Bringt, bringt ihr Völker, kommt und bringet</l>
 					<lb/><l><rs type="person" key="G0001">Jehova</rs> Ruhm und Ehr und Macht!</l>
 					<lb/><l>Erhebt ihn, dankt ihm, jauchzt ihm, ſinget</l>
@@ -222,7 +222,7 @@
 					<lb/><l>Im Schmucke, welcher ihm gefällt;</l>
 					<lb/><l>Es fürcht, es fürcht ihn alle Welt!</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> iſt König! Sagts der Erde!</l>
 					<lb/><l>Sagt, daß die Völker ihn erhöhn:</l>
 					<lb/><l>Sein Reich in ſeinen Welten werde,</l>
@@ -232,9 +232,8 @@
 					<lb/><l>Er richtet mit Gerechtigkeit</l>
 					<lb/><l>Den, der ihn haßt, den, der ihn ſcheut.</l>
 				</lg>
-				<lg>
-					<lb/><l>Es jauchze dir, <rs type="person" key="G0001">Herr</rs>, <rs type="person"
-							key="G0001">Herr</rs>, dein Himmel,</l>
+				<lg n="6">
+					<lb/><l>Es jauchze dir, <rs type="person" key="G0001">Herr</rs>, <rs type="person" key="G0001">Herr</rs>, dein Himmel,</l>
 					<lb/><l>Die Erde dank und freue ſich!</l>
 					<lb/><l>Der Oceane froh Getümmel</l>
 					<lb/><l>Und ſein Bewohner preiſe dich!</l>
@@ -243,7 +242,7 @@
 					<lb/><l>Laßt jeden Baum durch jeden Hain</l>
 					<lb/><l>Sein Lob ertönen, ſein ſich freun!</l>
 				</lg>
-				<lg>
+				<lg n="7">
 					<lb/><l>Vor unſers Gottes Angeſichte</l>
 					<lb/><l>Geht Freude, Lob und Jubel her.</l>
 					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> erſcheinet, daß er richte;</l>

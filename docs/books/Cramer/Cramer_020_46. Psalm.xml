@@ -182,90 +182,77 @@
 			<pb n="20" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der ſechs und vierzigſte Pſalm.</title></head>
-				<lg>
-					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> iſt unſre Macht; ein Schutz in
-						großen Nöthen,</l>
+				<lg n="1">
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> iſt unſre Macht; ein Schutz in großen Nöthen,</l>
 					<lb/><l>Und unſre Zuverſicht;</l>
-					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> verſagt, wenn wir um Hülfe
-						beten,</l>
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> verſagt, wenn wir um Hülfe beten,</l>
 					<lb/><l>Uns ſeine Hülfe nicht.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Auch fürchten wir uns nie, und bräch aus ſeinen Säulen</l>
 					<lb/><l>Der Erdkreis auf uns her;</l>
 					<lb/><l>Und ſollten gleich vor Furcht die Tiefen heulen,</l>
 					<lb/><l>Und sänken Berg ins Meer.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Und ſollte gleich ſein Grimm noch ſo gewaltig toben;</l>
 					<lb/><l>Entſtürzten vor der Wut</l>
 					<lb/><l>Gebirge gleich, vom Erdkreis weggehoben,</l>
 					<lb/><l>Hinab in ſeine Flut.</l>
 				</lg>
-				<lg>
-					<lb/><l>Säh ihre Hügel auch die Stadt des <rs type="person" key="G0001">Herrn</rs>
-						zerriſsen,</l>
+				<lg n="4">
+					<lb/><l>Säh ihre Hügel auch die Stadt des <rs type="person" key="G0001">Herrn</rs> zerriſsen,</l>
 					<lb/><l>Sie würde ſicher ſeyn;</l>
 					<lb/><l>Säh einen neuen Strom in ihren Mauern fließen,</l>
 					<lb/><l>Sie wäſsern und erfreun.</l>
 				</lg>
-				<lg>
-					<lb/><l>Er hat ſie ſelbſt erwählt; <rs type="person" key="G0001">Gott</rs> iſt in
-						ihren Mauern;</l>
+				<lg n="5">
+					<lb/><l>Er hat ſie ſelbſt erwählt; <rs type="person" key="G0001">Gott</rs> iſt in ihren Mauern;</l>
 					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> beſchützet ſie.</l>
 					<lb/><l>Sie wird beſtehn, und ewig wird ſie dauern;</l>
 					<lb/><l>Der Höchſte hilft ihr früh.</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Der Heiden Volk verzagt; es ſtürzt, ſo feſt es ſtehet,</l>
 					<lb/><l>Ein jedes Weltreich ein,</l>
 					<lb/><l>Und iſt nicht mehr; und alle Welt vergehet,</l>
 					<lb/><l>Wenn ſeine Donner dräun.</l>
 				</lg>
-				<lg>
+				<lg n="7">
 					<lb/><l>Wir aber fürchten nicht, daß uns ein Feind zerſtöre;</l>
 					<lb/><l>Er, der uns hilft, iſt <rs type="person" key="G0001">Gott</rs>!</l>
-					<lb/><l><rs type="person" key="G0001">Gott</rs> iſt mit uns: Uns ſchützt der Gott der
-						Heere;</l>
-					<lb/><l>Uns ſchützet <rs type="person" key="G0001"><rs type="person" key="J0002"
-								>Jacobs</rs> Gott</rs>!</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> iſt mit uns: Uns ſchützt der Gott der Heere;</l>
+					<lb/><l>Uns ſchützet <rs type="person" key="G0001"><rs type="person" key="J0002">Jacobs</rs> Gott</rs>!</l>
 				</lg>
-				<lg>
-					<lb/><l>Kommt her, verſammelt euch, und merkt auf <rs type="person" key="G0001"
-							>Gottes</rs> Werke,</l>
+				<lg n="8">
+					<lb/><l>Kommt her, verſammelt euch, und merkt auf <rs type="person" key="G0001">Gottes</rs> Werke,</l>
 					<lb/><l>Und lernet ſeine Kraft.</l>
-					<lb/><l>Es iſt der <rs type="person" key="G0001">Herr</rs>; es iſt des Höchſten
-						Stärke,</l>
+					<lb/><l>Es iſt der <rs type="person" key="G0001">Herr</rs>; es iſt des Höchſten Stärke,</l>
 					<lb/><l>Die ſolch Zerſtören ſchafft.</l>
 				</lg>
-				<lg>
+				<lg n="9">
 					<lb/><l>Er kleidet ſich mit Macht, daß er dem Kriege ſteure,</l>
 					<lb/><l>Der ſo viel Blut vergoß.</l>
 					<lb/><l>Er, er zerbricht, damit der Erdkreis feyre,</l>
 					<lb/><l>Schwerdt, Bogen und Geſchoß.</l>
 				</lg>
-				<lg>
+				<lg n="10">
 					<lb/><l>Und Lanz und Spieß liegt da, durch ſeinen Arm zerſchlagen,</l>
 					<lb/><l>Daß er nicht tödten kann.</l>
-					<lb/><l>Das thut der <rs type="person" key="G0001">Herr</rs>; er zündet alle
-						Wagen</l>
+					<lb/><l>Das thut der <rs type="person" key="G0001">Herr</rs>; er zündet alle Wagen</l>
 					<lb/><l>Mit ſeinem Feuer an.</l>
 				</lg>
-				<lg>
-					<lb/><l>Laßt ab! und wißt, daß ich <rs type="person" key="G0001">Gott</rs> bin!
-						Erlernt mit Freuden</l>
+				<lg n="11">
+					<lb/><l>Laßt ab! und wißt, daß ich <rs type="person" key="G0001">Gott</rs> bin! Erlernt mit Freuden</l>
 					<lb/><l>Den Dienſt, der mir gefällt!</l>
 					<lb/><l>Ich will, ich will groß werden vor den Heiden</l>
 					<lb/><l>Und herrlich vor der Welt.</l>
 				</lg>
-				<lg>
-					<lb/><l>Erkennt, daß ich <rs type="person" key="G0001">Gott</rs> bin! Gebt euerm <rs
-							type="person" key="G0001">Gott</rs> die Ehre!</l>
+				<lg n="12">
+					<lb/><l>Erkennt, daß ich <rs type="person" key="G0001">Gott</rs> bin! Gebt euerm <rs type="person" key="G0001">Gott</rs> die Ehre!</l>
 					<lb/><l>Er, der euch hilft, iſt <rs type="person" key="G0001">Gott</rs>!</l>
-					<lb/><l><rs type="person" key="G0001">Gott</rs> iſt mit uns; Uns ſchützt der <rs
-							type="person" key="G0001">Gott</rs> der Heere;</l>
-					<lb/><l>Uns ſchützet <rs type="person" key="G0001"><rs type="person" key="J0002"
-								>Jacobs</rs> Gott</rs>!</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> iſt mit uns; Uns ſchützt der <rs type="person" key="G0001">Gott</rs> der Heere;</l>
+					<lb/><l>Uns ſchützet <rs type="person" key="G0001"><rs type="person" key="J0002">Jacobs</rs> Gott</rs>!</l>
 				</lg>
 			</div>
 		</body>

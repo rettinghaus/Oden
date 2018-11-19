@@ -182,68 +182,58 @@
 			<pb n="15" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der zwey und dreyßigſte Pſalm.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Heil dem, den nicht die Furcht, geſtraft zu werden, quälet,</l>
-					<lb/><l>Weil ihm der <rs type="person" key="G0001">Herr</rs> vergiebt und ſeine
-						Schuld verzeiht!</l>
-					<lb/><l>Heil ihm, wenn <rs type="person" key="G0001">Gott</rs> ihn frey von ſeinen
-						Laſtern zählet,</l>
+					<lb/><l>Weil ihm der <rs type="person" key="G0001">Herr</rs> vergiebt und ſeine Schuld verzeiht!</l>
+					<lb/><l>Heil ihm, wenn <rs type="person" key="G0001">Gott</rs> ihn frey von ſeinen Laſtern zählet,</l>
 					<lb/><l>Wenn ihn kein Selbſtbetrug erfreut!</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Ich ſchwieg; mein Schweigen ward bald eine laute Klage.</l>
 					<lb/><l>Mein tägliches Geſchrey verzehrte mein Gebein.</l>
 					<lb/><l>Wie fiel dein Arm auf mich, die Nacht durch und am Tage,</l>
 					<lb/><l>Mir eine ſchwere Laſt zu ſeyn.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Da fühlt ich meine Kraft vor deinem Zorn verſchwinden,</l>
 					<lb/><l>Wie eine grüne Flur im Sommer dürre wird.</l>
-					<lb/><l>Da, da bekannt ich dir, <rs type="person" key="G0001">Gott</rs>, alle meine
-						Sünden,</l>
+					<lb/><l>Da, da bekannt ich dir, <rs type="person" key="G0001">Gott</rs>, alle meine Sünden,</l>
 					<lb/><l>Verſchwieg nicht, daß ich mich verirrt.</l>
 				</lg>
-				<lg>
-					<lb/><l>Ich ſprach: Ich will zum <rs type="person" key="G0001">Herrn</rs> und ſeiner
-						Gnade fliehen,</l>
-					<lb/><l>Und meinem <rs type="person" key="G0001">Gott</rs> geſtehn: Ich sündigte vor
-						dir!</l>
+				<lg n="4">
+					<lb/><l>Ich ſprach: Ich will zum <rs type="person" key="G0001">Herrn</rs> und ſeiner Gnade fliehen,</l>
+					<lb/><l>Und meinem <rs type="person" key="G0001">Gott</rs> geſtehn: Ich sündigte vor dir!</l>
 					<lb/><l>Das that ich, und mir ward mein Unrecht gleich verziehen,</l>
 					<lb/><l>Gleich nahmſt du meine Schuld von mir.</l>
 				</lg>
-				<lg>
-					<lb/><l>Das wird zu ſeiner Zeit, <rs type="person" key="G0001">Gott</rs>, jeder
-						Fromme loben;</l>
+				<lg n="5">
+					<lb/><l>Das wird zu ſeiner Zeit, <rs type="person" key="G0001">Gott</rs>, jeder Fromme loben;</l>
 					<lb/><l>Wenn auch ein Ocean aus ſeinen Ufern bricht,</l>
 					<lb/><l>Er bleibt getroſt; die Flut mag noch ſo mächtig toben,</l>
 					<lb/><l>An die Gerechten reicht ſie nicht.</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Wenn dräuende Gefahr und Angſt mich überfallen,</l>
-					<lb/><l>So biſt du, <rs type="person" key="G0001">Gott</rs>, mein Schirm, und zu dir
-						flieh ich hin.</l>
+					<lb/><l>So biſt du, <rs type="person" key="G0001">Gott</rs>, mein Schirm, und zu dir flieh ich hin.</l>
 					<lb/><l>Dann werden um mich her Triumphgesäng' erſchallen,</l>
 					<lb/><l>Daß ich befreyt und ſicher bin.</l>
 				</lg>
-				<lg>
+				<lg n="7">
 					<lb/><l>Du rufſt voll Huld mir zu: Ich will dich unterrichten,</l>
 					<lb/><l>Zu deinem Wandel dir Verſtand und Rath verleihn:</l>
 					<lb/><l>Ich ſelber lehre dich die Wege deiner Pflichten:</l>
 					<lb/><l>Mein Auge ſoll dein Führer ſeyn.</l>
 				</lg>
-				<lg>
+				<lg n="8">
 					<lb/><l>Wie ſelig ſind nicht die, die gern gehorchen wollen!</l>
-					<lb/><l>O nehmt mit Freuden <rs type="person" key="G0001">Gott</rs> zu euerm Führer
-						an!</l>
+					<lb/><l>O nehmt mit Freuden <rs type="person" key="G0001">Gott</rs> zu euerm Führer an!</l>
 					<lb/><l>Seyd nicht, wie Roß und Maul, die, wenn ſie folgen ſollen,</l>
 					<lb/><l>Gebiß und Zaum nur zwingen kann!</l>
 				</lg>
-				<lg>
+				<lg n="9">
 					<lb/><l>Preiſt nicht des Sünders Glück! Der Frevler hat viel Leiden!</l>
-					<lb/><l>Die aber <rs type="person" key="G0001">Gott</rs> vertraun, die wird die Güt
-						umfahn!</l>
-					<lb/><l>Jauchzt ihm, ihr Heiligen, jauchzt über <rs type="person" key="G0001"
-							>Gott</rs> voll Freuden!</l>
+					<lb/><l>Die aber <rs type="person" key="G0001">Gott</rs> vertraun, die wird die Güt umfahn!</l>
+					<lb/><l>Jauchzt ihm, ihr Heiligen, jauchzt über <rs type="person" key="G0001" >Gott</rs> voll Freuden!</l>
 					<lb/><l>Stimmt <rs type="person" key="G0001">Gottes</rs> Lob, ihr Frommen, an!</l>
 				</lg>
 			</div>

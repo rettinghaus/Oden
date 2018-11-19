@@ -182,75 +182,69 @@
 			<pb n="41" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der hundert und elfte Pſalm.</title></head>
-				<lg>
-					<lb/><l>Gelobt ſey <rs type="person" key="G0001">Gott</rs>! Ihm will ich fröhlich
-						ſingen,</l>
+				<lg n="1">
+					<lb/><l>Gelobt ſey <rs type="person" key="G0001">Gott</rs>! Ihm will ich fröhlich ſingen,</l>
 					<lb/><l>Ihm Dank und Ruhm mit den Gerechten bringen</l>
 					<lb/><l>Und der Verſammlung aller frommen Seelen</l>
 					<lb/><l>Sein Lob erzählen!</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Groß, majeſtätiſch ſind des Höchſten Werke,</l>
 					<lb/><l>Und würdig, daß man ſie erforſch und merke;</l>
 					<lb/><l>Aus ihnen ſtrömen heilige Vergnügen,</l>
 					<lb/><l>Die nie verſiegen.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Was er nur ordnet, iſt voll Schmuck und Ehre,</l>
 					<lb/><l>Daß er, wie groß er ſey, die Welten lehre;</l>
 					<lb/><l><rs type="person" key="G0001">Jehova</rs> bleibt gerecht von Ewigkeiten,</l>
 					<lb/><l>Auf alle Zeiten!</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Er baut den Wundern, die ſein Arm verrichtet,</l>
 					<lb/><l>Ein Denkmal, welches keine Zeit zernichtet;</l>
 					<lb/><l>Der Herr vom frommen duldenden Gemüthe;</l>
 					<lb/><l>Der Herr voll Güte.</l>
 				</lg>
-				<lg>
-					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> giebt Speiſe denen, die ihm
-						dienen;</l>
+				<lg n="5">
+					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> giebt Speiſe denen, die ihm dienen;</l>
 					<lb/><l>Was es verheißet, das erfüllt er ihnen;</l>
 					<lb/><l>Er denkt des Bundes; ewig ſoll er währen,</l>
 					<lb/><l>Weil ſie ihn ehren.</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Vor ſeinem Volk erhebt er ſeiner Werke</l>
 					<lb/><l>Furchtbare Kraft, und waffnet ſeine Stärke,</l>
 					<lb/><l>Um in das Land der Sklaven eitler Götzen</l>
 					<lb/><l>Sein Volk zu ſetzen.</l>
 				</lg>
-				<lg>
+				<lg n="7">
 					<lb/><l>Die Thaten ſeiner Hand ſind Recht und Treue;</l>
-					<lb/><l><rs type="person" key="G0001">Gott</rs> ſpricht kein gnädig Wort, das ihm
-						gereue;</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> ſpricht kein gnädig Wort, das ihm gereue;</l>
 					<lb/><l>Der Fromme weiß, daß er aus Lieb und Güte</l>
 					<lb/><l>Sein Recht gebiete.</l>
 				</lg>
-				<lg>
+				<lg n="8">
 					<lb/><l>Es dauert feſt und ewig unbeweget;</l>
 					<lb/><l>Er hat es uns auf Stein und in das Herz gepräget,</l>
 					<lb/><l>Daß wir getreu und willig ſeinen Rechten</l>
 					<lb/><l>Gehorchen möchten.</l>
 				</lg>
-				<lg>
+				<lg n="9">
 					<lb/><l>Er ſendet Heil und Rettung ſeinem Erbe,</l>
 					<lb/><l>Damit es nicht der Feinde Grimm verderbe;</l>
-					<lb/><l>Sein Bund, die Enkel <rs type="person" key="J0002">Jacobs</rs> zu
-						erhöhen,</l>
+					<lb/><l>Sein Bund, die Enkel <rs type="person" key="J0002">Jacobs</rs> zu erhöhen,</l>
 					<lb/><l>Bleibt ewig ſtehen.</l>
 				</lg>
-				<lg>
-					<lb/><l>Die Furcht vor <rs type="person" key="G0001">Gott</rs>, die Luſt ihn zu
-						erheben,</l>
+				<lg n="10">
+					<lb/><l>Die Furcht vor <rs type="person" key="G0001">Gott</rs>, die Luſt ihn zu erheben,</l>
 					<lb/><l>Führt zu der Weiſheit, führet uns zum Leben;</l>
 					<lb/><l>Sie giebt Verſtand und Licht, damit die Seele,</l>
 					<lb/><l>Was gut iſt, wähle.</l>
 				</lg>
-				<lg>
+				<lg n="11">
 					<lb/><l>Von ihm geleitet, wird ſie Wege wallen,</l>
-					<lb/><l>Die nie verführen; welche <rs type="person" key="G0001">Gott</rs>
-						gefallen.</l>
+					<lb/><l>Die nie verführen; welche <rs type="person" key="G0001">Gott</rs> gefallen.</l>
 					<lb/><l>Der Ruhm, womit ſie ſich geſchmückt wird ſehen,</l>
 					<lb/><l>Wird nie vergehen!</l>
 				</lg>

@@ -182,144 +182,130 @@
 			<pb n="47" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der hundert und neun und dreißigſte Pſalm.</title></head>
-				<lg>
-					<lb/><l><rs type="person" key="G0001">Herr</rs>, du erforſcheſt mich! Du kennſt mich!
-						Unverborgen</l>
+				<lg n="1">
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, du erforſcheſt mich! Du kennſt mich! Unverborgen</l>
 					<lb/><l>Bin ich, wo ich mich lege, dir,</l>
 					<lb/><l>Und nie ermüdet ſieht dein Auge, wenn am Morgen</l>
 					<lb/><l>Ich wieder aufſteh, <rs type="person" key="G0001">Gott</rs>, nach mir.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Du kannteſt, was ich denk, Erforſcher meiner Seele,</l>
 					<lb/><l>Eh ein Gedank in mir entſtand;</l>
 					<lb/><l>Ich geh, ich lege mich, ich überleg und wähle,</l>
 					<lb/><l>Und, was ich thu, iſt dir bekannt.</l>
 				</lg>
-				<lg>
-					<lb/><l><rs type="person" key="G0001">Herr</rs>, ohne Grenzen iſt dein Weſen; du
-						umſchließeſt</l>
+				<lg n="3">
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, ohne Grenzen iſt dein Weſen; du umſchließeſt</l>
 					<lb/><l>Mich ganz, <rs type="person" key="G0001">Unendlicher</rs>, mit dir.</l>
-					<lb/><l>Was kann ich reden, <rs type="person" key="G0001">Gott</rs>, das du nicht
-						alles wiſseſt,</l>
+					<lb/><l>Was kann ich reden, <rs type="person" key="G0001">Gott</rs>, das du nicht alles wiſseſt,</l>
 					<lb/><l>Wer iſt ſo nah, als du, bei mir?</l>
 				</lg>
-				<lg>
-					<lb/><l>Wo find ich, <rs type="person" key="G0001">Gott</rs>, nicht dich? Du biſt an
-						allen Enden,</l>
+				<lg n="4">
+					<lb/><l>Wo find ich, <rs type="person" key="G0001">Gott</rs>, nicht dich? Du biſt an allen Enden,</l>
 					<lb/><l>Ich ſeh zurück und vor mir hin;</l>
 					<lb/><l>Und überall ſeh ich, daß ich von deinen Händen,</l>
 					<lb/><l><rs type="person" key="G0001">Unendlicher</rs>, umſchloſsen bin.</l>
 				</lg>
-				<lg>
-					<lb/><l>Welch ein Verſtand, o <rs type="person" key="G0001">Gott</rs>? Wer darf ſich
-						dir vergleichen?</l>
+				<lg n="5">
+					<lb/><l>Welch ein Verſtand, o <rs type="person" key="G0001">Gott</rs>? Wer darf ſich dir vergleichen?</l>
 					<lb/><l><rs type="person" key="G0001">Herr</rs>, wie erſtaun ich über dich!</l>
 					<lb/><l>Ich ſchwinge mich empor und kann ihn nicht erreichen;</l>
 					<lb/><l>Er iſt zu wunderbar für mich!</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Wohin, wohin kann ich vor deinem Geiſt entfliehen?</l>
 					<lb/><l>Wo iſt, wo findet er mich nicht?</l>
-					<lb/><l>Wo könnte, <rs type="person" key="G0001">Höchſter</rs>, ich mich deinem Aug
-						entziehen?</l>
+					<lb/><l>Wo könnte, <rs type="person" key="G0001">Höchſter</rs>, ich mich deinem Aug entziehen?</l>
 					<lb/><l>Wo ſtralet nicht dein Angeſicht?</l>
 				</lg>
-				<lg>
+				<lg n="7">
 					<lb/><l>Wenn ich zum Himmel auch mich aufgeſchwungen hätte,</l>
 					<lb/><l>In allen Himmeln biſt du, <rs type="person" key="G0001">Gott</rs>.</l>
 					<lb/><l>Spräch ich, dir zu entfliehn, zur Tiefe: Sey mein Bette!</l>
 					<lb/><l>Auch in der Tiefe biſt du, <rs type="person" key="G0001">Gott</rs>!</l>
 				</lg>
-				<lg>
+				<lg n="8">
 					<lb/><l>Und nähm ich, ſchnell zu fliehn, die Fittiche vom Morgen:</l>
 					<lb/><l>Am fernſten Meere fänd ich dich;</l>
 					<lb/><l>Ich wär in deiner Hand auch da; dir nicht verborgen,</l>
 					<lb/><l>Und deine Rechte hielte mich.</l>
 				</lg>
-				<lg>
+				<lg n="9">
 					<lb/><l>Und ſpräch ich, decket mich, verbergt mich, Finſterniſse!</l>
 					<lb/><l>Licht wäre dann um mich die Nacht.</l>
 					<lb/><l>Denn finſter ſind vor dir auch nicht die Finſterniſse;</l>
 					<lb/><l>Dir leuchtet, wie der Tag, die Nacht.</l>
 				</lg>
-				<lg>
+				<lg n="10">
 					<lb/><l>Das Dunkel iſt von dir; aus deinem Lichte floſsen</l>
 					<lb/><l>Der Glanz des Morgens und der Tag;</l>
 					<lb/><l>Du bildeteſt mein Herz; ich ward von dir umſchloſsen,</l>
 					<lb/><l>Als ich im Mutterleibe lag.</l>
 				</lg>
-				<lg>
-					<lb/><l>Dich preis ich, daß du mich, o <rs type="person" key="G0001">Herr</rs>, durch
-						deine Stärke</l>
+				<lg n="11">
+					<lb/><l>Dich preis ich, daß du mich, o <rs type="person" key="G0001">Herr</rs>, durch deine Stärke</l>
 					<lb/><l>So wundervoll gebildet haſt.</l>
 					<lb/><l>Mein Geiſt erſtaunt und rühmt die Weiſheit deiner Werke,</l>
 					<lb/><l>Die keines Weſens Einſicht faßt.</l>
 				</lg>
-				<lg>
+				<lg n="12">
 					<lb/><l>Als aus den Tiefen ich heraufgerufen wurde,</l>
 					<lb/><l>Ein Wunder deiner Macht zu ſeyn;</l>
 					<lb/><l>Als im Verborgnen ich ein Menſch gebildet wurde,</l>
 					<lb/><l>Durchdrang dein Auge mein Gebein.</l>
 				</lg>
-				<lg>
+				<lg n="13">
 					<lb/><l>Du ſahſt mich, eh du noch den künſtlichen Geweben</l>
 					<lb/><l>Der Nerven Harmonie und Macht,</l>
 					<lb/><l>Und Blut den Adern gabſt, und meinem Herzen Leben;</l>
 					<lb/><l>Da haſt du meiner ſchon gedacht!</l>
 				</lg>
-				<lg>
-					<lb/><l><rs type="person" key="G0001">Herr</rs>, deine Macht, dein Rath erkennet
-						keine Schranken;</l>
+				<lg n="14">
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, deine Macht, dein Rath erkennet keine Schranken;</l>
 					<lb/><l>Wer faſset dich? Wer gleichet dir?</l>
 					<lb/><l>Was für Erkenntniſse, für köſtliche Gedanken!</l>
 					<lb/><l>Unnennbar iſt die Summe mir!</l>
 				</lg>
-				<lg>
+				<lg n="15">
 					<lb/><l>Erſtaunen kann ich nur. Sollt ich ſie alle zählen,</l>
 					<lb/><l>Eh zählt ich aller Meere Sand;</l>
 					<lb/><l>Doch will ich dich allein zu meinem Liede wählen,</l>
 					<lb/><l>Erhöhn die Wunder deiner Hand.</l>
 				</lg>
-				<lg>
+				<lg n="16">
 					<lb/><l>Leg ich zur Ruhe mich auf meinem Lager nieder,</l>
 					<lb/><l>So freu ich deiner Güte mich;</l>
 					<lb/><l>Im Traume denk ich dein; erwach ich frühe wieder,</l>
 					<lb/><l>So denk ich immer noch an dich.</l>
 				</lg>
-				<lg>
-					<lb/><l>Du biſt allwiſsend, <rs type="person" key="G0001">Herr</rs>, und heilig und
-						ein Rächer,</l>
+				<lg n="17">
+					<lb/><l>Du biſt allwiſsend, <rs type="person" key="G0001">Herr</rs>, und heilig und ein Rächer,</l>
 					<lb/><l>Die Frevler wirſt du töten, <rs type="person" key="G0001">Gott</rs>!</l>
 					<lb/><l>Entweicht, entweicht von mir, blutgierige Verbrecher;</l>
 					<lb/><l>Euch haßt <rs type="person" key="G0001">Jehova Zebaoth</rs>!</l>
 				</lg>
-				<lg>
+				<lg n="18">
 					<lb/><l>Sieh, wie ſie mit Betrug und Lügen dich entehren,</l>
 					<lb/><l>Nicht deinen hohen Namen ſcheun,</l>
 					<lb/><l>Verrätheriſch und falſch bei deinen Städten ſchwören,</l>
 					<lb/><l>Vermeſsen dein Geſetz entweihn!</l>
 				</lg>
-				<lg>
-					<lb/><l>Sollt ich nicht haſsen, <rs type="person" key="G0001">Gott</rs>, die deinen
-						Namen haſsen?</l>
+				<lg n="19">
+					<lb/><l>Sollt ich nicht haſsen, <rs type="person" key="G0001">Gott</rs>, die deinen Namen haſsen?</l>
 					<lb/><l>Und könnt ich ohne Zorn es ſehn,</l>
-					<lb/><l>Daß ſo vermeſsen, <rs type="person" key="G0001">Gott</rs>, ſie deinen Pfad
-						verlaſsen,</l>
+					<lb/><l>Daß ſo vermeſsen, <rs type="person" key="G0001">Gott</rs>, ſie deinen Pfad verlaſsen,</l>
 					<lb/><l>So frevelhaft dir widerſtehn?</l>
 				</lg>
-				<lg>
-					<lb/><l>Ja nimmer zähl ich die, <rs type="person" key="G0001">Gott</rs>, unter meine
-						Freunde,</l>
+				<lg n="20">
+					<lb/><l>Ja nimmer zähl ich die, <rs type="person" key="G0001">Gott</rs>, unter meine Freunde,</l>
 					<lb/><l>Die dein Geſetz und Recht entweihn;</l>
 					<lb/><l>Von Herzen haß ich ſie; ſtets ſollen deine Feinde</l>
 					<lb/><l>Mein Abſcheu, meine Feinde ſein.</l>
 				</lg>
-				<lg>
-					<lb/><l>Erforſche mich, o <rs type="person" key="G0001">Gott</rs>, daß ich nichts
-						wählen möge,</l>
+				<lg n="21">
+					<lb/><l>Erforſche mich, o <rs type="person" key="G0001">Gott</rs>, daß ich nichts wählen möge,</l>
 					<lb/><l>Was Sünd iſt; prüfe meinen Sinn,</l>
-					<lb/><l>Sieh, ob ich irre, <rs type="person" key="G0001">Herr</rs>, und führe mich
-						auf Wege,</l>
+					<lb/><l>Sieh, ob ich irre, <rs type="person" key="G0001">Herr</rs>, und führe mich auf Wege,</l>
 					<lb/><l>Die ewig dir gefallen, hin.</l>
 				</lg>
 			</div>

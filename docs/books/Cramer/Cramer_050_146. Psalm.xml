@@ -182,7 +182,7 @@
 			<pb n="50" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der hundert und ſechs und vierzigſte Pſalm.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Es werde <rs type="person" key="G0001">Gott</rs> von uns erhoben!</l>
 					<lb/><l>Wohlauf, wohlauf den <rs type="person" key="G0001">Herrn</rs> zu loben!</l>
 					<lb/><l>Sey, meine Seele, Preis und Dank!</l>
@@ -190,7 +190,7 @@
 					<lb/><l>Mein ganzes ihm geweihtes Leben</l>
 					<lb/><l>Sey ſeines Namens Lobgeſang!</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>O ſetzt nicht, da ſie, euch zu ſchützen,</l>
 					<lb/><l>Nicht Macht und Weiſheit gnug beſitzen,</l>
 					<lb/><l>Auf Fürſten eure Zuverſicht.</l>
@@ -198,7 +198,7 @@
 					<lb/><l>Und was vermögen eitle Menſchen!</l>
 					<lb/><l>Wie ſchwach iſt ihre Hülfe nicht!</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Ein Menſch wird bald dahin geriſsen,</l>
 					<lb/><l>Bald wieder Staub. Wie ſchnell verfließen</l>
 					<lb/><l>Die Tage, die der <rs type="person" key="G0001">Herr</rs> ihm gab!</l>
@@ -206,17 +206,15 @@
 					<lb/><l>Der Menſch beſchließet große Thaten;</l>
 					<lb/><l>Doch ſie verſchlingt, mit ihm, das Grab.</l>
 				</lg>
-				<lg>
-					<lb/><l>Beglückt iſt, wer auf <rs type="person" key="G0001">Gott</rs> nur
-						ſchauet,</l>
-					<lb/><l>Und <rs type="person" key="G0001"><rs type="person" key="J0002">Jacobs</rs>
-							Herrn</rs> allein vertrauet,</l>
+				<lg n="4">
+					<lb/><l>Beglückt iſt, wer auf <rs type="person" key="G0001">Gott</rs> nur ſchauet,</l>
+					<lb/><l>Und <rs type="person" key="G0001"><rs type="person" key="J0002">Jacobs</rs> Herrn</rs> allein vertrauet,</l>
 					<lb/><l>Der ſeiner Frommen nie vergißt.</l>
 					<lb/><l>Bey ihm iſt Heil. Sein mächtig Werde</l>
 					<lb/><l>Erſchuf die Himmel und die Erde,</l>
 					<lb/><l>Das Meer und was darinnen iſt.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Was kan uns Troſt und Hoffnung rauben?</l>
 					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> hält ewig Treu und Glauben;</l>
 					<lb/><l>Nimmt väterlich ſich unſrer an.</l>
@@ -224,7 +222,7 @@
 					<lb/><l>Beſchützt und sättigt er mit Freuden,</l>
 					<lb/><l>Die ihnen nichts verbittern kann.</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Der Hungrige, von ihm geſpeiſet,</l>
 					<lb/><l>Frohlockt ihm! Der Gefangne preiſet</l>
 					<lb/><l><rs type="person" key="G0001">Gott</rs>, der vom Kerker ihn befreyt.</l>
@@ -232,7 +230,7 @@
 					<lb/><l>Daß ſie des Lichtes Glück empfinden,</l>
 					<lb/><l>Und ſeiner Schöpfung Herrlichkeit!</l>
 				</lg>
-				<lg>
+				<lg n="7">
 					<lb/><l>Der Fromme, der ihn fürchtet, ſchmachtet</l>
 					<lb/><l>Im Staub, oft elend und verachtet;</l>
 					<lb/><l><rs type="person" key="G0001">Gott</rs> ſiehts, und hebet ihn empor!</l>
@@ -240,7 +238,7 @@
 					<lb/><l>Er liebt und ziehet den Gerechten</l>
 					<lb/><l>Aus ſeiner Dunkelheit hervor.</l>
 				</lg>
-				<lg>
+				<lg n="8">
 					<lb/><l>Er hilft dem Fremdling, unterſtützet</l>
 					<lb/><l>Die Wittwen und verſorgt und ſchützet</l>
 					<lb/><l>Die Waiſen, die verlaſsen ſind.</l>
@@ -248,12 +246,10 @@
 					<lb/><l>Kehrt um die Wege der Verbrecher,</l>
 					<lb/><l>Von denen keiner ihm entrinnt.</l>
 				</lg>
-				<lg>
+				<lg n="9">
 					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> iſt ewig König! Singe</l>
-					<lb/><l>Dem <rs type="person" key="G0001">Herrn</rs>, o <placeName>Zion</placeName>,
-						ehr ihn, bringe</l>
-					<lb/><l>Dem, der dein <rs type="person" key="G0001">Gott</rs> iſt, Preis und
-						Dank!</l>
+					<lb/><l>Dem <rs type="person" key="G0001">Herrn</rs>, o <placeName>Zion</placeName>, ehr ihn, bringe</l>
+					<lb/><l>Dem, der dein <rs type="person" key="G0001">Gott</rs> iſt, Preis und Dank!</l>
 					<lb/><l>Er wird es ewig ſeyn! Erhebet,</l>
 					<lb/><l>Erhebt den König; weil ihr lebet,</l>
 					<lb/><l>Frohlock ihm euer Lobgeſang!</l>

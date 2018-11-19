@@ -182,82 +182,73 @@
 			<pb n="42" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der hundert und ſechzehnte Pſalm.</title></head>
-				<lg>
-					<lb/><l>Deß freu ich mich, daß <rs type="person" key="G0001">Gott</rs> zu meinen
-						Klagen</l>
+				<lg n="1">
+					<lb/><l>Deß freu ich mich, daß <rs type="person" key="G0001">Gott</rs> zu meinen Klagen</l>
 					<lb/><l>Sein Ohr herabneigt, und mein Schreyn</l>
 					<lb/><l>Im Himmel hört; in allen meinen Tagen</l>
 					<lb/><l>Will ich auch mein Gebet ihm weihn.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Schon hatten mich des Grabes Strick umgeben,</l>
 					<lb/><l>Und überall um mich war Tod;</l>
 					<lb/><l>Ach ſchon verzweifelt' ich an meinem Leben;</l>
 					<lb/><l>Und ich verſank in Angſt und Not.</l>
 				</lg>
-				<lg>
-					<lb/><l>Da rief ich <rs type="person" key="G0001">Gott</rs> an! O, mein <rs
-							type="person" key="G0001">Gott</rs>, behüte</l>
+				<lg n="3">
+					<lb/><l>Da rief ich <rs type="person" key="G0001">Gott</rs> an! O, mein <rs type="person" key="G0001">Gott</rs>, behüte</l>
 					<lb/><l>Die Seele, welche zu dir ſchreyt;</l>
-					<lb/><l>Gerecht iſt unſer <rs type="person" key="G0001">Gott</rs>! Er iſt die
-						Güte;</l>
+					<lb/><l>Gerecht iſt unſer <rs type="person" key="G0001">Gott</rs>! Er iſt die Güte;</l>
 					<lb/><l>Ein Helfer voll Barmherzigkeit.</l>
 				</lg>
-				<lg>
-					<lb/><l><rs type="person" key="G0001">Gott</rs> ſchützt die Frommen; wenn ich Unrecht
-						leide,</l>
+				<lg n="4">
+					<lb/><l><rs type="person" key="G0001">Gott</rs> ſchützt die Frommen; wenn ich Unrecht leide,</l>
 					<lb/><l>Wenn ich bedrängt bin, hilft er mir;</l>
 					<lb/><l>Sey wieder ruhig, Seele, ſey voll Freude,</l>
 					<lb/><l>Denn wie viel Gutes thut er dir!</l>
 				</lg>
-				<lg>
-					<lb/><l>Du haſt mein Leben, <rs type="person" key="G0001">Gott</rs>, dem Tod
-						entriſsen,</l>
+				<lg n="5">
+					<lb/><l>Du haſt mein Leben, <rs type="person" key="G0001">Gott</rs>, dem Tod entriſsen,</l>
 					<lb/><l>Mein Aug iſt nun von Thränen frey.</l>
 					<lb/><l>Auch ſtrauchl' ich nun nicht mehr mit meinen Füßen,</l>
 					<lb/><l>Er reißt des Grabes Strick entzwey!</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Ich will mit denen, die auf Erden leben,</l>
 					<lb/><l>Auf meines <rs type="person" key="G0001">Gottes</rs> Pfaden gehn;</l>
 					<lb/><l>Ihm hab ich voll Vertraun mich ganz ergeben,</l>
 					<lb/><l>Und darum will ich ihn erhöhn!</l>
 				</lg>
-				<lg>
+				<lg n="7">
 					<lb/><l>Doch litt ich viel! Ich ſuchte Hülf und lernte,</l>
 					<lb/><l>Von meinen Feinden bald beſiegt,</l>
 					<lb/><l>Als jeder floh und ſich von mir entfernte,</l>
 					<lb/><l>Wie das Vertraun auf Menſchen trügt.</l>
 				</lg>
-				<lg>
-					<lb/><l>Wie kann ich <rs type="person" key="G0001">Gott</rs>, was er mir thut,
-						bezahlen?</l>
+				<lg n="8">
+					<lb/><l>Wie kann ich <rs type="person" key="G0001">Gott</rs>, was er mir thut, bezahlen?</l>
 					<lb/><l>Herr, wie vergelt ich meine Schuld?</l>
 					<lb/><l>Du ſeegneſt mich zu wiederholten Malen;</l>
 					<lb/><l>Unendlich iſt, <rs type="person" key="G0001">Gott</rs>, deine Huld!</l>
 				</lg>
-				<lg>
+				<lg n="9">
 					<lb/><l>Ich will den Heilſkelch nehmen, ihn erhöhen,</l>
 					<lb/><l>Erhöhn die Wunder, die er that;</l>
 					<lb/><l>Bezahlen will ich ihm, (ſein Volk ſolls ſehen!)</l>
 					<lb/><l>Was ihm mein Herz gelobet hat!</l>
 				</lg>
-				<lg>
+				<lg n="10">
 					<lb/><l>Wie köſtlich iſt vor Gott der Tod der Frommen!</l>
-					<lb/><l>O <rs type="person" key="G0001">Gott</rs>, mein <rs type="person" key="G0001"
-							>Gott</rs>, ich bin dein Knecht!</l>
-					<lb/><l>Ich bin den Banden, <rs type="person" key="G0001">Herr</rs>, durch dich
-						entkommen,</l>
+					<lb/><l>O <rs type="person" key="G0001">Gott</rs>, mein <rs type="person" key="G0001">Gott</rs>, ich bin dein Knecht!</l>
+					<lb/><l>Ich bin den Banden, <rs type="person" key="G0001">Herr</rs>, durch dich entkommen,</l>
 					<lb/><l>Ich deiner Magd Sohn, ich dein Knecht!</l>
 				</lg>
-				<lg>
-					<lb/><l>Dir opfr' ich Dank; ich will dich, <rs type="person" key="G0001">Herr</rs>,
-						erhöhen;</l>
+				<lg n="11">
+					<lb/><l>Dir opfr' ich Dank; ich will dich, <rs type="person" key="G0001">Herr</rs>, erhöhen;</l>
 					<lb/><l>Erhöhn, was deine Güte that;</l>
 					<lb/><l>Bezahlen will ich dir, (dein Volk ſolls ſehen!)</l>
 					<lb/><l>Was dir mein Herz gelobet hat!</l>
 				</lg>
-				<lg>
+				<lg n="12">
 					<lb/><l>Ihn will ich loben; durch des Tempels Hallen,</l>
 					<lb/><l>Bis in das dritte Heiligthum</l>
 					<lb/><l>Soll mein Geſang, ſoll, Gott, mein Ruf erſchallen;</l>

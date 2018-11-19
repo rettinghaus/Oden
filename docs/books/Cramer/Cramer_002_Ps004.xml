@@ -182,60 +182,56 @@
 			<pb n="2" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der vierte Pſalm.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Wenn ich zu dir in meinen Aengſten flehe,</l>
 					<lb/><l>Antworte mir, o <rs type="person" key="G0001">Gott</rs>, von deiner Höhe;</l>
 					<lb/><l><rs type="person" key="G0001">Gott</rs> meiner Frömmigkeit,</l>
 					<lb/><l>Wenn ich dich rufe, ſey nicht weit!</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Der du mir Raum machſt, wenn der Feind mich beuget,</l>
 					<lb/><l>Und mir kein Weg aus meiner Angſt ſich zeiget,</l>
 					<lb/><l>Erhöre mein Gebet,</l>
 					<lb/><l>Womit mein Herz um Hülfe fleht!</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Wie lange ſoll, ihr Mächtigen auf Erden,</l>
 					<lb/><l>Durch euern Haß mein Ruhm geſchändet werden?</l>
 					<lb/><l>Ihr liebt, was eitel iſt,</l>
 					<lb/><l>Und ſinnt nur auf Betrug und Liſt.</l>
 				</lg>
-				<lg>
-					<lb/><l>Erkennt es doch! <rs type="person" key="G0001">Gott</rs> wählet ſich den
-						Frommen.</l>
+				<lg n="4">
+					<lb/><l>Erkennt es doch! <rs type="person" key="G0001">Gott</rs> wählet ſich den Frommen.</l>
 					<lb/><l>Noch hat er ſtets ſich ſeiner angenommen.</l>
 					<lb/><l>Fleh ich zu ihm empor,</l>
 					<lb/><l>So öffnet mir der Herr ſein Ohr.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Ihr zürnt und tobt. Ach hütet euch vor Sünden,</l>
 					<lb/><l>Sucht, wenn ihr ruht, den Zorn zu überwinden!</l>
 					<lb/><l>Denkt in der ſtillen Nacht</l>
 					<lb/><l>An eures nahen Richters Macht.</l>
 				</lg>
-				<lg>
-					<lb/><l>Erwägts und ſchweigt! Und opfert eurem <rs type="person" key="G0001"
-							>Gotte</rs></l>
+				<lg n="6">
+					<lb/><l>Erwägts und ſchweigt! Und opfert eurem <rs type="person" key="G0001">Gotte</rs></l>
 					<lb/><l>Gerechtigkeit! Entſagt dem kühnen Spotte!</l>
 					<lb/><l>Verehrt ihn! Laßt allein</l>
 					<lb/><l>Den Höchſten eure Hoffnung ſeyn!</l>
 				</lg>
-				<lg>
+				<lg n="7">
 					<lb/><l>Es ſagen mir viel Thoren, die mich haſsen:</l>
 					<lb/><l>Wie ſollt uns der, was gut iſt, ſehen laſsen?</l>
 					<lb/><l>Doch, <rs type="person" key="G0001">Herr</rs>, dein Angeſicht</l>
 					<lb/><l>Beſtrale nur uns durch ſein Licht!</l>
 				</lg>
-				<lg>
-					<lb/><l><rs type="person" key="G0001">Gott</rs>, du erfreuſt mein Herz mit deinen
-						Gaben,</l>
+				<lg n="8">
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, du erfreuſt mein Herz mit deinen Gaben,</l>
 					<lb/><l>Ob jene gleich viel Wein und Weizen haben.</l>
 					<lb/><l>Nur du erfreuſt allein!</l>
 					<lb/><l>Ich bin beglückt! Denn du biſt mein!</l>
 				</lg>
-				<lg>
-					<lb/><l>Ich liege, <rs type="person" key="G0001">Gott</rs>, von deiner Hand
-						beſchirmet,</l>
+				<lg n="9">
+					<lb/><l>Ich liege, <rs type="person" key="G0001">Gott</rs>, von deiner Hand beſchirmet,</l>
 					<lb/><l>Und ruhe ganz in Frieden, wenn es ſtürmet.</l>
 					<lb/><l>Du nimmſt dich meiner an,</l>
 					<lb/><l>Damit ich ſicher wohnen kann.</l>

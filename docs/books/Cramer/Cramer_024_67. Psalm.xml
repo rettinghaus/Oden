@@ -181,11 +181,10 @@
 		<body>
 			<pb n="24" ed="CPEB1774"/>
 			<div type="chorale">
-				<head rendition="#c"><title>Der ſieben und ſechzigſte Pſalm.</title></head>
 				<pb n="25" ed="CPEB1774"/>
-				<lg>
-					<lb/><l><rs type="person" key="G0001">Herr</rs>, unſer <rs type="person" key="G0001"
-							>Gott</rs>, dem wir vertrauen,</l>
+				<head rendition="#c"><title>Der ſieben und ſechzigſte Pſalm.</title></head>
+				<lg n="1">
+					<lb/><l><rs type="person" key="G0001">Herr</rs>, unſer <rs type="person" key="G0001">Gott</rs>, dem wir vertrauen,</l>
 					<lb/><l>Entzeuch uns deine Güte nicht!</l>
 					<lb/><l>Laß auf uns her dein Antlitz ſchauen,</l>
 					<lb/><l>Erleucht uns, tröſt uns durch dein Licht:</l>
@@ -194,14 +193,14 @@
 					<lb/><l>Daß wir das Heil der Völker ſehn</l>
 					<lb/><l>Und deine Wunder, <rs type="person" key="G0001">Herr</rs>, verſtehn!</l>
 				</lg>
-				<lg type="choir" n="Chor.">
-					<lb/><l>Es preiſen dich, <rs type="person" key="G0001">Gott</rs>, die deine Welt
-						bewohnen,</l>
+				<lg type="choir" n="2">
+					<head>Chor.</head>
+					<lb/><l>Es preiſen dich, <rs type="person" key="G0001">Gott</rs>, die deine Welt bewohnen,</l>
 					<lb/><l>Begeiſtert von Liebe, begeiſtert von Dank!</l>
 					<lb/><l>Es preiſet dich aller Nationen</l>
 					<lb/><l>Frohlockender Jubelgeſang!</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Die Völker, die dein Heil beglücket,</l>
 					<lb/><l>Lobſingen dir und freuen ſich.</l>
 					<lb/><l>Sie ſind von hoher Luſt entzücket,</l>
@@ -211,27 +210,26 @@
 					<lb/><l>Daß du mit Weiſheit ſie regierſt</l>
 					<lb/><l>Und ſie den Weg des Lebens führſt!</l>
 				</lg>
-				<lg type="choir" n="Chor.">
-					<lb/><l>Es preiſen dich, <rs type="person" key="G0001">Gott</rs>, die deine Welt
-						bewohnen,</l>
+				<lg type="choir" n="4">
+					<head>Chor.</head>
+					<lb/><l>Es preiſen dich, <rs type="person" key="G0001">Gott</rs>, die deine Welt bewohnen,</l>
 					<lb/><l>Begeiſtert von Liebe, begeiſtert von Dank!</l>
 					<lb/><l>Es preiſet dich aller Nationen</l>
 					<lb/><l>Frohlockender Jubelgeſang!</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Die Erde bringt dir ihre Früchte,</l>
 					<lb/><l>Bezahlt dir willig ihre Schuld.</l>
-					<lb/><l><rs type="person" key="G0001">Gott</rs> ſeegn uns, unſer <rs type="person"
-							key="G0001">Gott</rs>, und richte</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> ſeegn uns, unſer <rs type="person" key="G0001">Gott</rs>, und richte</l>
 					<lb/><l>Sein Angeſicht auf uns voll Huld!</l>
 					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> erleucht uns und behüte</l>
 					<lb/><l>Sein heilig Volk mit ſeiner Güte!</l>
 					<lb/><l>Es ſeegn uns <rs type="person" key="G0001">Gott</rs>, der uns erhält!</l>
 					<lb/><l>Es ehr und fürcht ihn alle Welt!</l>
 				</lg>
-				<lg type="choir" n="Chor.">
-					<lb/><l>Es preiſen dich, <rs type="person" key="G0001">Gott</rs>, die deine Welt
-						bewohnen,</l>
+				<lg type="choir" n="6">
+					<head>Chor.</head>
+					<lb/><l>Es preiſen dich, <rs type="person" key="G0001">Gott</rs>, die deine Welt bewohnen,</l>
 					<lb/><l>Begeiſtert von Liebe, begeiſtert von Dank!</l>
 					<lb/><l>Es preiſet dich aller Nationen</l>
 					<lb/><l>Frohlockender Jubelgeſang!</l>

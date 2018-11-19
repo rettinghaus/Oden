@@ -182,7 +182,7 @@
 			<pb n="13" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der fünf und zwanzigſte Pſalm.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l><rs type="person" key="G0001">Herr</rs>, mein einziges Verlangen,</l>
 					<lb/><l><rs type="person" key="G0001">Gott</rs>, zu dir erheb ich mich!</l>
 					<lb/><l>Ich vertraue nur auf dich!</l>
@@ -191,7 +191,7 @@
 					<lb/><l>Wenn mir keine Hülf erſcheint,</l>
 					<lb/><l>Jauchze, daß ſein Frevel ſiege.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Keiner wird ſich ſchämen dürfen,</l>
 					<lb/><l>Welcher dich zum Schilde nimmt,</l>
 					<lb/><l>Wenn ihn auch die Feind ergrimmt</l>
@@ -200,7 +200,7 @@
 					<lb/><l>Welcher, Fromme zu verſchmähn,</l>
 					<lb/><l>Ohne Furcht vor <rs type="person" key="G0001">Gott</rs> ſich waget.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Zeige du mir deine Wege!</l>
 					<lb/><l>Bringe ſelbſt durch deinen Rath</l>
 					<lb/><l>Mich auf deinen ſichern Pfad,</l>
@@ -209,7 +209,7 @@
 					<lb/><l>Wenn ich Wege wandeln muß,</l>
 					<lb/><l>Die ich, mir gelaſsen, wähle.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Führe mich nach deinem Willen!</l>
 					<lb/><l>Laß mich deine Wahrheit ſehn!</l>
 					<lb/><l>Dankbar will ich dich erhöhn,</l>
@@ -218,7 +218,7 @@
 					<lb/><l>Täglich, täglich harr ich dein,</l>
 					<lb/><l>Daß du Hülfe ſenden werdeſt.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Habe Mitleid mit mir Armen!</l>
 					<lb/><l>Eh dein Weltgebäu noch ſtand,</l>
 					<lb/><l><rs type="person" key="G0001">Vater, Vater</rs>, da empfand</l>
@@ -227,7 +227,7 @@
 					<lb/><l>Und vergieb, vergiß die Schuld</l>
 					<lb/><l>Der Verbrechen meiner Jugend!</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Ich bereue meine Sünde,</l>
 					<lb/><l>Die ich wider dich gethan.</l>
 					<lb/><l><rs type="person" key="G0001">Gott</rs>, gedenke nicht daran,</l>
@@ -236,7 +236,7 @@
 					<lb/><l>Laß mich deine Huld erfreun,</l>
 					<lb/><l>Herr, um deiner Güte willen!</l>
 				</lg>
-				<lg>
+				<lg n="7">
 					<lb/><l><rs type="person" key="G0001">Gott</rs> iſt gütig und vollkommen!</l>
 					<lb/><l>Darum führet ſeine Huld</l>
 					<lb/><l>Irre Sünder, voll Geduld,</l>
@@ -245,7 +245,7 @@
 					<lb/><l>Noch im Leben, ehe ſie</l>
 					<lb/><l>Blind in ihren Abgrund ſtürzen.</l>
 				</lg>
-				<lg>
+				<lg n="8">
 					<lb/><l>Arme, die vor ihm ſich beugen,</l>
 					<lb/><l>Führt er, und ſie ſtraucheln nicht.</l>
 					<lb/><l>Frommen Armen ſtralt ſein Licht,</l>
@@ -254,7 +254,7 @@
 					<lb/><l>Dem, der ſich geheiligt hat,</l>
 					<lb/><l><rs type="person" key="G0001">Gottes</rs> Bund und Recht zu halten.</l>
 				</lg>
-				<lg>
+				<lg n="9">
 					<lb/><l>Ach um deiner Güte willen</l>
 					<lb/><l>Wolleſt du mir, <rs type="person" key="G0001">Herr</rs>, verzeihn,</l>
 					<lb/><l>Wolleſt du mir gnädig ſeyn,</l>
@@ -263,7 +263,7 @@
 					<lb/><l>Welche dich beleidigt hat;</l>
 					<lb/><l>Größer noch iſt deine Güte.</l>
 				</lg>
-				<lg>
+				<lg n="10">
 					<lb/><l>Wer iſt willig, <rs type="person" key="G0001">Gott</rs> zu ehren?</l>
 					<lb/><l>Seelig, ſeelig iſt der Mann;</l>
 					<lb/><l>Denn <rs type="person" key="G0001">Gott</rs> nimmt ſich ſeiner an,</l>
@@ -272,7 +272,7 @@
 					<lb/><l>Welche süße Ruh iſt ſein,</l>
 					<lb/><l>Ewig iſt des Frommen Freude!</l>
 				</lg>
-				<lg>
+				<lg n="11">
 					<lb/><l>Seinen Saamen wird <rs type="person" key="G0001">Gott</rs> ſchützen;</l>
 					<lb/><l>Unter ſeiner ſtarken Hand</l>
 					<lb/><l>Wird er das verheißne Land</l>
@@ -281,7 +281,7 @@
 					<lb/><l>Dem, der ihn vor Augen hat,</l>
 					<lb/><l>Hält er ewig Bund und Treue.</l>
 				</lg>
-				<lg>
+				<lg n="12">
 					<lb/><l>Immer heb ich meine Blicke</l>
 					<lb/><l>Hin zu <rs type="person" key="G0001">Gott</rs>; denn er entreißt</l>
 					<lb/><l>Aus den Leiden meinen Geiſt,</l>
@@ -290,7 +290,7 @@
 					<lb/><l>Ich erwarte Schutz von dir,</l>
 					<lb/><l>Denn ich bin allein und elend.</l>
 				</lg>
-				<lg>
+				<lg n="13">
 					<lb/><l>Groß ſind die Beängſtigungen</l>
 					<lb/><l>Meiner Seele! <rs type="person" key="G0001">Gott</rs>, wie groß!</l>
 					<lb/><l>Reiß mich aus den Banden los,</l>
@@ -299,7 +299,7 @@
 					<lb/><l>Hilf mir! Ich erliege faſt!</l>
 					<lb/><l>Tilge jede meiner Sünden!</l>
 				</lg>
-				<lg>
+				<lg n="14">
 					<lb/><l>Schaue doch, wie viele Mengen</l>
 					<lb/><l>Meiner Widerſacher ſind;</l>
 					<lb/><l>Wie ſie, <rs type="person" key="G0001">Vater</rs>, mich, dein Kind,</l>
@@ -308,7 +308,7 @@
 					<lb/><l>Hilf mir! Reiß mich aus der Schmach:</l>
 					<lb/><l>Denn du haſt mein ganz Vertrauen!</l>
 				</lg>
-				<lg>
+				<lg n="15">
 					<lb/><l>Deine Güte, <rs type="person" key="G0001">Herr</rs>, erfreue,</l>
 					<lb/><l><rs type="person" key="G0001">Gott</rs>, dein Heil beglücke mich;</l>
 					<lb/><l>Denn ich hoffe feſt auf dich,</l>

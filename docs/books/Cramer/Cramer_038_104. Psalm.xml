@@ -182,10 +182,9 @@
 			<pb n="38" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der hundert und vierte Pſalm.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Erheb, erheb, o meine Seele,</l>
-					<lb/><l><rs type="person" key="G0001">Gott</rs>, meinen <rs type="person" key="G0001"
-							>Schöpfer</rs>, und erzähle,</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, meinen <rs type="person" key="G0001">Schöpfer</rs>, und erzähle,</l>
 					<lb/><l>Verkündige ſein Lob der Welt!</l>
 					<lb/><l>Ihm ſinge deine Jubellieder;</l>
 					<lb/><l>Der Fromme halle ſie ihm wieder,</l>
@@ -195,7 +194,7 @@
 					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> iſt würdig, Preis und Ehre</l>
 					<lb/><l>Zu nehmen, Lob und Ruhm und Dank.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l><rs type="person" key="G0001">Herr</rs>, dir iſt niemand zu vergleichen;</l>
 					<lb/><l>Kein Lob kann deine Größ erreichen,</l>
 					<lb/><l>Kein noch ſo feuriger Verſtand.</l>
@@ -207,7 +206,7 @@
 					<lb/><l>Und wölbſt mit dichten Waſserſeen</l>
 					<lb/><l>Die glanzerfüllte Wohnung aus.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Wie biſt du, wenn du, <rs type="person" key="G0001">Gott der Götter</rs>,</l>
 					<lb/><l>Herabfährſt, wenn du in dem Wetter</l>
 					<lb/><l>Einhergehſt, uns ſo fürchterlich!</l>
@@ -219,7 +218,7 @@
 					<lb/><l>Wie Flammen, die ſich ſchnell entzünden,</l>
 					<lb/><l>Sind deiner Allmacht Diener, <rs type="person" key="G0001">Gott</rs>.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Du haſt der Erde Grund geleget;</l>
 					<lb/><l>Nun ſteht ſie ewig unbeweget;</l>
 					<lb/><l>Vor Alters war die Tief ihr Kleid.</l>
@@ -232,7 +231,7 @@
 					<lb/><l>An den für ſie beſtimmten Ort.</l>
 				</lg>
 				<pb n="39" ed="CPEB1774"/>
-				<lg>
+				<lg n="5">
 					<lb/><l>Nun ſteht der Waſser Wut umdämmet,</l>
 					<lb/><l>Daß ſie, durch deinen Arm gehemmet,</l>
 					<lb/><l>Die Erde nicht verwüſten kann.</l>
@@ -244,7 +243,7 @@
 					<lb/><l>Auch rieſeln Waſser durch die Wälder,</l>
 					<lb/><l>Erfriſchen und erfreun das Wild.</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Viel ſchattenvolle Bäume grünen</l>
 					<lb/><l>An deinen Waſsern, und aus ihnen</l>
 					<lb/><l>Ertönt der Vögel Luſt und Dank.</l>
@@ -256,7 +255,7 @@
 					<lb/><l>Auch grünen fröhlich Feld und Aue,</l>
 					<lb/><l>Mit deinen Früchten, <rs type="person" key="G0001">Gott</rs>, geſchmückt.</l>
 				</lg>
-				<lg>
+				<lg n="7">
 					<lb/><l>Durch dich entſprießt, damit die Heerden</l>
 					<lb/><l>Der ſichern Flur gesättigt werden,</l>
 					<lb/><l>Das Gras und kleidet, <rs type="person" key="G0001">Gott</rs>, das Land.</l>
@@ -268,12 +267,11 @@
 					<lb/><l>Giebſt du den traubenvollen Reben</l>
 					<lb/><l>Mit milder, reicher Hand den Wein.</l>
 				</lg>
-				<lg>
+				<lg n="8">
 					<lb/><l>Du ſchaffſt das Oel, uns zu erquicken,</l>
 					<lb/><l>Des Menſchen Angeſicht zu ſchmücken;</l>
 					<lb/><l>Und heiter glänzt ſein Angeſicht.</l>
-					<lb/><l>Wem giebſt du, <rs type="person" key="G0001">Gott</rs>, nicht Brot die
-						Fülle,</l>
+					<lb/><l>Wem giebſt du, <rs type="person" key="G0001">Gott</rs>, nicht Brot die Fülle,</l>
 					<lb/><l>Daß jeder ſeinen Hunger ſtille?</l>
 					<lb/><l>Wen ſtärkt du, wen erfreuſt du nicht?</l>
 					<lb/><l>Die Bäume leben und empfangen</l>
@@ -281,7 +279,7 @@
 					<lb/><l>Gepflanzt von deinen Händen prangen</l>
 					<lb/><l>Die Zedern auf dem Libanus.</l>
 				</lg>
-				<lg>
+				<lg n="9">
 					<lb/><l>Die Vögeln baun in ihren Wipfeln,</l>
 					<lb/><l>Die Störch in hoher Tannen Gipfeln,</l>
 					<lb/><l>Gebildet und ernährt durch dich.</l>
@@ -293,7 +291,7 @@
 					<lb/><l>Die Sonne kennt und eilt die Pfade,</l>
 					<lb/><l>Die ihr dein Wink zu gehn gebeut.</l>
 				</lg>
-				<lg>
+				<lg n="10">
 					<lb/><l>Der Menſch, von ſeinem Fleiß ermattet,</l>
 					<lb/><l>Ruht, von der Finſterni? umſchattet,</l>
 					<lb/><l>Und nur das Volk der Wüſte wacht.</l>
@@ -305,7 +303,7 @@
 					<lb/><l>Du nährſt es, <rs type="person" key="G0001">Gott</rs>, aus deiner Fülle,</l>
 					<lb/><l>Du sättigſt jedes wilde Thier.</l>
 				</lg>
-				<lg>
+				<lg n="11">
 					<lb/><l>Die Morgenröthe kömmt; ſchon glühen</l>
 					<lb/><l>Des Tages Strahlen; ſchnell entfliehen</l>
 					<lb/><l>Die Thier in ihre Höhlen hin.</l>
@@ -317,7 +315,7 @@
 					<lb/><l>Du giebſt ſie, daß man deine Stärke</l>
 					<lb/><l>Und Huld und Weiſheit rühmen ſoll.</l>
 				</lg>
-				<lg>
+				<lg n="12">
 					<lb/><l>Wie wimmelts in den weiten Meeren</l>
 					<lb/><l>Von größern und von kleinern Heeren;</l>
 					<lb/><l>Dein Leviathan ſpielet hier.</l>
@@ -329,7 +327,7 @@
 					<lb/><l>Daß es von dir gesättigt werde;</l>
 					<lb/><l>Du ſeegneſt; ſie erquicken ſich.</l>
 				</lg>
-				<lg>
+				<lg n="13">
 					<lb/><l>Du giebſt; ſie ſammeln; was ſie haben,</l>
 					<lb/><l>Sind deiner milden Hände Gaben;</l>
 					<lb/><l>Du sättigſt ſie mit Freundlichkeit.</l>
@@ -341,7 +339,7 @@
 					<lb/><l>Still ſteht das Leben, und ſie ſterben,</l>
 					<lb/><l>Und werden, was ſie waren, Staub.</l>
 				</lg>
-				<lg>
+				<lg n="14">
 					<lb/><l>Dein Odem tödtet und beſeelet;</l>
 					<lb/><l>Die Welt, die deine Huld erzählet,</l>
 					<lb/><l>Erneuert ſich auf dein Gebot.</l>
@@ -353,9 +351,8 @@
 					<lb/><l>Und Berg und Fels, durch dich zerſplittert,</l>
 					<lb/><l>Sind Flammen, dampfen und vergehn.</l>
 				</lg>
-				<lg>
-					<lb/><l><rs type="person" key="G0001">Gott</rs>, meinem <rs type="person" key="G0001"
-							>Gott</rs>, will ich lobſingen;</l>
+				<lg n="15">
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, meinem <rs type="person" key="G0001">Gott</rs>, will ich lobſingen;</l>
 					<lb/><l>Ihm will ich Dank und Ehre bringen,</l>
 					<lb/><l>Ihm, weil ich athme, Lieder weyhn!</l>
 					<lb/><l>Die frommen Lieder, die ihn ehren,</l>
@@ -366,10 +363,9 @@
 					<lb/><l>Er ſchaut ſie an, der Laſter Rächer;</l>
 					<lb/><l>Und alle Frevler ſind nicht mehr.</l>
 				</lg>
-				<lg>
+				<lg n="16">
 					<lb/><l>Erheb, erheb, o meine Seele,</l>
-					<lb/><l><rs type="person" key="G0001">Gott</rs>, meinen <rs type="person" key="G0001"
-							>Schöpfer</rs>, und erzähle,</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs>, meinen <rs type="person" key="G0001">Schöpfer</rs>, und erzähle,</l>
 					<lb/><l>Verkündige ſein Lob der Welt!</l>
 					<lb/><l>Ihm ſinge deine Jubellieder;</l>
 					<lb/><l>Der Fromme halle ſie ihm wieder,</l>

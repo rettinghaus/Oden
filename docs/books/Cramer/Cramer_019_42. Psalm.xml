@@ -182,7 +182,7 @@
 			<pb n="19" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der zwey und vierzigſte Pſalm.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Wie der Hirſch, in ſchwüler Zeit,</l>
 					<lb/><l>Nach der friſchen Quelle ſchreyt;</l>
 					<lb/><l>Alſo ſchreyt in ihrem Leide,</l>
@@ -190,7 +190,7 @@
 					<lb/><l>Meine Seele, <rs type="person" key="G0001">Gott</rs>, zu dir,</l>
 					<lb/><l>Wenn erſcheinſt, wenn hilfſt du mir?</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Ach befriedigſt du ſie nie?</l>
 					<lb/><l>Abgemattet dürſtet ſie!</l>
 					<lb/><l>Lange ſeufzte ſie vergebens</l>
@@ -198,7 +198,7 @@
 					<lb/><l>Ach wenn endigt er einmal</l>
 					<lb/><l>Unerfüllter Wünſche Quaal?</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Wenn belohnt er mein Vertraun?</l>
 					<lb/><l>Soll ich nie ſein Antlitz ſchaun?</l>
 					<lb/><l>Meine Speiſe ſind nur Thränen;</l>
@@ -206,7 +206,7 @@
 					<lb/><l>Täglich fragt des Läſtrers Spott:</l>
 					<lb/><l>Wo iſt nun dein Retter, <rs type="person" key="G0001">Gott</rs>?</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Wenn, in tiefen Gram verſenkt,</l>
 					<lb/><l>Meine Seele dieß bedenkt,</l>
 					<lb/><l>Ganz ihr Elend ſieht: wie zittert</l>
@@ -214,7 +214,7 @@
 					<lb/><l>Welch ein herber Schmerz zerreißt</l>
 					<lb/><l>Meinen tiefgebeugten Geiſt!</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Ach! Ins Heiligthum des <rs type="person" key="G0001">Herrn</rs></l>
 					<lb/><l>Gieng ich mit dem Haufen gern.</l>
 					<lb/><l>In dem feyernden Gedränge</l>
@@ -222,7 +222,7 @@
 					<lb/><l>Dankt ich auch mit denen gern,</l>
 					<lb/><l>Die ihm danken, meinem <rs type="person" key="G0001">Herrn</rs>!</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Was verzagſt du ſo, mein Herz,</l>
 					<lb/><l>So voll Unruh, Sorg und Schmerz?</l>
 					<lb/><l>Hoff auf <rs type="person" key="G0001">Gott</rs>; ihm werd ich ſingen,</l>
@@ -230,7 +230,7 @@
 					<lb/><l>Daß er meiner nicht vergißt,</l>
 					<lb/><l>Daß mein <rs type="person" key="G0001">Gott</rs> mir gnädig iſt!</l>
 				</lg>
-				<lg>
+				<lg n="7">
 					<lb/><l>Schmerz und Gram, mein <rs type="person" key="G0001">Gott</rs>, zerreißt</l>
 					<lb/><l>Meinen hartgeprüften Geiſt.</l>
 					<lb/><l>In der Wüſt, am <geogName>Jordanfluſse</geogName>,</l>
@@ -238,7 +238,7 @@
 					<lb/><l>Hier an dieſem Hügel fleht</l>
 					<lb/><l>Dir, o Helfer, mein Gebet.</l>
 				</lg>
-				<lg>
+				<lg n="8">
 					<lb/><l>Fluten rauſchen her von dir;</l>
 					<lb/><l>Tiefen da und Tiefen hier.</l>
 					<lb/><l><rs type="person" key="G0001">Gott</rs>, ſie brauſen, und es ſchwellen</l>
@@ -246,7 +246,7 @@
 					<lb/><l>Deine Wogen, jed ein Meer,</l>
 					<lb/><l>Stürzen über mich ſich her.</l>
 				</lg>
-				<lg>
+				<lg n="9">
 					<lb/><l>Dennoch harr ich in Geduld.</l>
 					<lb/><l>Täglich rühm ich ſeine Huld;</l>
 					<lb/><l>Lob und Dank will ich ihm bringen;</l>
@@ -254,7 +254,7 @@
 					<lb/><l>Meine Seufzer drängen ſich,</l>
 					<lb/><l>Meines Lebens <rs type="person" key="G0001">Gott</rs>, vor dich!</l>
 				</lg>
-				<lg>
+				<lg n="10">
 					<lb/><l>Meinem Felſen, meinem <rs type="person" key="G0001">Herrn</rs></l>
 					<lb/><l>Sag ich: Tritt doch nicht ſo fern!</l>
 					<lb/><l>Wirſt du meiner nie gedenken,</l>
@@ -262,7 +262,7 @@
 					<lb/><l>Soll der Feinde Grimm und Spott</l>
 					<lb/><l>Ewig mich verfolgen, <rs type="person" key="G0001">Gott</rs>?</l>
 				</lg>
-				<lg>
+				<lg n="11">
 					<lb/><l>Wenn ſie deinen Ruhm entweihn,</l>
 					<lb/><l>Tödtets, <rs type="person" key="G0001">Gott</rs>, in mein Gebein</l>
 					<lb/><l>Wie ein Mord! Ach! Soll ichs tragen,</l>
@@ -270,7 +270,7 @@
 					<lb/><l>Wer iſt dein Erretter itzt,</l>
 					<lb/><l>Wo iſt <rs type="person" key="G0001">Gott</rs> nun, der dich ſchützt?</l>
 				</lg>
-				<lg>
+				<lg n="12">
 					<lb/><l>Was verzagſt du doch, mein Herz,</l>
 					<lb/><l>So voll Unruh, Sorg und Schmerz?</l>
 					<lb/><l>Hoff auf <rs type="person" key="G0001">Gott</rs>; ihm will ich ſingen:</l>

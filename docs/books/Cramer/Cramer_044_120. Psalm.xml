@@ -182,49 +182,49 @@
 			<pb n="44" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der hundert und ein und zwanzigſte Pſalm.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Sieh, mein Auge, nach den Bergen</l>
 					<lb/><l><placeName>Zions</placeName> unverwandt hinauf!</l>
 					<lb/><l>Denn auf den geliebten Bergen</l>
 					<lb/><l>Geht mein Heil mir auf.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Mir, wenn ich geängſtigt werde,</l>
 					<lb/><l>Hilft <rs type="person" key="G0001">Jehova Zebaoth</rs>,</l>
 					<lb/><l>Der dem Himmel und der Erde</l>
 					<lb/><l>Zu entſtehn gebot.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Er läßt deinen Fuß nicht gleiten,</l>
 					<lb/><l>Auch nicht in der Finſterniß.</l>
 					<lb/><l>Wenn dich <rs type="person" key="G0001">Gottes</rs> Augen leiten,</l>
 					<lb/><l>Wandelſt du gewiß.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Siehe der, der dich behütet,</l>
 					<lb/><l>Wachet, und entſchlummert nie,</l>
 					<lb/><l>Der, der <placeName>Iſrael</placeName> behütet,</l>
 					<lb/><l>Schläft und ſchlummert nie.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l><rs type="person" key="G0001">Gott</rs> beſchirmt dich; ſeinen Knechten</l>
 					<lb/><l>Iſt kein Uebel fürchterlich.</l>
 					<lb/><l>Er iſt ſelbſt zu deiner Rechten</l>
 					<lb/><l>Und beſchattet dich.</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Er bewahrt mit ſeiner Gnade</l>
 					<lb/><l>Dich, daß keines Übels Macht,</l>
 					<lb/><l>Nicht der Sonne Glut dir ſchade,</l>
 					<lb/><l>Nicht der Mond bey Nacht.</l>
 				</lg>
-				<lg>
+				<lg n="7">
 					<lb/><l>Er umfah dich! Nimmer fehle</l>
 					<lb/><l>Dir zur Zeit der Angſt ſein Schutz!</l>
 					<lb/><l>Er behüte deine Seele;</l>
 					<lb/><l>Sey dein Schirm und Trutz!</l>
 				</lg>
-				<lg>
+				<lg n="8">
 					<lb/><l>Wo du hingehſt, da begegne</l>
 					<lb/><l>Dir <rs type="person" key="G0001">Jehova Zebaoth</rs>!</l>
 					<lb/><l>Ewig leite dich und ſegne</l>

@@ -182,26 +182,25 @@
 			<pb n="40" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der hundert und zehnte Pſalm.</title></head>
-				<lg>
-					<lb/><l><rs type="person" key="G0001">Jehova</rs> ſprach zu <rs type="person"
-							key="J0001">Gott, dem Sohne</rs>,</l>
+				<lg n="1">
+					<lb/><l><rs type="person" key="G0001">Jehova</rs> ſprach zu <rs type="person" key="J0001">Gott, dem Sohne</rs>,</l>
 					<lb/><l>Zu meiner Rechten ſetze dich,</l>
 					<lb/><l>Und herrſche, <rs type="person" key="J0001">Sohn</rs>! Vor deinem Throne</l>
 					<lb/><l>Demüthige der Weltkreis ſich!</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Ich will nun ſtreiten, ich, dein Rächer,</l>
 					<lb/><l>Der ich von dir verherrlicht bin:</l>
 					<lb/><l>Wirf deine Feinde, die Verbrecher,</l>
 					<lb/><l>Zum Schemel deiner Füße hin!</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Nimm, nimm den Scepter meiner Stärke!</l>
 					<lb/><l>Zu <placeName>Zion</placeName> gründ ich deinen Thron,</l>
 					<lb/><l>Daß jeder deiner Haſser merke,</l>
 					<lb/><l>Du ſeyſt mir theuer, ſeyſt mein <rs type="person" key="J0001">Sohn</rs>.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Sie weigern ſich, dein Joch zu tragen;</l>
 					<lb/><l>Ein wilder unbiegſamer Schwarm!</l>
 					<lb/><l>Doch du ſollſt <choice>
@@ -210,49 +209,49 @@
 						</choice></l>
 					<lb/><l>Soll ſie dein nie bezwungner Arm.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Auch du haſt Kämpfer; willig eilen</l>
 					<lb/><l>In Feyerkleidern ſie zur Schlacht,</l>
 					<lb/><l>Der Feinde Raub mit dir zu theilen</l>
 					<lb/><l>Und die Triumphe deiner Macht.</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Wer zählt der Morgenröthe Kinder,</l>
 					<lb/><l>Des Thaues Tropfen? Sohn, wer nennt</l>
 					<lb/><l>Die Zahl des Volkes deiner Kinder,</l>
 					<lb/><l>Das dich für ſeinen <rs type="person" key="G0001">Gott</rs> erkennt?</l>
 				</lg>
-				<lg>
+				<lg n="7">
 					<lb/><l>Dir ſchwur <rs type="person" key="G0001">Jehova</rs>; Sey mein Prieſter!</l>
 					<lb/><l>Und nie wird ihn ſein Eid gereun;</l>
 					<lb/><l>Ja, ewig ſollſt du <rs type="person" key="G0001">Gottes</rs> Prieſter</l>
 					<lb/><l>Nach <rs type="person" key="M0001">Melchiſedeks</rs> Ordnung ſeyn!</l>
 				</lg>
-				<lg>
+				<lg n="8">
 					<lb/><l>Vertilgt und auſgerottet werden</l>
 					<lb/><l>Durch <rs type="person" key="G0001">Gott</rs>, der dir zur Rechten ſitzt,</l>
 					<lb/><l>O <rs type="person" key="G0001">Gott</rs>, die Könige der Erden,</l>
 					<lb/><l>Wenn ſeiner Rache Schwerdt nur blitzt!</l>
 				</lg>
-				<lg>
+				<lg n="9">
 					<lb/><l>Er kömmt zu richten, zu erwürgen</l>
 					<lb/><l>Die Völker, die voll eitler Wuth</l>
 					<lb/><l>Ihn trotzen, bis er auf Gebürgen</l>
 					<lb/><l>Voll Leichen ſteht, der Held voll Blut.</l>
 				</lg>
-				<lg>
+				<lg n="10">
 					<lb/><l>Und Häupter über große Lande</l>
 					<lb/><l>Zerſchmeißt der Sieger, und ihr Heer</l>
 					<lb/><l>Stürzt, angethan mit Hohn und Schande,</l>
 					<lb/><l>Vor ihm dahin und iſt nicht mehr!</l>
 				</lg>
-				<lg>
+				<lg n="11">
 					<lb/><l>Erſt aber werden tiefe Waſser</l>
 					<lb/><l>Den Helden zu ersäufen dräun,</l>
 					<lb/><l>Da wo er wandelt; und ſein Haſser</l>
 					<lb/><l>Wird ſchon ſich ſeines Falles freun.</l>
 				</lg>
-				<lg>
+				<lg n="12">
 					<lb/><l>Und immer tiefer wird er ſinken,</l>
 					<lb/><l>Im Leiden ſcheinen zu vergehn;</l>
 					<lb/><l>Er wird vom Strom am Wege trinken</l>

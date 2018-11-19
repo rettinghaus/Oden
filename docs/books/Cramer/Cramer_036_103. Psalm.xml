@@ -182,128 +182,119 @@
 			<pb n="36" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der hundert und dritte Pſalm.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Lobſinge <rs type="person" key="G0001">Gott</rs>! Erwecke deine Kräfte</l>
 					<lb/><l>Zu ſeines Preiſes heiligem Geſchäfte!</l>
 					<lb/><l>Mein Geiſt, erhebe, rühme deinen Retter,</l>
 					<lb/><l>Den <rs type="person" key="G0001">Gott der Götter</rs>!</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Lobſinge ſeinem Namen, meine Seele!</l>
 					<lb/><l>Der Treue ſorgt, daß dir kein Gutes fehle;</l>
 					<lb/><l>Vergiß nicht, dankbar dich ihm zu beweiſen,</l>
 					<lb/><l>Und <rs type="person" key="G0001">Gott</rs> zu preiſen!</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Er hat dir alle deine Schuld vergeben.</l>
 					<lb/><l>Er heilt dich, wenn du ſiech biſt, ſchützt dein Leben;</l>
 					<lb/><l>Entreißet dich dem dräuenden Verderben,</l>
 					<lb/><l>Läßt dich nicht ſterben!</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Er läßt dich jauchzen, krönet dich mit Gnade,</l>
 					<lb/><l>Und führt zum Heile dich gewiſse Pfade;</l>
 					<lb/><l>Dem Adler gleich, den neue Kraft durchdringet,</l>
 					<lb/><l>Wirſt du verjünget!</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Er leitet, die Gewalt und Unrecht leiden,</l>
 					<lb/><l>Von Kummer zum Genuſse ſichrer Freuden;</l>
 					<lb/><l>Belohnet, die ihn fürchten, ſeine Kinder,</l>
 					<lb/><l>Und ſtraft die Sünder!</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Er offenbarte <rs type="person" key="M0002">Moſi</rs>, ſeinem Knechte,</l>
-					<lb/><l>Und <rs type="person" key="J0002">Jacobs</rs> Stämmen des Geſetzes
-						Rechte,</l>
+					<lb/><l>Und <rs type="person" key="J0002">Jacobs</rs> Stämmen des Geſetzes Rechte,</l>
 					<lb/><l>Damit ſie nicht von ſeinem Wege träten,</l>
 					<lb/><l>Und Sünde thäten.</l>
 				</lg>
 				<pb n="37" ed="CPEB1774"/>
-				<lg>
+				<lg n="7">
 					<lb/><l>Barmherzig und von duldendem Gemüthe</l>
-					<lb/><l>Iſt <rs type="person" key="G0001">Gott</rs>, und gnädig, und von großer
-						Güte.</l>
+					<lb/><l>Iſt <rs type="person" key="G0001">Gott</rs>, und gnädig, und von großer Güte.</l>
 					<lb/><l>Er zürnt nicht ewig, will mit ſeinen Knechten</l>
 					<lb/><l>Nicht ewig rechten.</l>
 				</lg>
-				<lg>
+				<lg n="8">
 					<lb/><l>Er handelt nicht mit uns nach unſern Sünden,</l>
 					<lb/><l>Verſchont uns, trägt uns, läßt uns nicht empfinden,</l>
 					<lb/><l>Was wir, weil wir ihm unſer Herz nicht gaben,</l>
 					<lb/><l>Verſchuldet haben.</l>
 				</lg>
-				<lg>
+				<lg n="9">
 					<lb/><l>Hoch iſt der Himmel über ſeiner Erde;</l>
 					<lb/><l>So groß iſt, damit er geliebet werde,</l>
-					<lb/><l>Die Huld des <rs type="person" key="G0001">Herrn</rs> bey denen, die ihn
-						lieben,</l>
+					<lb/><l>Die Huld des <rs type="person" key="G0001">Herrn</rs> bey denen, die ihn lieben,</l>
 					<lb/><l>Und Gutes üben!</l>
 				</lg>
-				<lg>
+				<lg n="10">
 					<lb/><l>Wem bleibt ſein Antlitz, wenn ers ſucht, verborgen?</l>
 					<lb/><l>So weit der Abend ſich entfernt vom Morgen,</l>
-					<lb/><l>Entfernt von uns <rs type="person" key="G0001">Gott</rs>, wenn wir faſt
-						verzagen,</l>
+					<lb/><l>Entfernt von uns <rs type="person" key="G0001">Gott</rs>, wenn wir faſt verzagen,</l>
 					<lb/><l>Der Sünde Plagen.</l>
 				</lg>
-				<lg>
+				<lg n="11">
 					<lb/><l>So zärtlich ſich ein Vater ſeiner Kinder</l>
-					<lb/><l>Erbarmet, ſo erbarmt ſich <rs type="person" key="G0001">Gott</rs> der
-						Sünder,</l>
+					<lb/><l>Erbarmet, ſo erbarmt ſich <rs type="person" key="G0001">Gott</rs> der Sünder,</l>
 					<lb/><l>Wenn ſie vom Frevel ſich zu ihm bekehren,</l>
 					<lb/><l>Ihm Treue ſchwören!</l>
 				</lg>
-				<lg>
+				<lg n="12">
 					<lb/><l>Er ſchlägt und heilt, verwundet, läßt geneſen</l>
 					<lb/><l>Und denkt daran, welch ein gebrechlich Weſen</l>
 					<lb/><l>Der Menſch ſey, weiß, daß das Geſchöpf aus Erde</l>
 					<lb/><l>Bald Aſche werde.</l>
 				</lg>
-				<lg>
+				<lg n="13">
 					<lb/><l>Ach, er iſt Gras! Er blüht, wie Blumen blühen;</l>
 					<lb/><l>Die Winde wehn darüber; ſie verblühen;</l>
 					<lb/><l>Und ihre Stätte wird nach wenig Stunden</l>
 					<lb/><l>Nicht mehr gefunden.</l>
 				</lg>
-				<lg>
+				<lg n="14">
 					<lb/><l>Von Ewigkeit zu Ewigkeit währet</l>
 					<lb/><l>Die Güte <rs type="person" key="G0001">Gottes</rs> jedem, der ihn ehret;</l>
 					<lb/><l>Von Kind auf Kindeſkinder iſt er Gnade,</l>
 					<lb/><l>Ganz Treu und Gnade.</l>
 				</lg>
-				<lg>
+				<lg n="15">
 					<lb/><l>Ganz Gnade denen, die ihm treu verbleiben,</l>
 					<lb/><l>Die ſein Geſetz in ihre Herzen ſchreiben,</l>
 					<lb/><l>Damit ihr Fuß ſich nie von ſeinem Wege</l>
 					<lb/><l>Verirren möge.</l>
 				</lg>
-				<lg>
-					<lb/><l><rs type="person" key="G0001">Gott</rs> hat im Himmel ſeinen Stuhl
-						geſetzet,</l>
+				<lg n="16">
+					<lb/><l><rs type="person" key="G0001">Gott</rs> hat im Himmel ſeinen Stuhl geſetzet,</l>
 					<lb/><l>Da herrſcht er über alles, wägt und ſchätzet</l>
 					<lb/><l>Der Menſchen Thaten und beſtimmet ihnen,</l>
 					<lb/><l>Was ſie verdienen.</l>
 				</lg>
-				<lg>
-					<lb/><l>Lobt, lobt den <rs type="person" key="G0001">Herrn</rs>, ihr ſeiner Engel
-						Heere,</l>
+				<lg n="17">
+					<lb/><l>Lobt, lobt den <rs type="person" key="G0001">Herrn</rs>, ihr ſeiner Engel Heere,</l>
 					<lb/><l>Ihr ſtarken Helden rühmt ihn, bringt ihm Ehre,</l>
 					<lb/><l>Die ihr ihm gern gehorcht und ſeinen Willen</l>
 					<lb/><l>Eilt zu erfüllen.</l>
 				</lg>
-				<lg>
+				<lg n="18">
 					<lb/><l>Lobt, alle ſeine Heere, lobt ihn, rühmet,</l>
 					<lb/><l>Ihr ſeine Diener; denn ſein Lob geziemet</l>
-					<lb/><l>Den Knechten <rs type="person" key="G0001">Gottes</rs>, und den Herrn
-						erheben</l>
+					<lb/><l>Den Knechten <rs type="person" key="G0001">Gottes</rs>, und den Herrn erheben</l>
 					<lb/><l>Iſt Heil und Leben.</l>
 				</lg>
-				<lg>
+				<lg n="19">
 					<lb/><l>Lobſingt, lobſingt ihm, alle ſeine Werke!</l>
 					<lb/><l>An allen Orten ſeiner Macht und Stärke;</l>
-					<lb/><l>Lobſinge <rs type="person" key="G0001">Gott</rs>, den ich zum Heil
-						erwähle,</l>
+					<lb/><l>Lobſinge <rs type="person" key="G0001">Gott</rs>, den ich zum Heil erwähle,</l>
 					<lb/><l>Ihm, meine Seele!</l>
 				</lg>
 			</div>

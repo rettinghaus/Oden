@@ -182,7 +182,7 @@
 			<pb n="33" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der ſieben und neunzigſte Pſalm.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l><rs type="person" key="G0001">Jehova</rs> regieret: Es jauchze die Erde!</l>
 					<lb/><l>Ihr Inſeln, frohlockt, verherrlichet werde</l>
 					<lb/><l>Der Name <rs type="person" key="G0001">Gottes</rs> in der Welt!</l>
@@ -190,7 +190,7 @@
 					<lb/><l>In undurchdringbarn Finſterniſsen</l>
 					<lb/><l>Steht ſein gefürchtetes Gezelt!</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Gerecht iſt der Herrſcher, und Rach iſt die Stütze</l>
 					<lb/><l>Von ſeinem in Nacht verhülleten Sitze,</l>
 					<lb/><l>Den keine Wut erſchüttern kann.</l>
@@ -198,16 +198,15 @@
 					<lb/><l>Und zündet frevelnde Verbrecher,</l>
 					<lb/><l>Die Feinde ſeines Namens, an.</l>
 				</lg>
-				<lg>
-					<lb/><l>Die Blitze des <rs type="person" key="G0001">Richters</rs> durchſtrahlen die
-						Erde,</l>
+				<lg n="3">
+					<lb/><l>Die Blitze des <rs type="person" key="G0001">Richters</rs> durchſtrahlen die Erde,</l>
 					<lb/><l>Da wanket der Kreis der zitternden Erde,</l>
 					<lb/><l>Die er mit ſeinem Finger hält.</l>
 					<lb/><l>Himmelbedräuende Berge zerfließen,</l>
 					<lb/><l>Wie Wachs, <rs type="person" key="G0001">Gott</rs>, unter deinen Füßen,</l>
 					<lb/><l>Vor dir, dem Könige der Welt.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Er herrſchet gewaltig; die Welten erbeben</l>
 					<lb/><l>Und beten ihn an; die Himmel erheben</l>
 					<lb/><l>Den <rs type="person" key="G0001">Herrn</rs>, daſs er gerecht regiert.</l>
@@ -215,7 +214,7 @@
 					<lb/><l>Ihm Preis und Dank und Macht zu bringen,</l>
 					<lb/><l>Ihm, welchem alles Lob gebührt.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Schmach treffe den Bilderanbeter! Entſetzen</l>
 					<lb/><l>Ergreife den Knecht der nichtigen Götzen!</l>
 					<lb/><l>Mit Schande werd er angethan!</l>
@@ -223,25 +222,23 @@
 					<lb/><l>Ihr Götter unter <rs type="person" key="G0001">Gott</rs>, ihm Ehre,</l>
 					<lb/><l>Und betet den Beherrſcher an!</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l><placeName>Jeruſalem</placeName> hört es, iſt Dank, iſt Entzücken.</l>
 					<lb/><l>Die Töcher <placeName>Judäa</placeName> freun ſich und ſchmücken</l>
 					<lb/><l>Zum Feſte deines Lobes ſich.</l>
-					<lb/><l><rs type="person" key="G0001">Höchſter</rs>, dich rühmen ſie, ihren
-						Erretter;</l>
+					<lb/><l><rs type="person" key="G0001">Höchſter</rs>, dich rühmen ſie, ihren Erretter;</l>
 					<lb/><l>Sie preiſen, o du <rs type="person" key="G0001">Gott der Götter</rs>,</l>
 					<lb/><l>O <rs type="person" key="G0001">Beſter der Beherrſcher</rs>, dich!</l>
 				</lg>
-				<lg>
+				<lg n="7">
 					<lb/><l>Ihr, die ihr ihn liebet, haßt, was ihn beleidigt!</l>
-					<lb/><l>Die Frommen liebt <rs type="person" key="G0001">Gott</rs>, und mächtig
-						vertheidigt</l>
+					<lb/><l>Die Frommen liebt <rs type="person" key="G0001">Gott</rs>, und mächtig vertheidigt</l>
 					<lb/><l>Er den, der ſeinen Namen ehrt.</l>
 					<lb/><l>Theuer ſind vor ihm der Heiligen Seelen,</l>
 					<lb/><l>Der Frevler, der ſie wünſcht zu quälen,</l>
 					<lb/><l>Wird ſchnell durch ſeinen Zorn verzehrt.</l>
 				</lg>
-				<lg>
+				<lg n="8">
 					<lb/><l>Oft weinen die Frommen in ſchreckenden Nächten;</l>
 					<lb/><l>Doch plötzlich entfliehn ſie; ſeine Gerechten</l>
 					<lb/><l>Sehn Licht, und Freude wird ihr Theil.</l>

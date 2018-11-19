@@ -182,7 +182,7 @@
 			<pb n="29" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der ein und neunzigſte Pſalm.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Wie ſelig iſt, der <rs type="person" key="G0001">Gott</rs> vertraut,</l>
 					<lb/><l>Der in des <rs type="person" key="G0001">Höchſten</rs> Zelte ſitzet;</l>
 					<lb/><l>Der, dem vor keinem Wetter graut,</l>
@@ -191,7 +191,7 @@
 					<lb/><l><rs type="person" key="G0001">Herr</rs>, meine Burg und Zuverſicht;</l>
 					<lb/><l>Mein <rs type="person" key="G0001">Gott</rs>, auf den ich hoffe!</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Er weiß mich, wenn ein Sturm mir dräut,</l>
 					<lb/><l>Dem Untergange zu entrücken;</l>
 					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> bewahrt mich, und befreyt</l>
@@ -200,7 +200,7 @@
 					<lb/><l>Errettet <rs type="person" key="G0001">Gott</rs> mich von der Peſt</l>
 					<lb/><l>Weitwürgendem Verderben.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Dich wird der Schutz des <rs type="person" key="G0001">Herrn</rs> umfahn;</l>
 					<lb/><l>Dich werden ſeine Flügel decken.</l>
 					<lb/><l>Vertrau' ihm nur; kein Unfall kann</l>
@@ -209,7 +209,7 @@
 					<lb/><l>Was er verheißt; dein Helm und Schild</l>
 					<lb/><l>Iſt deines <rs type="person" key="G0001">Gottes</rs> Treue.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Du wirſt voll Muth und Zuverſicht</l>
 					<lb/><l>Das Graun der Mitternacht beſiegen;</l>
 					<lb/><l>Dich ſchrecken, dich verwunden nicht</l>
@@ -218,7 +218,7 @@
 					<lb/><l>Die, die ſich in die Nacht verbirgt,</l>
 					<lb/><l>Wird dich nicht töten können.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Ob dir zur Linken Tauſend auch,</l>
 					<lb/><l>Zehntauſend dir zur Rechten ſterben,</l>
 					<lb/><l>So ſoll ihr gifterfüllter Hauch</l>
@@ -227,7 +227,7 @@
 					<lb/><l>Wie <rs type="person" key="G0001">Gott</rs> an denen, die ihn ſchmähn,</l>
 					<lb/><l>Der Sünde Frevel räche.</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Denn deine fromme Seele ſpricht:</l>
 					<lb/><l>Mich wird der Arm des <rs type="person" key="G0001">Herrn</rs> bewahren;</l>
 					<lb/><l>Der Höchſt' iſt meine Zuverſicht,</l>
@@ -236,7 +236,7 @@
 					<lb/><l>Und keine Plage nahet ſich</l>
 					<lb/><l>Zu deiner ſichern Hütte.</l>
 				</lg>
-				<lg>
+				<lg n="7">
 					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> wird ſeiner Engel Schaar</l>
 					<lb/><l>Vom Himmel ſenden und gebieten,</l>
 					<lb/><l>Daß ſie vor Unfall und Gefahr</l>
@@ -245,7 +245,7 @@
 					<lb/><l>Du gleiteſt nicht; ſein Engel muß</l>
 					<lb/><l>Dich auf den Händen tragen.</l>
 				</lg>
-				<lg>
+				<lg n="8">
 					<lb/><l>Und Löwen trittſt du unter dich,</l>
 					<lb/><l>Zermalmeſt ſie auf deinen Pfaden;</l>
 					<lb/><l>Zertretne Nattern krümmen ſich,</l>
@@ -254,7 +254,7 @@
 					<lb/><l>Du aber trittſt ihn in den Staub,</l>
 					<lb/><l>Zertrittſt den Kopf des Drachen.</l>
 				</lg>
-				<lg>
+				<lg n="9">
 					<lb/><l>Er, ſpricht der <rs type="person" key="G0001">Herr</rs>, begehret mein,</l>
 					<lb/><l>Und darum will ich ihn bewahren;</l>
 					<lb/><l>Er dient mir; ich will mit ihm ſeyn,</l>
@@ -263,7 +263,7 @@
 					<lb/><l>Ich bin bey ihm in ſeiner Noth,</l>
 					<lb/><l>Um ihn herauſzureißen.</l>
 				</lg>
-				<lg>
+				<lg n="10">
 					<lb/><l>Ihn, weil er mir vertrauet hat,</l>
 					<lb/><l>Will ich empor zu Ehren heben;</l>
 					<lb/><l>Ich bin ſein <rs type="person" key="G0001">Gott</rs>; ich mach ihn ſatt</l>

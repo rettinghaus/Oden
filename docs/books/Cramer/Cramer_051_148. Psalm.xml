@@ -182,92 +182,91 @@
 			<pb n="51" ed="CPEB1774"/>
 			<div type="chorale">
 				<head rendition="#c"><title>Der hundert und acht und vierzigſte Pſalm.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Preis ſey dem <rs type="person" key="G0001">Gotte Zebaoth</rs>!</l>
 					<lb/><l>Ihr Himmel lobt den <rs type="person" key="G0001">Herrn</rs>!</l>
 					<lb/><l>Lobt in den Höhen unſern <rs type="person" key="G0001">Gott</rs>;</l>
 					<lb/><l>Wer preiſet ihn nicht gern?</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Euch, Engel <rs type="person" key="G0001">Gottes</rs>, euch geziemt</l>
 					<lb/><l>Das Lob des Ewigen!</l>
 					<lb/><l>Ihr, alle ſeine Heere, rühmt,</l>
 					<lb/><l>Rühmt den Unendlichen!</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Erheb, o Sonne, ſeine Macht!</l>
 					<lb/><l>O Mond, erhebe <rs type="person" key="G0001">Gott</rs>!</l>
 					<lb/><l>Ihr hellen Leuchten in der Nacht,</l>
 					<lb/><l>Ihr Sterne, preiſet <rs type="person" key="G0001">Gott</rs>!</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Ihr, alle ſeine Himmel, preiſt</l>
 					<lb/><l>Den <rs type="person" key="G0001">Herrn</rs>, der euch erhob;</l>
 					<lb/><l>Das Waſser, welches euch umſchleußt,</l>
 					<lb/><l>Sey ſeiner Allmacht Lob!</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Er bildet euch durch ſeine Kraft,</l>
 					<lb/><l>Gebeut nur und ihr ſeyd.</l>
-					<lb/><l>Erhebt den <rs type="person" key="G0001">Herrn</rs>, den, wenn er
-						ſchafft,</l>
+					<lb/><l>Erhebt den <rs type="person" key="G0001">Herrn</rs>, den, wenn er ſchafft,</l>
 					<lb/><l>Nie, was er ſchafft, gereut.</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Es freue, was erſchaffen iſt,</l>
 					<lb/><l>Der Güte <rs type="person" key="G0001">Gottes</rs> ſich;</l>
 					<lb/><l>Denn alles, was der <rs type="person" key="G0001">Herr</rs> beſchließt,</l>
 					<lb/><l>Iſt unveränderlich.</l>
 				</lg>
-				<lg>
+				<lg n="7">
 					<lb/><l>Ihr auf der Erde lobt den <rs type="person" key="G0001">Herrn</rs>,</l>
 					<lb/><l>Den <rs type="person" key="G0001">Herrſcher Zebaoth</rs>;</l>
 					<lb/><l>Der Wallfiſch lobe ſeinen <rs type="person" key="G0001">Herrn</rs>,</l>
 					<lb/><l>Die Tiefe lobe <rs type="person" key="G0001">Gott</rs>!</l>
 				</lg>
-				<lg>
+				<lg n="8">
 					<lb/><l>Das Feuer preis ihn! Es erhöh,</l>
 					<lb/><l>O <rs type="person" key="G0001">Gott</rs>, der Hügel dich!</l>
 					<lb/><l>Von dir verbreite Dampf und Schnee</l>
 					<lb/><l>Zu deinem Lobe ſich!</l>
 				</lg>
-				<lg>
+				<lg n="9">
 					<lb/><l>Der Sturmwind, der auf dein Geheiß</l>
 					<lb/><l>Uns wohl thut, uns auch droht,</l>
 					<lb/><l>Und Berg und Hügel ſey dein Preis,</l>
 					<lb/><l><rs type="person" key="G0001">Jehova Zebaoth</rs>!</l>
 				</lg>
-				<lg>
+				<lg n="10">
 					<lb/><l>Ihr ſegenvolle Bäum' erhebt,</l>
 					<lb/><l>Ihr Cedern lobt den <rs type="person" key="G0001">Herrn</rs>!</l>
 					<lb/><l>Ihr Thier, und was vom Felde lebt,</l>
 					<lb/><l>Lobſingt, lobſingt dem <rs type="person" key="G0001">Herrn</rs>!</l>
 				</lg>
-				<lg>
+				<lg n="11">
 					<lb/><l>Der Vögel lieblicher Geſang,</l>
 					<lb/><l>Der Wurm im Staube ſoll</l>
 					<lb/><l>Ihn loben; alles werde Dank</l>
 					<lb/><l>Und ſeines Preiſes voll!</l>
 				</lg>
-				<lg>
+				<lg n="12">
 					<lb/><l>Der, der gehorcht, und der regiert,</l>
 					<lb/><l>Der <rs type="person" key="G0001">Herr</rs>, der Untertan;</l>
 					<lb/><l>Der, der der Armen Sache führt,</l>
 					<lb/><l>Der Richter bet ihn an!</l>
 				</lg>
-				<lg>
+				<lg n="13">
 					<lb/><l>Der Jungfrau und des Jünglings Preis</l>
 					<lb/><l>Sey dir, o <rs type="person" key="G0001">Gott</rs>, geweiht!</l>
 					<lb/><l>Es ſinge, Höchſter, Mann und Greis</l>
 					<lb/><l>Von deiner Herrlichkeit!</l>
 				</lg>
-				<lg>
+				<lg n="14">
 					<lb/><l>Groß iſt <rs type="person" key="G0001">Jehova Zebaoth</rs>,</l>
 					<lb/><l>Daß man ihn preiſen ſoll;</l>
 					<lb/><l>Und Erd und Himmel ſind von <rs type="person" key="G0001">Gott</rs></l>
 					<lb/><l>Und ſeiner Ehre voll.</l>
 				</lg>
-				<lg>
+				<lg n="15">
 					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> beſchützt uns und <choice>
 							<sic>erhoht</sic>
 							<corr>erhöht</corr>
@@ -276,7 +275,7 @@
 					<lb/><l>Wer unſer Feind iſt, der vergeht,</l>
 					<lb/><l>Vertilgt durch ſeinen Zorn!</l>
 				</lg>
-				<lg>
+				<lg n="16">
 					<lb/><l>Das Volk, das er erwählet, ſey</l>
 					<lb/><l>Ihm heilig, preiſt ihn gern!</l>
 					<lb/><l>Es bleibe ſeinem Bunde treu;</l>

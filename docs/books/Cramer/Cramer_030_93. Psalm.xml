@@ -183,7 +183,7 @@
 			<div type="chorale">
 				<head rendition="#c"><title>Der drey und neunzigſte Pſalm.</title></head>
 				<pb n="31" ed="CPEB1774"/>
-				<lg>
+				<lg n="1">
 					<lb/><l><rs type="person" key="G0001">Jehova</rs> herrſcht, ein König über alle,</l>
 					<lb/><l>Geſchmücket mit Majeſtät und Pracht.</l>
 					<lb/><l>Damit ſein Name die Welten durchſchalle,</l>
@@ -193,7 +193,7 @@
 					<lb/><l>Er baute die Welten, gewaltige Werke,</l>
 					<lb/><l>Davon nicht eins erſchüttert werden kann.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Feſt ſteht dein Stuhl ſeit deinen Ewigkeiten;</l>
 					<lb/><l><rs type="person" key="G0001">Herr</rs>, die Unendlichkeit iſt dein!</l>
 					<lb/><l><rs type="person" key="G0001">Herr</rs>, du biſt ewig, unnennbare Zeiten</l>
@@ -203,7 +203,7 @@
 					<lb/><l>Sie brauſen und toben und werfen die Wellen</l>
 					<lb/><l>Aus ihrer Flut wie hohe Berg empor.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Das Weltmeer tobt; vor ſeinem Grimme</l>
 					<lb/><l>Entſetzen Erd und Himmel ſich;</l>
 					<lb/><l>Und ſeiner Wogen gewaltige Stimme</l>
@@ -211,12 +211,10 @@
 					<lb/><l>Gefürchteter aber, als alles Getümmel</l>
 					<lb/><l>Der lauten Fluten, der brauſenden See,</l>
 					<lb/><l>Gefürchteter iſt der Erſchaffer im Himmel,</l>
-					<lb/><l>Der <rs type="person" key="G0001">Gott</rs> des Meers, der Herrſcher in der
-						Höh.</l>
+					<lb/><l>Der <rs type="person" key="G0001">Gott</rs> des Meers, der Herrſcher in der Höh.</l>
 				</lg>
-				<lg>
-					<lb/><l>Gewiß iſt, <rs type="person" key="G0001">Gott</rs>, was dein Wort
-						offenbaret,</l>
+				<lg n="4">
+					<lb/><l>Gewiß iſt, <rs type="person" key="G0001">Gott</rs>, was dein Wort offenbaret,</l>
 					<lb/><l>Und Wahrheit, was dein Mund verſpricht;</l>
 					<lb/><l>Wer deine Zeugniſse heilig bewahret,</l>
 					<lb/><l>Der irrt in ſeinem Gange nicht.</l>
