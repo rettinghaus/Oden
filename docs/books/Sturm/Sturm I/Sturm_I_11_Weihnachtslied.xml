@@ -185,7 +185,7 @@
 			<pb n="11" ed="CPEB1780"/>
 			<div type="chorale">
 				<head><title>Weihnachtſlied.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Vom Grab, an dem wir wallen,</l>
 					<lb/><l>Soll, <rs type="person" key="J0001">Jeſu Chriſt</rs>, dein Lobgeſang</l>
 					<lb/><l>Empor zum Himmel ſchallen!</l>
@@ -199,7 +199,7 @@
 					<lb/><l>Mit ihm erſcheint das Leben,</l>
 					<lb/><l>Mit ihm des Himmels Lohn!</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Kommt, laßt uns niederfallen,</l>
 					<lb/><l>Vor unſerm <rs type="person" key="J0001">Mittler, Jeſus Chriſt</rs>,</l>
 					<lb/><l>Und danken, daß er allen</l>
@@ -213,14 +213,13 @@
 					<lb/><l>Er ſegnet unſre Pfade</l>
 					<lb/><l>Durchs Leben bis zum Grab.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Frohlockt ihr Mitgenoſsen</l>
 					<lb/><l>Der Sünde und der Sterblichkeit!</l>
 					<lb/><l>Nicht länger iſt verſchloſsen</l>
 					<lb/><l>Der Eingang zu der Herrlichkeit.</l>
 					<lb/><l>Zu unſrer Erd hernieder</l>
-					<lb/><l>Kam <rs type="person" key="G0001">Gottes</rs> ewger <rs type="person"
-							key="J0001">Sohn</rs>:</l>
+					<lb/><l>Kam <rs type="person" key="G0001">Gottes</rs> ewger <rs type="person" key="J0001">Sohn</rs>:</l>
 					<lb/><l>Nun hebt er ſeine Brüder</l>
 					<lb/><l>Empor zu <rs type="person" key="G0001">Gottes</rs> Thron.</l>
 					<lb/><l>Er ward das Heil der Sünder</l>
@@ -228,7 +227,7 @@
 					<lb/><l>Nun ſind ſie <rs type="person" key="G0001">Gottes</rs> Kinder</l>
 					<lb/><l>Und <rs type="person" key="G0001">Gottes</rs> Erben dort.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>O du, dem itzt die Menge</l>
 					<lb/><l>Der Engel und Verklärten ſingt,</l>
 					<lb/><l>Vernimm die Lobgesänge,</l>
@@ -242,7 +241,7 @@
 					<lb/><l>Wenn ſie, entrückt der Erden,</l>
 					<lb/><l>Sich deines Anſchauns freun.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Bald ſind wir zu dem Lohne</l>
 					<lb/><l>Der Himmelſbürger dort erhöht,</l>
 					<lb/><l>Nah ſind wir dann dem Throne,</l>

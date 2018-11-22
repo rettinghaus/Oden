@@ -185,7 +185,7 @@
 			<pb n="27" ed="CPEB1780"/>
 			<div type="chorale">
 				<head><title>Gottes Allgegenwart.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Nie biſt du, <rs type="person" key="G0001">Höchſter</rs>, von uns fern:</l>
 					<lb/><l>Du wirkſt an allen Enden.</l>
 					<lb/><l>Wo ich nur bin, <rs type="person" key="G0001">Herr</rs> aller Herrn,</l>
@@ -193,7 +193,7 @@
 					<lb/><l>Durch dich nur leb und athme ich,</l>
 					<lb/><l>Denn deine Rechte ſchützet mich.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Du <choice>
 							<sic>weißſt,</sic>
 							<corr>weißt,</corr>
@@ -204,7 +204,7 @@
 					<lb/><l>Nichts, nichts kann deinem Aug entfliehn,</l>
 					<lb/><l>Nichts deinen Händen mich entziehn.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Wenn ich in ſtiller Einſamkeit</l>
 					<lb/><l>Mein Herz an dich ergebe,</l>
 					<lb/><l>Und fern von Welt und Eitelkeit</l>
@@ -212,7 +212,7 @@
 					<lb/><l>So merkſt du gnädig auf mein Flehn</l>
 					<lb/><l>Und läßt mich Troſt und Freude ſehn.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Du merkſt es, wenn des Herzens Rath</l>
 					<lb/><l>Verkehrte Wege wählet:</l>
 					<lb/><l>Und bleibt auch eine böſe That</l>
@@ -223,7 +223,7 @@
 						</choice> du ſie, und züchtigſt mich</l>
 					<lb/><l>Zu meiner Beßrung väterlich.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Du höreſt meinen Seufzern zu,</l>
 					<lb/><l>Daß Hülfe mir erſcheine.</l>
 					<lb/><l>Voll Mitleid, <rs type="person" key="G0001">Vater</rs>, zähleſt du</l>
@@ -231,7 +231,7 @@
 					<lb/><l>Du ſiehſt und wägeſt meinen Schmerz</l>
 					<lb/><l>Und ſtärkſt mit deinem Troſt mein Herz.</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>O drück, <rs type="person" key="G0001">Allgegenwärtiger</rs>,</l>
 					<lb/><l>Dies tief in meine Seele.</l>
 					<lb/><l>Daß, wo ich bin, nur dich, o <rs type="person" key="G0001">Herr</rs>,</l>
@@ -239,7 +239,7 @@
 					<lb/><l>Daß ich dein heilig Auge ſcheu,</l>
 					<lb/><l>Und dir zu dienen eifrig ſey.</l>
 				</lg>
-				<lg>
+				<lg n="7">
 					<lb/><l>Laß überall gewiſsenhaft</l>
 					<lb/><l>Nach deinem Wort mich handeln:</l>
 					<lb/><l>Und ſtärke mich dann auch mit Kraft,</l>

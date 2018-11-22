@@ -185,7 +185,7 @@
 			<pb n="24" ed="CPEB1780"/>
 			<div type="chorale">
 				<head><title>Herbſtlied.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>So weit der Weſen Millionen,</l>
 					<lb/><l><rs type="person" key="G0001">Gott</rs>, deinen Erdenkreis bewohnen,</l>
 					<lb/><l>Wird alles ſatt durch dich.</l>
@@ -193,7 +193,7 @@
 					<lb/><l>Und bey dem ſegnenden Genuſse</l>
 					<lb/><l>Freut jedes Weſen deiner ſich.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Dein iſt das Brod! Uns zu ernähren,</l>
 					<lb/><l>Schuf deine Hand die güldnen Aehren,</l>
 					<lb/><l>Von reifen Körnern ſchwer.</l>
@@ -201,7 +201,7 @@
 					<lb/><l>Sey deine Vaterhuld geprieſen!</l>
 					<lb/><l>Denn dein iſt unſer Brod, o <rs type="person" key="G0001">Herr</rs>!</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Dein iſt die Frucht an Strauch und Bäumen!</l>
 					<lb/><l>Du ließſt die milde Knoſpe keimen,</l>
 					<lb/><l>Und blühen, und gedeihn.</l>
@@ -209,7 +209,7 @@
 					<lb/><l>Was Garten, Forſt und Trift uns gaben,</l>
 					<lb/><l>Was Scheun und Tenne zollt, iſt dein!</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Dein ſind die traubenvollen Reben!</l>
 					<lb/><l>Du gibſt den Beeren Saft, und Leben</l>
 					<lb/><l>Und Kraft gibſt du dem Wein.</l>
@@ -217,7 +217,7 @@
 					<lb/><l>Und Fröhlichkeit in unſre Lieder.</l>
 					<lb/><l><rs type="person" key="G0001">Herr</rs>, du ſollſt unſer Loblied ſeyn.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Dein, <rs type="person" key="G0001">Herr</rs>, iſt alles. Du beglückeſt,</l>
 					<lb/><l>Du ſegneſt, sättigſt und erquickeſt</l>
 					<lb/><l>Dein grenzenloſes Reich.</l>

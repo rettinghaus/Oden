@@ -185,7 +185,7 @@
 			<pb n="2" ed="CPEB1780"/>
 			<div type="chorale">
 				<head><title>Paſsionſlied.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Einſt, als dich im Gerichte</l>
 					<lb/><l>Der Sünden Fluch umgab,</l>
 					<lb/><l>Da floß vom Angeſichte</l>
@@ -194,7 +194,7 @@
 					<lb/><l>Als nun, von <rs type="person" key="G0001">Gott</rs> verlaſsen,</l>
 					<lb/><l>Du mit dem Tode rangſt.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Im heißen Angſtgebete,</l>
 					<lb/><l>Wie <rs type="person" key="J0001">Mittler</rs> kämpfteſt du!</l>
 					<lb/><l>Die ganze Seele flehte</l>
@@ -203,7 +203,7 @@
 					<lb/><l>Du dürſteteſt vergebens</l>
 					<lb/><l>Nach Freudigkeit und Licht.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Auch ſie, die ſo entſchloſsen,</l>
 					<lb/><l>So männlich dich bekannt,</l>
 					<lb/><l>Sind muthlos, ſind verdroſsen,</l>
@@ -212,7 +212,7 @@
 					<lb/><l>Und keiner deiner Brüder</l>
 					<lb/><l>Spricht Labſal dir ins Herz.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Doch du trägſt dieſe Schwachen</l>
 					<lb/><l>Mit göttlicher Geduld.</l>
 					<lb/><l>Du eilſt, ſie ſtark zu machen</l>
@@ -221,7 +221,7 @@
 					<lb/><l>O wacht mit mir und betet!</l>
 					<lb/><l>Nah iſt des Feindes Macht.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Du Tröſter ſchwacher Brüder,</l>
 					<lb/><l><rs type="person" key="J0001">Herr</rs>, nimm dich meiner an.</l>
 					<lb/><l>Wie leicht ſink ich darnieder,</l>
@@ -230,7 +230,7 @@
 					<lb/><l>Bin ruhig bei Gefahren,</l>
 					<lb/><l>Die meiner Seele dräun.</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l><rs type="person" key="J0001">Herr</rs>, rette du mich Schwachen,</l>
 					<lb/><l>Wenn Stolz und Sicherheit</l>
 					<lb/><l>Den Geiſt verdroſsen machen:</l>

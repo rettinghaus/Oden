@@ -185,7 +185,7 @@
 			<pb n="9" ed="CPEB1780"/>
 			<div type="chorale">
 				<head><title>Todeſfreudigkeit.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l><rs type="person" key="G0001">Gott</rs>, dem ich lebe, deß ich bin,</l>
 					<lb/><l>Dem einſt ich ſterbe,</l>
 					<lb/><l>Getroſt und freudig geh ich hin:</l>
@@ -193,7 +193,7 @@
 					<lb/><l>Das dort aufbehalten iſt,</l>
 					<lb/><l>Führt mich der Weg des Todes.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Ihn werd ich ſchauen, dem ich hier</l>
 					<lb/><l>Geglaubet habe:</l>
 					<lb/><l>So hohe Freuden gab er mir</l>
@@ -201,7 +201,7 @@
 					<lb/><l>Wie wird dann, o dann mir ſeyn,</l>
 					<lb/><l>Wenn ich ihn ſchauen werde!</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Mich ſchrecke nicht des Todes Quaal,</l>
 					<lb/><l>Der Gräber Grauen!</l>
 					<lb/><l>Der letzte Weg durchs dunkle Thal</l>
@@ -209,7 +209,7 @@
 					<lb/><l>Nun geh ich im Frieden hin,</l>
 					<lb/><l>Wenn <rs type="person" key="G0001">Gott</rs> mich ruft zum Grabe.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Gieb mir den Glauben <rs type="person" key="S0002">Simeons</rs></l>
 					<lb/><l>Und <rs type="person" key="J0002">Jacobs</rs> Freuden.</l>
 					<lb/><l>Laß mich beym Anblick jenes Lohns</l>

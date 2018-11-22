@@ -185,7 +185,7 @@
 			<pb n="25" ed="CPEB1780"/>
 			<div type="chorale">
 				<head><title>Abendlied.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>So flüchtig, als des Tages Stunden</l>
 					<lb/><l>Mir unter Luſt und Schmerzen verſchwunden,</l>
 					<lb/><l>Verfliegt mir meine Lebenſzeit.</l>
@@ -193,7 +193,7 @@
 					<lb/><l>Mit jedem Abend rück ich näher,</l>
 					<lb/><l>O <rs type="person" key="G0001">Vater</rs>, deiner Ewigkeit.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Vielleicht hat deine milde Sonne</l>
 					<lb/><l>Zum letztenmal mit Lebenſwonne</l>
 					<lb/><l>Und Jugendkraft mein Herz erquickt.</l>
@@ -201,16 +201,15 @@
 					<lb/><l>Bin ich vielleicht, wie Gras, verblühet,</l>
 					<lb/><l>Verblühet, und der Erd entrückt.</l>
 				</lg>
-				<lg>
-					<lb/><l>Ach, <rs type="person" key="G0001">Gott</rs>, ich denks mit Furcht und
-						Beben!</l>
+				<lg n="3">
+					<lb/><l>Ach, <rs type="person" key="G0001">Gott</rs>, ich denks mit Furcht und Beben!</l>
 					<lb/><l>Vor deinem Antlitz ſteht mein Leben,</l>
 					<lb/><l>Steht jede Neigung, jede That.</l>
 					<lb/><l>Sey gnädig, <rs type="person" key="G0001">Ewiger</rs>! Verſchone!</l>
 					<lb/><l>Ich ſeufze: Ach, in deinem <rs type="person" key="J0001">Sohne</rs></l>
 					<lb/><l>Sey gnädig meiner Miſsethat.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Sieh dieſe Thränen meiner Reue:</l>
 					<lb/><l><rs type="person" key="G0001">Herr</rs>, ich gelobe dir aufs neue,</l>
 					<lb/><l>Mich treuer deinem Dienſt zu weihn.</l>

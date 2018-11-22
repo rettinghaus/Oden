@@ -185,7 +185,7 @@
 			<pb n="XX" ed="CPEB1780"/>
 			<div type="chorale">
 				<head><title>Ueber die Finſterniß kurz vor dem Tode Jeſu.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Nacht und Schatten decken</l>
 					<lb/><l>Des <rs type="person" key="J0001">Mittlers</rs> Angeſicht:</l>
 					<lb/><l>Und des <rs type="person" key="J0001">Richters</rs> Schrecken</l>
@@ -198,7 +198,7 @@
 					<lb/><l><rs type="person" key="G0001">Herr, Herr</rs>, erbarme dich!</l>
 					<lb/><l><rs type="person" key="G0001">Gott</rs>, erbarme dich!</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Nacht und Schatten decken</l>
 					<lb/><l>Das mördervolle Land:</l>
 					<lb/><l>Und bewehrt mit Schrecken</l>
@@ -211,7 +211,7 @@
 					<lb/><l><rs type="person" key="G0001">Herr, Herr</rs>, erbarme dich!</l>
 					<lb/><l><rs type="person" key="G0001">Gott</rs>, erbarme dich!</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Ach nun fühlt der Spötter</l>
 					<lb/><l>Der <rs type="person" key="J0001">Gottes Sohn</rs> entehrt,</l>
 					<lb/><l>Daß der <rs type="person" key="G0001">Gott der Götter</rs></l>

@@ -185,7 +185,7 @@
 			<pb n="12" ed="CPEB1780"/>
 			<div type="chorale">
 				<head><title>Beſchleunigung der Buße.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Chriſt, ſey achtſam, ſey bereit!</l>
 					<lb/><l>Kämpfe, bet und wache!</l>
 					<lb/><l>Nah iſt Tod und Ewigkeit:</l>
@@ -195,7 +195,7 @@
 					<lb/><l>Seinen Ruf zu hören</l>
 					<lb/><l>Und dich zu bekehren.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Noch tönt nicht zum Weltgericht</l>
 					<lb/><l>Der Poſaune Stimme.</l>
 					<lb/><l>Noch bebt dieſer Erdball nicht</l>
@@ -205,7 +205,7 @@
 					<lb/><l><rs type="person" key="G0001">Gottes</rs> Ruf: zur Erden</l>
 					<lb/><l>Sollſt du wieder werden.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Kommt nun, ehe dus gedacht,</l>
 					<lb/><l>Unter Sünd und Freuden</l>
 					<lb/><l>Deines Lebens letzte Nacht,</l>
@@ -215,7 +215,7 @@
 					<lb/><l>Deiner Schuld zerriſsen</l>
 					<lb/><l>Wird verzagen müſsen.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Wenn vor deinem Antlitz ſich</l>
 					<lb/><l>Jede Sünd enthüllet,</l>
 					<lb/><l>Wenn dann jede, jede dich</l>
@@ -225,7 +225,7 @@
 					<lb/><l>Keine deiner Freuden:</l>
 					<lb/><l>Was wirſt du dann leiden!</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Ach, wie Bang um Troſt und Ruh</l>
 					<lb/><l>An des Grabes Stufen,</l>
 					<lb/><l>Nah dem Untergang wirſt du</l>
@@ -235,7 +235,7 @@
 					<lb/><l>Höre, <rs type="person" key="G0001">Vater</rs>! Richter!</l>
 					<lb/><l>Schöpfer und Vernichter!</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Noch, noch wandelſt du, o Chriſt,</l>
 					<lb/><l>Auf des Lebens Pfade,</l>
 					<lb/><l>Nah zu deiner Rettung iſt</l>

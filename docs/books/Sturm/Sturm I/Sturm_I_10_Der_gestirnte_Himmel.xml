@@ -183,44 +183,44 @@
 	<text type="lied">
 		<body>
 			<div>
-				<lg>
+				<lg n="1">
 					<lb/><l>Mit heilgem Grauen blick ich hin</l>
 					<lb/><l>Zu deines Himmels Höhen,</l>
 					<lb/><l>Wo Sonn auf Sonnen, Welt auf Welt</l>
 					<lb/><l>Emporgethürmet ſtehen.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Auf mich im Staube glänzt herab,</l>
 					<lb/><l>Aus unermeßner Ferne,</l>
 					<lb/><l>Des Mondes ſanfter Silberglanz,</l>
 					<lb/><l>Das milde Licht der Sterne.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Vom Staube wag ichs, hinzuſchaun,</l>
 					<lb/><l>Wo deine Sonnen glänzen:</l>
 					<lb/><l>Und forſchend ſucht mein Auge dort,</l>
 					<lb/><l><rs type="person" key="G0001">Herr</rs>, deines Reiches Gränzen.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Umſonſt! Den gränzenloſen Raum</l>
 					<lb/><l>Der fernſten Sonnenheere</l>
 					<lb/><l>Mißt kein Erſchaffner. Zahlenlos</l>
 					<lb/><l>Sind ſie, wie Sand am Meere.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Du zählſt, o Unermeſslicher,</l>
 					<lb/><l>Der Sterne Millionen,</l>
 					<lb/><l>Und herrſcheſt hier, und ſegneſt dort,</l>
 					<lb/><l>Durch aller Himmel Zonen.</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Auch dort iſt deines Reiches Gebiet</l>
 					<lb/><l>Erfüllt mit höhern Weſen:</l>
 					<lb/><l>Und ſie, wie ich, ſind, Herr, durch dich</l>
 					<lb/><l>Zur Ewigkeit erleſen.</l>
 				</lg>
-				<lg>
-					<lb/><l>Mit euch, o Brüder, werd ich mich </l>
+				<lg n="7">
+					<lb/><l>Mit euch, o Brüder, werd ich mich</l>
 					<lb/><l>Von Sonn zu Sonnen ſchwingen:</l>
 					<lb/><l>Mit euch dem Weltenſchöpfer Dank</l>
 					<lb/><l>Und Preis und Ehre ſingen.</l>

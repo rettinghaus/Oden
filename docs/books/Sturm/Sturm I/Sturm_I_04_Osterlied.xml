@@ -185,7 +185,7 @@
 			<pb n="4" ed="CPEB1780"/>
 			<div type="chorale">
 				<head><title>Oſterlied.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Amen! Lob und Preis und Stärke</l>
 					<lb/><l>Sey dem Vollender ſeiner Werke!</l>
 					<lb/><l>Dem <rs type="person" key="J0001">Todesüberwinder</rs> Dank!</l>
@@ -199,7 +199,7 @@
 					<lb/><l>Er hats vollbracht!</l>
 					<lb/><l>Die Welt iſt ſeiner Ehre voll!</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Ja, du Land der Gräber, Erde,</l>
 					<lb/><l>Empor aus deinem Staube! Werde</l>
 					<lb/><l>Ein Land des Lebens und des Lichts!</l>
@@ -213,7 +213,7 @@
 					<lb/><l>Der Hölle Macht,</l>
 					<lb/><l>Der Gräber Grauen iſt beſiegt.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Was vermag, uns zu erſchüttern?</l>
 					<lb/><l>Der Hölle Sklaven müſsen zittern</l>
 					<lb/><l>Vor ihm, der ewig, ewig lebt.</l>
@@ -227,7 +227,7 @@
 					<lb/><l>Der Sieger lebt!</l>
 					<lb/><l>Er lebt und ſtirbt hinfort nicht mehr.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Unſer Herz darf nun nicht wanken,</l>
 					<lb/><l>Die bangen, zweifelnden Gedanken</l>
 					<lb/><l>Beſiegt des Glaubens Zuverſicht.</l>
@@ -241,7 +241,7 @@
 					<lb/><l>Steht <rs type="person" key="J0001">Jeſu</rs> Wort,</l>
 					<lb/><l>Bleibt Troſt und Heil in Ewigkeit.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Doch auch wir, wir werden bleiben.</l>
 					<lb/><l>Mag doch des Körpers Staub zerſtäuben:</l>
 					<lb/><l>Verzehre, Moder, mein Gebein!</l>

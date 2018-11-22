@@ -185,17 +185,16 @@
 			<pb n="21" ed="CPEB1780"/>
 			<div type="chorale">
 				<head><title>Die Fortdauer der Lehre Jeſu.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Umſonſt empört die Hölle ſich</l>
 					<lb/><l>Mit ihrem Schreckenheere!</l>
-					<lb/><l>Dein <rs type="person" key="G0001">Gott</rs>, o <placeName>Zion</placeName>
-						ſchützet dich,</l>
+					<lb/><l>Dein <rs type="person" key="G0001">Gott</rs>, o <placeName>Zion</placeName> ſchützet dich,</l>
 					<lb/><l>Schützt ſeines <rs type="person" key="J0001">Sohnes</rs> Lehre.</l>
 					<lb/><l>Sie ſpreche Hohn! Sie ſchäume Wuth!</l>
 					<lb/><l>Mit uns iſt <rs type="person" key="G0001">Gott</rs>! Er gibt uns Muth!</l>
 					<lb/><l>Er ſchenkt uns Kraft, zu ſiegen.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Wenn Tauſende zu Schmach und Tod</l>
 					<lb/><l>Sich gegen dich verſchwören:</l>
 					<lb/><l>Sey muthig! Deines Glaubens <rs type="person" key="G0001">Gott</rs></l>
@@ -204,7 +203,7 @@
 					<lb/><l>Das Heer der Hölle überwand,</l>
 					<lb/><l>Wirſt du den Sieg behalten.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Jahrtauſende bekämpft es ſchon</l>
 					<lb/><l>Das Heiligthum der Chriſten:</l>
 					<lb/><l>Spricht trotzend unſrer Kirche Hohn</l>
@@ -213,7 +212,7 @@
 					<lb/><l>Noch unerſchüttert ſtehet ſie</l>
 					<lb/><l>Auf ihrem Felſengrunde.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Wo ſind mit ihres Armes Macht</l>
 					<lb/><l>Die wüthenden Zerſtörer?</l>
 					<lb/><l>Wo ſind ſie? In des Grabes Nacht,</l>
@@ -222,7 +221,7 @@
 					<lb/><l>Der Starken Trotz, der Spötter Hohn,</l>
 					<lb/><l>Und ſtürzte ſie zu Boden.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Auf ihrer Feinde Trümmern ſteht</l>
 					<lb/><l>Siegprangend <rs type="person" key="J0001">Jeſu</rs> Lehre.</l>
 					<lb/><l>Sie ſteht, die Kirche <rs type="person" key="J0001">Chriſti</rs> ſteht,</l>
@@ -231,7 +230,7 @@
 					<lb/><l>Nicht der erboßten Feinde Grimm</l>
 					<lb/><l>Vermag, ſie zu erſchüttern.</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Und Erd und Himmel wird vergehn;</l>
 					<lb/><l>Doch <rs type="person" key="J0001">Jeſu</rs> Wort wird bleiben:</l>
 					<lb/><l>Wenn ſeine Feinde, die es ſchmähn,</l>

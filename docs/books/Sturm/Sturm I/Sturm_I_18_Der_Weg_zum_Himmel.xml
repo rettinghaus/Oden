@@ -185,33 +185,31 @@
 			<pb n="18" ed="CPEB1780"/>
 			<div type="chorale">
 				<head><title>Der Weg zum Himmel.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Schmal iſt der Pfad, auf welchem Chriſten gehen,</l>
 					<lb/><l>Und dornig ihre Bahn:</l>
 					<lb/><l>Und ſchrecklich ſind der Berge ſteile Höhen,</l>
 					<lb/><l>Zu welchen ſie ſich nahn.</l>
 				</lg>
-				<lg>
-					<lb/><l>Doch zage nicht, o Wandrer! <rs type="person" key="G0001">Gottes</rs>
-						Hände</l>
+				<lg n="2">
+					<lb/><l>Doch zage nicht, o Wandrer! <rs type="person" key="G0001">Gottes</rs> Hände</l>
 					<lb/><l>Sind nach dir auſgeſtreckt.</l>
 					<lb/><l>Schau hin, dort iſt an deiner Laufbahn Ende</l>
 					<lb/><l>Das Kleinod aufgeſteckt.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Werth iſts die Kron am Ziel, nach ihr zu ſtreben.</l>
 					<lb/><l>Wie nichts iſt gegen ſie</l>
 					<lb/><l>Der kurze Lauf durch dieſes Pilgerleben</l>
 					<lb/><l>Und deines Kampfes Müh.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Ich walle dann in meiner Laufbahn Schranken,</l>
 					<lb/><l>Zum Kleinod muthig hin.</l>
-					<lb/><l>Wie froh werd ich dir, meinem <rs type="person" key="G0001">Führer</rs>,
-						danken,</l>
+					<lb/><l>Wie froh werd ich dir, meinem <rs type="person" key="G0001">Führer</rs>, danken,</l>
 					<lb/><l>Wenn ich am Ziele bin!</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Und wenn ich nun ihn vor mir ſehen werde,</l>
 					<lb/><l>Der Ueberwinder Lohn:</l>
 					<lb/><l>Dann freudevoll ſchwing ich mich von der Erde</l>

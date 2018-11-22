@@ -185,7 +185,7 @@
 			<pb n="5" ed="CPEB1780"/>
 			<div type="chorale">
 				<head><title>Pfingſtlied.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Sey, <rs type="person" key="J0001">Weltversöhner</rs>, ſey gepreiſt!</l>
 					<lb/><l>Du ſandteſt uns den theuren Geiſt,</l>
 					<lb/><l>Der uns in alle Wahrheit leite,</l>
@@ -196,7 +196,7 @@
 					<lb/><l>Und einſt die Krone zu erringen.</l>
 					<lb/><l>Hallelujah! Hallelujah!</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Durch deines Geiſtes Troſt erfreut,</l>
 					<lb/><l>Wagt deiner Bothen Schaar den Streit,</l>
 					<lb/><l>Kämpft gegen falſcher Götter Heere,</l>
@@ -207,7 +207,7 @@
 					<lb/><l>Und drang von Hütten zu den Thronen.</l>
 					<lb/><l>Hallelujah! Hallelujah!</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>O ſend ihn auch zu uns den Geiſt,</l>
 					<lb/><l>Der uns den Weg zur Wahrheit weiſt.</l>
 					<lb/><l>Ach, dunkel ſind des Lebens Pfade:</l>
@@ -215,11 +215,10 @@
 					<lb/><l>Er lehr uns <rs type="person" key="G0001">Gottes</rs> Heil verſtehn,</l>
 					<lb/><l>Er leit uns, wenn wir irre gehen;</l>
 					<lb/><l>Und wenn wir ſtraucheln und ermüden,</l>
-					<lb/><l>Dann ſtärk er uns durch <rs type="person" key="G0001">Gottes</rs>
-						Frieden!</l>
+					<lb/><l>Dann ſtärk er uns durch <rs type="person" key="G0001">Gottes</rs> Frieden!</l>
 					<lb/><l>Hallelujah! Hallelujah!</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Hier, in dem Heiligthum des <rs type="person" key="G0001">Herrn</rs>,</l>
 					<lb/><l>Hier warten deiner, Geiſt des <rs type="person" key="G0001">Herrn</rs>,</l>
 					<lb/><l>Wir Chriſten, unſers Hauptes Glieder;</l>
@@ -230,7 +229,7 @@
 					<lb/><l>Hier weder Glück noch Leben trennen.</l>
 					<lb/><l>Hallelujah! Hallelujah!</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>O leit uns, <rs type="person" key="J0001">Herr</rs>, an deine Hand</l>
 					<lb/><l>Hinauf ins wahre Vaterland.</l>
 					<lb/><l>Entreiß uns mächtig dem Verderben:</l>
@@ -241,7 +240,7 @@
 					<lb/><l>Und dann den letzten Sieg erringen.</l>
 					<lb/><l>Hallelujah! Hallelujah!</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Dort, wo der Zeugen <rs type="person" key="J0001">Jeſu</rs> Schaar,</l>
 					<lb/><l>Die hier durch dich erleuchtet war,</l>
 					<lb/><l>Am Thron des <rs type="person" key="J0001">Lammes</rs> jauchzend ſtehet</l>

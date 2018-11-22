@@ -185,35 +185,35 @@
 			<pb n="13" ed="CPEB1780"/>
 			<div type="chorale">
 				<head><title>Der Tag des Weltgerichts.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Wann der Erde Gründe beben,</l>
 					<lb/><l>Und in Totengrüften Leben</l>
 					<lb/><l>Und im Staube Jugendſtärke wallt:</l>
 					<lb/><l>Wann des Auferweckers Stimme ſchallt:</l>
 					<lb/><l><rs type="person" key="G0001">Gott</rs>! erbarm dich unſer!</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Wann mit donnerndem Getümmel,</l>
 					<lb/><l>O <rs type="person" key="G0001">Allmächt’ger</rs>, deine Himmel</l>
 					<lb/><l>Und des Erdballs Reiche ſchnell vergehn,</l>
 					<lb/><l>Und wir wankend auf den Trümmern ſtehn:</l>
 					<lb/><l><rs type="person" key="G0001">Gott</rs>! erbarm dich unſer!</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Wann auf deinem Wolkenwagen,</l>
 					<lb/><l>Von Zehntauſenden getragen,</l>
 					<lb/><l><rs type="person" key="G0001">Weltenrichter</rs>, du herniederfährſt</l>
 					<lb/><l>Und den Übelthätern ſchwörſt:</l>
 					<lb/><l><rs type="person" key="G0001">Gott</rs>! erbarm dich unſer!</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Wann mit Zittern und Entzücken</l>
 					<lb/><l>Alle Völker nach dir blicken,</l>
 					<lb/><l>Und dein flammend Richterangeſicht</l>
 					<lb/><l>Fluch und Lohn in ihre Seele ſpricht:</l>
 					<lb/><l><rs type="person" key="G0001">Gott</rs>! erbarm dich unſer!</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Wann auch ich dann vor dir ſtehe,</l>
 					<lb/><l>Und mein Aug zu deiner Höhe</l>
 					<lb/><l>Bebend nur empor zu ſchauen wagt.</l>

@@ -185,7 +185,7 @@
 			<pb n="23" ed="CPEB1780"/>
 			<div type="chorale">
 				<head><title>Lob des Allgütigen.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l><rs type="person" key="G0001">Allgütiger</rs>, mein Lebenlang</l>
 					<lb/><l>Iſt meines Liedes Lobgeſang</l>
 					<lb/><l>Dir demuthſvoll geweiht.</l>
@@ -193,7 +193,7 @@
 					<lb/><l>Die Erde hier, der Himmel dort</l>
 					<lb/><l>Rühmt deine Gütigkeit.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Die Sonne, <rs type="person" key="G0001">Vater</rs>, trägt dein Bild:</l>
 					<lb/><l>Sie iſt, wie du, ſo ſtark und mild,</l>
 					<lb/><l>So ſegenvoll, wie du.</l>
@@ -201,7 +201,7 @@
 					<lb/><l>Licht und Erquickung ohne Zahl</l>
 					<lb/><l>Durch dich der Erde zu.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>In jeder Anmuth der Natur,</l>
 					<lb/><l>In jedem Blümchen auf der Flur</l>
 					<lb/><l>Fühl ichs, wie gut du biſt.</l>
@@ -209,7 +209,7 @@
 					<lb/><l>Seh ich, wie Reiz und Fruchtbarkeit</l>
 					<lb/><l>Aus Donnerwolken fließt.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Ja, <rs type="person" key="G0001">Herr</rs>, unendlich gut biſt du!</l>
 					<lb/><l>Der Morgen rufts dem Mittag zu:</l>
 					<lb/><l>Der Tag dem Abendroth.</l>
@@ -217,7 +217,7 @@
 					<lb/><l>Rühmt Erndtefeldern deinen Preis,</l>
 					<lb/><l><rs type="person" key="G0001">Jehova Zebaoth</rs>!</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Nichts iſt von deinem Wohlthun leer:</l>
 					<lb/><l>Das kleinſte Sandkorn an dem Meer</l>
 					<lb/><l>Iſt deiner Güte Preis.</l>
@@ -225,7 +225,7 @@
 					<lb/><l>Durch dich freut er des Lebens ſich,</l>
 					<lb/><l>Und ſtirbt auf dein Geheiß.</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Auf deines Segens Ueberfluß</l>
 					<lb/><l>Schöpft unaufhörlichen Genuß</l>
 					<lb/><l>Der Engel, dort am Thron:</l>
@@ -233,7 +233,7 @@
 					<lb/><l>Strömt Seligkeit durch dich herab</l>
 					<lb/><l>Auf jeden Erdenſohn.</l>
 				</lg>
-				<lg>
+				<lg n="7">
 					<lb/><l>Doch wer? Wer faßts, wie gut du biſt?</l>
 					<lb/><l>Undenkbar, wie dein Weſen, iſt</l>
 					<lb/><l><rs type="person" key="G0001">Gott</rs>, deine Freundlichkeit.</l>

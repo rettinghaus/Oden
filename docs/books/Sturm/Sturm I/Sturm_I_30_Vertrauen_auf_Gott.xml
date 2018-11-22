@@ -185,7 +185,7 @@
 			<pb n="30" ed="CPEB1780"/>
 			<div type="chorale">
 				<head><title>Vertrauen auf Gott.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> iſt meine Zuverſicht,</l>
 					<lb/><l>Mein beſter Troſt im Leben.</l>
 					<lb/><l>Dem fehlt es nie an Heil und Licht,</l>
@@ -195,7 +195,7 @@
 					<lb/><l>Wird meine Seele ſtille.</l>
 					<lb/><l>Mir genügt des <rs type="person" key="G0001">Vaters</rs> Wille.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Wer wollte dir, <rs type="person" key="G0001">Herr</rs>, nicht vertraun?</l>
 					<lb/><l>Du biſt des Schwachen Stärke.</l>
 					<lb/><l>Die Augen, welche zu dir ſchaun,</l>
@@ -205,7 +205,7 @@
 					<lb/><l>Mit gnadenvollen Händen</l>
 					<lb/><l>Wirſt du dein Werk vollenden.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Noch nie hat ſich, wer dich geliebt,</l>
 					<lb/><l>Verlaſsen ſehen müſsen:</l>
 					<lb/><l>Du läßt ihn, wenn ihn Noth umgiebt,</l>
@@ -216,7 +216,7 @@
 					<lb/><l>Wird einſt dein Rath zernichten.</l>
 					<!--vernichten?-->
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Drum hoff, o Seele, hoff auf <rs type="person" key="G0001">Gott</rs>!</l>
 					<lb/><l>Der Thoren Troſt verſchwindet;</l>
 					<lb/><l>Wenn der Gerechte ſelbſt im Tod</l>
@@ -226,7 +226,7 @@
 					<lb/><l>Er ſteht, wenn jene zittern,</l>
 					<lb/><l>Ein Fels in Ungewittern.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Wirf nicht die große Hoffnung hin,</l>
 					<lb/><l>Die dir dein Glaube reichet,</l>
 					<lb/><l>Verflucht ſind, die zu Menſchen fliehn;</l>
@@ -236,7 +236,7 @@
 					<lb/><l>Auf ſeinem Todeſhügel,</l>
 					<lb/><l>Dir deines Glaubens Siegel.</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Sey unbewegt, wenn um dich her</l>
 					<lb/><l>Sich Ungewitter ſammeln!</l>
 					<lb/><l><rs type="person" key="G0001">Gott</rs> hilft, wenn Chriſten freudenleer</l>
@@ -246,7 +246,7 @@
 					<lb/><l>Zählt er: er wiegt die Schmerzen,</l>
 					<lb/><l>Und wälzt ſie von dem Herzen.</l>
 				</lg>
-				<lg>
+				<lg n="7">
 					<lb/><l><rs type="person" key="G0001">Herr</rs>, du biſt meine Zuverſicht;</l>
 					<lb/><l>Auf dich hofft meine Seele.</l>
 					<lb/><l>Du <choice>
@@ -258,7 +258,7 @@
 					<lb/><l>Allmächtiger, verlaſsen,</l>
 					<lb/><l>Und ſich in Kummer faſsen?</l>
 				</lg>
-				<lg>
+				<lg n="8">
 					<lb/><l>In deine Hand befehl ich mich,</l>
 					<lb/><l>Mein Wohlſeyn und mein Leben.</l>
 					<lb/><l>Mein hoffend Auge blickt auf dich:</l>

@@ -185,58 +185,55 @@
 			<pb n="17" ed="CPEB1780"/>
 			<div type="chorale">
 				<head><title>Sonntagſlied.</title></head>
-				<lg>
-					<lb/><l>Dir, <rs type="person" key="J0001">Jeſu</rs>, dir ſey dieſer Tag
-						geweihet,</l>
+				<lg n="1">
+					<lb/><l>Dir, <rs type="person" key="J0001">Jeſu</rs>, dir ſey dieſer Tag geweihet,</l>
 					<lb/><l>Ihn feyert gern, wer deines Heils ſich freuet.</l>
 					<lb/><l>O laß auch mich mit Freuden vor dich treten,</l>
 					<lb/><l>Dich anzubeten.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Dich preiſt der Lobgeſang der Himmelſheere,</l>
 					<lb/><l>Auch unſer Tempel ſchall von deiner Ehre!</l>
 					<lb/><l>Auch unſer Dank und unſrer Ehrfurcht Flehen</l>
 					<lb/><l>Soll dich erhöhen.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Wie freu ich mich, die Stätte zu begrüßen,</l>
 					<lb/><l>Wo Dürſtenden des Lebens Bäche fließen,</l>
 					<lb/><l>Und wo dein Heil von der Erlöſten Zungen</l>
 					<lb/><l>Froh wird beſungen.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Vergebens lockt die Welt zu ihren Freuden,</l>
-					<lb/><l>Mein Geiſt ſoll ſich an <rs type="person" key="G0001">Gottes</rs> Lehre
-						weiden:</l>
+					<lb/><l>Mein Geiſt ſoll ſich an <rs type="person" key="G0001">Gottes</rs> Lehre weiden:</l>
 					<lb/><l>Sein himmliſch Wort, das ſeine Boten lehren,</l>
 					<lb/><l>Das will ich hören.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Mit Andacht will ich heut vor dich treten:</l>
 					<lb/><l>Ich weiß, du hörſt, die kindlich zu dir beten.</l>
 					<lb/><l>Der Thoren Glück, die ſich der Sünde freuen,</l>
 					<lb/><l>Kann nicht gedeihn.</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>O laß auch heute deinen Geiſt mich lehren,</l>
 					<lb/><l>Vom Weg, der dir mißfällt, mich abzukehren:</l>
 					<lb/><l>Er leite mich, daß meine ganze Seele</l>
 					<lb/><l>Zum Troſt dich wähle.</l>
 				</lg>
-				<lg>
+				<lg n="7">
 					<lb/><l>Dein Tag ſey mir ein Denkmal deiner Güte!</l>
 					<lb/><l>Er bring mir Heil, und lenke mein Gemüthe</l>
 					<lb/><l>Auf jenen Troſt, den du der Welt erworben,</l>
 					<lb/><l>Da du geſtorben.</l>
 				</lg>
-				<lg>
+				<lg n="8">
 					<lb/><l>Dich bet ich an, du Todesüberwinder!</l>
 					<lb/><l>An dieſem Tag haſt du, zum Heil der Sünder,</l>
-					<lb/><l>Die fern von <rs type="person" key="G0001">Gott</rs> in Todeſschatten
-						ſaßen,</l>
+					<lb/><l>Die fern von <rs type="person" key="G0001">Gott</rs> in Todeſschatten ſaßen,</l>
 					<lb/><l>Dein Grab verlaſsen.</l>
 				</lg>
-				<lg>
+				<lg n="9">
 					<lb/><l>Es feyre dankbar dieſen Tag die Erde,</l>
 					<lb/><l>Daß jedes Land voll deines Ruhmes werde!</l>
 					<lb/><l>Lob ſey, Erlöſer, deinem großen Namen,</l>

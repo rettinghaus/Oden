@@ -185,7 +185,7 @@
 			<pb n="20" ed="CPEB1780"/>
 			<div type="chorale">
 				<head><title>Sommerlied.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l><rs type="person" key="G0001">Allgütiger</rs>, dich will ich fühlen</l>
 					<lb/><l>Im Flor der reizenden Natur:</l>
 					<lb/><l>Dir will ich ſingen und dir ſpielen</l>
@@ -193,7 +193,7 @@
 					<lb/><l>Vom Aufgang bis zum Niedergang</l>
 					<lb/><l>Erſchalle dir mein Lobgeſang!</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Du biſt der Geber aller Freude!</l>
 					<lb/><l>Des Segens Schöpfer biſt du, <rs type="person" key="G0001">Gott</rs>!</l>
 					<lb/><l>Den Heerden gibſt du ihre Weide,</l>
@@ -201,7 +201,7 @@
 					<lb/><l>Der Wurm im Staub, die Raup am Blatt</l>
 					<lb/><l>Wird durch dich lebenſfroh und ſatt.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Und Leben ſtrömt mit deiner Sonne</l>
 					<lb/><l>In jeden Halm, in jede Bruſt:</l>
 					<lb/><l>Sie gibt den Blüthenthälern Wonne,</l>
@@ -209,7 +209,7 @@
 					<lb/><l>Belebt durch ihren milden Strahl</l>
 					<lb/><l>Feirt Hein und Flur und Berg und Thal.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Auf unſre Saaten träufelt Segen</l>
 					<lb/><l>O <rs type="person" key="G0001">Gott</rs>, mit jedem Morgenthau.</l>
 					<lb/><l>Erfriſcht durch deinen ſanften Regen</l>
@@ -217,7 +217,7 @@
 					<lb/><l>Dein Bach, der aus dem Berge quillt,</l>
 					<lb/><l>Erquickt den Wandrer und das Wild.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Da ſtehn die Zeugen deiner Milde</l>
 					<lb/><l>Hier in der Schöpfung Heiligthum!</l>
 					<lb/><l>Weit durch die güldnen Korngefilde</l>
@@ -225,7 +225,7 @@
 					<lb/><l>Und die Geſchöpfe, ſatt durch dich,</l>
 					<lb/><l>Freun deiner Vatergüte ſich.</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Auch du frohlocke, meine Seele!</l>
 					<lb/><l>Sey Andacht, Inbrunſt und Gefühl!</l>
 					<lb/><l>Von deines <rs type="person" key="G0001">Schöpfers</rs> Macht erzehle</l>

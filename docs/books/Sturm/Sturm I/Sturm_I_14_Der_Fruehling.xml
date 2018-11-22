@@ -185,7 +185,7 @@
 			<pb n="14" ed="CPEB1780"/>
 			<div type="chorale">
 				<head><title>Der Frühling.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Erwacht zum neuen Leben</l>
 					<lb/><l>Steht vor mir die Natur:</l>
 					<lb/><l>Und ſanfte Lüfte weben</l>
@@ -195,7 +195,7 @@
 					<lb/><l>Der Wälder öde Stille</l>
 					<lb/><l>Belebt der Vögel Pſalm.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>O <rs type="person" key="G0001">Vater</rs>, deine Milde</l>
 					<lb/><l>Fühlt Berg und Thal und Au.</l>
 					<lb/><l>Es grünen die Gefilde,</l>
@@ -205,7 +205,7 @@
 					<lb/><l>Und in dem Staube regen</l>
 					<lb/><l>Sich Würmer ohne Zahl.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Glänzt von der blauen Veſte</l>
 					<lb/><l>Die Sonn auf unſre Flur,</l>
 					<lb/><l>So weiht zum Schöpfungſfeſte</l>
@@ -215,7 +215,7 @@
 					<lb/><l>Und alle Vögel ſchwingen</l>
 					<lb/><l>Sich aus dem Schlaf empor.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Die Flur im Blumenkleide</l>
 					<lb/><l>Iſt, <rs type="person" key="G0001">Schöpfer</rs>, dein Altar:</l>
 					<lb/><l>Und Opfer reiner Freude</l>
@@ -225,7 +225,7 @@
 					<lb/><l>Und ſchwebend durch die Lüfte</l>
 					<lb/><l>Lobſingt die Lerche dir.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Ich ſchau ihr nach, und ſchwinge</l>
 					<lb/><l>Voll Dank mich auf zu dir.</l>
 					<lb/><l>O <rs type="person" key="G0001">Schöpfer</rs> aller Dinge,</l>
@@ -235,7 +235,7 @@
 					<lb/><l>Empfinden, kann dich loben,</l>
 					<lb/><l>Der du den Lenz gemacht.</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l>Lobſing ihm, meine Seele,</l>
 					<lb/><l>Dem <rs type="person" key="G0001">Gott</rs>, der Freuden ſchafft!</l>
 					<lb/><l>Lobſing ihm und erzähle</l>

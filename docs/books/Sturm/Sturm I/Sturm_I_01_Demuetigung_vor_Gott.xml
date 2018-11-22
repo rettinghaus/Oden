@@ -185,7 +185,7 @@
 			<pb n="1" ed="CPEB1780"/>
 			<div type="chorale">
 				<head><title>Demüthigung vor Gott.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Betet an vor <rs type="person" key="G0001">Gott</rs>, ihr Sünder!</l>
 					<lb/><l>Fallt in den Staub hin, Menſchenkinder!</l>
 					<lb/><l>Kommt alle! Kniet und betet an!</l>
@@ -199,7 +199,7 @@
 					<lb/><l><rs type="person" key="G0001">Gott</rs>, groß von That!</l>
 					<lb/><l>Ein Rächer eurer Miſsethat.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Betet an vor <rs type="person" key="G0001">Gott</rs>! Es komme</l>
 					<lb/><l>Gebeugt der Sünder und der Fromme</l>
 					<lb/><l>Vor des <rs type="person" key="G0001">Allmächtgen</rs> Angeſicht!</l>
@@ -213,10 +213,9 @@
 					<lb/><l>Von ſeinem Thron</l>
 					<lb/><l>Der Sünden qualenvoller Lohn.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Betet an! <rs type="person" key="G0001">Gott</rs> iſt die Liebe!</l>
-					<lb/><l>Rühmts, Sünder, laut: <rs type="person" key="G0001">Gott</rs> iſt die
-						Liebe!</l>
+					<lb/><l>Rühmts, Sünder, laut: <rs type="person" key="G0001">Gott</rs> iſt die Liebe!</l>
 					<lb/><l>Durch <rs type="person" key="J0001">Jeſum Chriſtum unſer Gott</rs></l>
 					<lb/><l>Noch trägt er die Uebertreter,</l>
 					<lb/><l>Vertilgt noch nicht die Miſsethäter,</l>
@@ -228,7 +227,7 @@
 					<lb/><l>Gerecht der Tod,</l>
 					<lb/><l>Den er verſtockten Sündern droht!</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Betet an! Ach nicht im Grimme,</l>
 					<lb/><l>Noch ruft <rs type="person" key="G0001">Gott</rs> mit der Vaterſtimme</l>
 					<lb/><l>Den Böſen auf dem Irrweg zu:</l>
@@ -242,7 +241,7 @@
 					<lb/><l>Gehorcht noch heut:</l>
 					<lb/><l>Nah iſt euch Tod und Ewigkeit.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Betet an! Erwacht, ihr Sünder!</l>
 					<lb/><l>Erwacht, denn euch, o Menſchenkinder,</l>
 					<lb/><l>Erwartet Tod und Ewigkeit!</l>

@@ -185,7 +185,7 @@
 			<pb n="6" ed="CPEB1780"/>
 			<div type="chorale">
 				<head><title>Paſsionſlied.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Da ſteheſt du, <rs type="person" key="J0001">Sohn Gottes</rs>,</l>
 					<lb/><l>Von Frevlern frech entweiht:</l>
 					<!-- Stain on paper, interpunctation unclear -->
@@ -196,7 +196,7 @@
 					<lb/><l>Der treulos dich verkannte,</l>
 					<lb/><l>Und nun den Fall beweint.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Doch ſpricht aus deinen Blicken</l>
 					<lb/><l>Nur Gnade, nur Geduld.</l>
 					<lb/><l>O <rs type="person" key="J0001">Jeſu</rs>, wie entzücken</l>
@@ -206,7 +206,7 @@
 					<lb/><l>Und eilſt, bedrängten Herzen</l>
 					<lb/><l>Erquickung zu verleihn.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Die Allmacht deiner Blicke</l>
 					<lb/><l>Dringt <rs type="person" key="P0001">Petro</rs> tief ins Herz.</l>
 					<lb/><l>Beſchämt geht er zurücke,</l>
@@ -216,7 +216,7 @@
 					<lb/><l>Furcht konnt ihn nie mehr beugen,</l>
 					<lb/><l>Für dich, <rs type="person" key="J0001">Herr</rs>, floſs ſein Blut.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Erlöſer meiner Seele,</l>
 					<lb/><l>Sey meine Zuverſicht.</l>
 					<lb/><l>Ich, Schwacher, ich verhehle</l>
@@ -226,7 +226,7 @@
 					<lb/><l>Auch ich vergaß der Treue.</l>
 					<lb/><l>Vergieb, vergieb es mir.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>In meiner Nacht erſcheine</l>
 					<lb/><l>Mir deiner Gnade Licht!</l>
 					<lb/><l>Gieb, wenn ich einſam weine,</l>

@@ -185,31 +185,31 @@
 			<pb n="28" ed="CPEB1780"/>
 			<div type="chorale">
 				<head><title>Lobgeſang.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Unzählbar, <rs type="person" key="G0001">Herr</rs>, ſind deine Werke:</l>
 					<lb/><l>Unendlich deines Reichs Gebiet.</l>
 					<lb/><l>Wenn ich auf deine Wunder merke,</l>
 					<lb/><l>Erſtaunt mein denkendes Gemüth.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Wohin ich meine Augen kehre,</l>
 					<lb/><l>Entdeck ich deiner Allmacht Spur:</l>
 					<lb/><l>Von hier bis zu dem fernſten Meere</l>
 					<lb/><l>Biſt du der <rs type="person" key="G0001">Vater</rs> der Natur.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Du ſprichſt: und Segenſquellen ſtrömen</l>
 					<lb/><l>Auf uns in jeder Jahreſzeit:</l>
 					<lb/><l>Du ſprichſt: und die Geſchöpfe nehmen</l>
 					<lb/><l>Aus deinen Händen Seligkeit.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Dir, <rs type="person" key="G0001">Herr</rs>, gebühret Preis und Stärke!</l>
 					<lb/><l>Dich beten Erd und Himmel an.</l>
 					<lb/><l><rs type="person" key="G0001">Gott</rs>, groß ſind deiner Hände Werke!</l>
 					<lb/><l>Wer auf ſie merkt, hat Luſt daran.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Nie werd ich deines Lobes müde,</l>
 					<lb/><l>Und nie in deinem Dienſte matt.</l>
 					<lb/><l>Mein Herz lobſinge deiner Güte,</l>

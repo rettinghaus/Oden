@@ -185,7 +185,7 @@
 			<pb n="16" ed="CPEB1780"/>
 			<div type="chorale">
 				<head><title>Frohe Erinnerung der Wohlthaten Gottes.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Auch mich, o <rs type="person" key="G0001">Herr</rs>, haſt du gemacht:</l>
 					<lb/><l>Von dir hab ich mein Leben.</l>
 					<lb/><l>Du haſt durch deine Güt und Macht,</l>
@@ -194,7 +194,7 @@
 					<lb/><l>Herr, was bin ich, daß du zu mir</l>
 					<lb/><l>So gnadenvoll dich neigeſt?</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Von Kindheit an war über mir,</l>
 					<lb/><l><rs type="person" key="G0001">Gott</rs>, deine Güte neue:</l>
 					<lb/><l>Und jedes Gute kömmt von dir,</l>
@@ -203,7 +203,7 @@
 					<lb/><l>Du ſegneſt und erfreueſt mich</l>
 					<lb/><l>Durch alle deine Werke.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>O <rs type="person" key="G0001">Gott</rs>, in jedem Augenblick</l>
 					<lb/><l>Empfind ich deine Güte.</l>
 					<lb/><l>Dir dank ich meiner Tage Glück,</l>
@@ -212,7 +212,7 @@
 					<lb/><l>Dir Güter, Freund und Vaterland,</l>
 					<lb/><l>Die zahlenloſe Freuden.</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Was mich ſo froh und glücklich macht,</l>
 					<lb/><l>Am Leib und am Gemüthe;</l>
 					<lb/><l>So vieles Heil bey Tag und Nacht,</l>
@@ -221,7 +221,7 @@
 					<lb/><l>Durch dich gibt jede Creatur</l>
 					<lb/><l>Mir Nahrung, Stärkung, Freude.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Kommt, Menſchenkinder, kommet her!</l>
 					<lb/><l>Lobt mit mir unſern <rs type="person" key="G0001">Vater</rs>!</l>
 					<lb/><l>Der uns ernährt und ſchützt, iſt Er,</l>
@@ -230,7 +230,7 @@
 					<lb/><l>Ihm ewig, ewig dankbar ſeyn</l>
 					<lb/><l>Und ihm zur Ehre leben.</l>
 				</lg>
-				<lg>
+				<lg n="6">
 					<lb/><l><rs type="person" key="G0001">Gott</rs>, der biſher uns Gutes gab,</l>
 					<lb/><l>Wird ferner uns bedenken,</l>
 					<lb/><l>Und bis ins Alter, bis zum Grab</l>

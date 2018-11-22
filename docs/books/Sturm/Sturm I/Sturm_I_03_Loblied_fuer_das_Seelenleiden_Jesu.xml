@@ -185,7 +185,7 @@
 			<pb n="3" ed="CPEB1780"/>
 			<div type="chorale">
 				<head><title>Loblied für das Seelenleiden Jeſu.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Sieh, <rs type="person" key="J0001">Gotteſlamm</rs>, wir fallen</l>
 					<lb/><l>Anbetend vor dir nieder.</l>
 					<lb/><l>Zu deinem Himmel ſchallen</l>
@@ -194,7 +194,7 @@
 					<lb/><l>Für uns den Tod verſchlungen.</l>
 					<lb/><l>Preis ſey dir ewig, o <rs type="person" key="J0001">Jeſu</rs>!</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Du ſahſt von fern die Bande,</l>
 					<lb/><l>Die dir die Boſheit drohte,</l>
 					<lb/><l>Gabſt vor dir Quaal und Schande</l>
@@ -203,7 +203,7 @@
 					<lb/><l>Giengſt gern die Marterpfade.</l>
 					<lb/><l>Preis ſey dir ewig, o <rs type="person" key="J0001">Jeſu</rs>!</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Vor deinem Antlitz ſtanden</l>
 					<lb/><l>Der <rs type="person" key="A0003">Adamſkinder</rs> Schulden.</l>
 					<lb/><l>Was dieſe nie empfunden</l>
@@ -212,7 +212,7 @@
 					<lb/><l>Die Sünder zu versöhnen.</l>
 					<lb/><l>Preis ſey dir ewig, o <rs type="person" key="J0001">Jeſu</rs>!</l>
 				</lg>
-				<lg>
+				<lg n="4">
 					<lb/><l>Von heißer Angſt erſchüttert,</l>
 					<lb/><l>Lagſt du vor <rs type="person" key="G0001">Gott</rs> im Staube.</l>
 					<lb/><l>Wie hatteſt zu gezittert!</l>
@@ -221,7 +221,7 @@
 					<lb/><l>Doch bliebſt du voll Vertrauen.</l>
 					<lb/><l>Preis ſey dir ewig, o <rs type="person" key="J0001">Jeſu</rs>!</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Für uns hat dich der Rächer</l>
 					<lb/><l>Mit Angſt und Schmerz geſchlagen.</l>
 					<lb/><l>Für uns, für uns Verbrecher</l>
