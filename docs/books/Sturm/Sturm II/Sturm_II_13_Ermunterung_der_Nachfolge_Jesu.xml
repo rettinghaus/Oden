@@ -3,25 +3,36 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title> Sturm II: Ermunterung zur Nachfolge Jesu</title>
+            <title>Sturm II: Ermunterung zur Nachfolge Jesu</title>
             <!--Arbeitstitel-->
          </titleStmt>
          <publicationStmt>
             <publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
-               Herrn <rs type="person" key="S0001">Christoph Christian Sturms</rs>,<lb/>
-               Hauptpastors an der Hauptkirche St. Petri und Scholaren in <placeName type="workplace">Hamburg</placeName>,<lb/>
-               geistliche Gesänge<lb/>mit<lb/>
-               Melodien zum Singen bey dem Claviere<lb/>vom<lb/>
-               Herrn Kapellmeister <rs type="person" key="B0001">Carl Philipp Emanuel Bach</rs>,<lb/>
-               Musikdirektor in <placeName type="workplace">Hamburg</placeName>.<lb/>
-               Zweyte Sammlung.<lb/>
-               Dritte mit dem vollständigen Verzeichnisse der Schriften des Herrn
-               <rs type="person" key="S0001">C. C. Sturms</rs> vermehrten Auflage.<lb/>
-               <pubPlace>Hamburg</pubPlace>,<lb/>
-               bey <persName role="publisher">Johann Henrich Herold</persName>, <date when="1792">1792</date>.</bibl>
+            <bibl type="MM">Sturm, Christoph Christian: Hamburg, 1781.</bibl>
+            <biblStruct>
+              <titleStmt>
+                <title level="m" type="main">Herrn Christoph Christian Sturms [...] geistliche Gesänge mit Melodien zum Singen bey dem Claviere vom Herrn Kapellmeister Carl Philipp Emanuel Bach [...]. Zweyte Sammlung. Hamburg, 1781.</title>
+                <title level="m" type="volume" n="2"/>
+                <author>
+                  <persName ref="http://d-nb.info/gnd/118158651">
+                    <surname>Sturm</surname>
+                    <forename>Christoph Christian</forename>
+                  </persName>
+                </author>
+              </titleStmt>
+              <editionStmt>
+                <edition n="1"/>
+              </editionStmt>
+              <publicationStmt>
+                <publisher>
+                  <name ref="http://d-nb.info/gnd/1037496396">Johann Henrich Herold</name>
+                </publisher>
+                <pubPlace>Hamburg</pubPlace>
+                <date type="publication">1781</date>
+              </publicationStmt>
+             </biblStruct>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
