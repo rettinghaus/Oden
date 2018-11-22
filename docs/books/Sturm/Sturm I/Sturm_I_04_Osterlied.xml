@@ -10,15 +10,29 @@
 				<publisher>Sächsische Akademie der Wissenschaften zu Leipzig </publisher>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl>
-					Herrn <rs type="person" key="S0001">Christoph Christian Sturms</rs>, <lb/>
-					Hauptpastors an der Hauptkirche St. Petri und Scholaren in <placeName
-						type="workplace">Hamburg</placeName>, <lb/> geistliche Gesänge<lb/>mit<lb/>
-					Melodien zum Singen bey dem Claviere<lb/>vom<lb/>
-					Herrn Kapellmeister<rs type="person" key="B0001">Carl Philipp Emanuel Bach</rs>,<lb/>
-					Musikdirektor in <placeName type="workplace">Hamburg</placeName><lb/>
-					<pubPlace>Hamburg</pubPlace>,
-					<lb/>bey <persName role="publisher">Johann Henrich Herold</persName>, <date when="1780">1780</date>.</bibl>
+				 <bibl type="MM">Sturm, Christoph Christian: Herrn Christoph Christian Sturms [...] geistliche Gesänge mit Melodien zum Singen bey dem Claviere vom Herrn Kapellmeister Carl Philipp Emanuel Bach. Hamburg, 1780.</bibl>
+				 <biblStruct>
+					 <titleStmt>
+						 <title level="m" type="main">Herrn Christoph Christian Sturms [...] geistliche Gesänge mit Melodien zum Singen bey dem Claviere vom Herrn Kapellmeister Carl Philipp Emanuel Bach [...]. Hamburg, 1780.</title>
+						 <title level="m" type="volume" n="1"/>
+						 <author>
+							 <persName ref="http://d-nb.info/gnd/118158651">
+								 <surname>Sturm</surname>
+								 <forename>Christoph Christian</forename>
+							 </persName>
+						 </author>
+					 </titleStmt>
+					 <editionStmt>
+						 <edition n="1"/>
+					 </editionStmt>
+					 <publicationStmt>
+						 <publisher>
+							 <name ref="http://d-nb.info/gnd/1037496396">Johann Henrich Herold</name>
+						 </publisher>
+						 <pubPlace>Hamburg</pubPlace>
+						 <date type="publication">1780</date>
+					 </publicationStmt>
+					</biblStruct>
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
