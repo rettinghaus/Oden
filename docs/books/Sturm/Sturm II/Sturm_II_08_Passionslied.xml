@@ -189,37 +189,35 @@
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
             <head><title>Paſsionſlied.</title></head>
-            <lg>
+            <lg n="1">
                <lb/><l>In Todesängſten hängſt du da,</l>
-               <lb/><l>O <rs type="person" key="J0001">Gotteſsohn</rs> auf
-                     <placeName>Golgatha</placeName>!</l>
+               <lb/><l>O <rs type="person" key="J0001">Gotteſsohn</rs> auf <placeName>Golgatha</placeName>!</l>
                <lb/><l>Wer kann dein Leiden faſsen?</l>
-               <lb/><l>Laut ſeufzeſt du: mein <rs type="person" key="G0001">Gott</rs>! mein <rs
-                     type="person" key="G0001">Gott</rs>!</l>
+               <lb/><l>Laut ſeufzeſt du: mein <rs type="person" key="G0001">Gott</rs>! mein <rs type="person" key="G0001">Gott</rs>!</l>
                <lb/><l>Wie haſt du mich verlaſsen!</l>
             </lg>
-            <lg>
+            <lg n="2">
                <lb/><l>Die Zunge klebt am dürren Gaum:</l>
                <lb/><l>Du athmeſt vor Verſchmachten kaum.</l>
                <lb/><l>Doch ach! mit Bitterm Spotte</l>
                <lb/><l>Lacht deines letzten heißen Durſts</l>
                <lb/><l>Der Miſsethäter Rotte.</l>
             </lg>
-            <lg>
+            <lg n="3">
                <lb/><l>Du, deſsen Wort den Müden Kraft,</l>
                <lb/><l>Erquickung Dürſtenden verſchafft,</l>
                <lb/><l>Ach du, du willſt verſchmachten?</l>
                <lb/><l>Mich dürſtet! rufſt du. Niemand will</l>
                <lb/><l>Auf deine Klagen achten.</l>
             </lg>
-            <lg>
+            <lg n="4">
                <lb/><l>Dir, der des Weinſtocks Früchte ſchuf,</l>
                <lb/><l>Dir, <rs type="person" key="J0001">Mächtiger</rs>, auf deſsen Ruf</l>
                <lb/><l>Sich Quell und Ström' ergießen,</l>
                <lb/><l>Dir kann des heißen Durſtes Pein</l>
                <lb/><l>Kein Labetrunk versüßen.</l>
             </lg>
-            <lg>
+            <lg n="5">
                <lb/><l>Doch <rs type="person" key="G0001">Gott</rs> hat dich im Tod erquickt,</l>
                <lb/><l>Dich ewig aller Quaal entrückt,</l>
                <lb/><l>Und dein Gebet erhöret.</l>

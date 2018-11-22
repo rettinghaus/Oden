@@ -189,7 +189,7 @@
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
             <head><title>Weyhnachtſlied.</title></head>
-            <lg>
+            <lg n="1">
                <lb/><l>Gelobet ſeyſt du, <rs type="person" key="J0001">Jeſu Chriſt</rs>,</l>
                <lb/><l>Von aller Menſchen Zungen:</l>
                <lb/><l>Von jedem der noch ſterblich iſt,</l>
@@ -199,7 +199,7 @@
                <lb/><l>Und nun, der Laſt entbunden,</l>
                <lb/><l>Auf ewig überwunden!</l>
             </lg>
-            <lg>
+            <lg n="2">
                <lb/><l>In dieſer höhern Brüder Dank</l>
                <lb/><l>Soll unſer Loblied ſchallen.</l>
                <lb/><l>Auch ſchwacher Menſchen Lobgeſang</l>
@@ -209,11 +209,8 @@
                <lb/><l>Wozu nach dieſem Leben</l>
                <lb/><l>Du dort uns wirſt erheben.</l>
             </lg>
-            <lg>
-               <lb/><l>Doch bald, bald ſind wir auch, wie <choice>
-                     <sic>Sie,</sic>
-                     <corr>ſie,</corr>
-                  </choice></l>
+            <lg n="3">
+               <lb/><l>Doch bald, bald ſind wir auch, wie Sie,</l>
                <lb/><l>Zum Leben durchgedrungen.</l>
                <lb/><l>Bald iſt nach kurzer Tage Müh</l>
                <lb/><l>Das Kleinod uns errungen:</l>
@@ -222,7 +219,7 @@
                <lb/><l>In deiner Engel Chöre</l>
                <lb/><l>Anbetung, Preis und Ehre.</l>
             </lg>
-            <lg>
+            <lg n="4">
                <lb/><l>Hier ſoll, ſolang noch Sterblichkeit</l>
                <lb/><l>Und Sünden uns beſchweren,</l>
                <lb/><l>Durch unſre ganze Pilgerzeit</l>
@@ -232,7 +229,7 @@
                <lb/><l>Dir, der zum Heil erſchienen,</l>
                <lb/><l>In Heiligkeit zu dienen.</l>
             </lg>
-            <lg>
+            <lg n="5">
                <lb/><l>Du kamſt von deiner Allmacht Thron</l>
                <lb/><l>Auf unſre Erd hernieder,</l>
                <lb/><l>Wardſt arm und ſchwach, ein Menſchenſohn,</l>
@@ -242,7 +239,7 @@
                <lb/><l>Und jeder der Erlöſten</l>
                <lb/><l>Soll deiner ſich getröſten.</l>
             </lg>
-            <lg>
+            <lg n="6">
                <lb/><l>Was wären wir, <rs type="person" key="J0001">Herr</rs>, wärſt du nicht</l>
                <lb/><l>Für uns ein Menſch gebohren?</l>
                <lb/><l>Ach, ohne Troſt und Zuverſicht,</l>
@@ -252,7 +249,7 @@
                <lb/><l>Iſt dieſe Welt der Sünder</l>
                <lb/><l>Versöhnt, und <rs type="person" key="G0001">Gottes</rs> Kinder.</l>
             </lg>
-            <lg>
+            <lg n="7">
                <lb/><l>Schon hier, erhabner <rs type="person" key="J0001">Gotteſsohn</rs>,</l>
                <lb/><l>Sind wir durch Hoffnung ſelig,</l>
                <lb/><l>Die Freuden, die uns dort am Thron</l>

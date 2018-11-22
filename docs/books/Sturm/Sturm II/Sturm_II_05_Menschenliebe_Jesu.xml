@@ -189,7 +189,7 @@
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
             <head><title>Menſchenliebe Jeſu.</title></head>
-            <lg>
+            <lg n="1">
                <lb/><l>Dich bet ich an, <rs type="person" key="J0001">Herr Jeſu Chriſt</rs>,</l>
                <lb/><l>Du Heil der Menſchenkinder,</l>
                <lb/><l>Der du ſo reich an Gnade biſt,</l>
@@ -201,7 +201,7 @@
                <lb/><l>Auf ihn in ſeiner Noth zurück,</l>
                <lb/><l>Und eilſt, ihm beyzuſtehen.</l>
             </lg>
-            <lg>
+            <lg n="2">
                <lb/><l>Dein Leben in der Sterblichkeit</l>
                <lb/><l>War für die Menſchen Segen.</l>
                <lb/><l>Dir folgten Lieb und Freundlichkeit</l>
@@ -213,7 +213,7 @@
                <lb/><l>Uns vom Verderben zu befreyn,</l>
                <lb/><l>Und ſtarbſt zum Heil uns Armen.</l>
             </lg>
-            <lg>
+            <lg n="3">
                <lb/><l>Auch itzt noch auf der Himmel Thron</l>
                <lb/><l>Biſt du der Troſt der Sünder.</l>
                <lb/><l>Auch da bleibſt du, o <rs type="person" key="J0001">Gottes Sohn</rs>!</l>
@@ -225,7 +225,7 @@
                <lb/><l>Und braucheſt deine Majeſtät,</l>
                <lb/><l>Nur Segen auſzubreiten.</l>
             </lg>
-            <lg>
+            <lg n="4">
                <lb/><l>O laß in meiner Pilgerſchaft</l>
                <lb/><l>Mich auf dein Vorbild ſehen.</l>
                <lb/><l>Erfülle mich mit Luſt und Kraft,</l>
@@ -237,7 +237,7 @@
                <lb/><l>Ein Herz voll frommer Redlichkeit</l>
                <lb/><l>Und Treue nicht verſagen.</l>
             </lg>
-            <lg>
+            <lg n="5">
                <lb/><l>Laß mich mit brüderlicher Huld</l>
                <lb/><l>Den Strauchelnden erwecken;</l>
                <lb/><l>Durch Sanftmuth, Mitleid und Geduld</l>

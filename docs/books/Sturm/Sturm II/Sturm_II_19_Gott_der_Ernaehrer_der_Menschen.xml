@@ -189,45 +189,44 @@
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
             <head><title>Gott, der Ernährer der Menſchen.</title></head>
-            <lg>
+            <lg n="1">
                <lb/><l>In hundert Sprachen tönt die Stimme</l>
                <lb/><l>Der Erdenvölker auf zu <rs type="person" key="G0001">Gott</rs>.</l>
                <lb/><l>Und durch aller Himmel Zeiten</l>
                <lb/><l>Rufen tauſend Millionen:</l>
                <lb/><l>Gib uns unſer täglich Brod.</l>
             </lg>
-            <lg>
+            <lg n="2">
                <lb/><l>Und er von ſeinem Wolkenſitze</l>
                <lb/><l>Schaut väterlich auf ſie;</l>
                <lb/><l>Spricht zur Sonne: kehre wieder!</l>
                <lb/><l>Und zum Regen: komm hernieder!</l>
                <lb/><l>Spricht zu ſeiner Erde: blüh!</l>
             </lg>
-            <lg>
+            <lg n="3">
                <lb/><l>Und Regen, Sonn und Erde hören</l>
                <lb/><l>Gehorſam ihres <rs type="person" key="G0001">Herrn</rs> Gebot.</l>
                <lb/><l>Und die Sonne kehret wieder:</l>
                <lb/><l>Und der Regen kommt hernieder:</l>
                <lb/><l>Und die Erde giebt uns Brod.</l>
             </lg>
-            <lg>
+            <lg n="4">
                <lb/><l>Vom Aufgang bis zum Niedergange</l>
                <lb/><l>Iſt alles deiner Güte voll.</l>
                <lb/><l>Gott, im Sonnenſchein und Regen</l>
                <lb/><l>Giebt das Land uns ſeinen Segen,</l>
                <lb/><l>Trift und Garten ihren Zoll.</l>
             </lg>
-            <lg>
+            <lg n="5">
                <lb/><l><rs type="person" key="G0001">Herr</rs>, deiner milden Vaterliebe</l>
                <lb/><l>Kann ewig unſer Herz ſich freun.</l>
                <lb/><l>Du kannſt uns, was wir begehren,</l>
                <lb/><l>Gnädig jedes Gut gewähren,</l>
                <lb/><l>Erd und Himmel, Herr, ſind dein.</l>
             </lg>
-            <lg>
+            <lg n="6">
                <lb/><l>Und dein ſind wir, o <rs type="person" key="G0001">Weltregierer</rs>,</l>
-               <lb/><l><rs type="person" key="G0001">Gott</rs>, <rs type="person" key="G0001">unſer
-                     Vater</rs>, wir ſind dein.</l>
+               <lb/><l><rs type="person" key="G0001">Gott</rs>, <rs type="person" key="G0001">unſer Vater</rs>, wir ſind dein.</l>
                <lb/><l>Du wirſt uns zum Erdenleben</l>
                <lb/><l>Speiſe, Ruh und Kleidung geben,</l>
                <lb/><l>Wirſt uns ſegnen, uns erfreun.</l>

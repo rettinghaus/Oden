@@ -189,35 +189,35 @@
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
             <head><title>Andenken an den Tod.</title></head>
-            <lg>
+            <lg n="1">
                <lb/><l>Wer weiß, wie nah der Tod mir iſt?</l>
                <lb/><l>Vielleicht, eh dieſer Tag verfließt,</l>
                <lb/><l>Bin ich verwelkt, wie dürres Laub,</l>
                <lb/><l>Des Todes Raub,</l>
                <lb/><l>Und mein Gebein bedeckt der Staub.</l>
             </lg>
-            <lg>
+            <lg n="2">
                <lb/><l>Ach, <rs type="person" key="G0001">Vater</rs>, meine Lebenſzeit</l>
                <lb/><l>Eilt fliegend hin zur Ewigkeit;</l>
                <lb/><l>Bald iſt ſie näher: jeder Scherz</l>
                <lb/><l>Flieht dann mein Herz,</l>
                <lb/><l>Und mich ergreift des Todes Schmerz.</l>
             </lg>
-            <lg>
+            <lg n="3">
                <lb/><l>Erhalt in mir bey Scherz und Spiel,</l>
                <lb/><l>O <rs type="person" key="G0001">Gott</rs>, der Ewigkeit Gefühl.</l>
                <lb/><l>Wenn ich mich meines Lebens freu,</l>
                <lb/><l>So gib dabey,</l>
                <lb/><l>Daß ich auch klug und mäßig ſey.</l>
             </lg>
-            <lg>
+            <lg n="4">
                <lb/><l>Wenn ich noch heut erblaſsen ſoll,</l>
                <lb/><l>So machs mit mir im Tode wohl:</l>
                <lb/><l>Verlaß mich nicht in meiner Noth.</l>
                <lb/><l>Durch dich, mein <rs type="person" key="G0001">Gott</rs>,</l>
                <lb/><l>Wird mir zum ſanften Schlaf der Tod.</l>
             </lg>
-            <lg>
+            <lg n="5">
                <lb/><l>Doch ſoll mein Tod noch ferne ſeyn:</l>
                <lb/><l>Dein Will geſcheh! <rs type="person" key="G0001">Herr</rs> ich bin dein.</l>
                <lb/><l>Doch treuer <rs type="person" key="G0001">Gott</rs>, verleihe mir,</l>

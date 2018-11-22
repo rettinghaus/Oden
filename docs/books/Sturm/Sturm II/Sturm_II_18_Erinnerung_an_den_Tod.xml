@@ -189,7 +189,7 @@
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
             <head><title>Erinnerung an den Tod.</title></head>
-            <lg>
+            <lg n="1">
                <lb/><l>Noch bin ich dein Gaſt, o Erde.</l>
                <lb/><l><rs type="person" key="G0001">Gott</rs> mehrt meiner Tage Zahl.</l>
                <lb/><l>Daß ich reif zum Himmel werde,</l>
@@ -199,7 +199,7 @@
                <lb/><l>Oder ruft ein früher Tod</l>
                <lb/><l>Mich zur bangen Sterbeſnoth?</l>
             </lg>
-            <lg>
+            <lg n="2">
                <lb/><l><rs type="person" key="G0001">Herr</rs>, du weißts. Du haſt die Tage</l>
                <lb/><l>Meines Lebenſlaufs gezählt.</l>
                <lb/><l>Ihre Freuden, ihre Plage</l>
@@ -209,7 +209,7 @@
                <lb/><l>Da ſchon ſchriebſt du meinen Tod</l>
                <lb/><l>Auf dein Buch, allweiſer <rs type="person" key="G0001">Gott</rs>.</l>
             </lg>
-            <lg>
+            <lg n="3">
                <lb/><l>Einſt, wenn es dein Wille fordert,</l>
                <lb/><l>Wird mein reger Leib zu Staub:</l>
                <lb/><l>Und das Feur, das in mir lodert,</l>
@@ -219,7 +219,7 @@
                <lb/><l>Kraft und Odem nehmen ab,</l>
                <lb/><l>Und den Leichnam nimmt das Grab.</l>
             </lg>
-            <lg>
+            <lg n="4">
                <lb/><l>Nimm ihn hin zu deinem Staube,</l>
                <lb/><l>Grab! verwandle ihn in Erd!</l>
                <lb/><l>Dennoch triumphirt mein Glaube;</l>
@@ -229,7 +229,7 @@
                <lb/><l>Der Vermodrung ſchnöder Raub.</l>
                <lb/><l>Neu beſeelt wird einſt mein Staub.</l>
             </lg>
-            <lg>
+            <lg n="5">
                <lb/><l>Durch dein ſchöpfriſch Wort: Es werde!</l>
                <lb/><l>Rufſt du, <rs type="person" key="G0001">Herr</rs>, in mein Gebein</l>
                <lb/><l>Neues Leben. Nicht mehr Erde</l>
@@ -239,7 +239,7 @@
                <lb/><l>Und von Schmerz und Sterblichkeit</l>
                <lb/><l>Wird er ewig dann befreyt.</l>
             </lg>
-            <lg>
+            <lg n="6">
                <lb/><l>Hör, o Seele, einſt mit Freuden</l>
                <lb/><l>Jenen Ruf: Das Grab iſt da!</l>
                <lb/><l>Denn das Ende deiner Leiden</l>
@@ -249,7 +249,7 @@
                <lb/><l>Durch den Weg der Sterblichkeit</l>
                <lb/><l>Führt er dich zur Ewigkeit.</l>
             </lg>
-            <lg>
+            <lg n="7">
                <lb/><l>Stärke mich auf dieſe Stunde,</l>
                <lb/><l><rs type="person" key="J0001">Jeſu</rs>, der du für mich ſtarbſt,</l>
                <lb/><l>Und an <rs type="person" key="G0001">Gottes</rs> Gnadenbunde</l>

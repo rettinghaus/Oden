@@ -190,7 +190,7 @@
          <div type="chorale">
             <head><title>Fürbitte des gekreuzigten Jeſu für ſeine Feinde.</title></head>
             <!-- Text der erſten Strophe ſteht innerhalb des Notentexts, hier weicht die Groß-/Kleinſchreibung am Zeilenanfang ab. Die übrigen Strophen ſind in in dieſer Auſgabe nummeriert-->
-            <lg>
+            <lg n="1">
                <lb/><l>Um Gnade für die Sünderwelt</l>
                <lb/><l>Stehſt du, <rs type="person" key="J0001">mein Heil</rs>, am Kreuz gequält</l>
                <lb/><l>Von frecher Sünder Rotten.</l>
@@ -232,8 +232,7 @@
                <lb/><l>Dies Heil hat deiner Fürſprach Kraft,</l>
                <lb/><l>Mein treuer Heiland, mir verſchafft.</l>
                <lb/><l>O <rs type="person" key="J0001">Jeſu Chriſt</rs>,</l>
-               <lb/><l>Mein <rs type="person" key="J0001">Herr und Gott</rs>! mein <rs type="person"
-                     key="J0001">Herr und Gott</rs>!</l>
+               <lb/><l>Mein <rs type="person" key="J0001">Herr und Gott</rs>! mein <rs type="person" key="J0001">Herr und Gott</rs>!</l>
                <lb/><l>Vertritt du mich bis in den Tod.</l>
             </lg>
             <lg n="4">

@@ -189,7 +189,7 @@
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
             <head><title>Lobgeſang auf die Auferſtehung Jeſu.</title></head>
-            <lg>
+            <lg n="1">
                <lb/><l>Hallelujah! <rs type="person" key="J0001">Jeſus</rs> lebet!</l>
                <lb/><l>Erlöſte Menſchen, o erhebet</l>
                <lb/><l>des <rs type="person" key="J0001">Gottversöhners</rs> Majeſtät!</l>
@@ -203,7 +203,7 @@
                <lb/><l>Erheb die Welt,</l>
                <lb/><l>Weil deine Hand den Sieg behält!</l>
             </lg>
-            <lg>
+            <lg n="2">
                <lb/><l><rs type="person" key="J0001">Jeſu</rs> Jünger, wehrt dem Leide!</l>
                <lb/><l>Lobſinget ihm, und nehmt voll Freude</l>
                <lb/><l>Am Siege Theil, den er erſtritt.</l>
@@ -217,7 +217,7 @@
                <lb/><l>Zu Ewigkeit,</l>
                <lb/><l>Derſelbe geſtern und auch heut.</l>
             </lg>
-            <lg>
+            <lg n="3">
                <lb/><l>Nun verzagt auch nicht, Verbrecher!</l>
                <lb/><l><rs type="person" key="G0001">Gott</rs> iſt euch nun kein ſtrenger Rächer,</l>
                <lb/><l>Wenn ihr die Schuld vor ihm bereut.</l>
@@ -229,10 +229,9 @@
                <lb/><l>Sie zu ſegnen.</l>
                <lb/><l>Der Himmel tönt:</l>
                <lb/><l><rs type="person" key="G0001">Gott</rs> iſt versöhnt;</l>
-               <lb/><l>Weil <rs type="person" key="J0001">Jeſus</rs> lebt, iſt <rs type="person"
-                     key="G0001">Gott</rs> versöhnt.</l>
+               <lb/><l>Weil <rs type="person" key="J0001">Jeſus</rs> lebt, iſt <rs type="person" key="G0001">Gott</rs> versöhnt.</l>
             </lg>
-            <lg>
+            <lg n="4">
                <lb/><l>Tod, wo ſind nun deine Schrecken?</l>
                <lb/><l>Nicht ewig wird das Grab uns decken,</l>
                <lb/><l>Verweſt der Leib gleich in der Gruft.</l>
@@ -246,7 +245,7 @@
                <lb/><l>Zur Frühlingſzeit</l>
                <lb/><l>Des Pflanzenreiches Herrlichkeit.</l>
             </lg>
-            <lg>
+            <lg n="5">
                <lb/><l><rs type="person" key="J0001">Auferſtandner</rs>! Welch ein Segen</l>
                <lb/><l>Erwartet uns, wenn wir auf Wegen</l>
                <lb/><l>Einhergehn, die dein Fuß betrat.</l>

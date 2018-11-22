@@ -189,7 +189,7 @@
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
             <head><title>Verſicherung der Seligkeit.</title></head>
-            <lg>
+            <lg n="1">
                <lb/><l>Ich weiß, an wen mein Glaub ſich hält.</l>
                <lb/><l>Kein Feind ſoll mir ihn rauben.</l>
                <lb/><l>Als Bürger einer beſsern Welt</l>
@@ -198,7 +198,7 @@
                <lb/><l>Wer iſt, der mir mein Erbtheil raubt?</l>
                <lb/><l>Es ruht in <rs type="person" key="J0001">Jeſu</rs> Händen.</l>
             </lg>
-            <lg>
+            <lg n="2">
                <lb/><l>Mein Leben iſt ein kurzer Streit:</l>
                <lb/><l>Lang iſt der Tag des Sieges.</l>
                <lb/><l>Ich kämpfe für die Ewigkeit;</l>
@@ -207,7 +207,7 @@
                <lb/><l>Werd ich durch <rs type="person" key="J0001">Jeſu</rs> Macht bedeckt.</l>
                <lb/><l>Was kann mir denn nun ſchaden?</l>
             </lg>
-            <lg>
+            <lg n="3">
                <lb/><l><rs type="person" key="J0001">Herr, Herr</rs>! du biſt mein ganzer Ruhm,</l>
                <lb/><l>Mein Troſt in dieſem Leben,</l>
                <lb/><l>In jener Welt mein Eigenthum.</l>
@@ -216,7 +216,7 @@
                <lb/><l>Bald ſchenkſt du nach dem Kampf mir Ruh</l>
                <lb/><l>Und reichſt mir meine Krone.</l>
             </lg>
-            <lg>
+            <lg n="4">
                <lb/><l><rs type="person" key="J0001">Herr</rs>, lenke meines Geiſtes Blick</l>
                <lb/><l>Von dieſer Welt Getümmel</l>
                <lb/><l>Auch dich, auf meiner Seele Glück,</l>
@@ -225,7 +225,7 @@
                <lb/><l>Vergeht, und währt nur kurze Zeit.</l>
                <lb/><l>Im Himmel ſey mein Wandel!</l>
             </lg>
-            <lg>
+            <lg n="5">
                <lb/><l>Itzt, da mich dieſer Leib beſchwert,</l>
                <lb/><l>Iſt mir noch nicht erſchienen,</l>
                <lb/><l>Was jene beßre Welt gewährt,</l>
@@ -234,7 +234,7 @@
                <lb/><l>Und mein Erlöſungſtag erſcheint,</l>
                <lb/><l>Dann werd ichs froh empfinden.</l>
             </lg>
-            <lg>
+            <lg n="6">
                <lb/><l>Nur dunkel ſeh ich hier mein Heil;</l>
                <lb/><l>Dort iſt mein Antlitz heiter.</l>
                <lb/><l>Hier iſt die Sünde noch mein Theil;</l>
@@ -243,7 +243,7 @@
                <lb/><l>Dort wird er ſichtbar, wenn dein Bild</l>
                <lb/><l>Mich, <rs type="person" key="G0001">Gott</rs>, vollkommen ſchmücket.</l>
             </lg>
-            <lg>
+            <lg n="7">
                <lb/><l>Zu dieſem Glück bin ich erkauft,</l>
                <lb/><l>O <rs type="person" key="J0001">Herr</rs>, durch deine Leiden;</l>
                <lb/><l>Auf deinen Tod bin ich getauft;</l>
@@ -252,7 +252,7 @@
                <lb/><l>Herr, du biſt mir, ich dir bekannt.</l>
                <lb/><l>Mein ſind des Himmels Freuden.</l>
             </lg>
-            <lg>
+            <lg n="8">
                <lb/><l>Wie groß iſt meine Herrlichkeit!</l>
                <lb/><l>Empfinde ſie, o Seele!</l>
                <lb/><l>Vom Tand der Erde unentweiht,</l>

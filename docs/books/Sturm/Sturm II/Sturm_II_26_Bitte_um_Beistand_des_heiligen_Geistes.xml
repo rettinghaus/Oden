@@ -189,7 +189,7 @@
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
             <head><title>Bitte um Beyſtand des heiligen Geiſtes.</title></head>
-            <lg>
+            <lg n="1">
                <lb/><l>Komm, o Geiſt, von <rs type="person" key="G0001">Gott</rs> gegeben,</l>
                <lb/><l>Heilige und beßre mich!</l>
                <lb/><l>Weiſe, fromm und gut zu leben,</l>
@@ -197,7 +197,7 @@
                <lb/><l>Mache täglich Ernſt und Treu,</l>
                <lb/><l>Mich zu beſsern, in mir neu.</l>
             </lg>
-            <lg>
+            <lg n="2">
                <lb/><l>Fern vom Ziel, wornach ich ringe,</l>
                <lb/><l>Ruf ich: lindre mir die Laſt,</l>
                <lb/><l>Daß ich jenes Werk vollbringe,</l>
@@ -205,7 +205,7 @@
                <lb/><l>Fühl ich deine Kraft nicht mehr,</l>
                <lb/><l>Dann wird mir die Laſt zu ſchwer.</l>
             </lg>
-            <lg>
+            <lg n="3">
                <lb/><l>Ach, ich irr in Finſterniſsen,</l>
                <lb/><l>Geiſt der Wahrheit, ohne dich:</l>
                <lb/><l>Von Begierden hingeriſsen</l>
@@ -213,16 +213,15 @@
                <lb/><l>Sucht die Ruh, und findet ſie</l>
                <lb/><l>In der Erde Gütern nie.</l>
             </lg>
-            <lg>
+            <lg n="4">
                <lb/><l>Hilf mir nach dem Himmel ſtreben,</l>
                <lb/><l>Der den Lohn mir aufbehält:</l>
-               <lb/><l><rs type="person" key="G0001">Gott</rs> und <rs type="person" key="J0001"
-                     >Jeſu</rs> laß mich leben,</l>
+               <lb/><l><rs type="person" key="G0001">Gott</rs> und <rs type="person" key="J0001">Jeſu</rs> laß mich leben,</l>
                <lb/><l>Nicht den Lüſten dieſer Welt;</l>
                <lb/><l>Lehre mich, von Sünden rein,</l>
                <lb/><l>Heilig, wie mein <rs type="person" key="G0001">Gott</rs>, zu ſeyn.</l>
             </lg>
-            <lg>
+            <lg n="5">
                <lb/><l>Leite du mich auf dem Pfade</l>
                <lb/><l>Deines Lichts zum Leben hin:</l>
                <lb/><l>Und mich ſtärke deine Gnade,</l>
@@ -230,7 +229,7 @@
                <lb/><l>Daß ich näher jeden Tag</l>
                <lb/><l>Meinem Kleinod kommen mag.</l>
             </lg>
-            <lg>
+            <lg n="6">
                <lb/><l>Gib zu jedem guten Werke</l>
                <lb/><l>Meiner Seele Kraft und Luſt:</l>
                <lb/><l>Und im Kampfe flöße Stärke</l>
@@ -238,7 +237,7 @@
                <lb/><l>Gib mir Troſt in jeder Noth:</l>
                <lb/><l>Hilf mir treu ſeyn bis in Tod.</l>
             </lg>
-            <lg>
+            <lg n="7">
                <lb/><l>Sey mein Beyſtand, wenn ich ſterbe;</l>
                <lb/><l>Zeige meinem Geiſt von fern</l>
                <lb/><l>Das mir aufbehaltne Erbe</l>

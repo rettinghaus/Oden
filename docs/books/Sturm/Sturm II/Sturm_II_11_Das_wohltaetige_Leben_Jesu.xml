@@ -189,7 +189,7 @@
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
             <head><title>Das wohltäthige Leben Jeſu.</title></head>
-            <lg>
+            <lg n="1">
                <lb/><l>Zu dir erhebt ſich mein Gemüthe,</l>
                <lb/><l>Du Freund der Menſchen, <rs type="person" key="J0001">Jeſu Chriſt</rs>!</l>
                <lb/><l>Der du durch Wohlthun und durch Güte</l>
@@ -201,7 +201,7 @@
                <lb/><l>Der Zweck von deinem ganzen Leben</l>
                <lb/><l>War deiner Menſchen Seligkeit.</l>
             </lg>
-            <lg>
+            <lg n="2">
                <lb/><l>Nicht ſchrecklich waren deine Werke</l>
                <lb/><l>Und nicht den Sündern zum Gericht.</l>
                <lb/><l>Du warſt der blöden Seelen Stärke</l>
@@ -213,7 +213,7 @@
                <lb/><l>Die Sehnſucht derer, die dich liebten:</l>
                <lb/><l>Auf deinen Wink entfloh der Tod.</l>
             </lg>
-            <lg>
+            <lg n="3">
                <lb/><l>Du fühlteſt deiner Freunde Leiden</l>
                <lb/><l>Mehr, als du deine Noth empfandſt.</l>
                <lb/><l>Du ſchmeckteſt nichts von Ruh und Freuden,</l>
@@ -225,7 +225,7 @@
                <lb/><l>Und dir ſein Elend thränend klagte,</l>
                <lb/><l>Erquickte ſchon dein Beyſtand ihn.</l>
             </lg>
-            <lg>
+            <lg n="4">
                <lb/><l>Errettung, Nachſicht und Erbarmen</l>
                <lb/><l>Fand jeder, der ſich dir genaht.</l>
                <lb/><l>Mitleidig ſchenkteſt du den Armen</l>
@@ -237,7 +237,7 @@
                <lb/><l>Die Sünder fühlten Ruh und Friede</l>
                <lb/><l>Und glaubten und verzagten nicht.</l>
             </lg>
-            <lg>
+            <lg n="5">
                <lb/><l>Herr, wo du giengſt, auf jedem Schritte</l>
                <lb/><l>Da folgten Lieb und Mitleid nach.</l>
                <lb/><l>Sie folgten in des Reichen Hütte</l>
@@ -249,7 +249,7 @@
                <lb/><l>Dein holder Zuſpruch und dein Segen</l>
                <lb/><l>Vertrieb des Leidens Bitterkeit.</l>
             </lg>
-            <lg>
+            <lg n="6">
                <lb/><l>So giengſt du ſtille auf deinem Pfade</l>
                <lb/><l>Dem dir beſtimmten Tode zu.</l>
                <lb/><l>Noch war in deinen Blicken Gnade,</l>
@@ -261,7 +261,7 @@
                <lb/><l>Bliebſt ein Erbarmer deiner Feinde</l>
                <lb/><l>Und liebteſt ſie bey ihrer Wuth.</l>
             </lg>
-            <lg>
+            <lg n="7">
                <lb/><l>O <rs type="person" key="J0001">Jeſu</rs>! wäre doch mein Leben</l>
                <lb/><l>Dem deinen gleich! Wär ich, wie du,</l>
                <lb/><l>So ganz der Menſchenlieb ergeben,</l>

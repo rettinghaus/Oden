@@ -189,7 +189,7 @@
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
             <head><title>Die Beſtimmung des Chriſten.</title></head>
-            <lg>
+            <lg n="1">
                <lb/><l>Mein Glück im kurzen Raum der Zeit,</l>
                <lb/><l>Den hohen Werth der Ewigkeit,</l>
                <lb/><l>Empfindet meine Seele.</l>
@@ -200,12 +200,11 @@
                <lb/><l>Zur Wonne jener Ewigkeit,</l>
                <lb/><l>Dir einſt zu werden ähnlicher,</l>
                <lb/><l>Erſchufſt du mich, <rs type="person" key="G0001">Allmächtiger</rs>.</l>
-               <lb/><l>O <rs type="person" key="G0001">Vater</rs>! <rs type="person" key="G0001"
-                     >Gott</rs>!</l>
+               <lb/><l>O <rs type="person" key="G0001">Vater</rs>! <rs type="person" key="G0001">Gott</rs>!</l>
                <lb/><l>Für mich gabſt du den Sohn in Tod:</l>
                <lb/><l>Wie groß bin ich durch dich, mein <rs type="person" key="G0001">Gott</rs>!</l>
             </lg>
-            <lg>
+            <lg n="2">
                <lb/><l><rs type="person" key="J0001">Sohn</rs>, zum Erlöſer mir geſandt!</l>
                <lb/><l>Ich folge deiner ſanften Hand,</l>
                <lb/><l>Die mich zum Himmel leitet.</l>
@@ -220,7 +219,7 @@
                <lb/><l>Dort ſoll ich erſt mein Heil verſtehn,</l>
                <lb/><l>Und jauchzend deine Gnade ſehn.</l>
             </lg>
-            <lg>
+            <lg n="3">
                <lb/><l>Geiſt <rs type="person" key="G0001">Gottes</rs>, unſre Zuverſicht,</l>
                <lb/><l>Verlaß, verlaß uns Arme nicht,</l>
                <lb/><l>Und ſtärk uns unſern Glauben.</l>
@@ -235,9 +234,8 @@
                <lb/><l>Zeig uns im Tod das Heil des <rs type="person" key="G0001">Herrn</rs>:</l>
                <lb/><l>Dann folgen wir zum Grabe gern.</l>
             </lg>
-            <lg>
-               <lb/><l><rs type="person" key="G0001"><rs type="person" key="J0001">Dreyeiniger</rs></rs>!
-                  wie groß ſind wir!</l>
+            <lg n="4">
+               <lb/><l><rs type="person" key="G0001"><rs type="person" key="J0001">Dreyeiniger</rs></rs>! wie groß ſind wir!</l>
                <lb/><l>Wie groß, wie ſelig werden wir!</l>
                <lb/><l>Lehr uns dies Glück betrachten.</l>
                <lb/><l>Der Erde Scheingut sättigt nicht:</l>

@@ -189,7 +189,7 @@
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
             <head><title>Troſt der Auferſtehung.</title></head>
-            <lg>
+            <lg n="1">
                <lb/><l><rs type="person" key="J0001">Herr</rs>, du biſt meine Zuverſicht.</l>
                <lb/><l>Du lebſt: auch ich werd leben.</l>
                <lb/><l>Mir wirſt du, was dein Wort verſpricht,</l>
@@ -197,7 +197,7 @@
                <lb/><l>Dein Jünger kommt nicht ins Gericht:</l>
                <lb/><l>Dies ſtärket meine Zuverſicht.</l>
             </lg>
-            <lg>
+            <lg n="2">
                <lb/><l>Hier geh ich oftmals weinend hin,</l>
                <lb/><l>Den Saamen auſzuſtreuen:</l>
                <lb/><l>Dort wird der herrlichſte Gewinn</l>
@@ -205,7 +205,7 @@
                <lb/><l>Ich leide und verzage nicht,</l>
                <lb/><l>Denn du biſt meine Zuverſicht.</l>
             </lg>
-            <lg>
+            <lg n="3">
                <lb/><l>Und ſinkt dereinſt mein Leib in Staub.</l>
                <lb/><l><rs type="person" key="G0001">Gott</rs> wird ihn neu beleben.</l>
                <lb/><l>Er werde der Verweſung Raub,</l>
@@ -213,7 +213,7 @@
                <lb/><l>Dies ſchafft im finſtern Tal mir Licht,</l>
                <lb/><l>Und gibt der Seele Zuverſicht.</l>
             </lg>
-            <lg>
+            <lg n="4">
                <lb/><l><rs type="person" key="G0001">Herr</rs>, dieſen Segen dank ich dir.</l>
                <lb/><l>Mich aus der Gruft zu heben,</l>
                <lb/><l>Giengſt du aus deinem Grab herfür;</l>
@@ -222,7 +222,7 @@
                <!--Satzzeichen unklar: ";" oder ":"-->
                <lb/><l>Dein Wort iſt meine Zuverſicht.</l>
             </lg>
-            <lg>
+            <lg n="5">
                <lb/><l>In dieſem Glauben ſtärke mich.</l>
                <lb/><l>Laß mich den Troſt empfinden,</l>
                <lb/><l>Den großen Troſt, daß ich durch dich</l>

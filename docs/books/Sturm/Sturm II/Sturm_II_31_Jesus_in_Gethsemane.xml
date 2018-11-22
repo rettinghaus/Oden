@@ -189,42 +189,42 @@
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
             <head><title>Jeſus in Gethſemane.</title></head>
-            <lg>
+            <lg n="1">
                <lb/><l>Schau hin! Dort in <placeName>Gethſemane</placeName></l>
                <lb/><l>Klagt, trauret, bebt der <rs type="person" key="J0001">Heiligſte</rs></l>
                <lb/><l>Und ringt mit Todeſquaal.</l>
                <lb/><l>O ſieh ihn weinen, beten, knien:</l>
                <lb/><l>Herb iſt der Kelch: doch trinkt er ihn.</l>
             </lg>
-            <lg>
+            <lg n="2">
                <lb/><l>Schau hin, dort geht er ins Gericht.<!--Satzzeichen nicht erkennbar--></l>
                <lb/><l>Sein blutbefloßnes Angeſicht</l>
                <lb/><l>Liegt vor dem <rs type="person" key="G0001">Herrn</rs> im Staub.</l>
                <lb/><l>Doch fleht der peinlich Leidende:</l>
                <lb/><l>Nicht mein, dein Wille, <rs type="person" key="G0001">Gott</rs>, geſcheh!</l>
             </lg>
-            <lg>
+            <lg n="3">
                <lb/><l>Schau hin zum Oelberg, wenn die Luſt</l>
                <lb/><l>Der Eitelkeit in deiner Bruſt</l>
                <lb/><l>Sich gegen <rs type="person" key="G0001">Gott</rs> empört.</l>
                <lb/><l>Ach ſieh, die Arbeit jener Nacht</l>
                <lb/><l>Hat deine Sünde ihm gemacht.</l>
             </lg>
-            <lg>
+            <lg n="4">
                <lb/><l>Schau hin, wenn bey des Leidens Schmerz</l>
                <lb/><l>Dein mattes, jammervolles Herz</l>
                <lb/><l>In Thränen ſich ergießt.</l>
                <lb/><l>Auch in der Nächte dunkelm Graun,</l>
                <lb/><l>Chriſt, lerne deinem <rs type="person" key="G0001">Gott</rs> vertraun.</l>
             </lg>
-            <lg>
+            <lg n="5">
                <lb/><l>Schau hin! Nach Labung dürſteſt du,</l>
                <lb/><l>Du wünſcheſt Heiterkeit und Ruh.</l>
                <lb/><l>Er, Er errang ſie dir.</l>
                <lb/><l>Nun läßt der <rs type="person" key="J0001">Richter</rs> auf dein Flehn</l>
                <lb/><l>Vor dir den Kelch vorüber gehn.</l>
             </lg>
-            <lg>
+            <lg n="6">
                <lb/><l>Schau hin, wenn einſt das Grab dich ſchreckt</l>
                <lb/><l>Und kalter Schweiß die Stirn bedeckt:</l>
                <lb/><l>Sein Trauren, ſeine Quaal,</l>

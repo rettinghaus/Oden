@@ -189,37 +189,37 @@
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
             <head><title>Vorzüge des Menſchen.</title></head>
-            <lg>
+            <lg n="1">
                <lb/><l>Ihn preiſt die Sonn am hohen Himmel,</l>
                <lb/><l>Und ihn verkündigt jeder Stern:</l>
                <lb/><l>Doch unbeſeelt ſind Sonn und Sterne,</l>
                <lb/><l>Sie kennen nicht der Welten <rs type="person" key="G0001">Herrn</rs>.</l>
             </lg>
-            <lg>
+            <lg n="2">
                <lb/><l>Im Luftmeer fleugt der Vögel König</l>
                <lb/><l>Zur Sonne hin, und trinkt ihr Licht:</l>
                <lb/><l>Doch er kennt nicht der Sonne <rs type="person" key="G0001">Schöpfer</rs>:</l>
                <lb/><l>Kennt ſeines Auges <rs type="person" key="G0001">Schöpfer</rs> nicht.</l>
             </lg>
-            <lg>
+            <lg n="3">
                <lb/><l>Empor zum Frühlingſhimmel ſchallet</l>
                <lb/><l>Der frühen Lerche Lobgeſang:</l>
                <lb/><l>Doch iſt ihr Lied im Morgenſchimmer</l>
                <lb/><l>Ein süß Gefühl nur, und kein Dank.</l>
             </lg>
-            <lg>
+            <lg n="4">
                <lb/><l>In <rs type="person" key="G0001">Gottes</rs> Wohlgefallen hauchen</l>
                <lb/><l>Die Blumen ihren Balſamduft:</l>
                <lb/><l>Sie trinken ohne Dank vom Regen,</l>
                <lb/><l>Und bitten nicht um Thau noch Luft.</l>
             </lg>
-            <lg>
+            <lg n="5">
                <lb/><l>In ſeinem Wohlgefallen weidet</l>
                <lb/><l>Das frohe Lamm am Berg herab:</l>
                <lb/><l>Es kennt die Süßigkeit der Blumen:</l>
                <lb/><l>Es kennet den nicht, der ſie gab.</l>
             </lg>
-            <lg>
+            <lg n="6">
                <lb/><l>Ich aber kenne dich: ich ſchaue</l>
                <lb/><l>In jedem deiner Werke dich.</l>
                <lb/><l><rs type="person" key="G0001">Gott</rs>, deiner freut ſich meine Seele:</l>

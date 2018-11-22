@@ -189,7 +189,7 @@
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
             <head><title>Gottes Größe in der Natur.</title></head>
-            <lg>
+            <lg n="1">
                <lb/><l>Weit um mich her iſt alles Freude!</l>
                <lb/><l>Wie ſchön iſt, Schöpfer, deine Welt!</l>
                <lb/><l>Wie prangt in ſeinem Feierkleide</l>
@@ -201,7 +201,7 @@
                <lb/><l>In allen deinen Kreaturen</l>
                <lb/><l>Erblick ich, aller <rs type="person" key="G0001">Vater</rs>, dich.</l>
             </lg>
-            <lg>
+            <lg n="2">
                <lb/><l>Das Murmeln in beredten Bäumen</l>
                <lb/><l>Ruft: Fröhlich müßt ihr <rs type="person" key="G0001">Gott</rs> erhöhn!</l>
                <lb/><l>Die Zeit in Schwermuth zu verträumen,</l>
@@ -213,7 +213,7 @@
                <lb/><l><rs type="person" key="G0001">Gott</rs> iſt der Urquell alles Guten!</l>
                <lb/><l>Der Bach ſagt liſpelnd: Lobt den <rs type="person" key="G0001">Herrn</rs>!</l>
             </lg>
-            <lg>
+            <lg n="3">
                <lb/><l>Wie beugen ſich der Saaten Spitzen!</l>
                <lb/><l>Wie ſchwellen ſie von Segen an,</l>
                <lb/><l>Daß kaum der Halm die Aehre ſtützen,</l>
@@ -225,7 +225,7 @@
                <lb/><l>Eh er verwandelt wieder lebet,</l>
                <lb/><l>Sich ſeine Hüll und auch ſein Grab.</l>
             </lg>
-            <lg>
+            <lg n="4">
                <lb/><l>Wie haſt du, <rs type="person" key="G0001">Gott</rs> der Güt und Stärke,</l>
                <lb/><l>So väterlich an uns gedacht!</l>
                <lb/><l>Wie viel und groß ſind deine Werke!</l>
@@ -237,7 +237,7 @@
                <lb/><l>Was allen nötig iſt, zum Leben —</l>
                <lb/><l>Den Thieren Gras; uns Wein und Brodt!</l>
             </lg>
-            <lg>
+            <lg n="5">
                <lb/><l>Weit um mich her iſt alles Freude!</l>
                <lb/><l>O freu auch, meine Seele, dich.</l>
                <lb/><l>In <rs type="person" key="G0001">Gottes</rs> ſchönem Weltgebäude!</l>

@@ -189,7 +189,7 @@
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
             <head><title>Empfindungen in der Sommernacht.</title></head>
-            <lg>
+            <lg n="1">
                <lb/><l>Der Mond iſt aufgegangen:</l>
                <lb/><l>Die güldnen Sterne prangen</l>
                <lb/><l>Am blauen Himmelſzelt.</l>
@@ -197,7 +197,7 @@
                <lb/><l>Vom Lied der Nachtigallen:</l>
                <lb/><l>O <rs type="person" key="G0001">Gott</rs>, wie ſchön iſt deine Welt!</l>
             </lg>
-            <lg>
+            <lg n="2">
                <lb/><l>Schön, wenn vom Abendthaue</l>
                <lb/><l>Beperlet Wald und Aue</l>
                <lb/><l>In deinem Segen ſtehn;</l>
@@ -205,7 +205,7 @@
                <lb/><l>Die Donner ſie erſchüttern,</l>
                <lb/><l>Iſt deine Welt, o <rs type="person" key="G0001">Vater</rs>, ſchön.</l>
             </lg>
-            <lg>
+            <lg n="3">
                <lb/><l>Aus deiner Allmacht Fülle</l>
                <lb/><l>Strömt in der Nächte Stille</l>
                <lb/><l>Erquickung auf die Flur:</l>
@@ -213,7 +213,7 @@
                <lb/><l>Bringt ihre Balſamdüfte</l>
                <lb/><l>Zum Abendopfer die Natur.</l>
             </lg>
-            <lg>
+            <lg n="4">
                <lb/><l>Mit ihrem Opfer walle</l>
                <lb/><l>Mein Dank empor! Ich falle</l>
                <lb/><l>Vor dir anbetend hin.</l>

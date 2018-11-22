@@ -189,43 +189,43 @@
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
             <head><title>Nach dem Gewitter.</title></head>
-            <lg>
+            <lg n="1">
                <lb/><l>Dir, des Donners Schöpfer, dir,</l>
                <lb/><l>Unſerm <rs type="person" key="G0001">Vater</rs> danken wir.</l>
                <lb/><l>In der Kreaturen Dank</l>
                <lb/><l>Schall auch unſer Lobgeſang.</l>
             </lg>
-            <lg>
+            <lg n="2">
                <lb/><l>Wie der Anger, wie das Thal,</l>
                <lb/><l>Wie die Wieſenblümchen all,</l>
                <lb/><l>Strauch und Bäum ſo friſch und ſchön</l>
                <lb/><l>Nach dem lieben Regen ſtehn!</l>
             </lg>
-            <lg>
+            <lg n="3">
                <lb/><l>Und der Blumen Opferduft</l>
                <lb/><l>Wallet lieblich durch die Luft:</l>
                <lb/><l>Auf dem Plan und auf der Höh</l>
                <lb/><l>Funkelt alles, was ich ſeh.</l>
             </lg>
-            <lg>
+            <lg n="4">
                <lb/><l>Und der Himmel, wie ſo hell,</l>
                <lb/><l>Und ſo kühlend Bach und Quell!</l>
                <lb/><l>Und die Luft ſo rein und mild</l>
                <lb/><l>Stärkt den Wandrer und das Wild.</l>
             </lg>
-            <lg>
+            <lg n="5">
                <lb/><l>Aller Vögel Melodie,</l>
                <lb/><l>Lerchen dort, und Wachtel hie,</l>
                <lb/><l>Weckt im grünen Weizenthal</l>
                <lb/><l>Nun der Sonne milder Strahl.</l>
             </lg>
-            <lg>
+            <lg n="6">
                <lb/><l>Bienen ſuchen Honigſeim,</l>
                <lb/><l>Sumſen goldgeflügelt heim:</l>
                <lb/><l>Und die Heerd am ſtillen See</l>
                <lb/><l>weidet ſpringend in dem Klee.</l>
             </lg>
-            <lg>
+            <lg n="7">
                <lb/><l>In der Kreaturen Dank</l>
                <lb/><l>Schall auch unſer Lobgeſang.</l>
                <lb/><l>Dir, des Donners Schöpfer, dir,</l>

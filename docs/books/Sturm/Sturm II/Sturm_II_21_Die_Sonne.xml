@@ -189,38 +189,37 @@
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
             <head><title>Die Sonne.</title></head>
-            <lg>
-               <lb/><l><rs type="person" key="G0001">Gottes</rs> Güte, <rs type="person" key="G0001"
-                     >Gottes</rs> Macht</l>
+            <lg n="1">
+               <lb/><l><rs type="person" key="G0001">Gottes</rs> Güte, <rs type="person" key="G0001">Gottes</rs> Macht</l>
                <lb/><l>Predigt mir der Sonne Pracht:</l>
                <lb/><l>Zeigt mir allerwegen</l>
                <lb/><l>Ihres <rs type="person" key="G0001">Schöpfers</rs> Segen:</l>
             </lg>
-            <lg>
+            <lg n="2">
                <lb/><l>Zeigt mir den auf Berg und Thal,</l>
                <lb/><l>Der, zu leuchten, ihr befahl,</l>
                <lb/><l>Daß bekannt der Erde</l>
                <lb/><l>Seine Güte werde.</l>
             </lg>
-            <lg>
+            <lg n="3">
                <lb/><l>Und voll Inbrunſt wird mein Herz:</l>
                <lb/><l>Fröhlich blick ich himmelwärts,</l>
                <lb/><l>An den blauen Höhen</l>
                <lb/><l>Ihre Bahn zu ſehen.</l>
             </lg>
-            <lg>
+            <lg n="4">
                <lb/><l>Dann empfind ich hohen Muth,</l>
                <lb/><l>Denn ihr Schöpfer hat es gut,</l>
                <lb/><l>Gut mit mir gemeynet,</l>
                <lb/><l>Weil ſie mir auch ſcheinet.</l>
             </lg>
-            <lg>
+            <lg n="5">
                <lb/><l>Darum eil ich ſorgenleer,</l>
                <lb/><l>Zu der Arbeit: iſt ſie ſchwer,</l>
                <lb/><l>Iſt ſie reich an Plagen:</l>
                <lb/><l>Hoffnung lehrt ſie tragen.</l>
             </lg>
-            <lg>
+            <lg n="6">
                <lb/><l>Der, als er in ihrer Pracht</l>
                <lb/><l>Sonnen ſchuf, an mich gedacht,</l>
                <lb/><l>Und mein Wohl ermeſsen,</l>

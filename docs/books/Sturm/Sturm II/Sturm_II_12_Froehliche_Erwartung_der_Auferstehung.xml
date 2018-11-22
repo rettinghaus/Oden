@@ -189,37 +189,37 @@
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
             <head><title>Fröhliche Erwartung der Auferſtehung.</title></head>
-            <lg>
+            <lg n="1">
                <lb/><l>Einſt geh ich ohne Beben</l>
                <lb/><l>Zu meinem Tode hin.</l>
                <lb/><l>Denn <rs type="person" key="J0001">Chriſtus</rs> iſt mein Leben</l>
                <lb/><l>Und Sterben mein Gewinn.</l>
             </lg>
-            <lg>
+            <lg n="2">
                <lb/><l>Ich ſcheue nicht die Schrecken</l>
                <lb/><l>Der freudenleeren Gruft.</l>
                <lb/><l>Der wird mich auferwecken,</l>
                <lb/><l>Der mich zum Grabe ruft.</l>
             </lg>
-            <lg>
+            <lg n="3">
                <lb/><l>Und rief mich, abzuſcheiden,</l>
                <lb/><l>Auch heute ſchon mein <rs type="person" key="G0001">Gott</rs>,</l>
                <lb/><l>So folg ich ihm mit Freuden</l>
                <lb/><l>Und ſterbt auf ſein Gebot.</l>
             </lg>
-            <lg>
+            <lg n="4">
                <lb/><l>Des Lebens friſche Blüthe</l>
                <lb/><l>Vermodre nur im Staub:</l>
                <lb/><l>Die Wange, die ſonſt glühte,</l>
                <lb/><l>Sey der Verweſung Raub.</l>
             </lg>
-            <lg>
+            <lg n="5">
                <lb/><l>Ich hoff ein beßres Leben,</l>
                <lb/><l>Das nie von mir entflieht.</l>
                <lb/><l>Ein Leib wird mich umgeben,</l>
                <lb/><l>Der nimmermehr verblüht.</l>
             </lg>
-            <lg>
+            <lg n="6">
                <lb/><l>Dann eil ich dir entgegen,</l>
                <lb/><l>Mein triumphierend Haupt,</l>
                <lb/><l>Und ſeh entzückt den Segen</l>

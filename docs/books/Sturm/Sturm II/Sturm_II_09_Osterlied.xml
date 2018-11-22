@@ -189,7 +189,7 @@
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
             <head><title>Oſterlied.</title></head>
-            <lg>
+            <lg n="1">
                <lb/><l>Er lebt! <rs type="person" key="J0001">Des Todes Sieger</rs> lebt!</l>
                <lb/><l>Der Retter aller Sünder!</l>
                <lb/><l>Der Feinde Heer erſchrickt und bebt</l>
@@ -200,7 +200,7 @@
                <lb/><l>Auf, Chriſten, faſset Muth</l>
                <lb/><l>Und ſingt von <rs type="person" key="G0001">Gottes</rs> Siege!</l>
             </lg>
-            <lg>
+            <lg n="2">
                <lb/><l>Er lebt! Die Rechte <rs type="person" key="J0001">Jeſu</rs> ſiegt!</l>
                <lb/><l>Sie ſiegt und iſt erhöhet!</l>
                <lb/><l>Und zu des Siegers Füßen liegt,</l>
@@ -211,7 +211,7 @@
                <lb/><l>Von ſeinem Sieg erſchallt</l>
                <lb/><l>Der Himmel und die Erde.</l>
             </lg>
-            <lg>
+            <lg n="3">
                <lb/><l>Und voll von ſeiner Majeſtät</l>
                <lb/><l>Sind der Gerechten Hütten.</l>
                <lb/><l>Die Rechte <rs type="person" key="J0001">Jeſu</rs> iſt erhöht!</l>
@@ -222,7 +222,7 @@
                <lb/><l>Und nun iſt er gekrönt</l>
                <lb/><l>Mit Herrlichkeit und Ehre.</l>
             </lg>
-            <lg>
+            <lg n="4">
                <lb/><l>Er lebt! Er, der Unſterblichkeit</l>
                <lb/><l>Und aller Freuden Geber:</l>
                <lb/><l>Und ſeines Sieges Herrlichkeit</l>
@@ -233,7 +233,7 @@
                <lb/><l>Gelobt ſey unſer <rs type="person" key="G0001">Gott</rs>,</l>
                <lb/><l>Der uns den Sieg gegeben!</l>
             </lg>
-            <lg>
+            <lg n="5">
                <lb/><l>Gelobt ſey <rs type="person" key="G0001">Gott</rs>! Er hat den Sieg</l>
                <lb/><l>Durch <rs type="person" key="J0001">Jeſum</rs> uns gegeben.</l>
                <lb/><l>Errungen iſt durch ſeinen Sieg</l>
@@ -244,7 +244,7 @@
                <lb/><l>Rühm' euer Lobgeſang</l>
                <lb/><l>In Tempeln und in Hütten!</l>
             </lg>
-            <lg>
+            <lg n="6">
                <lb/><l>Doch einſt wird nicht in Hütten mehr</l>
                <lb/><l>Der Menſch des Staubs ihn loben.</l>
                <lb/><l>Durch alle Himmel wird einſt Er</l>

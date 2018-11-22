@@ -189,38 +189,37 @@
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
             <head><title>Empfindungen eines Bußfertigen.</title></head>
-            <lg>
+            <lg n="1">
                <lb/><l>Ach, wie viel Böſes wohnt in mir!</l>
                <lb/><l>Wer zählts, wie oft ich fehle?</l>
                <lb/><l>Ich fühl es, <rs type="person" key="G0001">Herr</rs>, und klag es dir:</l>
                <lb/><l>O beſsre meine Seele!</l>
             </lg>
-            <lg>
+            <lg n="2">
                <lb/><l>Ich wandle ganz der Sünden Bahn,</l>
                <lb/><l>Und bin zum Guten träge;</l>
                <lb/><l>Herr nimm dich meines Elends an!</l>
                <lb/><l>Hilf mir auf deine Wege!</l>
             </lg>
-            <lg>
+            <lg n="3">
                <lb/><l>Verkehrt und thöricht iſt mein Sinn,</l>
                <lb/><l>Beherrſcht von böſen Lüſten;</l>
                <lb/><l>O neige meine Seele hin</l>
                <lb/><l>Zur Freude wahrer Chriſten!</l>
             </lg>
-            <lg>
+            <lg n="4">
                <lb/><l>Mich reizt der Eitelkeiten Tand</l>
                <lb/><l>Mehr, als das Heil der Seelen.</l>
                <lb/><l>Herr, gib mir Weiſheit und Verſtand,</l>
                <lb/><l>Das beſte Theil zu wählen!</l>
             </lg>
-            <lg>
-               <lb/><l>Mein <rs type="person" key="G0001">Gott</rs>, mein <rs type="person" key="G0001"
-                     >Gott</rs>, gedenke nicht</l>
+            <lg n="5">
+               <lb/><l>Mein <rs type="person" key="G0001">Gott</rs>, mein <rs type="person" key="G0001">Gott</rs>, gedenke nicht</l>
                <lb/><l>Der Sünden meiner Jugend!</l>
                <lb/><l>Erinnre mich an meine Pflicht</l>
                <lb/><l>Und gib mir Kraft zur Tugend!</l>
             </lg>
-            <lg>
+            <lg n="6">
                <lb/><l>Hilf, o mein <rs type="person" key="J0001">Heiland</rs>, hilf, daß ich</l>
                <lb/><l>Nicht unbegnadigt ſterbe;</l>
                <lb/><l>Daß ich, geheiliget durch dich,</l>

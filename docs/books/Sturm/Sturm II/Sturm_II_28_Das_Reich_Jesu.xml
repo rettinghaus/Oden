@@ -189,16 +189,15 @@
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
             <head><title>Das Reich Jeſu.</title></head>
-            <lg>
-               <lb/><l>Dir, o du <rs type="person" key="J0001">Herrſcher</rs>, <rs type="person"
-                     key="J0001">Jeſu Chriſt</rs>,</l>
+            <lg n="1">
+               <lb/><l>Dir, o du <rs type="person" key="J0001">Herrſcher</rs>, <rs type="person" key="J0001">Jeſu Chriſt</rs>,</l>
                <lb/><l>Der du der Welten <rs type="person" key="J0001">Schöpfer</rs> biſt,</l>
                <lb/><l>Iſt alles unterthänig.</l>
                <lb/><l>Doch wer ſah deine Majeſtät,</l>
                <lb/><l>Als dich dein arges Volk verſchmäht?</l>
                <lb/><l>Wer ehrte dich als König?</l>
             </lg>
-            <lg>
+            <lg n="2">
                <lb/><l>Du haſt dich deiner Herrlichkeit</l>
                <lb/><l>Entäußert eine kurze Zeit:</l>
                <lb/><l>Wardſt Menſchen unterthänig:</l>
@@ -206,7 +205,7 @@
                <lb/><l>Verſpeyet und zum Spott gekrönt;</l>
                <lb/><l>Und doch warſt du ein König.</l>
             </lg>
-            <lg>
+            <lg n="3">
                <lb/><l>Von Ewigkeit warſt du beſtimmt,</l>
                <lb/><l>Dein Reich, das nie ein Ende nimmt,</l>
                <lb/><l>Auf Erden auſzubreiten.</l>
@@ -214,16 +213,15 @@
                <lb/><l>Dein Reich, o <rs type="person" key="J0001">Göttlicher</rs>! beſteht</l>
                <lb/><l>Durch alle Ewigkeiten.</l>
             </lg>
-            <lg>
+            <lg n="4">
                <lb/><l>Wie groß, wie angebetet iſt</l>
-               <lb/><l>Dein Nam, o <rs type="person" key="J0001">Herrſcher, <rs type="person" key="J0001"
-                        >Jeſu Chriſt</rs></rs>,</l>
+               <lb/><l>Dein Nam, o <rs type="person" key="J0001">Herrſcher, <rs type="person" key="J0001">Jeſu Chriſt</rs></rs>,</l>
                <lb/><l>Dich rühmen alle Zungen.</l>
                <lb/><l>O wie weit herrlicher wird einſt,</l>
                <lb/><l>Wenn du zum Weltgericht erſcheinſt,</l>
                <lb/><l>Dein hohes Reich beſungen.</l>
             </lg>
-            <lg>
+            <lg n="5">
                <lb/><l>Vom Aufgang bis zum Niedergang</l>
                <lb/><l>Erſchallt dir dann der Lobgeſang</l>
                <lb/><l>Des Himmels und der Erde.</l>

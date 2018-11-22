@@ -189,7 +189,7 @@
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
             <head><title>Morgenlied.</title></head>
-            <lg>
+            <lg n="1">
                <lb/><l>Des Morgens neue Sonne</l>
                <lb/><l>Erfüllt auf dein Geheiß</l>
                <lb/><l>Mit Leben, Licht und Wonne,</l>
@@ -199,7 +199,7 @@
                <lb/><l>Mich ihres Lichts aufs neue</l>
                <lb/><l>Und deiner, der es gab.</l>
             </lg>
-            <lg>
+            <lg n="2">
                <lb/><l>Zu dir, zu dir erhebe</l>
                <lb/><l>Dir frohe Seele ſich.</l>
                <lb/><l>Allmächtig ſprachſt du: lebe!</l>
@@ -209,7 +209,7 @@
                <lb/><l>Mir Leben, Licht und Wonne</l>
                <lb/><l>Und Segen ohne Zahl.</l>
             </lg>
-            <lg>
+            <lg n="3">
                <lb/><l>Sieh dieſer neue Morgen</l>
                <lb/><l>Soll dir geheiligt ſeyn.</l>
                <lb/><l>Ich will mich, frey von Sorgen,</l>
@@ -219,7 +219,7 @@
                <lb/><l>Lobſing ihm und erzähle:</l>
                <lb/><l>Wie treu, wie gut iſt Er!</l>
             </lg>
-            <lg>
+            <lg n="4">
                <lb/><l>Ich überſchau die Pfade</l>
                <lb/><l>Der kurzen Pilgerſchaft.</l>
                <lb/><l>Nah war mir <rs type="person" key="G0001">Gottes</rs> Gnade,</l>
@@ -229,7 +229,7 @@
                <lb/><l>Und gab mir ſeinen Segen</l>
                <lb/><l>Mir großer Freuden viel.</l>
             </lg>
-            <lg>
+            <lg n="5">
                <lb/><l>Und gegen dieſe Freuden,</l>
                <lb/><l>(O wer, wer zählet ſie?)</l>
                <lb/><l>Was ſind die kurzen Leiden</l>
@@ -239,7 +239,7 @@
                <lb/><l>Und mit dem neuen Morgen</l>
                <lb/><l>Verſchwand mein Gram und Schmerz.</l>
             </lg>
-            <lg>
+            <lg n="6">
                <lb/><l>So war des Ewgen Rechte</l>
                <lb/><l>Stets meine Zuverſicht.</l>
                <lb/><l>Durch Tage, wie durch Nächte</l>
@@ -249,7 +249,7 @@
                <lb/><l>Iſt jede, jede Stätte</l>
                <lb/><l>Von ſeiner Güte voll.</l>
             </lg>
-            <lg>
+            <lg n="7">
                <lb/><l><rs type="person" key="G0001">Gott</rs>, dir gebühret Stärke</l>
                <lb/><l>Und Preis in Ewigkeit!</l>
                <lb/><l>Groß, groß ſind deine Werke,</l>

@@ -189,7 +189,7 @@
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
             <head><title>Ermunterung zur Gelaſsenheit.</title></head>
-            <lg>
+            <lg n="1">
                <lb/><l><rs type="person" key="J0001">Herr</rs>, es geſcheh dein Wille!</l>
                <lb/><l>Gern duld ich jeden Schmerz.</l>
                <lb/><l>Nur gib mir Ruh und Stille</l>
@@ -198,7 +198,7 @@
                <lb/><l>Wie du, ſo willig leiden,</l>
                <lb/><l>So treu ſeyn bis in Tod.</l>
             </lg>
-            <lg>
+            <lg n="2">
                <lb/><l>Der Martern jede ſchwebte</l>
                <lb/><l>Vor deinem Angeſicht:</l>
                <lb/><l>Doch deine Seele bebte</l>
@@ -207,7 +207,7 @@
                <lb/><l>Erhebſt du dich vom Staube</l>
                <lb/><l>Und eilſt den Feinden zu.</l>
             </lg>
-            <lg>
+            <lg n="3">
                <lb/><l>Dich ſchreckte das Getümmel</l>
                <lb/><l>Der Mörderwaffen nicht.</l>
                <lb/><l>In deinem Geiſt war Himmel,</l>
@@ -216,17 +216,16 @@
                <lb/><l>Doch du bietſt deine Hände</l>
                <lb/><l>Den Banden willig dar.</l>
             </lg>
-            <lg>
+            <lg n="4">
                <lb/><l>O wär ich doch im Leiden</l>
                <lb/><l>Wie du, ſo ſanft und ſtill!</l>
                <lb/><l>O litt ich ſo mit Freuden,</l>
-               <lb/><l>Was <rs type="person" key="G0001">Gott</rs>, mein <rs type="person" key="G0001"
-                     >Vater</rs> will!</l>
+               <lb/><l>Was <rs type="person" key="G0001">Gott</rs>, mein <rs type="person" key="G0001">Vater</rs> will!</l>
                <lb/><l>Ich will mit Ehrfurcht und Vertraun,</l>
                <lb/><l>Geduld von dir zu lernen,</l>
                <lb/><l>Auf dich, <rs type="person" key="J0001">Erlöſer</rs>, ſchaun.</l>
             </lg>
-            <lg>
+            <lg n="5">
                <lb/><l>Gibſt du mir deinen Frieden,</l>
                <lb/><l>So ſchreckt mich keine Noth,</l>
                <lb/><l>Und keine Schmach hienieden:</l>

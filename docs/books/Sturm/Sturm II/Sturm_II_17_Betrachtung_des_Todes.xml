@@ -189,7 +189,7 @@
          <!-- Seitenzahl Quelle eins-->
          <div type="chorale">
             <head><title>Betrachtungen des Todes.</title></head>
-            <lg>
+            <lg n="1">
                <lb/><l>Mein <rs type="person" key="J0001">Heiland</rs>, wenn mein Geiſt erfreut,</l>
                <lb/><l>Im Glauben auf die Herrlichkeit</l>
                <lb/><l>Des ewgen Erbtheils blicket,</l>
@@ -201,11 +201,10 @@
                <lb/><l>Der Erde Pracht iſt mir, wie Nichts,</l>
                <lb/><l>Beim Anblick jenes ew’gen Lichts.</l>
                <lb/><l><rs type="person" key="J0001">Herr Jeſu Chriſt</rs>!</l>
-               <lb/><l>Mein <rs type="person" key="J0001">Herr und Gott</rs>! mein <rs type="person"
-                     key="J0001">Herr und Gott</rs>!</l>
+               <lb/><l>Mein <rs type="person" key="J0001">Herr und Gott</rs>! mein <rs type="person" key="J0001">Herr und Gott</rs>!</l>
                <lb/><l> Dies Heil verdank ich deinem Tod.</l>
             </lg>
-            <lg>
+            <lg n="2">
                <lb/><l>Wenn einſt auf deinen Wink mein Geiſt</l>
                <lb/><l>Des Körpers Banden ſich entreißt,</l>
                <lb/><l>Dann ſtärkt ihn aus der Höhe:</l>
@@ -217,11 +216,10 @@
                <lb/><l>In meinem finſtern Herzen Licht,</l>
                <lb/><l>Und Heiterkeit im Angeſicht.</l>
                <lb/><l><rs type="person" key="J0001">Herr Jeſu Chriſt</rs>!</l>
-               <lb/><l><rs type="person" key="J0001">Mein Herr und Gott</rs>! mein <rs type="person"
-                     key="J0001">Herr und Gott</rs>!</l>
+               <lb/><l><rs type="person" key="J0001">Mein Herr und Gott</rs>! mein <rs type="person" key="J0001">Herr und Gott</rs>!</l>
                <lb/><l>Dann wird zum Schlummer mir der Tod.</l>
             </lg>
-            <lg>
+            <lg n="3">
                <lb/><l>Und wenn mein Geiſt aus Schüchternheit</l>
                <lb/><l>Sich dennoch vor dem Tode ſcheut,</l>
                <lb/><l>Weil ihn die Sünden kränken;</l>
@@ -233,11 +231,10 @@
                <lb/><l>Und fühlteſt, wie dich <rs type="person" key="G0001">Gott</rs> verließ,</l>
                <lb/><l>Der mache mir das Sterben süß!</l>
                <lb/><l>O <rs type="person" key="J0001">Jeſu Chriſt</rs>!</l>
-               <lb/><l>Mein <rs type="person" key="J0001">Herr und Gott</rs>! mein <rs type="person"
-                     key="G0001">Herr und Gott</rs>!</l>
+               <lb/><l>Mein <rs type="person" key="J0001">Herr und Gott</rs>! mein <rs type="person" key="G0001">Herr und Gott</rs>!</l>
                <lb/><l>Verlaß mich nicht in meinem Tod.</l>
             </lg>
-            <lg>
+            <lg n="4">
                <lb/><l>Auf kurze Zeit ſchließt ſich zur Ruh</l>
                <lb/><l>Mein thränenvolles Auge zu,</l>
                <lb/><l>Und ſchlummert in dem Staube;</l>
@@ -249,11 +246,10 @@
                <lb/><l>Mein Geiſt und Leib aufs neu vereint</l>
                <lb/><l>Schaun dich dann, großer Menſchenfreund.</l>
                <lb/><l><rs type="person" key="J0001">Herr Jeſu Chriſt</rs>!</l>
-               <lb/><l>Mein <rs type="person" key="J0001">Herr und Gott</rs>! mein <rs type="person"
-                     key="J0001">Herr und Gott</rs>!</l>
+               <lb/><l>Mein <rs type="person" key="J0001">Herr und Gott</rs>! mein <rs type="person" key="J0001">Herr und Gott</rs>!</l>
                <lb/><l>Zum Leben machſt du mir den Tod.</l>
             </lg>
-            <lg>
+            <lg n="5">
                <lb/><l>Du bleibſt mein Troſt: ich ſchrecke nicht</l>
                <lb/><l>Der Erde Brand, das Weltgericht,</l>
                <lb/><l>Der Donner der Poſaunen!</l>
@@ -265,8 +261,7 @@
                <lb/><l>Ich ſoll, dein Mund ſchwur es mir zu.</l>
                <lb/><l>Ich ſoll lebendig ſeyn, wie du.</l>
                <lb/><l><rs type="person" key="J0001">Herr Jeſu Chriſt</rs>!</l>
-               <lb/><l>Mein <rs type="person" key="J0001">Herr und Gott</rs>! mein <rs type="person"
-                     key="J0001">Herr und Gott</rs>!</l>
+               <lb/><l>Mein <rs type="person" key="J0001">Herr und Gott</rs>! mein <rs type="person" key="J0001">Herr und Gott</rs>!</l>
                <lb/><l>Stärk dieſen Glauben einſt im Tod.</l>
             </lg>
          </div>
