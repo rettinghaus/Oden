@@ -179,7 +179,7 @@
 			<pb n="22" ed="CPEB1758"/>
 			<div type="chorale">
 				<head><title>Das Gebet.</title></head>
-				<lg>
+				<lg n="1">
 					<lb/><l>Dein Heil, o Chriſt, nicht zu verſcherzen,</l>
 					<lb/><l>Sey wach und nüchtern zum Gebet!</l>
 					<lb/><l>Ein Flehn aus reinem, guten Herzen</l>
@@ -192,19 +192,17 @@
 					<lb/><l>Und prüfe dich in ſeinem Lichte,</l>
 					<lb/><l>Und klage deine Noth dem <rs type="person" key="G0001">Herrn</rs>.</l>
 				</lg>
-				<lg>
+				<lg n="2">
 					<lb/><l>Welch Glück, ſo hoch geehrt zu werden,</l>
 					<lb/><l>Und im Gebet vor <rs type="person" key="G0001">Gott</rs> zu ſtehn!</l>
 					<lb/><l>Der <rs type="person" key="G0001">Herr</rs> des Himmels und der Erden,</l>
 					<lb/><l>Bedarf der eines Menſchen Flehn?</l>
-					<lb/><l>Sagt <rs type="person" key="G0001">Gott</rs> nicht: Bittet, daß ihr
-						nehmet?</l>
+					<lb/><l>Sagt <rs type="person" key="G0001">Gott</rs> nicht: Bittet, daß ihr nehmet?</l>
 					<lb/><l>Iſt des Gebetes Frucht nicht dein?</l>
 					<lb/><l>Wer ſich der Pflicht zu beten ſchämet,</l>
-					<lb/><l>Der ſchämt ſich, <rs type="person" key="G0001">Gottes</rs> Freund zu
-						ſeyn.</l>
+					<lb/><l>Der ſchämt ſich, <rs type="person" key="G0001">Gottes</rs> Freund zu ſeyn.</l>
 				</lg>
-				<lg>
+				<lg n="3">
 					<lb/><l>Sein Glück von ſeinem <rs type="person" key="G0001">Gott</rs> begehren,</l>
 					<lb/><l>Iſt dieß denn eine ſchwere Pflicht?</l>
 					<lb/><l> Und <choice>
@@ -219,19 +217,17 @@
 				</lg>
 				<pb n="7"/>
 				<pb n="23" ed="CPEB1758"/>
-				<lg>
+				<lg n="4">
 					<lb/><l>Bet oft in Einfalt deiner Seelen;</l>
-					<lb/><l><rs type="person" key="G0001">Gott</rs> ſieht aufs Herz, <rs type="person"
-							key="G0001">Gott</rs> iſt ein Geiſt.</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> ſieht aufs Herz, <rs type="person" key="G0001">Gott</rs> iſt ein Geiſt.</l>
 					<lb/><l>Wie können dir die Worte fehlen,</l>
 					<lb/><l>wofern dein Herz dich beten heißt?</l>
 					<lb/><l>Nicht Töne ſinds, die <rs type="person" key="G0001">Gott</rs> gefallen,</l>
 					<lb/><l>Nicht Worte, die die Kunſt gebeut.</l>
-					<lb/><l><rs type="person" key="G0001">Gott</rs> iſt kein Menſch. Ein gläubig
-						Lallen,</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> iſt kein Menſch. Ein gläubig Lallen,</l>
 					<lb/><l>Das iſt vor ihm Beredſamkeit.</l>
 				</lg>
-				<lg>
+				<lg n="5">
 					<lb/><l>Wer das, was uns zum Frieden dienet,</l>
 					<lb/><l>Im Glauben ſucht, der ehret <rs type="person" key="G0001">Gott</rs>.</l>
 					<lb/><l>Wer das zu bitten ſich erkühnet,</l>
@@ -241,16 +237,13 @@
 					<lb/><l>Und klagt, daß <rs type="person" key="G0001">Gott</rs> ihn nicht erhöret,</l>
 					<lb/><l>Der ſpottet ſeines Schöpfers nur.</l>
 				</lg>
-				<lg>
-					<lb/><l>Bet oft zu <rs type="person" key="G0001">Gott</rs>, und ſchmeck in
-						Freuden,</l>
+				<lg n="6">
+					<lb/><l>Bet oft zu <rs type="person" key="G0001">Gott</rs>, und ſchmeck in Freuden,</l>
 					<lb/><l>Wie freundlich er, dein <rs type="person" key="G0001">Vater</rs>, iſt.</l>
 					<lb/><l>Bet oft zu <rs type="person" key="G0001">Gott</rs>, und fühl in Leiden,</l>
 					<lb/><l>Wie göttlich er das Leid versüßt.</l>
 					<lb/><l>Bet oft, wenn dich Verſuchung quälet;</l>
-					<lb/><l>
-						<rs type="person" key="G0001">Gott</rs> hörts, <rs type="person" key="G0001"
-							>Gott</rs> iſts, der Hülfe <choice>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> hörts, <rs type="person" key="G0001">Gott</rs> iſts, der Hülfe <choice>
 							<orig>ſchafft.</orig>
 							<reg>ſchaft.</reg>
 						</choice>
@@ -259,7 +252,7 @@
 					<lb/><l>Er giebt den Müden Stärk und Kraft.</l>
 				</lg>
 				<pb n="8"/>
-				<lg>
+				<lg n="7">
 					<lb/><l>Bet oft, und heiter im Gemüthe</l>
 					<lb/><l>Schau dich an ſeinen Wunden ſatt.</l>
 					<lb/><l>Schau auf den Ernſt, ſchau auf die Güte,</l>
@@ -269,23 +262,17 @@
 					<lb/><l>Rief dich durch Glück und Kreuz zur Tugend;</l>
 					<lb/><l>Erkenn und fühle ſeine Huld.</l>
 				</lg>
-				<lg>
-					<lb/><l> Bet oft, und <anchor subtype="resurrection_start" type="resurrection"/>ſchau
-						mit ſelgen Blicken</l>
-					<lb/><l> Hin in des Ewigen Gezelt<anchor subtype="resurrection_end"
-							type="resurrection"/>,</l>
-					<lb/><l>Und <anchor subtype="resurrection_start" type="resurrection"/>ſchmeck im
-						gläubigen Entzücken</l>
-					<lb/><l>Die Kräfte der zukünftgen Welt<anchor subtype="resurrection_end"
-							type="resurrection"/>.</l>
+				<lg n="8">
+					<lb/><l> Bet oft, und <anchor subtype="resurrection_start" type="resurrection"/>ſchau mit ſelgen Blicken</l>
+					<lb/><l> Hin in des Ewigen Gezelt<anchor subtype="resurrection_end" type="resurrection"/>,</l>
+					<lb/><l>Und <anchor subtype="resurrection_start" type="resurrection"/>ſchmeck im gläubigen Entzücken</l>
+					<lb/><l>Die Kräfte der zukünftgen Welt<anchor subtype="resurrection_end" type="resurrection"/>.</l>
 					<lb/><l>Ein Glück von Millionen Jahren,</l>
-					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Welch Glück! Doch
-						iſt's von jenem Glück,</l>
+					<lb/><l><anchor subtype="resurrection_start" type="resurrection"/>Welch Glück! Doch iſt's von jenem Glück,</l>
 					<lb/><l>Das dem der Herr wird offenbaren,</l>
-					<lb/><l>Der ihm hier dient, kein Augenblick.<anchor subtype="resurrection_end"
-							type="resurrection"/></l>
+					<lb/><l>Der ihm hier dient, kein Augenblick.<anchor subtype="resurrection_end" type="resurrection"/></l>
 				</lg>
-				<lg>
+				<lg n="9">
 					<lb/><l>Bet oft; durchſchau mit heilgem Muthe</l>
 					<lb/><l>Die herzliche Barmherzigkeit</l>
 					<lb/><l>Deß, der mit ſeinem theuren Blute</l>
@@ -296,29 +283,27 @@
 					<lb/><l>Und ehr im Glauben <rs type="person" key="G0001">Gottes</rs> Rath.</l>
 				</lg>
 				<pb n="9"/>
-				<lg>
+				<lg n="10">
 					<lb/><l>Bet oft; entdeck am ſtillen Orte</l>
 					<lb/><l><rs type="person" key="G0001">Gott</rs> ohne Zagen deinen Schmerz.</l>
 					<lb/><l>Er ſchließt vom Herzen auf die Worte,</l>
 					<lb/><l>Nicht von den Worten auf das Herz.</l>
 					<lb/><l>Nicht dein gebognes Knie, nicht Thränen,</l>
 					<lb/><l>Nicht Worte, Seufzer, Pſalm und Ton,</l>
-					<lb/><l>Nicht dein Gelübd rührt <rs type="person" key="G0001">Gott</rs>; dein
-						Sehnen,</l>
+					<lb/><l>Nicht dein Gelübd rührt <rs type="person" key="G0001">Gott</rs>; dein Sehnen,</l>
 					<lb/><l>Dein Glaub an ihn und ſeinen <rs type="person" key="J0001">Sohn</rs>.</l>
 				</lg>
-				<lg>
+				<lg n="11">
 					<lb/><l>Bet oft; <rs type="person" key="G0001">Gott</rs> wohnt an jeder Stäte,</l>
 					<lb/><l>In keiner minder oder mehr.</l>
 					<lb/><l>Denk nicht: Wenn ich mit vielen bete:</l>
 					<lb/><l>So find ich eh bey <rs type="person" key="G0001">Gott</rs> Gehör.</l>
-					<lb/><l><rs type="person" key="G0001">Gott</rs> iſt kein Menſch. Iſt dein
-						Begehren</l>
+					<lb/><l><rs type="person" key="G0001">Gott</rs> iſt kein Menſch. Iſt dein Begehren</l>
 					<lb/><l>Gerecht und gut: ſo hört ers gern.</l>
 					<lb/><l>Iſts nicht gerecht: ſo gelten Zähren</l>
 					<lb/><l>Der ganzen Welt nichts vor dem Herrn.</l>
 				</lg>
-				<lg>
+				<lg n="12">
 					<lb/><l>Doch säume nicht, in den Gemeinen</l>
 					<lb/><l>Auch öffentlich <rs type="person" key="G0001">Gott</rs> anzuflehn,</l>
 					<lb/><l>Und ſeinen Namen mit den Seinen,</l>
@@ -329,7 +314,7 @@
 					<lb/><l>Wie er zur Innbrunſt dich erweckt.</l>
 				</lg>
 				<pb n="10"/>
-				<lg>
+				<lg n="13">
 					<lb/><l>Biſt du ein Herr, dem andre dienen:</l>
 					<lb/><l>So ſey ihr Beyſpiel, ſey es ſtets,</l>
 					<lb/><l>Und feyre täglich gern mit ihnen</l>
@@ -339,7 +324,7 @@
 					<lb/><l>Kein Knecht des Hauſes müſse fehlen;</l>
 					<lb/><l>Er iſt ein Chriſt und werd erbaut!</l>
 				</lg>
-				<lg>
+				<lg n="14">
 					<lb/><l>Bet oft zu <rs type="person" key="G0001">Gott</rs> für deine Brüder,</l>
 					<lb/><l>Für alle Menſchen, als ihr Freund;</l>
 					<lb/><l>Denn wir ſind eines Leibes Glieder;</l>

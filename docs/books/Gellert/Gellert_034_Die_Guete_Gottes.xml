@@ -176,12 +176,12 @@
 	<text type="lied">
 		<body>
 			<pb n="34"/>
-			<pb n="38" ed="CPEB1758"/>
+			<pb n="38" ed="#CPEB1758"/>
 			<div type="chorale">
 				<head><title>Die Güte Gottes.</title></head>
 				<lg>
 					<lb/><l>Wie groß iſt des <rs type="person" key="G0001">Allmächtgen</rs> Güte!</l>
-					<lb/><l>Iſt der ein Menſch, den ſie nicht rührt;</l>
+					<lb/><l>Jſt der ein Menſch, den ſie nicht rührt;</l>
 					<lb/><l>Der mit verhärtetem Gemüthe</l>
 					<lb/><l>Den Dank erſtickt, der ihr gebührt?</l>
 					<lb/><l>Nein, ſeine Liebe zu ermeſsen,</l>
@@ -196,15 +196,15 @@
 					<lb/><l>Er, deſsen Rath ich oft verwarf.</l>
 					<lb/><l>Wer ſtärkt den Frieden im Gewiſsen?</l>
 					<lb/><l>Wer giebt dem Geiſte neue Kraft?</l>
-					<lb/><l> Wer läßt mich ſoviel Glück <choice>
-							<orig>genießen?</orig>
-							<reg>genieſsen?</reg>
-						</choice>
+					<lb/><l>Wer läßt mich ſoviel Glück <app>
+							<lem>genießen?</lem>
+							<rdg wit="#CPEB1758">genieſsen?</rdg>
+						</app>
 					</l>
-					<lb/><l> Iſts nicht ſein Arm, der alles <choice>
-							<orig>ſchafft?</orig>
-							<reg>ſchaft?</reg>
-						</choice>
+					<lb/><l>Jſts nicht ſein Arm, der alles <app>
+							<lem>ſchafft?</lem>
+							<rdg wit="#CPEB1758">ſchaft?</rdg>
+						</app>
 					</l>
 				</lg>
 				<lg>
@@ -230,7 +230,7 @@
 				</lg>
 				<lg>
 					<lb/><l>Dieß iſt mein Dank, dieß iſt ſein Wille.</l>
-					<lb/><l>Ich ſoll vollkommen ſeyn, wie er.</l>
+					<lb/><l>Jch ſoll vollkommen ſeyn, wie er.</l>
 					<lb/><l>So lang ich dieß Gebot erfülle,</l>
 					<lb/><l>Stell ich ſein Bildniß in mir her.</l>
 					<lb/><l>Lebt ſeine Lieb in meiner Seele:</l>
